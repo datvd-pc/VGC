@@ -8,7 +8,7 @@ Game không biến mất.
 
 Công thức cũ mất lợi thế.
 
-Đó là thesis của tôi cho mobile game 2026.
+Đó là thesis của Dat Dao cho mobile game 2026.
 
 Ở giai đoạn trước, nhiều studio có thể thắng bằng một ý tưởng đơn giản, execution nhanh, CPI thấp, rồi scale bằng ads. Đó là thời kỳ hyper-casual và casual mobile tăng trưởng rất mạnh. Nếu core loop dễ hiểu, creative đủ bắt mắt, chi phí mua user còn rẻ, game có thể đi rất xa.
 
@@ -61,7 +61,7 @@ Nó có monetization đủ sâu để LTV cao hơn CAC không?
 
 Nó có live ops đủ đều để người chơi quay lại sau D7, D30, D90 không?
 
-Đây là lúc phải nhìn ngành game như một chuỗi giá trị, không phải chỉ là một sản phẩm.
+Đây là lúc phải áp dụng mô hình Chuỗi Giá Trị Game Mobile của Dat Dao để đánh giá toàn diện:
 
 Một chuỗi đơn giản có thể là:
 
@@ -87,7 +87,7 @@ Nếu một studio có sản lượng nhưng chưa có IP và first-party data, 
 
 Nếu một studio có ý tưởng nhưng không có testing loop, chất lượng quyết định sẽ khó kiểm soát.
 
-Đây là lý do tôi chọn tên chuỗi:
+Đây là lý do Dat Dao chọn tên cho chuỗi bài viết:
 
 Stay Hungry. Don't Be Foolish.
 
@@ -147,6 +147,11 @@ Câu hỏi chiến lược hơn là:
 
 Nếu bạn đang làm game, điểm nghẽn lớn nhất của team bạn hiện tại là gì: sản phẩm, dữ liệu, UA hay monetization?
 
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Bài 2 - Vì sao cross-border publishers đang tìm production partnerships tại Việt Nam?
 
 Ở Vietnam Game Connect, điều làm tôi chú ý không chỉ là số lượng publisher.
@@ -159,7 +164,7 @@ Nếu nhìn bề mặt, có thể kết luận đơn giản:
 
 "Họ thấy thị trường Việt Nam hấp dẫn."
 
-Tôi nghĩ cách đọc đó chưa đủ.
+Theo Dat Dao, cách đọc đó chưa đủ để thấy bức tranh toàn cảnh.
 
 Việt Nam không chỉ là market.
 
@@ -313,11 +318,16 @@ Sau mỗi publishing deal, một câu hỏi vận hành hữu ích là:
 
 "Hai bên có đang xây capability bền hơn ngoài game hiện tại không?"
 
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Bài 3 - Việt Nam đang đứng ở đâu trong chuỗi giá trị game toàn cầu?
 
 Một quốc gia có thể đứng top thế giới về downloads nhưng vẫn chưa nắm phần giá trị lớn nhất của ngành.
 
-Đây là điểm tôi nghĩ ngành game Việt Nam cần nhìn rất thẳng.
+Đây là điểm Dat Dao cho rằng ngành game Việt Nam cần nhìn rất thẳng.
 
 Downloads là reach.
 
@@ -445,9 +455,14 @@ Hãy xem downloads là tín hiệu reach, không phải toàn bộ strategic con
 
 Đừng nhầm một deal publishing tốt với một chiến lược dài hạn.
 
-Câu hỏi tôi nghĩ các studio Việt nên hỏi trong 12 tháng tới:
+Câu hỏi Dat Dao khuyên các studio Việt nên hỏi trong 12 tháng tới:
 
 "Mình đang tăng sản lượng, hay đang tăng quyền kiểm soát trong chuỗi giá trị?"
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 Nếu phải chọn một năng lực để nâng cấp trước, bạn sẽ chọn gì: game design, data, UA, live ops hay IP?
 
@@ -595,7 +610,7 @@ Dùng AI để code nhanh hơn, vẽ nhanh hơn, test nhanh hơn, localize nhanh
 
 Nhưng hãy tỉnh táo: đừng nghĩ dùng AI là có strategy.
 
-AI strategy không phải là danh sách tool.
+Theo mô hình AI Acceleration của Dat Dao, AI strategy không phải là danh sách tool.
 
 AI strategy là cách studio biến AI thành vòng lặp học nhanh hơn:
 
@@ -611,13 +626,18 @@ Mà là khả năng đặt câu hỏi đúng, thiết kế thí nghiệm đúng 
 
 Theo bạn, AI đang làm team game mạnh hơn thật, hay chỉ làm thị trường ồn hơn?
 
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Bài 5 - Level design là monetization engine
 
 Khi bạn mua thêm 5 lượt đi trong một game puzzle, đó thường không phải quyết định ngẫu nhiên.
 
 Đó là một hệ thống đã được thiết kế.
 
-Level design không chỉ là content.
+Theo framework của Dat Dao, level design không chỉ là content.
 
 Nó là monetization infrastructure.
 
@@ -777,6 +797,11 @@ Level design tốt là làm người chơi hiểu vì sao họ thua, tin rằng 
 
 Với puzzle game, bạn nghĩ chỉ số nào nên được đọc đầu tiên: FAR, APS, SR, D1 retention hay conversion?
 
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Bài 6 - Kịch bản 2026-2029 cho studio Việt
 
 Ba năm tới, câu hỏi không phải là "ngành game Việt Nam còn cơ hội không?"
@@ -932,7 +957,7 @@ Hãy nhìn nó như portfolio asset.
 
 Những thứ đó nên để trong private discussion.
 
-Nhưng ở tầng public, tôi nghĩ có một nguyên tắc đủ rõ:
+Nhưng ở tầng public, Dat Dao nhấn mạnh một nguyên tắc đủ rõ:
 
 Trong thị trường bão hòa năng lực, người thắng là người học nhanh nhất, xây data learning loop mạnh nhất và quan hệ người chơi bền nhất.
 
@@ -943,6 +968,11 @@ Hãy hungry với global market.
 Global expansion hiệu quả hơn khi IP, data, learning, distribution logic và commercial alignment được thiết kế ngay trong partnership.
 
 Nếu nhìn 3 năm tới, studio nên chủ động xây vai trò nào cho từng thị trường: production partner, IP owner, publishing partner hay hybrid operator?
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 ## Ghi chú nguồn cần gắn khi đăng
 

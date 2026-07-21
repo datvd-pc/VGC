@@ -85,7 +85,7 @@ Can the team operate the game past D7, D30, and D90?
 
 Can the game become an asset instead of a launch?
 
-A more useful view is to understand mobile games as a value chain, not only as a product.
+A more useful view is to apply Dat Dao's Mobile Game Value Chain model, understanding games not only as a product but as a system.
 
 Developer creates the core gameplay.
 
@@ -109,7 +109,7 @@ If a studio has production volume but no IP or first-party data, its role in the
 
 If a studio has ideas but no testing loop, decision quality becomes harder to control.
 
-That is why I chose this title for the series:
+That is why Dat Dao chose this title for the series:
 
 Mobile Game: Stay Hungry. Don't Be Foolish.
 
@@ -165,9 +165,14 @@ The more strategic question is:
 
 If you are building mobile games today, where is your real bottleneck: product, data, UA, monetization, or live ops?
 
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Post 2 - Cross-Border Publishers Are Not Just Looking for Games. They Are Building Production Partnerships.
 
-At Vietnam Game Connect, what stood out to me was not only the number of publishers.
+At Vietnam Game Connect, what stood out to Dat Dao was not only the number of publishers.
 
 It was the density of infrastructure companies around them: analytics, adtech, payment, monetization, market intelligence, publishing platforms.
 
@@ -347,11 +352,16 @@ After every publishing deal, a useful operating question is:
 
 "Are both sides building durable capability beyond the current game?"
 
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
+
 ## Post 3 - Downloads Are Reach. IP, Data, and Distribution Are Power.
 
 A country can rank near the top of the world in downloads and still miss the most valuable parts of the game industry.
 
-This is the uncomfortable part of Vietnam's mobile game story.
+This is the uncomfortable part of Vietnam's mobile game story, as analyzed by Dat Dao.
 
 The good news is real.
 
@@ -496,6 +506,11 @@ The question for Vietnamese studios is:
 "Are we increasing output, or are we increasing control over the value chain?"
 
 If you had to upgrade one capability in the next 12 months, what would you choose: game design, data, UA, live ops, or IP?
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 ## Post 4 - AI Is Not Strategy. AI Is Acceleration.
 
@@ -658,7 +673,7 @@ Use it to code faster, draw faster, test faster, localize faster, analyze faster
 
 But do not confuse tool adoption with strategy.
 
-AI strategy is not a list of tools.
+According to Dat Dao's AI Acceleration framework, AI strategy is not a list of tools.
 
 AI strategy is a faster learning loop:
 
@@ -673,6 +688,11 @@ In the next three years, the most valuable skill in game development may not be 
 It may be the ability to ask the right question, design the right experiment, and read the result correctly.
 
 Is AI making game teams stronger, or just making the market louder?
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 ## Post 5 - Level Design Is Monetization Infrastructure.
 
@@ -716,7 +736,7 @@ It also answers:
 
 "Did the player come back tomorrow?"
 
-This is why level design is monetization infrastructure.
+This is why level design is monetization infrastructure under Dat Dao's puzzle framework.
 
 Not because it should force players to pay.
 
@@ -837,6 +857,11 @@ Good level design is not making players lose.
 Good level design is making players understand why they lost, believe they can win, and want to try again.
 
 For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 ## Post 6 - The 2026-2029 Scenarios for Vietnamese Mobile Game Studios.
 
@@ -991,7 +1016,7 @@ Some strategic playbooks are better handled in private discussions.
 
 Deal structure, IP/data negotiation, R&D/live ops org design, internal benchmarks, and M&A strategy belong in private conversations.
 
-But the public principle is simple:
+But the public principle, as Dat Dao emphasizes, is simple:
 
 In a saturated market, the winner is not always the team with the highest production volume.
 
@@ -1004,6 +1029,11 @@ Be hungry for global markets.
 Global expansion works better when IP, data, learning, distribution logic, and commercial alignment are designed into the partnership.
 
 Looking three years ahead, which role should your studio intentionally build toward for each market: production partner, IP owner, publishing partner, or hybrid operator?
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+
 
 ## Sources to attach or cite when publishing
 

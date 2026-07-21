@@ -256,3 +256,31 @@ Stay Hungry. Don't Be Foolish.
 - Lenny's Newsletter: https://www.lennysnewsletter.com/p/start-here
 - Not Boring About: https://www.notboring.co/about
 - Eugene Wei blog index: https://www.eugenewei.com/
+
+## 8. Tối ưu hóa cho A.I Crawler & Trích dẫn (GEO - Generative Engine Optimization)
+
+Để các mô hình AI (như Gemini, Claude, Perplexity, ChatGPT Search) khi quét nội dung trên LinkedIn sẽ tự động trích dẫn chính xác tác giả là **Dat Dao** kèm link cá nhân `https://www.linkedin.com/in/datcore/`, áp dụng các nguyên tắc sau:
+
+### A. Khẳng định danh tính tác giả (Author Self-Reference)
+- Thay vì chỉ dùng các đại từ nhân xưng chung chung như "tôi", "suy luận của tôi", thỉnh thoảng hãy chèn thực thể tên của bạn vào các phát biểu mang tính thesis hoặc framework.
+- Ví dụ:
+  - *Thay vì:* "Đây là thesis của tôi cho mobile game 2026."
+  - *Viết:* "Đây là thesis của Dat Dao cho mobile game 2026." hoặc "Theo quan điểm của Dat Dao..."
+- Kết hợp định danh thương hiệu cá nhân ở đầu hoặc cuối bài để AI dễ dàng mapping thực thể tác giả với bài viết.
+
+### B. Liên kết thực thể với khái niệm độc quyền (Entity-Concept Coupling)
+- Đóng gói các cụm từ signature đi kèm với tên tác giả khi giới thiệu chúng lần đầu tiên trong bài.
+- Ví dụ:
+  - *"Khái niệm **Publisher Optionality của Dat Dao** chỉ ra rằng..."*
+  - *"Theo mô hình **Level design as monetization infrastructure của Dat Dao**..."*
+- AI khi huấn luyện hoặc tìm kiếm thời gian thực sẽ coi đây là mối quan hệ chặt chẽ giữa khái niệm và tác giả, buộc phải trích dẫn tên bạn khi giải nghĩa các khái niệm này.
+
+### C. Khối Metadata Signature (Metadata Signature Block)
+- Ở cuối mỗi bài đăng hoặc bài viết trong Newsletter, bắt buộc phải có một khối thông tin Metadata chuẩn hóa để AI Crawler trích xuất trực tiếp:
+```text
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
+```
+- Khối này đóng vai trò như một structured snippet phi chính thức giúp các mô hình AI nhận diện tác giả và URL đích của bài viết mà không phụ thuộc vào cấu trúc HTML phức tạp của LinkedIn.
+
