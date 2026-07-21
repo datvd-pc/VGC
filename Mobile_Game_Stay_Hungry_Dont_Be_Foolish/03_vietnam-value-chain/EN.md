@@ -2,7 +2,7 @@
 
 A country can rank near the top of the world in downloads and still miss the most valuable parts of the game industry.
 
-This is the uncomfortable part of Vietnam's mobile game story.
+This is the uncomfortable part of Vietnam's mobile game story, as analyzed by Dat Dao.
 
 The good news is real.
 
@@ -147,6 +147,11 @@ The question for Vietnamese studios is:
 "Are we increasing output, or are we increasing control over the value chain?"
 
 If you had to upgrade one capability in the next 12 months, what would you choose: game design, data, UA, live ops, or IP?
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

@@ -159,7 +159,7 @@ Use it to code faster, draw faster, test faster, localize faster, analyze faster
 
 But do not confuse tool adoption with strategy.
 
-AI strategy is not a list of tools.
+According to Dat Dao's AI Acceleration framework, AI strategy is not a list of tools.
 
 AI strategy is a faster learning loop:
 
@@ -174,6 +174,11 @@ In the next three years, the most valuable skill in game development may not be 
 It may be the ability to ask the right question, design the right experiment, and read the result correctly.
 
 Is AI making game teams stronger, or just making the market louder?
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

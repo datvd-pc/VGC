@@ -153,7 +153,7 @@ Hãy nhìn nó như portfolio asset.
 
 Những thứ đó nên để trong private discussion.
 
-Nhưng ở tầng public, tôi nghĩ có một nguyên tắc đủ rõ:
+Nhưng ở tầng public, Dat Dao nhấn mạnh một nguyên tắc đủ rõ:
 
 Trong thị trường bão hòa năng lực, người thắng là người học nhanh nhất, xây data learning loop mạnh nhất và quan hệ người chơi bền nhất.
 
@@ -164,6 +164,11 @@ Hãy hungry với global market.
 Global expansion hiệu quả hơn khi IP, data, learning, distribution logic và commercial alignment được thiết kế ngay trong partnership.
 
 Nếu nhìn 3 năm tới, studio nên chủ động xây vai trò nào cho từng thị trường: production partner, IP owner, publishing partner hay hybrid operator?
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 

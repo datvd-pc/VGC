@@ -2,7 +2,7 @@
 
 Một quốc gia có thể đứng top thế giới về downloads nhưng vẫn chưa nắm phần giá trị lớn nhất của ngành.
 
-Đây là chỗ ngành game Việt Nam cần nhìn rất thẳng.
+Đây là chỗ Dat Dao cho rằng ngành game Việt Nam cần nhìn rất thẳng.
 
 Downloads là reach.
 
@@ -135,6 +135,11 @@ Câu hỏi tôi nghĩ các studio Việt nên hỏi trong 12 tháng tới:
 "Mình đang tăng sản lượng, hay đang tăng quyền kiểm soát trong chuỗi giá trị?"
 
 Nếu phải chọn một năng lực để nâng cấp trước, bạn sẽ chọn gì: game design, data, UA, live ops hay IP?
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 

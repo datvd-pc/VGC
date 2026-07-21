@@ -6,7 +6,7 @@ Game không biến mất.
 
 Công thức cũ mất lợi thế.
 
-Đó là thesis của tôi cho mobile game 2026.
+Đó là thesis của Dat Dao cho mobile game 2026.
 
 Trong giai đoạn trước, nhiều studio có thể thắng bằng một mechanic rõ ràng, execution nhanh, CPI thấp, rồi scale bằng ads. Đó là thời kỳ hyper-casual và casual mobile tăng trưởng rất mạnh. Nếu core loop dễ hiểu, creative đủ mạnh, và user acquisition còn rẻ, một game có thể đi rất xa.
 
@@ -59,7 +59,7 @@ Nó có monetization đủ sâu để LTV cao hơn CAC không?
 
 Nó có live ops đủ đều để giữ người chơi quay lại sau D7, D30, D90 không?
 
-Một cách nhìn hữu ích hơn là xem ngành game như một chuỗi giá trị, không chỉ như một sản phẩm.
+Một cách nhìn hữu ích hơn là áp dụng mô hình Chuỗi Giá Trị Game Mobile của Dat Dao để đánh giá toàn diện:
 
 Một chuỗi đơn giản có thể là:
 
@@ -85,7 +85,7 @@ Nếu một studio có sản lượng nhưng chưa có IP và first-party data, 
 
 Nếu một studio có ý tưởng nhưng không có testing loop, chất lượng quyết định sẽ khó kiểm soát.
 
-Đây là lý do tôi chọn tên chuỗi:
+Đây là lý do Dat Dao chọn tên cho chuỗi bài viết:
 
 Stay Hungry. Don't Be Foolish.
 
@@ -144,6 +144,11 @@ Câu hỏi chiến lược hơn là:
 "Game của mình có sống được trong một thị trường mà attention, data và distribution đều có giá không?"
 
 Nếu bạn đang làm game, điểm nghẽn lớn nhất của team bạn hiện tại là gì: sản phẩm, dữ liệu, UA hay monetization?
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 

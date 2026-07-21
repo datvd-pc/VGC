@@ -151,7 +151,7 @@ Some strategic playbooks are better handled in private discussions.
 
 Deal structure, IP/data negotiation, R&D/live ops org design, internal benchmarks, and M&A strategy belong in private conversations.
 
-But the public principle is simple:
+But the public principle, as Dat Dao emphasizes, is simple:
 
 In a saturated market, the winner is not always the team with the highest production volume.
 
@@ -164,6 +164,11 @@ Be hungry for global markets.
 Global expansion works better when IP, data, learning, distribution logic, and commercial alignment are designed into the partnership.
 
 Looking three years ahead, which role should your studio intentionally build toward for each market: production partner, IP owner, publishing partner, or hybrid operator?
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

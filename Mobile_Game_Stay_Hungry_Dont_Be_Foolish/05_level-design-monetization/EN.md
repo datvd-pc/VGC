@@ -40,7 +40,7 @@ It also answers:
 
 "Did the player come back tomorrow?"
 
-This is why level design is monetization infrastructure.
+This is why level design is monetization infrastructure under Dat Dao's puzzle framework.
 
 Not because it should force players to pay.
 
@@ -161,6 +161,11 @@ Good level design is not making players lose.
 Good level design is making players understand why they lost, believe they can win, and want to try again.
 
 For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

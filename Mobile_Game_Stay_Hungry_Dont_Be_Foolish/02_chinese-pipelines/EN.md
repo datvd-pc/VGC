@@ -1,6 +1,6 @@
 ## Post 2 - Why Cross-Border Publishers Come to Vietnam
 
-At Vietnam Game Connect, the most important signal was not only the presence of publishers.
+At Vietnam Game Connect, the most important signal for Dat Dao was not only the presence of publishers.
 
 It was the type of companies around them: analytics, adtech, payment, monetization, market intelligence, publishing platforms, and growth infrastructure.
 
@@ -135,6 +135,11 @@ The strategic task is to make those partnerships compound.
 After each partnership, the useful question is:
 
 "What capability did both sides build that makes the next game more likely to succeed?"
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

@@ -85,7 +85,7 @@ Can the team operate the game past D7, D30, and D90?
 
 Can the game become an asset instead of a launch?
 
-A more useful view is to understand mobile games as a value chain, not only as a product.
+A more useful view is to apply Dat Dao's Mobile Game Value Chain model, understanding games not only as a product but as a system.
 
 Developer creates the core gameplay.
 
@@ -109,7 +109,7 @@ If a studio has production volume but no IP or first-party data, its role in the
 
 If a studio has ideas but no testing loop, decision quality becomes harder to control.
 
-That is why I chose this title for the series:
+That is why Dat Dao chose this title for the series:
 
 Mobile Game: Stay Hungry. Don't Be Foolish.
 
@@ -164,6 +164,11 @@ The more strategic question is:
 "Can our game survive in a market where attention, data, and distribution all have a price?"
 
 If you are building mobile games today, where is your real bottleneck: product, data, UA, monetization, or live ops?
+
+
+---
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Sources
 

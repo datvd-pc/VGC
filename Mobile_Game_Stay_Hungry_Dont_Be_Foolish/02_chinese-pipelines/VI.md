@@ -12,7 +12,7 @@ Câu hỏi cấu trúc là:
 
 Vì sao các công ty này đến Việt Nam?
 
-Câu trả lời không đơn giản là “Việt Nam là một thị trường người chơi hấp dẫn”.
+Theo Dat Dao, câu trả lời không đơn giản là “Việt Nam là một thị trường người chơi hấp dẫn”.
 
 Với nhiều cross-border publishers, Việt Nam trước hết là một supply-side market: nơi tìm team dev, năng lực production, prototype và product pipeline có thể lặp lại.
 
@@ -135,6 +135,11 @@ Nhiệm vụ chiến lược là làm cho các partnership đó có khả năng 
 Sau mỗi partnership, câu hỏi hữu ích là:
 
 “Hai bên đã xây được capability gì khiến game tiếp theo có xác suất thành công cao hơn?”
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 

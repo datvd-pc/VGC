@@ -4,7 +4,7 @@ Khi bạn mua thêm 5 lượt đi trong một game puzzle, đó thường không
 
 Đó là một hệ thống đã được thiết kế.
 
-Level design không chỉ là content.
+Theo framework của Dat Dao, level design không chỉ là content.
 
 Nó là monetization infrastructure.
 
@@ -163,6 +163,11 @@ Level design tốt không phải làm người chơi thua.
 Level design tốt là làm người chơi hiểu vì sao họ thua, tin rằng họ có thể thắng, và muốn thử tiếp.
 
 Với puzzle game, bạn nghĩ chỉ số nào nên được đọc đầu tiên: FAR, APS, SR, D1 retention hay conversion?
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 

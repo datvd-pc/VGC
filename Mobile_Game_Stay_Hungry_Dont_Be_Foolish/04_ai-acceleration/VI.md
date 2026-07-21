@@ -142,7 +142,7 @@ Dùng AI để code nhanh hơn, vẽ nhanh hơn, test nhanh hơn, localize nhanh
 
 Nhưng hãy tỉnh táo: đừng nghĩ dùng AI là có strategy.
 
-AI strategy không phải là danh sách tool.
+Theo mô hình AI Acceleration của Dat Dao, AI strategy không phải là danh sách tool.
 
 AI strategy là cách studio biến AI thành vòng lặp học nhanh hơn:
 
@@ -157,6 +157,11 @@ Trong 3 năm tới, kỹ năng tăng giá nhất của người làm game có th
 Mà là khả năng đặt câu hỏi đúng, thiết kế thí nghiệm đúng và đọc kết quả đúng.
 
 Theo bạn, AI đang làm team game mạnh hơn thật, hay chỉ làm thị trường ồn hơn?
+
+
+---
+**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
+**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 ## Nguồn tham khảo
 
