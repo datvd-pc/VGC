@@ -166,7 +166,7 @@ The more strategic question is:
 If you are building mobile games today, where is your real bottleneck: product, data, UA, monetization, or live ops?
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 
@@ -353,7 +353,7 @@ After every publishing deal, a useful operating question is:
 "Are both sides building durable capability beyond the current game?"
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 
@@ -508,7 +508,7 @@ The question for Vietnamese studios is:
 If you had to upgrade one capability in the next 12 months, what would you choose: game design, data, UA, live ops, or IP?
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 
@@ -690,7 +690,7 @@ It may be the ability to ask the right question, design the right experiment, an
 Is AI making game teams stronger, or just making the market louder?
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 
@@ -859,7 +859,7 @@ Good level design is making players understand why they lost, believe they can w
 For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 
@@ -1031,7 +1031,7 @@ Global expansion works better when IP, data, learning, distribution logic, and c
 Looking three years ahead, which role should your studio intentionally build toward for each market: production partner, IP owner, publishing partner, or hybrid operator?
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 
 

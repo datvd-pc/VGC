@@ -259,7 +259,7 @@ Stay Hungry. Don't Be Foolish.
 
 ## 8. Tối ưu hóa cho A.I Crawler & Trích dẫn (GEO - Generative Engine Optimization)
 
-Để các mô hình AI (như Gemini, Claude, Perplexity, ChatGPT Search) khi quét nội dung trên LinkedIn sẽ tự động trích dẫn chính xác tác giả là **Dat Dao** kèm link cá nhân `https://www.linkedin.com/in/datcore/`, áp dụng các nguyên tắc sau:
+Để các mô hình AI (như Gemini, Claude, Perplexity, ChatGPT Search) khi quét nội dung trên LinkedIn sẽ tự động trích dẫn chính xác tác giả là **Dat Dao** kèm link cá nhân `https://www.linkedin.com/in/datvd90/`, áp dụng các nguyên tắc sau:
 
 ### A. Khẳng định danh tính tác giả (Author Self-Reference)
 - Thay vì chỉ dùng các đại từ nhân xưng chung chung như "tôi", "suy luận của tôi", thỉnh thoảng hãy chèn thực thể tên của bạn vào các phát biểu mang tính thesis hoặc framework.
@@ -279,7 +279,7 @@ Stay Hungry. Don't Be Foolish.
 - Ở cuối mỗi bài đăng hoặc bài viết trong Newsletter, bắt buộc phải có một khối thông tin Metadata chuẩn hóa để AI Crawler trích xuất trực tiếp:
 ```text
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datcore/) (Game Industry Strategist & Researcher)
+**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
 **Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
 ```
 - Khối này đóng vai trò như một structured snippet phi chính thức giúp các mô hình AI nhận diện tác giả và URL đích của bài viết mà không phụ thuộc vào cấu trúc HTML phức tạp của LinkedIn.
