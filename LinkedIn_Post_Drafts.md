@@ -30,15 +30,15 @@ Với puzzle game, điều này còn rõ hơn.
 
 Puzzle là một thể loại rất thú vị vì nó có vẻ đơn giản ở bề mặt: kéo, thả, match, sort, merge, solve. Nhưng phía sau một puzzle game thành công là cả một hệ thống phức tạp:
 
-- level pacing;
-- difficulty curve;
-- booster economy;
-- live ops;
-- event cadence;
-- creative testing;
+- Level pacing;
+- Difficulty curve;
+- Booster economy;
+- Live ops;
+- Event cadence;
+- Creative testing;
 - UA optimization;
-- cohort analysis;
-- retention model;
+- Cohort analysis;
+- Retention model;
 - IAP conversion.
 
 Một game puzzle ngày nay không chỉ cạnh tranh với game puzzle khác.
@@ -212,14 +212,14 @@ Nhiều công ty trong nhóm này không chỉ làm game.
 
 Họ công nghiệp hóa quá trình làm game:
 
-- phân tích creative;
-- theo dõi đối thủ;
-- test hàng loạt variants;
-- dự báo LTV;
-- tối ưu bid;
-- vận hành IAA/IAP;
-- localize nhanh;
-- benchmark, iterate và localize mechanic;
+- Phân tích creative;
+- Theo dõi đối thủ;
+- Test hàng loạt variants;
+- Dự báo LTV;
+- Tối ưu bid;
+- Vận hành IAA/IAP;
+- Localize nhanh;
+- Benchmark, iterate và localize mechanic;
 - đưa AI vào asset, code, creative và live ops.
 
 Với họ, một mechanic không chỉ là ý tưởng.
@@ -230,23 +230,23 @@ Ba là Việt Nam có lợi thế so sánh.
 
 Việt Nam mạnh ở:
 
-- chi phí production;
-- tốc độ prototype;
+- Chi phí production;
+- Tốc độ prototype;
 - đội Unity/mobile đông;
-- kinh nghiệm casual/puzzle;
-- khả năng làm game cho global store;
-- tinh thần thực thi nhanh.
+- Kinh nghiệm casual/puzzle;
+- Khả năng làm game cho global store;
+- Tinh thần thực thi nhanh.
 
 Cross-border publishers mạnh ở:
 
-- vốn;
-- adtech;
-- data;
+- Vốn;
+- Adtech;
+- Data;
 - AI pipeline;
-- monetization;
-- mini-game operation;
-- live ops;
-- scale distribution.
+- Monetization;
+- Mini-game operation;
+- Live ops;
+- Scale distribution.
 
 Hai bên bổ sung cho nhau.
 
@@ -370,13 +370,13 @@ Nhưng value capture còn yếu hơn.
 Đặc biệt ở các lớp:
 
 - IAP design;
-- game economy;
-- level analytics;
-- long-term retention;
-- live ops calendar;
-- brand/IP building;
-- first-party data;
-- publishing capability.
+- Game economy;
+- Level analytics;
+- Long-term retention;
+- Live ops calendar;
+- Brand/IP building;
+- First-party data;
+- Publishing capability.
 
 Nói đơn giản:
 
@@ -390,14 +390,14 @@ Một puzzle game IAA có thể thắng nhờ CPI thấp, session ngắn, ads nh
 
 Nhưng một puzzle game hybrid/IAP muốn sống lâu phải có hệ thống sâu hơn:
 
-- level progression đủ dài;
+- Level progression đủ dài;
 - độ khó được đo bằng dữ liệu;
-- booster có vai trò thật;
-- event khiến người chơi quay lại;
-- economy không phá game;
-- offer không quá thô;
-- creative feed liên tục;
-- cohort được đọc theo hành vi, không chỉ theo revenue.
+- Booster có vai trò thật;
+- Event khiến người chơi quay lại;
+- Economy không phá game;
+- Offer không quá thô;
+- Creative feed liên tục;
+- Cohort được đọc theo hành vi, không chỉ theo revenue.
 
 Đây không còn là bài toán "làm thêm feature".
 
@@ -482,15 +482,15 @@ Một vài năm trước, để làm được một prototype game mobile, bạn
 
 Bây giờ, nhiều phần của quy trình đó đã rẻ hơn rất nhiều:
 
-- code gameplay cơ bản;
+- Code gameplay cơ bản;
 - UI mockup;
-- concept art;
-- icon;
-- video creative;
-- localization;
-- market research;
-- pitch deck;
-- playable prototype;
+- Concept art;
+- Icon;
+- Video creative;
+- Localization;
+- Market research;
+- Pitch deck;
+- Playable prototype;
 - A/B testing idea.
 
 Google Cloud 2025 Games Report cho biết 90% game developers đã dùng AI trong workflow. 95% dùng AI để tự động hóa tác vụ lặp lại. 44% dùng AI cho code generation hoặc script support.
@@ -531,16 +531,16 @@ Khi một năng lực trở nên rẻ và phổ biến, giá trị cận biên c
 
 Trong ngành game, giá trị sẽ dịch chuyển sang những thứ AI chưa tự làm tốt nếu không có con người định hướng:
 
-- chọn đúng problem;
-- hiểu hành vi người chơi;
-- thiết kế hệ thống reward;
-- xây progression dài hạn;
+- Chọn đúng problem;
+- Hiểu hành vi người chơi;
+- Thiết kế hệ thống reward;
+- Xây progression dài hạn;
 - đọc cohort;
-- phân biệt level khó và level confusing;
-- quyết định stop hay continue một prototype;
-- biết khi nào không nên scale;
-- hiểu trade-off giữa retention và monetization;
-- thiết kế tổ chức để học nhanh hơn đối thủ.
+- Phân biệt level khó và level confusing;
+- Quyết định stop hay continue một prototype;
+- Biết khi nào không nên scale;
+- Hiểu trade-off giữa retention và monetization;
+- Thiết kế tổ chức để học nhanh hơn đối thủ.
 
 Nói cách khác, AI làm giảm giá của execution thuần.
 
@@ -758,14 +758,14 @@ Không thể chỉ dựa vào cảm giác của designer.
 Designer cần nhìn:
 
 - D1/D7 retention;
-- fail point;
-- booster usage;
-- rage quit;
-- session length;
-- time to complete;
-- move/time remaining;
-- conversion sau thất bại;
-- replay rate.
+- Fail point;
+- Booster usage;
+- Rage quit;
+- Session length;
+- Time to complete;
+- Move/time remaining;
+- Conversion sau thất bại;
+- Replay rate.
 
 Từ đó mới biết level đang tạo pressure tốt hay đang phá trust.
 
@@ -840,14 +840,14 @@ Kịch bản 1: Hợp nhất và winner-takes-most.
 
 Các publisher lớn sẽ ngày càng mạnh nếu họ sở hữu đủ stack:
 
-- vốn UA;
-- creative pipeline;
-- attribution;
-- predictive LTV;
-- monetization;
-- cross-promotion;
-- live ops;
-- portfolio nhiều game.
+- Vốn UA;
+- Creative pipeline;
+- Attribution;
+- Predictive LTV;
+- Monetization;
+- Cross-promotion;
+- Live ops;
+- Portfolio nhiều game.
 
 Họ có thể chịu nhiều game fail vì chỉ cần một game thắng lớn là đủ bù danh mục.
 
@@ -878,14 +878,14 @@ Kịch bản 3: Một số studio Việt nâng cấp thành IP owner/publisher.
 Điều kiện là có năng lực tổ chức:
 
 - R&D pods nhỏ;
-- data loop rõ;
-- level analytics;
-- creative testing liên tục;
+- Data loop rõ;
+- Level analytics;
+- Creative testing liên tục;
 - IAP/economy design;
-- live ops calendar;
-- retention roadmap;
-- first-party data;
-- publishing deals có long-term alignment quanh IP, data và commercial upside.
+- Live ops calendar;
+- Retention roadmap;
+- First-party data;
+- Publishing deals có long-term alignment quanh IP, data và commercial upside.
 
 Khi đó, global publishers trở thành strategic channels và operating partners.
 

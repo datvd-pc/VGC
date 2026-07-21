@@ -125,14 +125,14 @@ Không thể chỉ dựa vào cảm giác của designer.
 Designer cần nhìn:
 
 - D1/D7 retention;
-- fail point;
-- booster usage;
-- rage quit;
-- session length;
-- time to complete;
-- move/time remaining;
-- conversion sau thất bại;
-- replay rate.
+- Fail point;
+- Booster usage;
+- Rage quit;
+- Session length;
+- Time to complete;
+- Move/time remaining;
+- Conversion sau thất bại;
+- Replay rate.
 
 Từ đó mới biết level đang tạo pressure tốt hay đang phá trust.
 

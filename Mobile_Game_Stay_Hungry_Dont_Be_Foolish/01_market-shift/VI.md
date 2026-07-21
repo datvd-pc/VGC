@@ -28,15 +28,15 @@ Với puzzle game, điều này còn rõ hơn.
 
 Puzzle nhìn đơn giản ở bề mặt: kéo, thả, match, sort, merge, solve. Nhưng phía sau một puzzle game thành công là cả một hệ thống:
 
-- level pacing;
-- difficulty curve;
-- booster economy;
-- live ops;
-- event cadence;
-- creative testing;
+- Level pacing;
+- Difficulty curve;
+- Booster economy;
+- Live ops;
+- Event cadence;
+- Creative testing;
 - UA optimization;
-- cohort analysis;
-- retention model;
+- Cohort analysis;
+- Retention model;
 - IAP conversion.
 
 Một puzzle game ngày nay không chỉ cạnh tranh với puzzle game khác.

@@ -64,25 +64,25 @@ Vietnam sits at the intersection of these needs.
 
 Vietnam's comparative advantages are clear:
 
-- efficient production cost;
-- fast prototyping;
+- Efficient production cost;
+- Fast prototyping;
 - Unity and mobile development talent;
-- casual, puzzle, arcade, and simulation experience;
-- export-oriented teams;
-- familiarity with global stores;
-- growing studio density.
+- Casual, puzzle, arcade, and simulation experience;
+- Export-oriented teams;
+- Familiarity with global stores;
+- Growing studio density.
 
 Cross-border publishers bring complementary capabilities:
 
-- capital;
-- market access;
-- analytics;
+- Capital;
+- Market access;
+- Analytics;
 - UA systems;
-- creative testing;
-- monetization design;
-- platform knowledge;
-- live operations;
-- commercial discipline.
+- Creative testing;
+- Monetization design;
+- Platform knowledge;
+- Live operations;
+- Commercial discipline.
 
 This creates a practical partnership logic.
 
@@ -96,13 +96,13 @@ For a Vietnamese studio, the goal is not simply to get one game signed.
 
 The higher-value goal is to build a repeatable system:
 
-- better prototype selection;
-- faster creative validation;
-- stronger level and economy design;
-- clearer data reading;
-- better publishing terms;
-- more durable IP and product learning;
-- stronger long-term partnership alignment.
+- Better prototype selection;
+- Faster creative validation;
+- Stronger level and economy design;
+- Clearer data reading;
+- Better publishing terms;
+- More durable IP and product learning;
+- Stronger long-term partnership alignment.
 
 For publishers, Vietnam is attractive because it can increase the quality and volume of product opportunities.
 

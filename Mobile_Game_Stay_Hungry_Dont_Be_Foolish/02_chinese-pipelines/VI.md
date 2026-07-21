@@ -64,25 +64,25 @@ Việt Nam nằm ở giao điểm của các nhu cầu này.
 
 Lợi thế so sánh của Việt Nam khá rõ:
 
-- chi phí production hiệu quả;
-- prototype nhanh;
-- nhân sự Unity và mobile development;
-- kinh nghiệm casual, puzzle, arcade và simulation;
-- các team thiên về export;
-- quen thuộc với global stores;
-- mật độ studio đang tăng.
+- Chi phí production hiệu quả;
+- Prototype nhanh;
+- Nhân sự Unity và mobile development;
+- Kinh nghiệm casual, puzzle, arcade và simulation;
+- Các team thiên về export;
+- Quen thuộc với global stores;
+- Mật độ studio đang tăng.
 
 Cross-border publishers mang tới các năng lực bổ sung:
 
-- capital;
-- market access;
-- analytics;
+- Capital;
+- Market access;
+- Analytics;
 - UA systems;
-- creative testing;
-- monetization design;
-- platform knowledge;
-- live operations;
-- commercial discipline.
+- Creative testing;
+- Monetization design;
+- Platform knowledge;
+- Live operations;
+- Commercial discipline.
 
 Từ đó hình thành một partnership logic thực tế.
 
@@ -96,13 +96,13 @@ Với một studio Việt Nam, mục tiêu không chỉ là ký được một g
 
 Mục tiêu có giá trị cao hơn là xây một hệ thống có thể lặp lại:
 
-- chọn prototype tốt hơn;
-- validate creative nhanh hơn;
-- thiết kế level và economy tốt hơn;
+- Chọn prototype tốt hơn;
+- Validate creative nhanh hơn;
+- Thiết kế level và economy tốt hơn;
 - đọc data rõ hơn;
-- có publishing terms tốt hơn;
-- giữ được IP và product learning bền hơn;
-- tạo long-term partnership alignment tốt hơn.
+- Có publishing terms tốt hơn;
+- Giữ được IP và product learning bền hơn;
+- Tạo long-term partnership alignment tốt hơn.
 
 Với publishers, Việt Nam hấp dẫn vì có thể tăng chất lượng và số lượng cơ hội sản phẩm.
 

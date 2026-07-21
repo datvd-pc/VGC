@@ -14,15 +14,15 @@ Một vài năm trước, để làm được một prototype game mobile, bạn
 
 Bây giờ, nhiều phần của quy trình đó đã rẻ hơn rất nhiều:
 
-- code gameplay cơ bản;
+- Code gameplay cơ bản;
 - UI mockup;
-- concept art;
-- icon;
-- video creative;
-- localization;
-- market research;
-- pitch deck;
-- playable prototype;
+- Concept art;
+- Icon;
+- Video creative;
+- Localization;
+- Market research;
+- Pitch deck;
+- Playable prototype;
 - A/B testing idea.
 
 Google Cloud 2025 Games Report cho biết 90% game developers đã dùng AI trong workflow. 95% dùng AI để tự động hóa tác vụ lặp lại. 44% dùng AI cho code generation hoặc script support.
@@ -63,16 +63,16 @@ Khi một năng lực trở nên rẻ và phổ biến, giá trị cận biên c
 
 Trong ngành game, giá trị sẽ dịch chuyển sang những thứ AI chưa tự làm tốt nếu không có con người định hướng:
 
-- chọn đúng problem;
-- hiểu hành vi người chơi;
-- thiết kế hệ thống reward;
-- xây progression dài hạn;
+- Chọn đúng problem;
+- Hiểu hành vi người chơi;
+- Thiết kế hệ thống reward;
+- Xây progression dài hạn;
 - đọc cohort;
-- phân biệt level khó và level confusing;
-- quyết định stop hay continue một prototype;
-- biết khi nào không nên scale;
-- hiểu trade-off giữa retention và monetization;
-- thiết kế tổ chức để học nhanh hơn đối thủ.
+- Phân biệt level khó và level confusing;
+- Quyết định stop hay continue một prototype;
+- Biết khi nào không nên scale;
+- Hiểu trade-off giữa retention và monetization;
+- Thiết kế tổ chức để học nhanh hơn đối thủ.
 
 Nói cách khác, AI làm giảm giá của execution thuần.
 

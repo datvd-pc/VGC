@@ -45,13 +45,13 @@ Nhưng value capture còn yếu hơn.
 Đặc biệt ở các lớp:
 
 - IAP design;
-- game economy;
-- level analytics;
-- long-term retention;
-- live ops calendar;
-- brand/IP building;
-- first-party data;
-- publishing capability.
+- Game economy;
+- Level analytics;
+- Long-term retention;
+- Live ops calendar;
+- Brand/IP building;
+- First-party data;
+- Publishing capability.
 
 Nói đơn giản:
 
@@ -65,14 +65,14 @@ Một puzzle game IAA có thể thắng nhờ CPI thấp, session ngắn, ads nh
 
 Nhưng một puzzle game hybrid/IAP muốn sống lâu phải có hệ thống sâu hơn:
 
-- level progression đủ dài;
+- Level progression đủ dài;
 - độ khó được đo bằng dữ liệu;
-- booster có vai trò thật;
-- event khiến người chơi quay lại;
-- economy không phá game;
-- offer không quá thô;
-- creative feed liên tục;
-- cohort được đọc theo hành vi, không chỉ theo revenue.
+- Booster có vai trò thật;
+- Event khiến người chơi quay lại;
+- Economy không phá game;
+- Offer không quá thô;
+- Creative feed liên tục;
+- Cohort được đọc theo hành vi, không chỉ theo revenue.
 
 Đây không còn là bài toán "làm thêm feature".
 

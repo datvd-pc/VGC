@@ -35,13 +35,13 @@ Scenario 1: Consolidation and winner-takes-most.
 Large publishers get stronger if they own the full growth stack:
 
 - UA capital;
-- creative pipeline;
-- attribution;
-- predictive LTV;
-- monetization;
-- cross-promotion;
-- live ops;
-- a portfolio of games.
+- Creative pipeline;
+- Attribution;
+- Predictive LTV;
+- Monetization;
+- Cross-promotion;
+- Live ops;
+- A portfolio of games.
 
 They can absorb failure because one large winner can pay for many tests.
 
@@ -71,15 +71,15 @@ The requirement is not one brilliant idea.
 
 The requirement is organizational capability:
 
-- small R&D pods;
-- clean data loops;
-- level analytics;
-- continuous creative testing;
+- Small R&D pods;
+- Clean data loops;
+- Level analytics;
+- Continuous creative testing;
 - IAP and economy design;
-- live ops calendars;
-- retention roadmaps;
-- first-party data;
-- publishing deals with long-term alignment around IP, data, and commercial upside.
+- Live ops calendars;
+- Retention roadmaps;
+- First-party data;
+- Publishing deals with long-term alignment around IP, data, and commercial upside.
 
 In this scenario, global publishers become strategic channels and operating partners.
 

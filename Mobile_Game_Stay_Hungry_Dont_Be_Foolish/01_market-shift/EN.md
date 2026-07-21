@@ -48,15 +48,15 @@ On the surface, a puzzle game looks simple. Match. Sort. Merge. Unscrew. Clear t
 
 Underneath, a successful puzzle game is a system:
 
-- level pacing;
-- difficulty curves;
-- booster economy;
-- live ops;
-- event cadence;
-- creative testing;
+- Level pacing;
+- Difficulty curves;
+- Booster economy;
+- Live ops;
+- Event cadence;
+- Creative testing;
 - UA optimization;
-- cohort analysis;
-- retention modeling;
+- Cohort analysis;
+- Retention modeling;
 - IAP conversion.
 
 The competition is no longer just other puzzle games.

@@ -48,15 +48,15 @@ On the surface, a puzzle game looks simple. Match. Sort. Merge. Unscrew. Clear t
 
 Underneath, a successful puzzle game is a system:
 
-- level pacing;
-- difficulty curves;
-- booster economy;
-- live ops;
-- event cadence;
-- creative testing;
+- Level pacing;
+- Difficulty curves;
+- Booster economy;
+- Live ops;
+- Event cadence;
+- Creative testing;
 - UA optimization;
-- cohort analysis;
-- retention modeling;
+- Cohort analysis;
+- Retention modeling;
 - IAP conversion.
 
 The competition is no longer just other puzzle games.
@@ -260,23 +260,23 @@ Third, Vietnam has comparative advantage.
 
 Vietnam is strong in:
 
-- production cost;
-- prototype speed;
+- Production cost;
+- Prototype speed;
 - Unity/mobile talent;
-- casual and puzzle execution;
-- global store experience;
-- fast-moving small teams.
+- Casual and puzzle execution;
+- Global store experience;
+- Fast-moving small teams.
 
 Cross-border publishers are strong in:
 
-- capital;
-- data infrastructure;
-- adtech;
+- Capital;
+- Data infrastructure;
+- Adtech;
 - AI pipelines;
-- monetization;
-- mini-game operations;
-- live ops;
-- distribution scale.
+- Monetization;
+- Mini-game operations;
+- Live ops;
+- Distribution scale.
 
 The fit is structurally clear.
 
@@ -404,13 +404,13 @@ The weak layer is value capture.
 That layer includes:
 
 - IAP design;
-- game economy;
-- level analytics;
-- long-term retention;
-- live ops;
-- brand building;
-- first-party data;
-- publishing capability.
+- Game economy;
+- Level analytics;
+- Long-term retention;
+- Live ops;
+- Brand building;
+- First-party data;
+- Publishing capability.
 
 Put simply:
 
@@ -424,14 +424,14 @@ An IAA puzzle game can win for a while with low CPI, fast sessions, ad inventory
 
 A hybrid or IAP puzzle game needs deeper muscles:
 
-- long progression;
-- data-driven difficulty;
-- meaningful boosters;
-- recurring events;
-- balanced economy;
-- careful offers;
-- continuous creative supply;
-- cohort-based decision making.
+- Long progression;
+- Data-driven difficulty;
+- Meaningful boosters;
+- Recurring events;
+- Balanced economy;
+- Careful offers;
+- Continuous creative supply;
+- Cohort-based decision making.
 
 This is not a feature problem.
 
@@ -524,15 +524,15 @@ A few years ago, building a decent mobile game prototype required a clear mix of
 
 Today, many parts of that process are cheaper:
 
-- gameplay code;
+- Gameplay code;
 - UI mockups;
-- concept art;
-- icons;
-- video creatives;
-- localization;
-- market research;
-- pitch decks;
-- playable prototypes;
+- Concept art;
+- Icons;
+- Video creatives;
+- Localization;
+- Market research;
+- Pitch decks;
+- Playable prototypes;
 - A/B test ideas.
 
 Google Cloud's 2025 games report says 90% of game developers already use AI in their workflows. 95% use it for repetitive tasks. 44% use it for code generation or script support.
@@ -817,14 +817,14 @@ Not just based on the designer's taste.
 The team needs to read:
 
 - D1 and D7 retention;
-- fail points;
-- booster usage;
-- rage quits;
-- session length;
-- time to complete;
-- moves or time remaining;
-- conversion after failure;
-- replay rate.
+- Fail points;
+- Booster usage;
+- Rage quits;
+- Session length;
+- Time to complete;
+- Moves or time remaining;
+- Conversion after failure;
+- Replay rate.
 
 Only then can the team know whether a level creates useful pressure or destroys trust.
 
@@ -900,13 +900,13 @@ Scenario 1: Consolidation and winner-takes-most.
 Large publishers get stronger if they own the full growth stack:
 
 - UA capital;
-- creative pipeline;
-- attribution;
-- predictive LTV;
-- monetization;
-- cross-promotion;
-- live ops;
-- a portfolio of games.
+- Creative pipeline;
+- Attribution;
+- Predictive LTV;
+- Monetization;
+- Cross-promotion;
+- Live ops;
+- A portfolio of games.
 
 They can absorb failure because one large winner can pay for many tests.
 
@@ -936,15 +936,15 @@ The requirement is not one brilliant idea.
 
 The requirement is organizational capability:
 
-- small R&D pods;
-- clean data loops;
-- level analytics;
-- continuous creative testing;
+- Small R&D pods;
+- Clean data loops;
+- Level analytics;
+- Continuous creative testing;
 - IAP and economy design;
-- live ops calendars;
-- retention roadmaps;
-- first-party data;
-- publishing deals with long-term alignment around IP, data, and commercial upside.
+- Live ops calendars;
+- Retention roadmaps;
+- First-party data;
+- Publishing deals with long-term alignment around IP, data, and commercial upside.
 
 In this scenario, global publishers become strategic channels and operating partners.
 

@@ -36,14 +36,14 @@ Kịch bản 1: Hợp nhất và winner-takes-most.
 
 Các publisher lớn sẽ ngày càng mạnh nếu họ sở hữu đủ stack:
 
-- vốn UA;
-- creative pipeline;
-- attribution;
-- predictive LTV;
-- monetization;
-- cross-promotion;
-- live ops;
-- portfolio nhiều game.
+- Vốn UA;
+- Creative pipeline;
+- Attribution;
+- Predictive LTV;
+- Monetization;
+- Cross-promotion;
+- Live ops;
+- Portfolio nhiều game.
 
 Họ có thể chịu nhiều game fail vì chỉ cần một game thắng lớn là đủ bù danh mục.
 
@@ -74,14 +74,14 @@ Kịch bản 3: Một số studio Việt nâng cấp thành IP owner/publisher.
 Điều kiện là có năng lực tổ chức:
 
 - R&D pods nhỏ;
-- data loop rõ;
-- level analytics;
-- creative testing liên tục;
+- Data loop rõ;
+- Level analytics;
+- Creative testing liên tục;
 - IAP/economy design;
-- live ops calendar;
-- retention roadmap;
-- first-party data;
-- publishing deals có long-term alignment quanh IP, data và commercial upside.
+- Live ops calendar;
+- Retention roadmap;
+- First-party data;
+- Publishing deals có long-term alignment quanh IP, data và commercial upside.
 
 Khi đó, global publishers trở thành strategic channels và operating partners.
 

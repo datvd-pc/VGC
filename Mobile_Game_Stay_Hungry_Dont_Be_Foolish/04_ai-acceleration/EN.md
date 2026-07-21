@@ -10,15 +10,15 @@ A few years ago, building a decent mobile game prototype required a clear mix of
 
 Today, many parts of that process are cheaper:
 
-- gameplay code;
+- Gameplay code;
 - UI mockups;
-- concept art;
-- icons;
-- video creatives;
-- localization;
-- market research;
-- pitch decks;
-- playable prototypes;
+- Concept art;
+- Icons;
+- Video creatives;
+- Localization;
+- Market research;
+- Pitch decks;
+- Playable prototypes;
 - A/B test ideas.
 
 Google Cloud's 2025 games report says 90% of game developers already use AI in their workflows. 95% use it for repetitive tasks. 44% use it for code generation or script support.

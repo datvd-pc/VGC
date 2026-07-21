@@ -121,14 +121,14 @@ Not just based on the designer's taste.
 The team needs to read:
 
 - D1 and D7 retention;
-- fail points;
-- booster usage;
-- rage quits;
-- session length;
-- time to complete;
-- moves or time remaining;
-- conversion after failure;
-- replay rate.
+- Fail points;
+- Booster usage;
+- Rage quits;
+- Session length;
+- Time to complete;
+- Moves or time remaining;
+- Conversion after failure;
+- Replay rate.
 
 Only then can the team know whether a level creates useful pressure or destroys trust.
 

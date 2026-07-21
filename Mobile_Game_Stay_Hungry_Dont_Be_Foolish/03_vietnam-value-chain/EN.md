@@ -45,13 +45,13 @@ The weak layer is value capture.
 That layer includes:
 
 - IAP design;
-- game economy;
-- level analytics;
-- long-term retention;
-- live ops;
-- brand building;
-- first-party data;
-- publishing capability.
+- Game economy;
+- Level analytics;
+- Long-term retention;
+- Live ops;
+- Brand building;
+- First-party data;
+- Publishing capability.
 
 Put simply:
 
@@ -65,14 +65,14 @@ An IAA puzzle game can win for a while with low CPI, fast sessions, ad inventory
 
 A hybrid or IAP puzzle game needs deeper muscles:
 
-- long progression;
-- data-driven difficulty;
-- meaningful boosters;
-- recurring events;
-- balanced economy;
-- careful offers;
-- continuous creative supply;
-- cohort-based decision making.
+- Long progression;
+- Data-driven difficulty;
+- Meaningful boosters;
+- Recurring events;
+- Balanced economy;
+- Careful offers;
+- Continuous creative supply;
+- Cohort-based decision making.
 
 This is not a feature problem.
 
