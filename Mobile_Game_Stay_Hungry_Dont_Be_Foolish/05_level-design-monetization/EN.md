@@ -1,4 +1,4 @@
-## Post 5 - Level design is monetization infrastructure.
+## Post 5 - Level Design Is Monetization Infrastructure.
 
 When a player buys five extra moves in a puzzle game, that decision is rarely random.
 
@@ -106,7 +106,7 @@ But this is a dangerous area.
 
 Good design feels fair.
 
-Bad design feels manipulative.
+Weak design feels extractive.
 
 The distance between the two is small.
 
@@ -132,13 +132,13 @@ The team needs to read:
 
 Only then can the team know whether a level creates useful pressure or destroys trust.
 
-I think this is one of the biggest gaps for many Vietnamese studios.
+This appears to be one of the larger capability gaps for many Vietnamese studios.
 
 We can prototype fast.
 
 We can make art and UI fast.
 
-We can clone mechanics fast.
+We can benchmark mechanics quickly.
 
 But building a puzzle game with strong IAP requires another capability:
 
@@ -162,3 +162,10 @@ Good level design is making players understand why they lost, believe they can w
 
 For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
 
+## Sources
+
+- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
+- Voodoo, hybrid-casual transition and growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
+- Voodoo, growth team and UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo
+- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
+- PocketGamer.biz, Vietnamese puzzle, simulation and arcade games are most-downloaded in the world: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/

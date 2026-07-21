@@ -1,4 +1,4 @@
-## Bài 5 - Level design is monetization infrastructure.
+## Bài 5 - Level Design Is Monetization Infrastructure.
 
 Khi bạn mua thêm 5 lượt đi trong một game puzzle, đó thường không phải quyết định ngẫu nhiên.
 
@@ -110,13 +110,13 @@ Nhưng đây là vùng phải làm rất cẩn thận.
 
 Thiết kế tốt tạo cảm giác công bằng.
 
-Thiết kế tệ tạo cảm giác bị thao túng.
+Thiết kế yếu tạo cảm giác bị tận thu.
 
 Khoảng cách giữa hai thứ này rất nhỏ.
 
 Với puzzle game, người chơi chấp nhận thua nếu họ hiểu vì sao mình thua.
 
-Họ khó chấp nhận thua nếu cảm thấy hệ thống gian.
+Họ khó chấp nhận thua nếu cảm thấy hệ thống thiếu công bằng.
 
 Đó là lý do level design phải đi cùng dữ liệu.
 
@@ -136,13 +136,13 @@ Designer cần nhìn:
 
 Từ đó mới biết level đang tạo pressure tốt hay đang phá trust.
 
-Tôi nghĩ đây là một điểm yếu lớn của nhiều studio Việt Nam.
+Đây có vẻ là một capability gap lớn của nhiều studio Việt Nam.
 
 Chúng ta làm prototype nhanh.
 
 Làm art/UI nhanh.
 
-Clone mechanic nhanh.
+Benchmark mechanic nhanh.
 
 Nhưng để tạo một puzzle game có IAP tốt, cần một năng lực khác: thiết kế hệ thống áp lực, phần thưởng và progression bằng dữ liệu.
 
@@ -154,7 +154,7 @@ Stay Hungry. Don't Be Foolish.
 
 Hãy hungry với monetization.
 
-Nhưng đừng foolish khi nghĩ monetization chỉ là thêm ads, thêm offer, thêm popup.
+Nhưng hãy tỉnh táo: đừng nghĩ monetization chỉ là thêm ads, thêm offer, thêm popup.
 
 Monetization tốt bắt đầu từ một level khiến người chơi muốn ở lại.
 
@@ -163,3 +163,11 @@ Level design tốt không phải làm người chơi thua.
 Level design tốt là làm người chơi hiểu vì sao họ thua, tin rằng họ có thể thắng, và muốn thử tiếp.
 
 Với puzzle game, bạn nghĩ chỉ số nào nên được đọc đầu tiên: FAR, APS, SR, D1 retention hay conversion?
+
+## Nguồn tham khảo
+
+- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
+- Voodoo, hybrid-casual transition và growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
+- Voodoo, growth team và UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo
+- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
+- PocketGamer.biz, game Việt nhóm puzzle/simulation/arcade dẫn đầu downloads: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/

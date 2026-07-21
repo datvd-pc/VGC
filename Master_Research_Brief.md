@@ -2,11 +2,11 @@
 
 ## 1. Thesis trung tâm
 
-Ngành game mobile không "chết". Ngành đang chuyển từ cuộc chơi tăng trưởng bằng số lượng game và lượt tải sang cuộc chơi hiệu quả vận hành: ai sở hữu dữ liệu tốt hơn, creative tốt hơn, UA tốt hơn, monetization tốt hơn, live ops tốt hơn và IP bền hơn thì có quyền lực cao hơn trong chuỗi giá trị.
+Ngành game mobile không biến mất. Ngành đang chuyển từ cuộc chơi tăng trưởng bằng số lượng game và lượt tải sang cuộc chơi hiệu quả vận hành: ai sở hữu dữ liệu tốt hơn, creative tốt hơn, UA tốt hơn, monetization tốt hơn, live ops tốt hơn và IP bền hơn thì có quyền lực cao hơn trong chuỗi giá trị.
 
 Với Việt Nam, cơ hội lớn nằm ở năng lực sản xuất game/prototype quy mô cao, đặc biệt ở simulation, puzzle, arcade, casual và hybrid-casual. Rủi ro lớn là Việt Nam có thể trở thành "production engine" cho hệ sinh thái nước ngoài nếu không tích lũy được IP, first-party data, publishing capability và năng lực thiết kế hệ thống.
 
-Với Trung Quốc, làn sóng đổ bộ sang Việt Nam không chỉ là tìm thị trường người chơi. Đó là chiến lược mở rộng pipeline sản xuất, dữ liệu, deal flow và năng lực phân phối quốc tế trong bối cảnh mini-game nội địa tăng nhanh nhưng cạnh tranh cao.
+Với cross-border publishers, làn sóng hợp tác với Việt Nam chủ yếu nằm ở supply side: tìm team dev, production capacity, prototype flow và repeatable product systems. Mỗi nhóm publisher vẫn chịu ảnh hưởng bởi cấu trúc thị trường họ phục vụ: Trung Quốc có super-app/mini-game logic, Hàn Quốc có service depth/IP/live ops logic, còn global mobile phụ thuộc nhiều vào store, ad network và platform distribution.
 
 Với AI, lợi thế execution thuần túy đang bị bào mòn. Code, art, asset và video creative rẻ hơn làm tăng nguồn cung game. Lợi thế chuyển sang game direction, systems design, level economy, live ops, creative testing, data interpretation và tổ chức thí nghiệm.
 
@@ -40,7 +40,7 @@ Fact:
 Hàm ý:
 - Việt Nam mạnh về sản lượng và reach toàn cầu.
 - Điểm yếu nằm ở value capture: IP, IAP, live ops, brand, first-party data.
-- Đây là nền rất tốt cho câu hỏi chiến lược: "Việt Nam muốn là công xưởng game hay trung tâm sở hữu IP/publishing?"
+- Đây là nền rất tốt cho câu hỏi chiến lược: "Việt Nam muốn là căn cứ sản xuất game hay trung tâm sở hữu IP/publishing?"
 
 Nguồn:
 - https://www.vnmobilegamingreport.com/
@@ -112,7 +112,7 @@ Nguồn:
 
 ### Claim nên ghi là suy luận
 
-- Trung Quốc muốn kiểm soát lớp dữ liệu tại Việt Nam.
+- Cross-border publishers có động lực sở hữu hoặc tiếp cận lớp dữ liệu có giá trị tại Việt Nam.
 - Publisher tìm Việt Nam như deal-flow/pipeline sản xuất, không chỉ thị trường tiêu thụ.
 - Analytics trở thành commodity khi mọi studio dùng cùng dashboard/benchmark.
 - Việt Nam đang đứng trước lựa chọn "production engine" hoặc "IP/publishing engine".
@@ -151,7 +151,7 @@ Luận điểm:
 - Player có LTV cao khan hiếm.
 
 Luận điểm:
-- Khi supply tăng nhanh hơn attention, game average sẽ chết không phải vì dở, mà vì không được khám phá hoặc không mua user có lời.
+- Khi supply tăng nhanh hơn attention, game trung bình sẽ bị loại khỏi cuộc chơi không phải vì dở, mà vì không được khám phá hoặc không mua user có lời.
 
 ### 4.3. Game Theory
 
@@ -162,7 +162,7 @@ Developer-publisher:
 
 Developer-developer:
 - Mỗi studio có động lực clone trend và test nhanh.
-- Tối ưu cục bộ tạo bão hòa mechanic, creative fatigue, CPI tăng.
+- Tối ưu cục bộ tạo bão hòa năng lực mechanic, creative fatigue, CPI tăng.
 
 Analytics/adtech:
 - Khi ít người có dữ liệu tốt, dữ liệu tạo alpha.
@@ -265,7 +265,7 @@ Hệ quả:
 - Deal publishing/M&A tăng.
 - Giá trị chảy về bên nắm data, UA, IP và monetization.
 
-### Kịch bản 2: Việt Nam thành công xưởng game
+### Kịch bản 2: Việt Nam thành căn cứ sản xuất game
 
 Xác suất: cao nếu không nâng cấp.
 
@@ -290,7 +290,7 @@ Xác suất: trung bình, nhưng là kịch bản đáng theo đuổi.
 - Có quan hệ trực tiếp với player.
 
 Hệ quả:
-- Publisher ngoại là option, không phải cửa duy nhất.
+- Global publishers là option, không phải cửa duy nhất.
 - Game Việt có cơ hội thành long-lifecycle franchise.
 
 ### Kịch bản 4: Analytics/adtech bubble điều chỉnh
@@ -313,14 +313,14 @@ Logic:
 - Privacy, child protection, loot box, dark patterns, app store fee, D2C/payment đều là biến số.
 
 Hệ quả:
-- Game phụ thuộc tracking/ads cưỡng bức/whale monetization chịu rủi ro cao.
+- Game phụ thuộc tracking/ad loop quá gắt/whale monetization chịu rủi ro cao.
 - Studio có first-party data và cộng đồng trực tiếp chống chịu tốt hơn.
 
 ## 7. Ngôn ngữ nên dùng trên LinkedIn
 
 Nên dùng:
 - "Theo tôi, đây là một suy luận chiến lược."
-- "Không nên hiểu đây là một ngày bão hòa cụ thể."
+- "Không nên hiểu đây là một ngày bão hòa năng lực cụ thể."
 - "Fact là X; inference là Y."
 - "Đây không phải lời khuyên đầu tư, mà là cách đọc cấu trúc ngành."
 - "Một số chiến lược sâu hơn tôi sẽ không public."

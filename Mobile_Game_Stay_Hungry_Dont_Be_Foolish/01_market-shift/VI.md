@@ -1,10 +1,10 @@
-## Bài 1 - Mobile games 2026 không chết, nhưng luật chơi đã đổi
+## Bài 1 - Mobile Games 2026 không biến mất, nhưng luật chơi đã đổi
 
-Nếu bạn bước vào mobile game năm 2026 với niềm tin rằng “làm game hay là đủ”, bạn đang dùng bản đồ của 10 năm trước.
+Với các studio bước vào mobile game năm 2026, giả định rằng “làm game hay là đủ” cần được cập nhật.
 
-Game không chết.
+Game không biến mất.
 
-Công thức cũ chết.
+Công thức cũ mất lợi thế.
 
 Đó là thesis của tôi cho mobile game 2026.
 
@@ -59,7 +59,7 @@ Nó có monetization đủ sâu để LTV cao hơn CAC không?
 
 Nó có live ops đủ đều để giữ người chơi quay lại sau D7, D30, D90 không?
 
-Đây là lúc phải nhìn ngành game như một chuỗi giá trị, không chỉ như một sản phẩm.
+Một cách nhìn hữu ích hơn là xem ngành game như một chuỗi giá trị, không chỉ như một sản phẩm.
 
 Một chuỗi đơn giản có thể là:
 
@@ -77,13 +77,13 @@ Live ops biến một game thành một business dài hạn.
 
 Trong chuỗi này, developer vẫn rất quan trọng. Nhưng developer không còn là toàn bộ cuộc chơi.
 
-Nếu bạn chỉ làm game, nhưng không hiểu UA, bạn sẽ phụ thuộc.
+Nếu một studio làm được game nhưng không hiểu UA, studio đó sẽ cần hỗ trợ bên ngoài mạnh hơn.
 
-Nếu bạn chỉ có downloads, nhưng không có IAP, bạn yếu về value capture.
+Nếu một studio có downloads nhưng chưa có IAP tốt, năng lực value capture vẫn còn hạn chế.
 
-Nếu bạn có sản lượng, nhưng không có IP và data, bạn dễ thành production house.
+Nếu một studio có sản lượng nhưng chưa có IP và first-party data, vai trò trong chuỗi giá trị vẫn nghiêng về supply hơn là ownership.
 
-Nếu bạn có ý tưởng, nhưng không có vòng lặp test, bạn đang đánh bạc.
+Nếu một studio có ý tưởng nhưng không có testing loop, chất lượng quyết định sẽ khó kiểm soát.
 
 Đây là lý do tôi chọn tên chuỗi:
 
@@ -99,27 +99,27 @@ Phải muốn hiểu người chơi sâu hơn.
 
 Phải muốn đi ra thị trường toàn cầu.
 
-Nhưng đừng foolish.
+Hàm ý thực tế là giữ tham vọng, đồng thời quản trị rủi ro.
 
-Đừng nghĩ thị trường còn dễ như 2018.
+Xem playbook 2018 như bối cảnh lịch sử, không phải mô hình mặc định.
 
-Đừng nghĩ copy một mechanic đang trend là đủ.
+Tách rõ benchmark mechanic với chiến lược sản phẩm.
 
-Đừng scale team khi chưa có signal.
+Scale đội ngũ sau khi có tín hiệu sản phẩm và thị trường.
 
-Đừng gọi mọi thứ là AI strategy chỉ vì có dùng vài tool tạo ảnh hoặc code.
+Định nghĩa AI strategy bằng tác động lên workflow, không phải bằng số lượng tool đang dùng.
 
-Đừng ký deal mà sau deal không giữ được gì: không data, không IP, không know-how, không quyền tiếp cận người chơi.
+Thiết kế publishing deal để hai bên cùng tích lũy data, capability, product learning và alignment dài hạn.
 
-Suy luận của tôi là: điểm bão hòa của puzzle game không phải là lúc người chơi ngừng chơi puzzle.
+Một cách đọc hữu ích là: điểm bão hòa năng lực của puzzle game không phải là lúc người chơi ngừng chơi puzzle.
 
 Puzzle là nhu cầu giải trí rất bền. Con người luôn thích giải vấn đề vừa sức.
 
-Điểm bão hòa xảy ra khi chi phí để tìm, thu hút và giữ một người chơi tăng nhanh hơn giá trị kinh tế mà một game mới có thể tạo ra.
+Điểm bão hòa năng lực xảy ra khi chi phí để tìm, thu hút và giữ một người chơi tăng nhanh hơn giá trị kinh tế mà một game mới có thể tạo ra.
 
-Khi đó, game không chết.
+Khi đó, game không biến mất.
 
-Nhưng công thức cũ chết.
+Nhưng công thức cũ mất lợi thế.
 
 Làm puzzle đơn giản -> chạy creative -> mua user -> nhét ads -> scale toàn cầu.
 
@@ -135,12 +135,19 @@ Nhưng cơ hội không chia đều cho tất cả.
 
 Nó nghiêng về những team hiểu rằng game bây giờ là một hệ thống kinh tế của attention, data, distribution và hành vi người chơi.
 
-Câu hỏi tôi nghĩ mỗi studio nên tự hỏi không phải là:
+Với studio, câu hỏi hữu ích không chỉ là:
 
 "Game của mình có vui không?"
 
-Mà là:
+Câu hỏi chiến lược hơn là:
 
 "Game của mình có sống được trong một thị trường mà attention, data và distribution đều có giá không?"
 
 Nếu bạn đang làm game, điểm nghẽn lớn nhất của team bạn hiện tại là gì: sản phẩm, dữ liệu, UA hay monetization?
+
+## Nguồn tham khảo
+
+- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
+- TechCrunch / Appfigures, app downloads và consumer spending 2025: https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/
+- Voodoo, hybrid-casual transition và growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
+- Voodoo, growth team và UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo

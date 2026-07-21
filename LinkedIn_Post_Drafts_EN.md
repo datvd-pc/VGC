@@ -1,12 +1,12 @@
 # Mobile Game: Stay Hungry. Don't Be Foolish.
 
-## Post 1 - Mobile games are not dying. The old playbook is.
+## Post 1 - Mobile Games Are Still Growing. The Old Playbook Is Fading.
 
-If you enter mobile games in 2026 believing that "a good idea is enough", you are using an old map.
+For studios entering mobile games in 2026, the assumption that "a good idea is enough" needs to be updated.
 
 The market has changed.
 
-Mobile games are not dying. The old playbook is.
+Mobile Games Are Still Growing. The Old Playbook Is Fading.
 
 For a long time, the playbook was fairly simple:
 
@@ -85,7 +85,7 @@ Can the team operate the game past D7, D30, and D90?
 
 Can the game become an asset instead of a launch?
 
-This is why I think mobile games need to be understood as a value chain, not just a product.
+A more useful view is to understand mobile games as a value chain, not only as a product.
 
 Developer creates the core gameplay.
 
@@ -101,13 +101,13 @@ Live ops turns a game from a file into a business.
 
 In that chain, developers are still critical. But developers are not the whole game anymore.
 
-If you can build, but cannot read data, you are dependent.
+If a studio can build but cannot read data, it will need stronger external support.
 
-If you can generate downloads, but cannot capture IAP value, you are fragile.
+If a studio can generate downloads but cannot capture IAP value, value capture remains limited.
 
-If you have production volume, but no IP or first-party data, you may become a supplier, not a power center.
+If a studio has production volume but no IP or first-party data, its role in the value chain stays closer to supply than ownership.
 
-If you have ideas, but no testing loop, you are gambling.
+If a studio has ideas but no testing loop, decision quality becomes harder to control.
 
 That is why I chose this title for the series:
 
@@ -117,27 +117,27 @@ Stay hungry.
 
 Keep building. Keep testing. Keep learning. Keep looking at global markets. Keep improving craft.
 
-But don't be foolish.
+The practical implication is to stay ambitious while managing risk.
 
-Don't assume the 2018 market still exists.
+Treat the 2018 playbook as historical context, not the default model.
 
-Don't confuse cloning a trending mechanic with strategy.
+Separate mechanic benchmarking from strategy.
 
-Don't scale headcount before you have signals.
+Scale headcount after there are product and market signals.
 
-Don't call a list of AI tools an AI strategy.
+Define AI strategy by workflow impact, not by the number of tools used.
 
-Don't sign a publishing deal if, after the deal, you keep no data, no IP, no capability, and no real relationship with players.
+Structure publishing deals so that both sides build data, capability, product learning, and long-term alignment.
 
-My view is that puzzle games do not saturate when players stop liking puzzles.
+A useful interpretation is that puzzle games do not saturate when players stop liking puzzles.
 
 Humans will always enjoy solving problems that feel just within reach.
 
 Saturation happens when the cost of finding, acquiring, and retaining a player grows faster than the economic value a new game can create.
 
-At that point, games do not die.
+At that point, games do not disappear.
 
-The old formula dies.
+The old formula loses its edge.
 
 Simple puzzle mechanic -> creative test -> paid UA -> ad monetization -> global scale.
 
@@ -153,27 +153,27 @@ It is just not evenly distributed.
 
 It goes to teams that understand games as economic systems built on attention, data, distribution, and player behavior.
 
-So the question I would ask any studio is not:
+For studios, the useful question is not only:
 
 "Is our game fun?"
 
 That question matters, but it is incomplete.
 
-The better question is:
+The more strategic question is:
 
 "Can our game survive in a market where attention, data, and distribution all have a price?"
 
 If you are building mobile games today, where is your real bottleneck: product, data, UA, monetization, or live ops?
 
-## Post 2 - Chinese publishers are not just looking for games. They are looking for pipelines.
+## Post 2 - Cross-Border Publishers Are Not Just Looking for Games. They Are Building Production Partnerships.
 
 At Vietnam Game Connect, what stood out to me was not only the number of publishers.
 
 It was the density of infrastructure companies around them: analytics, adtech, payment, monetization, market intelligence, publishing platforms.
 
-Many of them were Chinese, or closely tied to the Chinese mobile game ecosystem.
+Some came from China. Some came from other mature publishing markets, including Korea. The pattern was broader than one country.
 
-The lazy conclusion is:
+The surface-level conclusion is:
 
 "They see Vietnam as an attractive market."
 
@@ -209,27 +209,27 @@ Scale 1.
 
 For a publisher, this is portfolio construction.
 
-For a small studio, each game can be existential.
+For a small studio, each game carries a higher concentration of risk.
 
-That asymmetry explains a lot of the industry.
+That difference in portfolio structure explains a lot of the industry.
 
-So why are Chinese companies interested?
+So why are cross-border publishers interested?
 
-I see four reasons.
+There are four structural reasons.
 
-First, the Chinese domestic market is huge, but brutally competitive.
+First, mature publishing markets are large, but intensely competitive.
 
-China's mini-game ecosystem on WeChat and Douyin has become a multi-billion-dollar market. Some reports estimate Chinese mini-games generated roughly USD 7.6-7.9 billion in revenue in 2025, with strong year-on-year growth.
+China's mini-game ecosystem on WeChat and Douyin is one example: it has become a multi-billion-dollar market, with some reports estimating roughly USD 7.6-7.9 billion in revenue in 2025. Korea is another example of a mature game market with strong publishing discipline, live operations, and IP thinking.
 
 But large does not mean easy.
 
-The market has licensing requirements, policy constraints, platform-specific rules, dense competition, and extremely fast cloning cycles.
+The market has licensing requirements, policy constraints, platform-specific rules, dense competition, and very fast iteration cycles.
 
 When every studio watches the same charts, the same ads, and the same benchmarks, alpha disappears quickly.
 
-Second, China is strong at industrialization.
+Second, mature Asian publishers are strong at industrialization.
 
-Many Chinese companies do not only make games. They industrialize game production.
+Many of these companies do not only make games. They industrialize game production.
 
 They track competitor creatives.
 
@@ -243,7 +243,7 @@ They run IAA and IAP systems.
 
 They localize fast.
 
-They clone, modify, and repackage mechanics.
+They benchmark, iterate, localize, and package mechanics for different markets.
 
 They plug AI into asset production, code, creative, and operations.
 
@@ -262,7 +262,7 @@ Vietnam is strong in:
 - global store experience;
 - fast-moving small teams.
 
-China is strong in:
+Cross-border publishers are strong in:
 
 - capital;
 - data infrastructure;
@@ -273,15 +273,15 @@ China is strong in:
 - live ops;
 - distribution scale.
 
-The fit is obvious.
+The fit is structurally clear.
 
-But complementarity does not mean equal bargaining power.
+The partnership still needs clear alignment around incentives, data, IP, and learning.
 
-In a developer-publisher relationship, the side that controls capital, data, UA, and distribution usually has more leverage.
+In most developer-publisher relationships, capital, data, UA, and distribution shape the commercial terms of collaboration.
 
-Fourth, Chinese publishers are not only looking for games.
+Fourth, cross-border publishers are evaluating repeatable production systems.
 
-They are looking for access to pipelines.
+They are looking for teams that can turn market feedback into multiple testable products over time.
 
 A Vietnamese studio may think:
 
@@ -293,37 +293,37 @@ A publisher may think:
 
 They are not only valuing the current game.
 
-They are valuing the team's future deal flow.
+They are valuing the team's ability to generate future product opportunities.
 
 This is why events like Vietnam Game Connect matter.
 
 They are not just marketplaces for games.
 
-They are where the industry reads the production capacity of a country.
+They are where the industry reads the production capacity and partnership readiness of a market.
 
 The opportunity for Vietnam is real.
 
 Studios can learn UA, monetization, analytics, creative testing, deal discipline, and product operations from global partners.
 
-But the risk is also real.
+The strategic trade-off is also real.
 
-If every deal gives the studio short-term money but no data, no IP, no capability, and no player relationship, Vietnam may increase output without increasing power.
+If partnerships focus only on short-term production fees, Vietnam may increase output without building enough long-term capability, data learning, or product ownership.
 
 There are two very different paths here.
 
-Vietnam can become an excellent game factory.
+Vietnam can become a strong production base.
 
 Or Vietnam can use this period to become a stronger base for IP ownership, long-term product operations, and eventually publishing capability.
 
-I do not think the Chinese wave should be viewed with fear.
+This cross-border wave is best read as a market signal.
 
-It should be viewed as a market signal.
+It reflects capital, tools, and operating capability looking for scalable production partners.
 
-When capital, analytics, adtech, and publishers come to Vietnam, it means Vietnam has something they need.
+When capital, analytics, adtech, and publishers come to Vietnam, it indicates that Vietnam has production capacity that can complement global publishing systems.
 
 The strategic question is:
 
-After they get what they need, what do we keep?
+After each partnership, what can both sides build beyond one launch?
 
 Money?
 
@@ -341,13 +341,13 @@ Stay Hungry. Don't Be Foolish.
 
 Learn from people who know how to scale.
 
-But do not become cheap supply for someone else's system by accident.
+The strategic goal is to avoid remaining only an production-only partner in a broader system.
 
-After every publishing deal, a Vietnamese studio should ask:
+After every publishing deal, a useful operating question is:
 
-"Are we selling a game, or are we selling the right to learn from our own pipeline?"
+"Are both sides building durable capability beyond the current game?"
 
-## Post 3 - Downloads are reach. IP, data, and distribution are power.
+## Post 3 - Downloads Are Reach. IP, Data, and Distribution Are Power.
 
 A country can rank near the top of the world in downloads and still miss the most valuable parts of the game industry.
 
@@ -363,7 +363,7 @@ Vietnam can produce for the world.
 
 But downloads are reach.
 
-IP, data, and distribution are power.
+IP, data, and distribution create strategic control.
 
 Those are not the same thing.
 
@@ -377,7 +377,7 @@ Power means you understand the player.
 
 Power means you can bring players into the next game.
 
-Power means you can negotiate with publishers instead of depending on them.
+Strategic control means the studio can choose the right publisher, channel, or operating model for each market.
 
 Power means your learning stays inside the company.
 
@@ -437,7 +437,7 @@ It may build a promising prototype but still not know why the test failed. Was t
 
 Publishers have a different bottleneck.
 
-They may have capital, tools, dashboards, ad networks, and monetization systems. What they need is a steady supply of games good enough to absorb that infrastructure.
+They may have capital, tools, dashboards, ad networks, monetization systems, and market-specific channels. What they need is a steady supply of games good enough to fit those systems.
 
 Investors have another blind spot.
 
@@ -485,7 +485,7 @@ Stay Hungry. Don't Be Foolish.
 
 Be hungry for global markets.
 
-But do not confuse downloads with power.
+Use downloads as a reach signal, not as a complete measure of strategic control.
 
 Do not confuse production volume with a moat.
 
@@ -497,7 +497,7 @@ The question for Vietnamese studios is:
 
 If you had to upgrade one capability in the next 12 months, what would you choose: game design, data, UA, live ops, or IP?
 
-## Post 4 - AI is not strategy. AI is acceleration.
+## Post 4 - AI Is Not Strategy. AI Is Acceleration.
 
 AI does not make the game business easier.
 
@@ -578,7 +578,7 @@ Understanding cohorts.
 
 Knowing the difference between a hard level and a confusing level.
 
-Knowing when to kill a prototype.
+Knowing when to stop a prototype.
 
 Knowing when not to scale.
 
@@ -606,7 +606,7 @@ But that does not mean small teams automatically win.
 
 Publishers have AI too.
 
-Chinese studios have AI too.
+Cross-border studios have AI too.
 
 Large studios have AI too.
 
@@ -674,7 +674,7 @@ It may be the ability to ask the right question, design the right experiment, an
 
 Is AI making game teams stronger, or just making the market louder?
 
-## Post 5 - Level design is monetization infrastructure.
+## Post 5 - Level Design Is Monetization Infrastructure.
 
 When a player buys five extra moves in a puzzle game, that decision is rarely random.
 
@@ -782,7 +782,7 @@ But this is a dangerous area.
 
 Good design feels fair.
 
-Bad design feels manipulative.
+Weak design feels extractive.
 
 The distance between the two is small.
 
@@ -808,13 +808,13 @@ The team needs to read:
 
 Only then can the team know whether a level creates useful pressure or destroys trust.
 
-I think this is one of the biggest gaps for many Vietnamese studios.
+This appears to be one of the larger capability gaps for many Vietnamese studios.
 
 We can prototype fast.
 
 We can make art and UI fast.
 
-We can clone mechanics fast.
+We can benchmark mechanics quickly.
 
 But building a puzzle game with strong IAP requires another capability:
 
@@ -838,13 +838,13 @@ Good level design is making players understand why they lost, believe they can w
 
 For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
 
-## Post 6 - The 2026-2029 scenarios for Vietnamese mobile game studios.
+## Post 6 - The 2026-2029 Scenarios for Vietnamese Mobile Game Studios.
 
 The question is not whether Vietnamese game studios still have an opportunity.
 
 The question is where that opportunity sits in the value chain.
 
-I think 2026-2029 will be a restructuring period for mobile games, especially casual, puzzle, and hybrid-casual.
+The 2026-2029 period is likely to be a restructuring period for mobile games, especially casual, puzzle, and hybrid-casual.
 
 Not because players stop playing.
 
@@ -868,7 +868,7 @@ The old formula is not gone.
 
 It is just less forgiving.
 
-I see five scenarios.
+There are five practical scenarios.
 
 Scenario 1: Consolidation and winner-takes-most.
 
@@ -887,13 +887,13 @@ They can absorb failure because one large winner can pay for many tests.
 
 Small studios without capital or data will have fewer choices: sign with a publisher, become co-development partners, sell IP, or go very niche.
 
-Scenario 2: Vietnam becomes a game factory.
+Scenario 2: Vietnam becomes a production base.
 
 This is likely if we optimize only for production.
 
 Vietnam has real advantages: cost, speed, Unity/mobile talent, casual/puzzle experience, and global store execution.
 
-Foreign publishers need prototypes.
+Global publishers need prototypes.
 
 Adtech needs customers.
 
@@ -901,7 +901,7 @@ Analytics companies need data flow.
 
 The market needs new supply.
 
-But if Vietnamese studios do not accumulate IP, data, live ops, and publishing capability, output can grow while power stays elsewhere.
+But if Vietnamese studios do not accumulate IP, data, live ops, and publishing capability, output can grow while long-term strategic position remains limited.
 
 Scenario 3: A smaller group of Vietnamese studios become IP owners and publishers.
 
@@ -919,11 +919,11 @@ The requirement is organizational capability:
 - live ops calendars;
 - retention roadmaps;
 - first-party data;
-- publishing deals that do not give away all upside.
+- publishing deals with long-term alignment around IP, data, and commercial upside.
 
-In this scenario, foreign publishers become strategic options.
+In this scenario, global publishers become strategic channels and operating partners.
 
-Not the only door to the market.
+Not the only route to distribution, but an important path when the partnership matches the target market structure.
 
 Scenario 4: The analytics and adtech layer corrects.
 
@@ -941,7 +941,7 @@ Scenario 5: Platform or regulation shock.
 
 Apple, Google, privacy rules, child protection, loot boxes, dark patterns, app store fees, and D2C payments can all change the economics.
 
-Games that depend too heavily on tracking, forced ads, or opaque monetization will carry higher risk.
+Games that depend too heavily on tracking, aggressive ad loops, or opaque monetization will carry higher risk.
 
 Studios with first-party data, direct communities, and real player relationships will be more resilient.
 
@@ -987,23 +987,23 @@ Treat it like an operating asset.
 
 Read CAC, LTV, payback, retention, content velocity, platform risk, and team learning speed before talking about upside.
 
-I will not make every strategic playbook public.
+Some strategic playbooks are better handled in private discussions.
 
 Deal structure, IP/data negotiation, R&D/live ops org design, internal benchmarks, and M&A strategy belong in private conversations.
 
 But the public principle is simple:
 
-In a saturated market, the winner is not always the team that makes the most games.
+In a saturated market, the winner is not always the team with the highest production volume.
 
-The winner is the team that learns fastest, keeps the best data, and controls the deepest relationship with players.
+The winner is the team that learns fastest, builds the strongest data learning loop and the most durable player relationship.
 
 Stay Hungry. Don't Be Foolish.
 
 Be hungry for global markets.
 
-But do not go global by giving away every source of long-term power.
+Global expansion works better when IP, data, learning, distribution logic, and commercial alignment are designed into the partnership.
 
-Looking three years ahead, what do you want your studio to become: production house, IP owner, publisher, or something in between?
+Looking three years ahead, which role should your studio intentionally build toward for each market: production partner, IP owner, publishing partner, or hybrid operator?
 
 ## Sources to attach or cite when publishing
 
@@ -1011,7 +1011,7 @@ Looking three years ahead, what do you want your studio to become: production ho
 - Appfigures / TechCrunch, mobile app downloads and spending 2025.
 - Vietnam Mobile Game Industry Report 2025.
 - PocketGamer.biz coverage of Vietnam mobile game downloads.
-- PocketGamer.biz / SolarEngine coverage of China's mini-games market.
+- PocketGamer.biz / SolarEngine coverage of China's mini-games market and Asian publishing trends.
 - Voodoo on its hybrid-casual transition.
 - Google Cloud 2025 Games Report.
 

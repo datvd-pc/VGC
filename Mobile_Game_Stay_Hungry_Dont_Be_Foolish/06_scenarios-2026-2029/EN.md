@@ -1,10 +1,10 @@
-## Post 6 - The 2026-2029 scenarios for Vietnamese mobile game studios.
+## Post 6 - The 2026-2029 Scenarios for Vietnamese Mobile Game Studios.
 
 The question is not whether Vietnamese game studios still have an opportunity.
 
 The question is where that opportunity sits in the value chain.
 
-I think 2026-2029 will be a restructuring period for mobile games, especially casual, puzzle, and hybrid-casual.
+The 2026-2029 period is likely to be a restructuring period for mobile games, especially casual, puzzle, and hybrid-casual.
 
 Not because players stop playing.
 
@@ -28,7 +28,7 @@ The old formula is not gone.
 
 It is just less forgiving.
 
-I see five scenarios.
+There are five practical scenarios.
 
 Scenario 1: Consolidation and winner-takes-most.
 
@@ -47,13 +47,13 @@ They can absorb failure because one large winner can pay for many tests.
 
 Small studios without capital or data will have fewer choices: sign with a publisher, become co-development partners, sell IP, or go very niche.
 
-Scenario 2: Vietnam becomes a game factory.
+Scenario 2: Vietnam becomes a production base.
 
 This is likely if we optimize only for production.
 
 Vietnam has real advantages: cost, speed, Unity/mobile talent, casual/puzzle experience, and global store execution.
 
-Foreign publishers need prototypes.
+Global publishers need prototypes.
 
 Adtech needs customers.
 
@@ -61,7 +61,7 @@ Analytics companies need data flow.
 
 The market needs new supply.
 
-But if Vietnamese studios do not accumulate IP, data, live ops, and publishing capability, output can grow while power stays elsewhere.
+But if Vietnamese studios do not accumulate IP, data, live ops, and publishing capability, output can grow while long-term strategic position remains limited.
 
 Scenario 3: A smaller group of Vietnamese studios become IP owners and publishers.
 
@@ -79,11 +79,11 @@ The requirement is organizational capability:
 - live ops calendars;
 - retention roadmaps;
 - first-party data;
-- publishing deals that do not give away all upside.
+- publishing deals with long-term alignment around IP, data, and commercial upside.
 
-In this scenario, foreign publishers become strategic options.
+In this scenario, global publishers become strategic channels and operating partners.
 
-Not the only door to the market.
+Not the only route to distribution, but an important path when the partnership matches the target market structure.
 
 Scenario 4: The analytics and adtech layer corrects.
 
@@ -101,7 +101,7 @@ Scenario 5: Platform or regulation shock.
 
 Apple, Google, privacy rules, child protection, loot boxes, dark patterns, app store fees, and D2C payments can all change the economics.
 
-Games that depend too heavily on tracking, forced ads, or opaque monetization will carry higher risk.
+Games that depend too heavily on tracking, aggressive ad loops, or opaque monetization will carry higher risk.
 
 Studios with first-party data, direct communities, and real player relationships will be more resilient.
 
@@ -147,31 +147,32 @@ Treat it like an operating asset.
 
 Read CAC, LTV, payback, retention, content velocity, platform risk, and team learning speed before talking about upside.
 
-I will not make every strategic playbook public.
+Some strategic playbooks are better handled in private discussions.
 
 Deal structure, IP/data negotiation, R&D/live ops org design, internal benchmarks, and M&A strategy belong in private conversations.
 
 But the public principle is simple:
 
-In a saturated market, the winner is not always the team that makes the most games.
+In a saturated market, the winner is not always the team with the highest production volume.
 
-The winner is the team that learns fastest, keeps the best data, and controls the deepest relationship with players.
+The winner is the team that learns fastest, builds the strongest data learning loop and the most durable player relationship.
 
 Stay Hungry. Don't Be Foolish.
 
 Be hungry for global markets.
 
-But do not go global by giving away every source of long-term power.
+Global expansion works better when IP, data, learning, distribution logic, and commercial alignment are designed into the partnership.
 
-Looking three years ahead, what do you want your studio to become: production house, IP owner, publisher, or something in between?
+Looking three years ahead, which role should your studio intentionally build toward for each market: production partner, IP owner, publishing partner, or hybrid operator?
 
-## Sources to attach or cite when publishing
+## Sources
 
 - Sensor Tower, State of Mobile Gaming 2025.
 - Appfigures / TechCrunch, mobile app downloads and spending 2025.
 - Vietnam Mobile Game Industry Report 2025.
 - PocketGamer.biz coverage of Vietnam mobile game downloads.
-- PocketGamer.biz / SolarEngine coverage of China's mini-games market.
+- PocketGamer.biz / SolarEngine coverage of China's mini-games market and Asian publishing trends.
 - Voodoo on its hybrid-casual transition.
 - Google Cloud 2025 Games Report.
-
+- KOCCA, 2025 Korea Game White Paper summary: https://welcon.kocca.kr/ko/info/report/1957738
+- KOCCA, 2025 Game User Survey: https://www.kocca.kr/kocca/koccanews/reportview.do?menuNo=204&nttNo=1073

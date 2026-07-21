@@ -1,4 +1,4 @@
-## Post 4 - AI is not strategy. AI is acceleration.
+## Post 4 - AI Is Not Strategy. AI Is Acceleration.
 
 AI does not make the game business easier.
 
@@ -79,7 +79,7 @@ Understanding cohorts.
 
 Knowing the difference between a hard level and a confusing level.
 
-Knowing when to kill a prototype.
+Knowing when to stop a prototype.
 
 Knowing when not to scale.
 
@@ -107,7 +107,7 @@ But that does not mean small teams automatically win.
 
 Publishers have AI too.
 
-Chinese studios have AI too.
+Cross-border studios have AI too.
 
 Large studios have AI too.
 
@@ -175,3 +175,9 @@ It may be the ability to ask the right question, design the right experiment, an
 
 Is AI making game teams stronger, or just making the market louder?
 
+## Sources
+
+- Google Cloud, 2025 Games Report: https://cloud.google.com/resources/games-report
+- GamesRadar, Steam AI disclosure study coverage: https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/
+- SolarEngine / Insightrackr, 2026 Mini Games Growth Report: https://blog.insightrackr.com/en/docs/mini-game-report-2026
+- Voodoo, growth team and high-volume creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo

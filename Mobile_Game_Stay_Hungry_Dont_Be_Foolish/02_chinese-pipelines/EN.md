@@ -1,182 +1,147 @@
-## Post 2 - Chinese publishers are not just looking for games. They are looking for pipelines.
+## Post 2 - Why Cross-Border Publishers Come to Vietnam
 
-At Vietnam Game Connect, what stood out to me was not only the number of publishers.
+At Vietnam Game Connect, the most important signal was not only the presence of publishers.
 
-It was the density of infrastructure companies around them: analytics, adtech, payment, monetization, market intelligence, publishing platforms.
+It was the type of companies around them: analytics, adtech, payment, monetization, market intelligence, publishing platforms, and growth infrastructure.
 
-Many of them were Chinese, or closely tied to the Chinese mobile game ecosystem.
+Some came from China. Some came from Korea. Others came from broader global publishing ecosystems.
 
-The lazy conclusion is:
+The pattern is not limited to one country.
 
-"They see Vietnam as an attractive market."
+The structural question is:
 
-That is true, but incomplete.
+Why do these companies come to Vietnam?
 
-Vietnam is not only a player market.
+The answer is not simply "Vietnam is an attractive player market."
 
-Vietnam is becoming a production pipeline.
+For many cross-border publishers, Vietnam is primarily a supply-side market: a place to find development teams, production capacity, prototypes, and repeatable product pipelines.
 
-According to the Vietnam Mobile Game Industry Report 2025, Vietnamese games generated around 4.9 billion global downloads in 2025. Roughly 95% of those downloads came from international markets. Simulation, Puzzle, and Arcade accounted for about two-thirds of total downloads.
+The domestic player market is still important, but it is usually operated more directly by local publishers and local market specialists. Cross-border publishers often look at Vietnam from a different angle.
 
-That fact says something important:
+They look at Vietnam as a development base.
 
-Vietnamese studios already know how to produce mobile games for global distribution.
+They look at Vietnam as a source of mobile-first teams.
 
-Not AAA blockbusters.
+They look at Vietnam as a place where mechanics, creatives, and prototypes can be produced and tested with high speed and efficient cost.
 
-But mobile-first products where speed, cost, iteration, and lightweight teams matter.
+They also look at Vietnam as a practical gateway into Southeast Asia and wider global distribution.
 
-That is exactly what publishers need.
+The data supports this view.
 
-A publisher does not need every game to win.
+Vietnam Mobile Game Industry Report 2025 shows that Vietnamese games generated around 4.9 billion global downloads in 2025. Only a small share came from the domestic market, while the majority came from international markets. Simulation, Puzzle, and Arcade made up roughly two-thirds of total downloads.
 
-A publisher needs options.
+That points to an export-oriented production ecosystem.
 
-Look at 100 prototypes.
+Vietnam is not only consuming mobile games.
 
-Test 20.
+Vietnam is producing mobile games for the world.
 
-Soft launch 5.
+This matters because publishers from different markets optimize for different distribution structures and customer segments.
 
-Scale 1.
+China has a strong super-app and mini-game logic.
 
-For a publisher, this is portfolio construction.
+WeChat, Douyin, Kuaishou, Alipay, and other platforms shape how games are discovered, tested, monetized, and shared. Mini-games in China have become a multi-billion-dollar market, with reports estimating roughly USD 7.6-7.9 billion in 2025 revenue. This creates a publishing culture that values fast iteration, creative testing, social loops, instant-play design, and platform-native monetization.
 
-For a small studio, each game can be existential.
+Korea has a different market logic.
 
-That asymmetry explains a lot of the industry.
+The Korean market is shaped by high service expectations, polished live operations, IP continuity, strong community management, and deeper engagement from core users. KOCCA data shows that Korea's game market remains large, with mobile accounting for a major share of total market revenue, even as overall game usage patterns shift toward core users.
 
-So why are Chinese companies interested?
+Global mobile has another logic again.
 
-I see four reasons.
+App Store, Google Play, Samsung Galaxy Store, ad networks, OEM stores, and regional distribution channels shape how games scale. In this environment, creative performance, UA economics, retention, store compliance, and monetization design become central.
 
-First, the Chinese domestic market is huge, but brutally competitive.
+So the right way to read publisher interest is not by nationality alone.
 
-China's mini-game ecosystem on WeChat and Douyin has become a multi-billion-dollar market. Some reports estimate Chinese mini-games generated roughly USD 7.6-7.9 billion in revenue in 2025, with strong year-on-year growth.
+A publisher follows the structure of the market it serves.
 
-But large does not mean easy.
+China-leaning publishers may bring mini-game, super-app, and fast-iteration discipline.
 
-The market has licensing requirements, policy constraints, platform-specific rules, dense competition, and extremely fast cloning cycles.
+Korea-leaning publishers may bring service depth, IP discipline, live ops, and retention thinking.
 
-When every studio watches the same charts, the same ads, and the same benchmarks, alpha disappears quickly.
+Western and global mobile publishers may bring UA scale, creative systems, store operations, and portfolio publishing.
 
-Second, China is strong at industrialization.
+Vietnam sits at the intersection of these needs.
 
-Many Chinese companies do not only make games. They industrialize game production.
+Vietnam's comparative advantages are clear:
 
-They track competitor creatives.
+- efficient production cost;
+- fast prototyping;
+- Unity and mobile development talent;
+- casual, puzzle, arcade, and simulation experience;
+- export-oriented teams;
+- familiarity with global stores;
+- growing studio density.
 
-They test variants at scale.
-
-They predict LTV.
-
-They optimize bidding.
-
-They run IAA and IAP systems.
-
-They localize fast.
-
-They clone, modify, and repackage mechanics.
-
-They plug AI into asset production, code, creative, and operations.
-
-To them, a mechanic is not just an idea.
-
-It is raw material for a machine that can test, measure, and scale.
-
-Third, Vietnam has comparative advantage.
-
-Vietnam is strong in:
-
-- production cost;
-- prototype speed;
-- Unity/mobile talent;
-- casual and puzzle execution;
-- global store experience;
-- fast-moving small teams.
-
-China is strong in:
+Cross-border publishers bring complementary capabilities:
 
 - capital;
-- data infrastructure;
-- adtech;
-- AI pipelines;
-- monetization;
-- mini-game operations;
-- live ops;
-- distribution scale.
+- market access;
+- analytics;
+- UA systems;
+- creative testing;
+- monetization design;
+- platform knowledge;
+- live operations;
+- commercial discipline.
 
-The fit is obvious.
+This creates a practical partnership logic.
 
-But complementarity does not mean equal bargaining power.
+Vietnamese studios provide production capacity and product exploration.
 
-In a developer-publisher relationship, the side that controls capital, data, UA, and distribution usually has more leverage.
+Publishers provide market structure, distribution, monetization, and operating systems.
 
-Fourth, Chinese publishers are not only looking for games.
+The main strategic question is how to turn this relationship into capability growth on both sides.
 
-They are looking for access to pipelines.
+For a Vietnamese studio, the goal is not simply to get one game signed.
 
-A Vietnamese studio may think:
+The higher-value goal is to build a repeatable system:
 
-"We have one promising game."
+- better prototype selection;
+- faster creative validation;
+- stronger level and economy design;
+- clearer data reading;
+- better publishing terms;
+- more durable IP and product learning;
+- stronger long-term partnership alignment.
 
-A publisher may think:
+For publishers, Vietnam is attractive because it can increase the quality and volume of product opportunities.
 
-"This team can produce ten testable ideas over the next year."
+For studios, publishers are valuable because they can compress learning cycles that would be expensive to build alone.
 
-They are not only valuing the current game.
+The relationship works best when both sides are explicit about what is being built beyond the current launch.
 
-They are valuing the team's future deal flow.
+Not only revenue.
 
-This is why events like Vietnam Game Connect matter.
+Not only downloads.
 
-They are not just marketplaces for games.
+Not only a one-game publishing deal.
 
-They are where the industry reads the production capacity of a country.
+But capability.
 
-The opportunity for Vietnam is real.
+Data learning.
 
-Studios can learn UA, monetization, analytics, creative testing, deal discipline, and product operations from global partners.
+Operating discipline.
 
-But the risk is also real.
+Product judgment.
 
-If every deal gives the studio short-term money but no data, no IP, no capability, and no player relationship, Vietnam may increase output without increasing power.
-
-There are two very different paths here.
-
-Vietnam can become an excellent game factory.
-
-Or Vietnam can use this period to become a stronger base for IP ownership, long-term product operations, and eventually publishing capability.
-
-I do not think the Chinese wave should be viewed with fear.
-
-It should be viewed as a market signal.
-
-When capital, analytics, adtech, and publishers come to Vietnam, it means Vietnam has something they need.
-
-The strategic question is:
-
-After they get what they need, what do we keep?
-
-Money?
-
-Skills?
-
-Data?
-
-IP?
-
-Publishing relationships?
-
-Or just another production cycle?
+Commercial alignment.
 
 Stay Hungry. Don't Be Foolish.
 
-Learn from people who know how to scale.
+Vietnam should remain open to cross-border publishing partnerships.
 
-But do not become cheap supply for someone else's system by accident.
+The strategic task is to make those partnerships compound.
 
-After every publishing deal, a Vietnamese studio should ask:
+After each partnership, the useful question is:
 
-"Are we selling a game, or are we selling the right to learn from our own pipeline?"
+"What capability did both sides build that makes the next game more likely to succeed?"
 
+## Sources
+
+- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
+- PocketGamer.biz, Vietnamese puzzle, simulation and arcade games are most-downloaded in the world: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/
+- PocketGamer.biz, Vietnam Global Game Developers Mixer: https://www.pocketgamer.biz/pocketgamerbiz-and-enjoypay-vietnam-global-game-developers-mixer-welcomes-local-and-international-studios/
+- PocketGamer.biz, China mini-games market: https://www.pocketgamer.biz/the-key-numbers-on-chinas-booming-mini-games-market/
+- SolarEngine / Insightrackr, 2026 Mini Games Growth Report: https://blog.insightrackr.com/en/docs/mini-game-report-2026
+- KOCCA, 2025 Korea Game White Paper summary: https://welcon.kocca.kr/ko/info/report/1957738
+- KOCCA, 2025 Game User Survey: https://www.kocca.kr/kocca/koccanews/reportview.do?menuNo=204&nttNo=1073

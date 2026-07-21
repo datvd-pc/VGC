@@ -1,12 +1,12 @@
 # Mobile Game: Stay Hungry. Don't Be Foolish.
 
-## Post 1 - Mobile games are not dying. The old playbook is.
+## Post 1 - Mobile Games Are Still Growing. The Old Playbook Is Fading.
 
-If you enter mobile games in 2026 believing that "a good idea is enough", you are using an old map.
+For studios entering mobile games in 2026, the assumption that "a good idea is enough" needs to be updated.
 
 The market has changed.
 
-Mobile games are not dying. The old playbook is.
+Mobile Games Are Still Growing. The Old Playbook Is Fading.
 
 For a long time, the playbook was fairly simple:
 
@@ -85,7 +85,7 @@ Can the team operate the game past D7, D30, and D90?
 
 Can the game become an asset instead of a launch?
 
-This is why I think mobile games need to be understood as a value chain, not just a product.
+A more useful view is to understand mobile games as a value chain, not only as a product.
 
 Developer creates the core gameplay.
 
@@ -101,13 +101,13 @@ Live ops turns a game from a file into a business.
 
 In that chain, developers are still critical. But developers are not the whole game anymore.
 
-If you can build, but cannot read data, you are dependent.
+If a studio can build but cannot read data, it will need stronger external support.
 
-If you can generate downloads, but cannot capture IAP value, you are fragile.
+If a studio can generate downloads but cannot capture IAP value, value capture remains limited.
 
-If you have production volume, but no IP or first-party data, you may become a supplier, not a power center.
+If a studio has production volume but no IP or first-party data, its role in the value chain stays closer to supply than ownership.
 
-If you have ideas, but no testing loop, you are gambling.
+If a studio has ideas but no testing loop, decision quality becomes harder to control.
 
 That is why I chose this title for the series:
 
@@ -117,27 +117,27 @@ Stay hungry.
 
 Keep building. Keep testing. Keep learning. Keep looking at global markets. Keep improving craft.
 
-But don't be foolish.
+The practical implication is to stay ambitious while managing risk.
 
-Don't assume the 2018 market still exists.
+Treat the 2018 playbook as historical context, not the default model.
 
-Don't confuse cloning a trending mechanic with strategy.
+Separate mechanic benchmarking from strategy.
 
-Don't scale headcount before you have signals.
+Scale headcount after there are product and market signals.
 
-Don't call a list of AI tools an AI strategy.
+Define AI strategy by workflow impact, not by the number of tools used.
 
-Don't sign a publishing deal if, after the deal, you keep no data, no IP, no capability, and no real relationship with players.
+Structure publishing deals so that both sides build data, capability, product learning, and long-term alignment.
 
-My view is that puzzle games do not saturate when players stop liking puzzles.
+A useful interpretation is that puzzle games do not saturate when players stop liking puzzles.
 
 Humans will always enjoy solving problems that feel just within reach.
 
 Saturation happens when the cost of finding, acquiring, and retaining a player grows faster than the economic value a new game can create.
 
-At that point, games do not die.
+At that point, games do not disappear.
 
-The old formula dies.
+The old formula loses its edge.
 
 Simple puzzle mechanic -> creative test -> paid UA -> ad monetization -> global scale.
 
@@ -153,15 +153,21 @@ It is just not evenly distributed.
 
 It goes to teams that understand games as economic systems built on attention, data, distribution, and player behavior.
 
-So the question I would ask any studio is not:
+For studios, the useful question is not only:
 
 "Is our game fun?"
 
 That question matters, but it is incomplete.
 
-The better question is:
+The more strategic question is:
 
 "Can our game survive in a market where attention, data, and distribution all have a price?"
 
 If you are building mobile games today, where is your real bottleneck: product, data, UA, monetization, or live ops?
 
+## Sources
+
+- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
+- TechCrunch / Appfigures, 2025 app downloads and consumer spending: https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/
+- Voodoo, hybrid-casual transition and growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
+- Voodoo, growth team and UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo

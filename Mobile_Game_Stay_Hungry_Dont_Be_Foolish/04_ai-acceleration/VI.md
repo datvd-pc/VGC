@@ -1,4 +1,4 @@
-## Bài 4 - AI is not strategy. AI is acceleration.
+## Bài 4 - AI Is Not Strategy. AI Is Acceleration.
 
 AI không làm ngành game dễ hơn.
 
@@ -69,7 +69,7 @@ Trong ngành game, giá trị sẽ dịch chuyển sang những thứ AI chưa t
 - xây progression dài hạn;
 - đọc cohort;
 - phân biệt level khó và level confusing;
-- quyết định kill hay continue một prototype;
+- quyết định stop hay continue một prototype;
 - biết khi nào không nên scale;
 - hiểu trade-off giữa retention và monetization;
 - thiết kế tổ chức để học nhanh hơn đối thủ.
@@ -96,7 +96,7 @@ Nhưng điều đó không có nghĩa team nhỏ sẽ dễ thắng.
 
 Vì publisher cũng có AI.
 
-Đối thủ Trung Quốc cũng có AI.
+Các studio cross-border cũng có AI.
 
 Studio lớn cũng có AI.
 
@@ -140,7 +140,7 @@ Hãy hungry với AI.
 
 Dùng AI để code nhanh hơn, vẽ nhanh hơn, test nhanh hơn, localize nhanh hơn, phân tích nhanh hơn.
 
-Nhưng đừng foolish khi nghĩ dùng AI là có strategy.
+Nhưng hãy tỉnh táo: đừng nghĩ dùng AI là có strategy.
 
 AI strategy không phải là danh sách tool.
 
@@ -157,3 +157,10 @@ Trong 3 năm tới, kỹ năng tăng giá nhất của người làm game có th
 Mà là khả năng đặt câu hỏi đúng, thiết kế thí nghiệm đúng và đọc kết quả đúng.
 
 Theo bạn, AI đang làm team game mạnh hơn thật, hay chỉ làm thị trường ồn hơn?
+
+## Nguồn tham khảo
+
+- Google Cloud, 2025 Games Report: https://cloud.google.com/resources/games-report
+- GamesRadar, tổng hợp nghiên cứu về Steam AI disclosure: https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/
+- SolarEngine / Insightrackr, 2026 Mini Games Growth Report: https://blog.insightrackr.com/en/docs/mini-game-report-2026
+- Voodoo, growth team và high-volume creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo

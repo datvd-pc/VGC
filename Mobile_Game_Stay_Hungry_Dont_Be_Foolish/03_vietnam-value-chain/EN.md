@@ -1,4 +1,4 @@
-## Post 3 - Downloads are reach. IP, data, and distribution are power.
+## Post 3 - Downloads Are Reach. IP, Data, and Distribution Are Power.
 
 A country can rank near the top of the world in downloads and still miss the most valuable parts of the game industry.
 
@@ -14,7 +14,7 @@ Vietnam can produce for the world.
 
 But downloads are reach.
 
-IP, data, and distribution are power.
+IP, data, and distribution create strategic control.
 
 Those are not the same thing.
 
@@ -28,7 +28,7 @@ Power means you understand the player.
 
 Power means you can bring players into the next game.
 
-Power means you can negotiate with publishers instead of depending on them.
+Strategic control means the studio can choose the right publisher, channel, or operating model for each market.
 
 Power means your learning stays inside the company.
 
@@ -88,7 +88,7 @@ It may build a promising prototype but still not know why the test failed. Was t
 
 Publishers have a different bottleneck.
 
-They may have capital, tools, dashboards, ad networks, and monetization systems. What they need is a steady supply of games good enough to absorb that infrastructure.
+They may have capital, tools, dashboards, ad networks, monetization systems, and market-specific channels. What they need is a steady supply of games good enough to fit those systems.
 
 Investors have another blind spot.
 
@@ -136,7 +136,7 @@ Stay Hungry. Don't Be Foolish.
 
 Be hungry for global markets.
 
-But do not confuse downloads with power.
+Use downloads as a reach signal, not as a complete measure of strategic control.
 
 Do not confuse production volume with a moat.
 
@@ -148,3 +148,10 @@ The question for Vietnamese studios is:
 
 If you had to upgrade one capability in the next 12 months, what would you choose: game design, data, UA, live ops, or IP?
 
+## Sources
+
+- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
+- PocketGamer.biz, Vietnamese puzzle, simulation and arcade games are most-downloaded in the world: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/
+- Vietnamnet, why Vietnam's game industry still lacks a lasting global hit: https://vietnamnet.vn/en/why-vietnam-s-game-industry-still-lacks-a-lasting-global-hit-2527824.html
+- PocketGamer.biz, VNG Game Studios company profile: https://www.pocketgamer.biz/industry/vng-game-studios/
+- PocketGamer.biz, Replay Global backs Vietnam-based Playard: https://www.pocketgamer.biz/replay-global-backs-vietnam-based-playard-to-scale-its-mobile-games-portfolio/

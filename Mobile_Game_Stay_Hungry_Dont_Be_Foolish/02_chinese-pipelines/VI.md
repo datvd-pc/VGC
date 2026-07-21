@@ -1,165 +1,147 @@
-## Bài 2 - Chinese publishers are not just looking for games. They are looking for pipelines.
+## Bài 2 - Vì sao cross-border publishers đến Việt Nam
 
-Ở Vietnam Game Connect, điều làm tôi chú ý không chỉ là số lượng publisher.
+Ở Vietnam Game Connect, tín hiệu quan trọng không chỉ là sự xuất hiện của nhiều publisher.
 
-Điều đáng chú ý hơn là mật độ của các công ty hạ tầng xung quanh họ: analytics, adtech, payment, monetization, publishing, market intelligence.
+Tín hiệu quan trọng hơn là loại công ty xuất hiện quanh họ: analytics, adtech, payment, monetization, market intelligence, publishing platforms và growth infrastructure.
 
-Nhiều trong số đó đến từ Trung Quốc hoặc gắn chặt với hệ sinh thái Trung Quốc.
+Một số đến từ Trung Quốc. Một số đến từ Hàn Quốc. Một số khác đến từ các hệ sinh thái publishing toàn cầu.
 
-Nếu nhìn bề mặt, ta rất dễ kết luận đơn giản:
+Pattern này không giới hạn trong một quốc gia.
 
-“Họ thấy Việt Nam là một thị trường hấp dẫn.”
+Câu hỏi cấu trúc là:
 
-Điều đó đúng, nhưng chưa đủ.
+Vì sao các công ty này đến Việt Nam?
 
-Việt Nam không chỉ là một thị trường người chơi.
+Câu trả lời không đơn giản là “Việt Nam là một thị trường người chơi hấp dẫn”.
 
-Việt Nam đang trở thành một production pipeline.
+Với nhiều cross-border publishers, Việt Nam trước hết là một supply-side market: nơi tìm team dev, năng lực production, prototype và product pipeline có thể lặp lại.
 
-Theo Vietnam Mobile Game Industry Report 2025, game Việt tạo ra khoảng 4.9 tỷ downloads toàn cầu trong năm 2025, đứng thứ 2 thế giới về installs theo quốc gia trong phạm vi báo cáo. Khoảng 95% downloads đến từ thị trường quốc tế. Simulation, Puzzle và Arcade chiếm khoảng hai phần ba tổng downloads.
+Thị trường người chơi nội địa vẫn quan trọng, nhưng thường được vận hành trực tiếp hơn bởi local publishers và các đơn vị hiểu local market. Cross-border publishers thường nhìn Việt Nam từ một góc khác.
 
-Fact này nói rất rõ:
+Họ nhìn Việt Nam như một development base.
 
-Studio Việt Nam đã biết cách sản xuất game mobile cho phân phối toàn cầu.
+Họ nhìn Việt Nam như một nguồn mobile-first teams.
 
-Không phải ở tầng AAA blockbuster.
+Họ nhìn Việt Nam như nơi có thể sản xuất và test mechanic, creative, prototype với tốc độ cao và chi phí hiệu quả.
 
-Mà ở tầng mobile, casual, puzzle, arcade, simulation, hybrid-casual, nơi tốc độ, chi phí và khả năng thử nghiệm là lợi thế lớn.
+Họ cũng nhìn Việt Nam như một gateway thực tế vào Đông Nam Á và phân phối toàn cầu rộng hơn.
 
-Đó chính là thứ publisher cần.
+Dữ liệu ủng hộ cách đọc này.
 
-Publisher không cần mọi game đều thắng.
+Vietnam Mobile Game Industry Report 2025 cho thấy game Việt tạo ra khoảng 4.9 tỷ downloads toàn cầu trong năm 2025. Chỉ một phần nhỏ đến từ thị trường nội địa, còn phần lớn đến từ thị trường quốc tế. Simulation, Puzzle và Arcade chiếm khoảng hai phần ba tổng downloads.
 
-Publisher cần options.
+Điều này cho thấy một hệ sinh thái sản xuất thiên về export.
 
-Họ nhìn 100 prototype, test 20 game, soft launch 5 game, scale 1 game. Một game đủ thắng có thể bù cho cả danh mục thất bại.
+Việt Nam không chỉ tiêu thụ mobile game.
 
-Với publisher, đó là optionality.
+Việt Nam đang sản xuất mobile game cho thế giới.
 
-Với một studio nhỏ, đó có thể là vấn đề sống còn.
+Điểm này quan trọng vì publisher từ các thị trường khác nhau tối ưu cho các cấu trúc phân phối và nhóm khách hàng khác nhau.
 
-Đây là điểm bất cân xứng cần nhìn rất tỉnh.
+Trung Quốc có logic super-app và mini-game rất mạnh.
 
-Vậy vì sao Trung Quốc quan tâm mạnh?
+WeChat, Douyin, Kuaishou, Alipay và các nền tảng khác ảnh hưởng trực tiếp đến cách game được discover, test, monetize và share. Mini-games tại Trung Quốc đã trở thành thị trường nhiều tỷ USD, với một số báo cáo ước tính khoảng 7.6-7.9 tỷ USD revenue năm 2025. Điều này tạo ra một publishing culture coi trọng fast iteration, creative testing, social loops, instant-play design và platform-native monetization.
 
-Theo tôi có 4 lý do.
+Hàn Quốc có một market logic khác.
 
-Một là thị trường nội địa Trung Quốc rất lớn nhưng rất cạnh tranh.
+Thị trường Hàn Quốc được định hình bởi kỳ vọng cao về service quality, live operations được polish kỹ, IP continuity, community management mạnh và mức độ engagement sâu từ core users. Dữ liệu KOCCA cho thấy thị trường game Hàn Quốc vẫn lớn, mobile chiếm tỷ trọng lớn trong tổng doanh thu, dù hành vi sử dụng game đang dịch chuyển về nhóm core users.
 
-Mini-games Trung Quốc, đặc biệt trên WeChat và Douyin, đã trở thành một thị trường nhiều tỷ USD. Một số báo cáo ước tính mini-games Trung Quốc tạo khoảng 7.65-7.9 tỷ USD revenue trong năm 2025 và tiếp tục tăng mạnh.
+Global mobile lại có một logic khác nữa.
 
-Nhưng thị trường lớn không có nghĩa là dễ.
+App Store, Google Play, Samsung Galaxy Store, ad networks, OEM stores và các kênh phân phối khu vực ảnh hưởng đến cách game scale. Trong môi trường này, creative performance, UA economics, retention, store compliance và monetization design trở thành các yếu tố trung tâm.
 
-Nó có licensing, policy, cạnh tranh nội địa, hệ sinh thái platform riêng, và tốc độ copy cực cao. Khi tất cả cùng theo dõi cùng bảng xếp hạng, cùng creative, cùng benchmark, cùng trend, lợi thế bị arbitrage rất nhanh.
+Vì vậy, không nên đọc sự quan tâm của publisher chỉ theo quốc tịch.
 
-Hai là Trung Quốc rất mạnh ở industrialization.
+Publisher đi theo cấu trúc thị trường mà họ đang phục vụ.
 
-Họ không chỉ làm game.
+Publisher nghiêng về Trung Quốc có thể mang tới mini-game, super-app và fast-iteration discipline.
 
-Họ công nghiệp hóa quá trình làm game:
+Publisher nghiêng về Hàn Quốc có thể mang tới service depth, IP discipline, live ops và retention thinking.
 
-- phân tích creative;
-- theo dõi đối thủ;
-- test hàng loạt variants;
-- dự báo LTV;
-- tối ưu bid;
-- vận hành IAA/IAP;
-- localize nhanh;
-- clone/cải tiến mechanic;
-- đưa AI vào asset, code, creative và live ops.
+Publisher phương Tây hoặc global mobile có thể mang tới UA scale, creative systems, store operations và portfolio publishing.
 
-Với họ, một mechanic không chỉ là ý tưởng.
+Việt Nam nằm ở giao điểm của các nhu cầu này.
 
-Nó là nguyên liệu đầu vào cho một hệ thống sản xuất, đo lường và scale.
+Lợi thế so sánh của Việt Nam khá rõ:
 
-Ba là Việt Nam có lợi thế so sánh.
+- chi phí production hiệu quả;
+- prototype nhanh;
+- nhân sự Unity và mobile development;
+- kinh nghiệm casual, puzzle, arcade và simulation;
+- các team thiên về export;
+- quen thuộc với global stores;
+- mật độ studio đang tăng.
 
-Việt Nam mạnh ở:
+Cross-border publishers mang tới các năng lực bổ sung:
 
-- chi phí production;
-- tốc độ prototype;
-- đội Unity/mobile đông;
-- kinh nghiệm casual/puzzle;
-- khả năng làm game cho global store;
-- tinh thần thực thi nhanh.
+- capital;
+- market access;
+- analytics;
+- UA systems;
+- creative testing;
+- monetization design;
+- platform knowledge;
+- live operations;
+- commercial discipline.
 
-Trung Quốc mạnh ở:
+Từ đó hình thành một partnership logic thực tế.
 
-- vốn;
-- adtech;
-- data;
-- AI pipeline;
-- monetization;
-- mini-game operation;
-- live ops;
-- scale distribution.
+Studio Việt Nam cung cấp production capacity và product exploration.
 
-Hai bên bổ sung cho nhau.
+Publishers cung cấp market structure, distribution, monetization và operating systems.
 
-Nhưng bổ sung không có nghĩa là cân bằng quyền lực.
+Câu hỏi chiến lược chính là làm sao biến quan hệ này thành capability growth cho cả hai phía.
 
-Trong một cuộc chơi developer-publisher, bên nào nắm vốn, data, UA và distribution thường có bargaining power cao hơn.
+Với một studio Việt Nam, mục tiêu không chỉ là ký được một game.
 
-Bốn là Trung Quốc không chỉ tìm game. Họ tìm quyền tiếp cận pipeline.
+Mục tiêu có giá trị cao hơn là xây một hệ thống có thể lặp lại:
 
-Một studio Việt có thể nghĩ: "Mình có một game tốt."
+- chọn prototype tốt hơn;
+- validate creative nhanh hơn;
+- thiết kế level và economy tốt hơn;
+- đọc data rõ hơn;
+- có publishing terms tốt hơn;
+- giữ được IP và product learning bền hơn;
+- tạo long-term partnership alignment tốt hơn.
 
-Một publisher có thể nghĩ khác: "Team này có khả năng tạo ra nhiều prototype tốt trong 12 tháng tới."
+Với publishers, Việt Nam hấp dẫn vì có thể tăng chất lượng và số lượng cơ hội sản phẩm.
 
-Tức là họ không chỉ định giá game hiện tại.
+Với studios, publishers có giá trị vì giúp rút ngắn learning cycles mà nếu tự xây sẽ rất tốn kém.
 
-Họ định giá năng lực sản xuất game tương lai.
+Quan hệ này hiệu quả nhất khi hai bên nói rõ đang cùng xây gì ngoài một lần launch hiện tại.
 
-Đây là lý do các sự kiện như Vietnam Game Connect quan trọng.
+Không chỉ revenue.
 
-Nó không chỉ là nơi bán game.
+Không chỉ downloads.
 
-Nó là nơi các bên đọc năng lực sản xuất của cả một thị trường.
+Không chỉ một publishing deal cho một game.
 
-Cơ hội cho Việt Nam là rất thật.
+Mà là capability.
 
-Studio Việt có thể học được UA, monetization, analytics, creative testing, deal structure, product discipline từ các đối tác quốc tế.
+Data learning.
 
-Nhưng rủi ro cũng rất thật.
+Operating discipline.
 
-Nếu sau mỗi deal, studio chỉ nhận tiền ngắn hạn mà không giữ được data, IP, capability và relationship với người chơi, thì Việt Nam sẽ tăng sản lượng nhưng không tăng quyền lực trong chuỗi giá trị.
+Product judgment.
 
-Nói cách khác:
-
-Chúng ta có thể trở thành công xưởng game rất tốt.
-
-Hoặc nâng cấp thành nơi tạo IP, vận hành product dài hạn và từng bước có publishing capability.
-
-Hai con đường này rất khác nhau.
-
-Tôi không nghĩ làn sóng Trung Quốc vào Việt Nam nên được nhìn bằng cảm xúc sợ hãi.
-
-Nên nhìn nó như một tín hiệu thị trường.
-
-Khi capital, analytics, adtech và publisher kéo đến, nghĩa là Việt Nam có thứ họ cần.
-
-Nhưng câu hỏi quan trọng là:
-
-Sau khi họ lấy thứ họ cần, mình giữ lại và tích lũy được gì?
-
-Tiền?
-
-Kỹ năng?
-
-Data?
-
-IP?
-
-Publishing relationship?
-
-Hay chỉ là thêm một vòng production?
+Commercial alignment.
 
 Stay Hungry. Don't Be Foolish.
 
-Muốn đi global thì phải học từ những người giỏi scale.
+Việt Nam nên mở với cross-border publishing partnerships.
 
-Nhưng muốn có vị thế dài hạn thì không thể chỉ làm nguồn cung rẻ cho hệ thống của người khác.
+Nhiệm vụ chiến lược là làm cho các partnership đó có khả năng compound.
 
-Sau mỗi deal publishing, studio Việt nên tự hỏi:
+Sau mỗi partnership, câu hỏi hữu ích là:
 
-"Mình đang bán một game, hay đang bán quyền học hỏi từ chính pipeline của mình?"
+“Hai bên đã xây được capability gì khiến game tiếp theo có xác suất thành công cao hơn?”
+
+## Nguồn tham khảo
+
+- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
+- PocketGamer.biz, game Việt nhóm puzzle/simulation/arcade dẫn đầu downloads: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/
+- PocketGamer.biz, Vietnam Global Game Developers Mixer: https://www.pocketgamer.biz/pocketgamerbiz-and-enjoypay-vietnam-global-game-developers-mixer-welcomes-local-and-international-studios/
+- PocketGamer.biz, thị trường mini-games Trung Quốc: https://www.pocketgamer.biz/the-key-numbers-on-chinas-booming-mini-games-market/
+- SolarEngine / Insightrackr, 2026 Mini Games Growth Report: https://blog.insightrackr.com/en/docs/mini-game-report-2026
+- KOCCA, 2025 Korea Game White Paper summary: https://welcon.kocca.kr/ko/info/report/1957738
+- KOCCA, 2025 Game User Survey: https://www.kocca.kr/kocca/koccanews/reportview.do?menuNo=204&nttNo=1073

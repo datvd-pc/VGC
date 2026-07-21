@@ -143,7 +143,7 @@ Dùng lặp có chủ đích trong cả chuỗi:
 - "Publisher không chỉ mua game. Publisher mua optionality."
 - "AI không phải strategy. AI là acceleration."
 - "Level design không chỉ là content. Nó là monetization infrastructure."
-- "Trong thị trường bão hòa, người thắng là người học nhanh hơn."
+- "Trong thị trường bão hòa năng lực, người thắng là người học nhanh hơn."
 
 ## 5. Bản đồ giọng văn theo từng bài
 
@@ -157,7 +157,7 @@ Mục tiêu:
 - Giúp người mới hiểu ngành.
 
 Câu lõi:
-> Game không chết. Công thức cũ chết.
+> Game không biến mất. Công thức cũ mất lợi thế.
 
 ### Bài 2
 
@@ -212,7 +212,7 @@ Mục tiêu:
 - Chốt vị thế thought leadership.
 
 Câu lõi:
-> Trong thị trường bão hòa, người thắng là người học nhanh hơn và giữ nhiều quyền kiểm soát hơn.
+> Trong thị trường bão hòa năng lực, người thắng là người học nhanh hơn và giữ nhiều quyền kiểm soát hơn.
 
 ## 6. Template triển khai cho từng bài
 

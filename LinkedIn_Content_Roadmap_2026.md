@@ -16,7 +16,7 @@ Xây dựng hình ảnh cá nhân như một người có khả năng:
 Series title dùng chung:
 > Mobile Game: Stay Hungry. Don't Be Foolish.
 
-### Bài 1 - Mobile Game: Stay Hungry. Don't Be Foolish. Ngành game mobile 2026 không chết, nhưng đã đổi luật chơi
+### Bài 1 - Mobile Game: Stay Hungry. Don't Be Foolish. Ngành game mobile 2026 không biến mất, nhưng đã đổi luật chơi
 
 Hook:
 > Nếu bạn bước vào ngành game năm 2026 với niềm tin "cứ làm game hay là thắng", bạn đang dùng bản đồ của 10 năm trước.
@@ -41,28 +41,28 @@ Kết bài:
 CTA:
 > Nếu bạn đang làm game, bạn thấy điểm nghẽn lớn nhất của team mình hiện tại là gì: sản phẩm, dữ liệu, UA hay monetization?
 
-### Bài 2 - Mobile Game: Stay Hungry. Don't Be Foolish. Vì sao publisher và adtech Trung Quốc đổ vào Việt Nam?
+### Bài 2 - Mobile Game: Stay Hungry. Don't Be Foolish. Vì sao cross-border publishers đang tìm production partnerships tại Việt Nam?
 
 Hook:
 > Ở Vietnam Game Connect, điều đáng chú ý không chỉ là số lượng publisher. Điều đáng chú ý là rất nhiều bên đến từ lớp analytics, adtech, payment và publishing.
 
 Thông điệp:
-- Trung Quốc không chỉ tìm người chơi Việt Nam.
-- Họ tìm pipeline sản xuất, mechanic mới, deal flow, dữ liệu và foothold Đông Nam Á.
+- Cross-border publishers không chỉ tìm người chơi Việt Nam.
+- Họ tìm production teams, prototype flow, repeatable product systems và khả năng gateway sang SEA/global markets.
 - Việt Nam hấp dẫn vì có sản lượng game toàn cầu rất cao, chi phí cạnh tranh và nhiều studio trẻ.
 
 Dữ liệu dùng:
 - Vietnam Mobile Game Industry Report 2025: 4.9B downloads, #2 globally, 27,388 new games, 210 studios.
 - Simulation/Puzzle/Arcade chiếm 66-67% downloads.
-- China mini-games 2025: khoảng 7.65-7.9B USD revenue, +34.39% YoY.
+- China mini-games as one benchmark: khoảng 7.65-7.9B USD revenue năm 2025, +34.39% YoY. Korea as another benchmark: mobile chiếm tỷ trọng lớn trong game revenue, nhưng market logic nghiêng nhiều về service quality, IP continuity và live ops.
 - NPPA approvals 2026 tăng tốc, nhưng vẫn là cơ chế kiểm soát quan trọng.
 
 Lý thuyết:
-- Comparative Advantage: Việt Nam mạnh production/speed/cost; Trung Quốc mạnh data/UA/monetization/industrialization.
+- Comparative Advantage: Việt Nam mạnh production/speed/cost; cross-border publishers mạnh data/UA/monetization/industrialization.
 - Game Theory: khi nội địa cạnh tranh cao, chiến lược "ra biển" trở thành phản ứng hợp lý.
 
 Kết bài:
-> Đây vừa là cơ hội học rất nhanh, vừa là rủi ro trở thành nguồn cung prototype giá tốt cho một hệ thống mà dữ liệu, IP và phân phối nằm ngoài tay mình.
+> Đây vừa là cơ hội học rất nhanh, vừa là rủi ro trở thành nguồn prototype có hiệu quả chi phí cao cho một hệ thống mà dữ liệu, IP và phân phối nằm ngoài tay mình.
 
 CTA:
 > Sau mỗi deal publishing, studio Việt tích lũy được gì ngoài tiền: dữ liệu, IP, know-how hay quan hệ với người chơi?
@@ -98,7 +98,7 @@ Kết bài:
 CTA:
 > Nếu phải chọn một năng lực để nâng cấp trong 12 tháng tới, studio Việt nên chọn: UA, game design, live ops hay data?
 
-### Bài 4 - Mobile Game: Stay Hungry. Don't Be Foolish. AI trong ngành game: lợi thế cạnh tranh hay máy gia tốc bão hòa?
+### Bài 4 - Mobile Game: Stay Hungry. Don't Be Foolish. AI trong ngành game: lợi thế cạnh tranh hay máy gia tốc bão hòa năng lực?
 
 Hook:
 > AI không làm ngành game dễ hơn. AI làm việc làm game dễ bắt đầu hơn, nhưng khó thắng hơn.
@@ -169,7 +169,7 @@ Thông điệp:
 
 Kịch bản public:
 - Hợp nhất và winner-takes-most.
-- Việt Nam thành công xưởng game.
+- Việt Nam thành căn cứ sản xuất game.
 - Việt Nam nâng cấp thành trung tâm IP/publishing.
 - Analytics/adtech bubble điều chỉnh.
 - Cú sốc platform/regulation.
@@ -188,7 +188,7 @@ Phần giữ private:
 - Chiến lược M&A hoặc build-buy-partner.
 
 Kết bài:
-> Trong thị trường bão hòa, người thắng không nhất thiết là người làm nhiều game nhất. Người thắng là người học nhanh nhất, giữ dữ liệu tốt nhất và kiểm soát quan hệ với người chơi sâu nhất.
+> Trong thị trường bão hòa năng lực, người thắng không nhất thiết là người làm nhiều game nhất. Người thắng là người học nhanh nhất, giữ dữ liệu tốt nhất và kiểm soát quan hệ với người chơi sâu nhất.
 
 CTA:
 > Nếu nhìn 3 năm tới, bạn muốn studio của mình là production house, IP owner, publisher hay một dạng hybrid?
@@ -196,7 +196,7 @@ CTA:
 ## Lịch đăng đề xuất
 
 - Tuần 1: Bài 1 - Market map.
-- Tuần 2: Bài 2 - Trung Quốc/Vietnam Game Connect.
+- Tuần 2: Bài 2 - Cross-border publishers, Vietnam as supply-side market, and platform-specific market logic.
 - Tuần 3: Bài 3 - Việt Nam trong value chain.
 - Tuần 4: Bài 4 - AI.
 - Tuần 5: Bài 5 - Level design/know-how.
@@ -214,9 +214,11 @@ Sơ đồ chuỗi giá trị:
 Dev -> Publisher -> UA/Ad Network -> Store/Platform -> Player -> Data -> Live Ops -> Monetization.
 
 ### Bài 2
-Ma trận lợi thế:
-- Việt Nam: speed, cost, production, prototype.
-- Trung Quốc: capital, data, UA, monetization, AI pipeline.
+Ma trận partnership:
+- Việt Nam: dev teams, speed, cost efficiency, prototype flow, export-oriented production.
+- China-leaning publishers: super-app/mini-game logic, fast iteration, platform-native monetization.
+- Korea-leaning publishers: service quality, IP continuity, polished live ops, core-user retention.
+- Global mobile publishers: store operations, UA scale, creative systems, portfolio publishing.
 
 ### Bài 3
 Pyramid value capture:
