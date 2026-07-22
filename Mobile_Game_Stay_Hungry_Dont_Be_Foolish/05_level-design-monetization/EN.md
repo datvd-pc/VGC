@@ -1,26 +1,16 @@
-## Post 5 - Level Design Is Monetization Infrastructure.
+# Day 5 - Level Design Is Monetization Infrastructure
+
+Stay Hungry. Don't Be Foolish.
 
 When a player buys five extra moves in a puzzle game, that decision is rarely random.
 
 It was designed.
 
-Many people look at puzzle games as core mechanics.
+Many people look at puzzle games as core mechanics: match-3, color sort, unscrew, parking, merge, hidden object.
 
-Match three tiles.
+But in a high-performing puzzle game, the core mechanic is only the visible layer.
 
-Sort colors.
-
-Unscrew bolts.
-
-Move cars.
-
-Merge objects.
-
-Find hidden items.
-
-That is the visible layer.
-
-The deeper layer is level design, pressure, reward, economy, and live ops.
+The deeper layer is level design, economy, pressure, reward, and live ops.
 
 A level does not only answer:
 
@@ -28,121 +18,47 @@ A level does not only answer:
 
 It also answers:
 
-"How long does it take the player to understand?"
+"How long does it take to understand?"
 
 "Did the player fail because of skill, or because the level was unclear?"
 
 "Did the player feel close?"
 
-"Did the player want to retry?"
-
-"Did the booster feel useful?"
+"Did the booster feel worth it?"
 
 "Did the player come back tomorrow?"
 
-This is why level design is monetization infrastructure under Dat Dao's puzzle framework.
+This is why Dat Dao treats level design as monetization infrastructure.
 
-Not because it should force players to pay.
+Not because levels should force players to pay. Because levels determine whether players trust the system enough to keep engaging.
 
-Because it determines whether players trust the system enough to keep engaging with it.
+A puzzle game moving from IAA to hybrid/IAP needs at least three level metrics:
 
-A puzzle game that wants to move from IAA to hybrid or IAP needs at least three level metrics.
+FAR - First Attempt Rate: share of players who pass on the first try. Too high may mean too easy. Too low may mean too hard or unclear.
 
-FAR: First Attempt Rate.
+APS - Attempts per Success: average attempts needed to pass. This separates useful challenge from frustration.
 
-The share of players who pass a level on the first try.
+SR - Success Rate: total share of players who eventually pass. This shows whether a level keeps players in flow or pushes them out.
 
-If FAR is too high, the level may be too easy.
+These metrics should not be read alone.
 
-If FAR is too low, the level may be too hard, or worse, unclear.
-
-APS: Attempts per Success.
-
-The average number of attempts required to pass.
-
-This helps separate real difficulty from frustration.
-
-SR: Success Rate.
-
-The total share of players who eventually pass.
-
-This helps show whether the level keeps players in flow or pushes them out of the game.
-
-These metrics should not be read in isolation.
-
-A level with low FAR, reasonable APS, and healthy SR may be a good challenge.
-
-A level with low FAR, high APS, and low SR may be damaging retention.
-
-A level with high FAR, low APS, and high SR may be useful for onboarding, but boring if repeated too long.
+Low FAR, reasonable APS, and healthy SR can be a good challenge. Low FAR, high APS, and low SR may damage retention. High FAR, low APS, and high SR can help onboarding, but becomes boring if repeated too long.
 
 Good designers do not just make hard levels.
 
-They design emotional curves.
+They design emotional curves: an easy moment, a focused challenge, a near miss, a reward, an event, and a booster that feels like a meaningful choice.
 
-A soft opening to make the player feel smart.
+Good design feels fair. Weak design feels extractive. The line is thin.
 
-A challenge that demands attention.
+Puzzle players accept losing when they understand why they lost. They reject losing when the system feels unfair.
 
-A near miss that says, "You almost had it."
+That is why level design must be data-informed: D1/D7 retention, fail points, booster usage, rage quits, session length, conversion after failure, and replay rate.
 
-A reward that releases tension.
+This may be a major capability gap for many Vietnamese studios.
 
-An event that gives a reason to return.
+We prototype fast. We make art and UI fast. We benchmark mechanics quickly.
 
-A booster that feels like a meaningful choice, not a tax.
-
-This is behavioral economics inside a game board.
-
-Loss aversion makes players care about progress.
-
-Near miss makes failure feel close to success.
-
-Sunk cost makes retrying feel reasonable.
-
-Variable reward keeps curiosity alive.
-
-But this is a dangerous area.
-
-Good design feels fair.
-
-Weak design feels extractive.
-
-The distance between the two is small.
-
-Puzzle players will accept losing if they understand why they lost.
-
-They will not accept losing if they feel the system cheated.
-
-That is why level design must be data-informed.
-
-Not just based on the designer's taste.
-
-The team needs to read:
-
-- D1 and D7 retention;
-- Fail points;
-- Booster usage;
-- Rage quits;
-- Session length;
-- Time to complete;
-- Moves or time remaining;
-- Conversion after failure;
-- Replay rate.
-
-Only then can the team know whether a level creates useful pressure or destroys trust.
-
-This appears to be one of the larger capability gaps for many Vietnamese studios.
-
-We can prototype fast.
-
-We can make art and UI fast.
-
-We can benchmark mechanics quickly.
-
-But building a puzzle game with strong IAP requires another capability:
-
-Designing pressure, reward, and progression through data.
+But strong IAP puzzle needs another capability: designing pressure, reward, and progression through data.
 
 Not more features.
 
@@ -150,27 +66,11 @@ A deeper core loop.
 
 Stay Hungry. Don't Be Foolish.
 
-Be hungry about monetization.
-
-But do not think monetization means more ads, more popups, and more offers.
-
 Good monetization starts with a level that makes the player want to stay.
 
-Good level design is not making players lose.
+Good level design makes players understand why they lost, believe they can win, and want to try again.
 
-Good level design is making players understand why they lost, believe they can win, and want to try again.
-
-For puzzle games, which metric would you read first: FAR, APS, SR, D1 retention, or conversion?
-
+If analytics capacity is limited, start with the three levels causing the most D1-D7 drop-off. Read FAR, APS, SR, and replay rate there first. Fixing three levels is often better than adding 30.
 
 ---
-**Author/Source:** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
-**Series:** "Mobile Game: Stay Hungry. Don't Be Foolish."
-
-## Sources
-
-- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
-- Voodoo, hybrid-casual transition and growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
-- Voodoo, growth team and UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo
-- Vietnam Mobile Gaming Industry Report 2025: https://www.vnmobilegamingreport.com/
-- PocketGamer.biz, Vietnamese puzzle, simulation and arcade games are most-downloaded in the world: https://www.pocketgamer.biz/vietnamese-puzzle-simulation-and-arcade-games-are-most-downloaded-in-the-world/
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90/)

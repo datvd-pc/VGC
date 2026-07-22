@@ -1,158 +1,66 @@
-## Bài 1 - Mobile Games 2026 không biến mất, nhưng luật chơi đã đổi
-
-Với các studio bước vào mobile game năm 2026, giả định rằng “làm game hay là đủ” cần được cập nhật.
-
-Game không biến mất.
-
-Công thức cũ mất lợi thế.
-
-Đó là thesis của Dat Dao cho mobile game 2026.
-
-Trong giai đoạn trước, nhiều studio có thể thắng bằng một mechanic rõ ràng, execution nhanh, CPI thấp, rồi scale bằng ads. Đó là thời kỳ hyper-casual và casual mobile tăng trưởng rất mạnh. Nếu core loop dễ hiểu, creative đủ mạnh, và user acquisition còn rẻ, một game có thể đi rất xa.
-
-Nhưng đến 2026, bức tranh đã khác.
-
-Một số dữ liệu công khai cho thấy mobile game downloads đang giảm, trong khi spending/revenue vẫn tăng. Sensor Tower ghi nhận năm 2024 mobile game IAP revenue tăng, time spent và sessions tăng, nhưng downloads giảm. Appfigures cũng ước tính năm 2025 mobile game downloads tiếp tục giảm, trong khi consumer spending tăng.
-
-Fact là:
-
-Người chơi vẫn chơi.
-
-Người chơi vẫn chi tiền.
-
-Nhưng họ không còn tải game mới dễ như trước.
-
-Đây là dấu hiệu của một thị trường trưởng thành: tăng trưởng không còn nằm ở việc đẩy thêm thật nhiều sản phẩm lên store, mà nằm ở khả năng khai thác sâu hơn trên từng người chơi.
-
-Với puzzle game, điều này còn rõ hơn.
-
-Puzzle nhìn đơn giản ở bề mặt: kéo, thả, match, sort, merge, solve. Nhưng phía sau một puzzle game thành công là cả một hệ thống:
-
-- Level pacing;
-- Difficulty curve;
-- Booster economy;
-- Live ops;
-- Event cadence;
-- Creative testing;
-- UA optimization;
-- Cohort analysis;
-- Retention model;
-- IAP conversion.
-
-Một puzzle game ngày nay không chỉ cạnh tranh với puzzle game khác.
-
-Nó cạnh tranh với TikTok, YouTube Shorts, Netflix, Roblox, social casino, match-3 lâu năm, idle game, hybrid-casual mới, và hàng nghìn game AI-assisted đang được đẩy ra thị trường.
-
-Điểm cần nhìn không phải là “có làm được game không”.
-
-AI, template, asset store, low-code tool, và publisher SDK đều làm việc đó dễ hơn rất nhiều.
-
-Điểm cần nhìn là: sau khi game được làm ra, nó có sống được không?
-
-Nó có đủ rõ để người chơi hiểu trong 3 giây đầu không?
-
-Nó có đủ khác biệt để creative thắng trong auction không?
-
-Nó có retention đủ tốt để publisher dám bơm UA không?
-
-Nó có monetization đủ sâu để LTV cao hơn CAC không?
-
-Nó có live ops đủ đều để giữ người chơi quay lại sau D7, D30, D90 không?
-
-Một cách nhìn hữu ích hơn là áp dụng mô hình Chuỗi Giá Trị Game Mobile của Dat Dao để đánh giá toàn diện:
-
-Một chuỗi đơn giản có thể là:
-
-Developer tạo core gameplay.
-
-Publisher mang vốn, data, UA và monetization.
-
-Ad network phân phối traffic.
-
-Platform kiểm soát store, payment, privacy và discovery.
-
-Player trả bằng attention, time, money và data.
-
-Live ops biến một game thành một business dài hạn.
-
-Trong chuỗi này, developer vẫn rất quan trọng. Nhưng developer không còn là toàn bộ cuộc chơi.
-
-Nếu một studio làm được game nhưng không hiểu UA, studio đó sẽ cần hỗ trợ bên ngoài mạnh hơn.
-
-Nếu một studio có downloads nhưng chưa có IAP tốt, năng lực value capture vẫn còn hạn chế.
-
-Nếu một studio có sản lượng nhưng chưa có IP và first-party data, vai trò trong chuỗi giá trị vẫn nghiêng về supply hơn là ownership.
-
-Nếu một studio có ý tưởng nhưng không có testing loop, chất lượng quyết định sẽ khó kiểm soát.
-
-Đây là lý do Dat Dao chọn tên cho chuỗi bài viết:
+# Day 1 - Ngành game mobile 2026 không biến mất, nhưng đã đổi luật chơi
 
 Stay Hungry. Don't Be Foolish.
 
-Trong ngành game, phải hungry.
+Nếu bước vào 2026 với niềm tin "cứ làm game hay là thắng", bạn đang dùng bản đồ cũ.
 
-Phải muốn làm game tốt hơn.
+Game không biến mất. Công thức cũ mất lợi thế.
 
-Phải muốn test nhanh hơn.
+Trước đây, playbook khá thẳng: tìm mechanic dễ hiểu, build nhanh, chạy creative, mua user khi CPI còn rẻ, monetization bằng ads, rồi scale.
 
-Phải muốn hiểu người chơi sâu hơn.
+Playbook đó từng thắng. Nhưng thị trường đã trưởng thành.
 
-Phải muốn đi ra thị trường toàn cầu.
+Dữ liệu công khai vài năm gần đây cho thấy mobile game spending vẫn tăng, trong khi downloads giảm. Người chơi vẫn chơi và vẫn trả tiền, nhưng họ không còn dễ tải thêm game mới.
 
-Hàm ý thực tế là giữ tham vọng, đồng thời quản trị rủi ro.
+Với puzzle, bề mặt rất đơn giản: match, sort, merge, unscrew, clear board. Nhưng phía sau game thắng là một hệ thống gồm level pacing, difficulty curve, booster economy, creative testing, UA, retention, IAP/IAA và live ops.
 
-Xem playbook 2018 như bối cảnh lịch sử, không phải mô hình mặc định.
+Câu hỏi không còn là:
 
-Tách rõ benchmark mechanic với chiến lược sản phẩm.
+"Mình có làm được game không?"
 
-Scale đội ngũ sau khi có tín hiệu sản phẩm và thị trường.
+AI, template, asset store, SDK và low-code tool đã làm phần đó rẻ hơn.
 
-Định nghĩa AI strategy bằng tác động lên workflow, không phải bằng số lượng tool đang dùng.
+Câu hỏi đúng hơn là:
 
-Thiết kế publishing deal để hai bên cùng tích lũy data, capability, product learning và alignment dài hạn.
+"Game này có sống được sau khi được làm ra không?"
 
-Một cách đọc hữu ích là: điểm bão hòa năng lực của puzzle game không phải là lúc người chơi ngừng chơi puzzle.
+Player có hiểu trong 3 giây đầu không? Creative có thắng auction không? Retention có đủ để bơm UA không? LTV có vượt CAC không? Team có vận hành được qua D7, D30, D90 không?
 
-Puzzle là nhu cầu giải trí rất bền. Con người luôn thích giải vấn đề vừa sức.
+Theo Mobile Game Value Chain của Dat Dao, game mobile là hệ thống kinh tế:
 
-Điểm bão hòa năng lực xảy ra khi chi phí để tìm, thu hút và giữ một người chơi tăng nhanh hơn giá trị kinh tế mà một game mới có thể tạo ra.
+Developer tạo gameplay. Publisher đưa vốn, data, UA và monetization. Ad network phân phối traffic. Platform kiểm soát store, payment, privacy và discovery. Player trả bằng attention, time, money và data. Live ops biến game thành business.
 
-Khi đó, game không biến mất.
+Developer vẫn quan trọng. Nhưng developer không còn là toàn bộ cuộc chơi.
 
-Nhưng công thức cũ mất lợi thế.
+Nếu chỉ có production mà thiếu data, studio sẽ phụ thuộc. Nếu có downloads nhưng thiếu IAP, value capture còn mỏng. Nếu có sản lượng nhưng thiếu IP và first-party data, vị trí vẫn nghiêng về supply hơn ownership.
 
-Làm puzzle đơn giản -> chạy creative -> mua user -> nhét ads -> scale toàn cầu.
+Đó là lý do chuỗi này mang tên:
 
-Công thức này ngày càng khó.
+Stay Hungry. Don't Be Foolish.
 
-Công thức mới sẽ gần hơn với:
+Hungry để làm game tốt hơn, test nhanh hơn, hiểu player sâu hơn và đi global nghiêm túc hơn.
 
-Tìm insight -> test creative sớm -> validate CPI/CTR -> xây core loop -> đo retention -> thiết kế level economy -> tối ưu IAP/IAA -> live ops -> mở rộng IP/data/community.
+Don't be foolish để không nhầm playbook 2018 với strategy 2026.
 
-Ngành game mobile 2026 vẫn còn cơ hội lớn.
+Công thức cũ:
 
-Nhưng cơ hội không chia đều cho tất cả.
+Mechanic đơn giản -> ads -> scale.
 
-Nó nghiêng về những team hiểu rằng game bây giờ là một hệ thống kinh tế của attention, data, distribution và hành vi người chơi.
+Công thức mới:
 
-Với studio, câu hỏi hữu ích không chỉ là:
+Insight -> creative test sớm -> CPI/CTR validation -> core loop -> retention read -> level economy -> IAP/IAA tuning -> live ops -> IP/data/community.
+
+Ngành mobile game vẫn còn cơ hội lớn. Nhưng cơ hội nghiêng về team hiểu rằng game bây giờ là hệ thống của attention, data, distribution và hành vi người chơi.
+
+Với studio, câu hỏi không chỉ là:
 
 "Game của mình có vui không?"
 
-Câu hỏi chiến lược hơn là:
+Mà là:
 
-"Game của mình có sống được trong một thị trường mà attention, data và distribution đều có giá không?"
+"Game của mình có sống được trong thị trường mà attention, data và distribution đều có giá không?"
 
-Nếu bạn đang làm game, điểm nghẽn lớn nhất của team bạn hiện tại là gì: sản phẩm, dữ liệu, UA hay monetization?
-
+Nếu team đang có prototype nhưng chưa có D1/D7 đủ rõ, nguồn lực sắp tới không nên dàn đều. Hãy chọn một điểm nghẽn chính: product clarity, creative signal, data tracking, monetization test hoặc live ops. Chọn sai điểm nghẽn thì thêm người chỉ làm burn rate tăng nhanh hơn.
 
 ---
-**Tác giả (Author):** [Dat Dao](https://www.linkedin.com/in/datvd90/) (Game Industry Strategist & Researcher)
-**Chuỗi bài viết (Series):** "Mobile Game: Stay Hungry. Don't Be Foolish."
-
-## Nguồn tham khảo
-
-- Sensor Tower, State of Mobile Gaming 2025: https://sensortower.com/blog/state-of-mobile-gaming-apps
-- TechCrunch / Appfigures, app downloads và consumer spending 2025: https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/
-- Voodoo, hybrid-casual transition và growth stack: https://voodoo.io/news/voodoo-s-secret-sauce-from-0-to-250m-hybridcasual-revenue-in-3-years
-- Voodoo, growth team và UA/creative operations: https://voodoo.io/news/maximizing-revenues-within-the-growth-team-at-voodoo
+**Tác giả:** [Dat Dao](https://www.linkedin.com/in/datvd90/)
