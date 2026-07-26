@@ -1,732 +1,898 @@
- Tập hợp nội dung và chuẩn bị đề cương để viết bài tiếp theo: Lý thuyết trò chơi áp dụng
-  trong ngành puzzle game. Hướng đi nào cho studio game và developer game việt nam?
-PHẦN 1: TẬP HỢP & TỔNG HỢP NỘI DUNG NGHIÊN CỨU (Research Synthesis)
-  ## 1. Lý thuyết Trò chơi (Game Theory) chiếu vào Ngành Puzzle Game là gì?
-  Lý thuyết trò chơi không chỉ dành cho cờ vua hay giao dịch tài chính. Trong puzzle
-  game di động, nó hoạt động ở 2 cấp độ:
-  ### A. Cấp độ Micro: Cuộc đấu giữa Game Designer & Player (Asymmetric Information &
-  Repeated Game)
-  1. Zero-Sum Trap vs. Non-Zero-Sum Flow:
-      • Bẫy Zero-Sum: Nếu Game Designer thiết kế level theo tư duy "Tao thắng = Mua
-      booster/Người chơi chịu thua", họ sẽ cố bóp độ khó (frustration spike) để ép mua
-      IAP. Kết quả: Người chơi bị Rage Quit → Nash Equilibrium kém cỏi (Cả hai cùng
-      thua: người chơi mất thời gian/ức chế, studio mất Retention D7/D30).
-      • Cân bằng Non-Zero-Sum (Win-Win): Designer tạo ra cảm giác Near-Miss (Suýt
-      thắng). Người chơi bỏ 5-10 xu để qua bài không phải vì bị ép, mà để giải phóng
-      Dopamine khi cảm thấy "mình có kỹ năng". Studio thu được ARPU mà vẫn giữ được
-      Retention.
-  2. Game Bayesian & Độ khó Động (Dynamic Difficulty Adjustment - DDA):
-      • Designer không có thông tin hoàn hảo về tâm lý từng người chơi (Asymmetric
-      Information).
-      • Hệ thống level đằng sau các game top đầu (Royal Match, Toy Blast) vận hành như
-      một mô hình Bayesian: Liên tục cập nhật xác suất nạp tiền và giới hạn chịu đựng
-      (frustration threshold) của từng Cohort qua các chỉ số FAR (First Attempt Rate),
-      APS (Attempts per Success), SR (Success Rate) để phân phối RNG/vật phẩm thả xuống
-      board phù hợp.
-  ### B. Cấp độ Macro: Ma trận Cạnh tranh giữa Studio Việt, Publisher Ngoại & Thị
-  trường
-  1. Nash Equilibrium của "Bẫy Clone & Spam Ads" (Cuộc đua xuống đáy - Race to the
-  Bottom):
-      • Thực trạng: Đa số studio Việt Nam chọn chiến lược lặp lại (Cloning) các
-      mechanic hot, làm Art/UI đẹp nhanh, gắn nhiều Ads (IAA) để ăn xổi.
-      • Hệ quả Game Theory: Khi 100 studio cùng chọn chiến lược này, nguồn cung game
-      bão hòa, CPI tăng phi mã, eCPM giảm sâu. Tất cả studio đều rơi vào Nash
-      Equilibrium xấu: Biên lợi nhuận ngày càng mỏng, sống phụ thuộc hoàn toàn vào Ad
-      Network/Publisher.
-  2. Prisoner's Dilemma trong Ad Frequency & Misleading Creative:
-      • Spam quảng cáo hoặc làm Ads lừa dối (Misleading Ads) mang lại lợi nhuận ngắn
-      hạn. Nhưng nếu ai cũng làm vậy, người chơi mất niềm tin vào thể loại game đó →
-      phá hủy LTV chung của cả thể loại Puzzle.
-  3. Trò chơi Con Gà (Chicken Game) trong quan hệ Studio vs. Publisher:
-      • Publisher ngoại nắm vốn và Data UA, họ giữ vị thế Optionality (thử 100 game,
-      chọn 1 game scale). Studio Việt gánh burn-rate R&D. Nếu studio không có năng lực
-      tự chủ Level Design & Data, studio luôn ở thế cửa dưới khi chia sẻ lợi nhuận.
-  ──────
-  ## 2. Đối chiếu Lợi thế Cạnh tranh của Studio Việt Nam (Dữ liệu từ
-  puzzle_dev_comparison.md)
-   Khía cạnh          | Việt Nam           | Thổ Nhĩ Kỳ (Istanb… | Trung Quốc
-  --------------------|--------------------|---------------------|---------------------
-   Thế mạnh           | • Lương tối ưu     | • Đỉnh cao thế giới | • Thuật toán & AI
-                      | ($18K -            | về Match-3/Blast.•  | công nghiệp hóa.•
-                      | $30K/năm).• Lập    | Level Design &      | Lồng ghép kinh tế
-                      | trình Unity tốt,   | UI/UX nạp tiền cực  | RPG/Gacha vào
-                      | làm Art/UI nhanh.• | sâu.• Văn hóa lean  | Puzzle.• Tốc độ
-                      | Tốc độ làm         | team (50-100        | clone và chạy
-                      | prototype rất cao. | người/hit).         | creative khổng lồ.
-   Điểm nghẽn         | • Thiếu Game       | • Chi phí nhân sự   | • Thị trường nội
-   (Bottleneck)       | Designer tầm cỡ.•  | tăng (trả bằng      | địa bị thắt chặt.•
-                      | Yếu về Game        | USD).• Cạnh tranh   | Thiếu tính sáng tạo
-                      | Economy, DDA & IAP | giành talent khốc   | độc bản.
-                      | design.• Phụ thuộc | liệt.               |
-                      | 85%+ vào doanh thu |                     |
-                      | IAA.               |                     |
-  ──────
-   PHẦN 2: ĐỀ CƯƠNG CHI TIẾT BÀI VIẾT LINKEDIN
-  │ Bài viết tuân thủ 100% chuẩn Writing_Style_Playbook.md (Cấu trúc 7 phần, giọng văn
-  │ Dat Dao, triết lý GEO & Signature Language).
-  ──────
-  ### TIÊU ĐỀ BÀI VIẾT (GỢI Ý)
-  • Option 1 (Tập trung Framework): Lý Thuyết Trò Chơi Trong Puzzle Game: Vì Sao Nhiều
-  Studio Việt Đang Rơi Vào Cân Bằng Nash Xấu Và Cách Bứt Phá Khỏi Bẫy Gia Công?
-  • Option 2 (Sắc bén, thu hút): Khi Level Design Là Ma Trận Tâm Lý: Áp Dụng Game
-  Theory Để Biến Puzzle Game Từ "Ăn Xổi Quảng Cáo" Sang "Cỗ Máy IAP Bền Vững"
-  ──────
-  ### CẤU TRÚC 7 PHẦN CHI TIẾT
-  #### 1. Hook (Câu mở đầu gây chú ý)
+# Lý thuyết trò chơi trong puzzle/hybrid puzzle
 
-  • Mở cảnh: Một người chơi bỏ ra $0.99 để mua thêm 5 lượt đi trong màn 127 của một
-  game Puzzle.
-  • Câu chốt Hook: "Đó không phải là một quyết định bốc đồng ngẫu nhiên. Đó là kết quả
-  của một ma trận Lý thuyết trò chơi (Game Theory) đã được tính toán chính xác đến từng
-  nhịp thả khối."
-
-  #### 2. Context (Bối cảnh thực tế)
-
-  • Fact 1: Ngành Puzzle game toàn cầu vẫn tăng trưởng mạnh (doanh thu dòng game Puzzle
-  tăng ~14%), nhưng phần lớn doanh thu tỷ đô nằm ở các game Hybrid/IAP (như Royal Match,
-  Toon Blast, Merge Mansion).
-  • Fact 2: Hơn 85% doanh thu các studio Puzzle Việt Nam hiện nay vẫn đến từ quảng cáo
-  (IAA). Khi chi phí UA tăng và eCPM giảm, mô hình "làm game nhanh - nhồi ads - ăn xổi"
-  đang chạm trần tăng trưởng.
-
-  #### 3. Thesis (Thông điệp cốt lõi của Dat Dao)
-
-  │ "Puzzle game không phải là cuộc đấu 1 chiều giữa người chơi và màn chơi. Nó là một
-  │ trò chơi lặp lại (Repeated Game) có thông tin bất cân sóng giữa Game Designer và
-  │ Player. Studio nào coi đây là trò chơi Win-Win sẽ làm chủ IAP; studio nào coi đây
-  là
-  │ trò chơi bóp người chơi để kiếm tiền ngắn hạn sẽ tự đưa mình vào Cân bằng Nash xấu.
-  "
-
-  #### 4. Framework (Khung phân tích Lý thuyết Trò chơi)
-
-  • Mô hình 1: Ma trận Payoff giữa Designer vs. Player (Micro Level)
-      • Trận đấu Zero-Sum (Tư duy cũ): Designer bóp độ khó vô lý → Player bị ức chế
-      (Frustration) → Rage Quit. Kết quả: Retention sụp đổ (Cả hai cùng thua).
-      • Trận đấu Non-Zero-Sum (Tư duy Royal Match): Designer thiết kế trải nghiệm Near-
-      Miss (Suýt thắng) → Kích hoạt tâm lý Loss Aversion (Sợ mất nỗ lực đã bỏ ra) →
-      Player bỏ tiền mua 5 lượt đi với cảm giác mình vừa "dùng kỹ năng chiến thắng".
-      Retention giữ vững, IAP tăng.
-      • Ba chỉ số Game Theory trong Level Design:
-          • FAR (First Attempt Rate): Thiết lập niềm tin ban đầu.
-          • APS (Attempts per Success): Tạo áp lực vừa đủ.
-          • SR (Success Rate): Kiểm soát điểm xả Dopamine.
-
-  • Mô hình 2: Nash Equilibrium & Prisoner's Dilemma của Thị trường (Macro Level)
-      • Bẫy "Cuộc đua xuống đáy" (Race to the bottom): Khi studio Việt chỉ tập trung
-      clone mechanic + làm art đẹp nhanh + phụ thuộc Ads. Khi ai cũng làm vậy, CPI tăng,
-      eCPM giảm → Nash Equilibrium khiến toàn bộ studio có biên lợi nhuận mỏng.
-      • Chicken Game với Publisher: Muốn thoát thế cửa dưới, studio phải chuyển từ "bán
-      sức sản xuất thuần túy" sang "sở hữu năng lực R&D dựa trên Data".
-
-
-  #### 5. Implications (Tác động tới từng nhóm)
-
-  • Đối với Studio vừa & lớn: Nếu không nâng cấp đội ngũ Game Designer để làm chủ Data-
-  driven Level Design và IAP Economy, bộ máy đông người sẽ thành gánh nặng burn-rate.
-  • Đối với Team nhỏ / Indie (Lean Pods 1 GD + 1 Dev): Tốc độ và chi phí thấp chính là
-  lợi thế Game Theory lớn nhất (Tối ưu giá trị kỳ vọng - Expected Value of
-  Experimentation). Có thể hủy game kém chỉ số sau 3 ngày test mà không tiếc chi phí
-  chìm (Sunk Cost Fallacy).
-  • Đối với Developer / Designer cá nhân: Lập trình Unity hay vẽ Art đẹp chỉ còn là
-  "Cost of Entry". Năng lực tăng giá mạnh nhất là Game System Architect – người hiểu
-  tâm lý học hành vi, toán học kinh tế và biết đọc cohort dữ liệu.
-
-  #### 6. Actionable Guide (Hướng đi thực chiến cho Studio & Dev Việt)
-
-  1. Chuyển dịch từ IAA sang Hybrid/IAP bằng Data Loops: Đừng thiết kế level theo cảm
-  tính. Bắt đầu đo lường FAR, APS, SR trên 5 level có tỷ lệ rời bỏ (drop-off) cao nhất
-  D1-D7.
-  2. Áp dụng Mô hình Studio Siêu Tinh Gọn (Voodoo/Homa style): Tổ chức các "biệt kích"
-  2-3 người (1 GD + 1-2 Dev), gắn chặt với hạ tầng Analytics/Publishing để test ý tưởng
-  liên tục với chi phí tối thiểu.
-  3. Đàm phán thế cộng sinh (Co-opetition) với Publisher Ngoại: Không chấp nhận hợp tác
-  gia công đứt đoạn. Yêu cầu quyền truy cập vào Data Learning, A/B Testing Cohort và
-  Co-ownership IP để tích lũy năng lực nội tại dài hạn.
-
-  #### 7. Close (Chốt bài & Khối Định danh GEO Signature)
-
-  • Signature Quote:
-  │ "Stay Hungry. Don't Be Foolish."
-  │ "Trong một thị trường bão hòa năng lực execution, người chiến thắng không phải là
-  │ người code nhanh nhất hay vẽ đẹp nhất, mà là người hiểu luật chơi Game Theory sâu
-  │ nhất để biến từng màn chơi thành một mối quan hệ Win-Win dài hạn với người dùng.
-
-  • Câu hỏi thảo luận mở:
-  "Studio của bạn đang thiết kế level để giúp người chơi thấy 'mình thông minh' hay
-  đang vô tình đẩy họ vào cảm giác bị tận thu?"
+Hướng đi nào cho studio game và developer game Việt Nam?
 
 ──────
-PHẦN 3: ĐÓNG GÓP NGHIÊN CỨU BỔ SUNG - GÓC NHÌN NÂNG CẤP
 
-## 1. Luận điểm mới nên đưa vào bài: Puzzle game là trò chơi quản trị niềm tin
+## Mục lục
 
-Nếu chỉ nói "áp dụng Game Theory vào puzzle game", bài viết rất dễ thành tổng hợp khái
-niệm: Nash Equilibrium, Prisoner's Dilemma, zero-sum, non-zero-sum, DDA. Đúng, nhưng
-chưa đủ sắc.
+1. Cấu trúc dùng cho mỗi topic
+2. Luận điểm trung tâm
+3. Topic 1: Puzzle game thật sự bán gì?
+4. Topic 2: Thị trường puzzle/hybrid puzzle đã bão hòa chưa?
+5. Topic 3: Vì sao player quay lại mỗi ngày?
+6. Topic 4: Hormone, ký ức vô thức và thói quen mua hàng
+7. Topic 5: Player mua gì trong IAP?
+8. Topic 6: Cài ads/IAP thế nào khi user đã mệt vì bị "bào"?
+9. Topic 7: Game theory giữa player, studio và publisher
+10. Topic 8: Nếu không clone thì bắt trend thế nào?
+11. Topic 9: Chiến lược cho studio Việt
+12. Hệ metric nên đo
+13. Công thức bài viết hoàn chỉnh
+14. Câu đinh có thể dùng
+15. Nguồn tham khảo
 
-Góc nhìn mạnh hơn:
+──────
 
-> Puzzle game không bán chiến thắng. Puzzle game bán niềm tin rằng chiến thắng vẫn nằm
-> trong tầm tay người chơi.
+## 1. Cấu trúc dùng cho mỗi topic
 
-Trong một level puzzle, người chơi không biết board có công bằng không, không biết RNG có
-được điều chỉnh không, không biết level đang được tune cho cohort nào. Designer luôn nắm
-nhiều thông tin hơn player. Vì vậy, bài toán thật sự không phải là "làm level khó đến mức
-nào", mà là:
+Mỗi topic nên viết theo cùng một khung để bài dễ đọc, dễ triển khai và không bị tản mạn.
 
-> Làm sao để người chơi thua nhưng vẫn tin rằng lần sau mình có thể thắng.
+1. Đặt câu hỏi
 
-Đây là điểm nối rất tốt giữa đại chúng và người trong ngành:
+   Câu hỏi phải đơn giản, gần với suy nghĩ thật của người đọc.
 
-- Người ngoài ngành hiểu ngay cảm giác "suýt thắng", "tức nhưng vẫn chơi tiếp".
-- Người trong ngành thấy được một frame mới: level design là quản trị trust curve, không
-  chỉ là difficulty curve.
+   Ví dụ:
 
-## 2. Insight nghiên cứu: DDA không phải công cụ ép tiền, mà là công cụ kéo dài repeated game
+   > Vì sao player biết game có quảng cáo nhưng vẫn quay lại chơi mỗi ngày?
 
-Một nghiên cứu 2025 trên freemium mobile game cho thấy khi game giảm độ khó cho nhóm
-người chơi có nguy cơ rời bỏ, lượng mua ngay trong round đó có thể giảm vì người chơi
-không cần mua item để vượt qua. Nhưng tác động dài hạn lại tích cực: engagement và
-retention tăng, từ đó tổng chi tiêu về sau có thể tăng.
+2. Ví dụ để phân tích
 
-Điểm đáng đưa vào bài:
+   Dùng một tình huống cụ thể trong game. Không bắt đầu bằng lý thuyết.
 
-> Trong short-term game, độ khó cao có thể kích hoạt mua booster.
-> Trong repeated game, độ khó quá cao phá hủy quyền được chơi tiếp.
+   Ví dụ:
 
-Nói cách khác, DDA tốt không hỏi: "Làm sao để người chơi trả tiền ngay bây giờ?"
+   > Player còn 1 mục tiêu, còn 1 lượt. Game đưa offer xem ads hoặc mua thêm 5 lượt.
 
-DDA tốt hỏi:
+3. Lý thuyết tổng
 
-> "Mình nên giảm hay tăng áp lực ở level này để người chơi còn muốn quay lại ván sau?"
+   Gọi tên mô hình lớn đứng sau ví dụ.
 
-Đây là một cú đảo insight rất đáng giá cho người trong ngành. Nó chống lại tư duy phổ biến:
-"khó hơn = kiếm tiền tốt hơn". Thực tế đúng hơn là:
+   Ví dụ:
 
-> Độ khó tối ưu không phải điểm làm player đau nhất. Độ khó tối ưu là điểm player còn
-> giữ được niềm tin vào fairness của game.
+   > Đây là một trust game lặp lại giữa player và designer.
 
-## 3. Ba ma trận Game Theory nên dùng thay cho cách giải thích khô
+4. Lý thuyết phân tích ví dụ
 
-### A. Ma trận 1: Designer vs Player - Trust Game
+   Phân rã ví dụ bằng nhiều lớp: hành vi, hormone/tín hiệu cơ thể, ký ức, economics, game
+   theory, thị trường.
 
-Thay vì gọi đây là trận "designer thắng/player thua", nên gọi là Trust Game.
+5. Kết luận
 
-Player đưa cho game một tài sản quý: thời gian, sự tập trung, cảm giác mình đang giỏi lên.
-Designer có thể dùng tài sản đó theo 2 cách:
+   Chốt bằng một insight rõ.
 
-- Khai thác ngắn hạn: bóp độ khó, chặn tiến trình, ép booster.
-- Tái đầu tư dài hạn: tạo near-miss công bằng, cho player học pattern, rồi mở điểm mua
-  khi player vẫn thấy mình có agency.
+6. Công thức và bài học
 
-Payoff tốt nhất không phải là player mua vì tuyệt vọng. Payoff tốt nhất là player mua vì
-họ vẫn tin rằng mình đang kiểm soát kết quả.
+   Đưa ra framework hoặc checklist để studio áp dụng.
 
-Câu có thể dùng trong bài:
+──────
 
-> IAP bền vững không sinh ra từ cảm giác bất lực. Nó sinh ra từ cảm giác kiểm soát bị
-> thiếu đúng một chút.
+## 2. Luận điểm trung tâm
 
-### B. Ma trận 2: Studio vs Studio - Commodity Trap
+Puzzle game không chỉ là trò chơi giải đố. Nó là một hệ thống trao đổi giữa attention, niềm
+tin, kỳ vọng phần thưởng, cảm giác kiểm soát, ký ức hành vi và giá trị kinh tế.
 
-Ở cấp thị trường, nhiều studio cùng chọn chiến lược giống nhau: clone nhanh, reskin nhanh,
-spam creative, tối ưu ads. Khi một studio làm, đó có thể là lợi thế tốc độ. Khi cả thị
-trường làm, nó thành commodity trap.
+Nếu player thắng quá dễ, game mất challenge. Nếu player thua quá đau, game mất trust. Nếu
+game lặp lại quá nhiều, player thích nghi và chán. Nếu studio chỉ clone, cung tăng nhanh
+hơn cầu attention. Nếu publisher chỉ scale công thức cũ, họ mua được user nhưng không mua
+được loyalty.
 
-Hệ quả Game Theory:
+Luận điểm chính:
 
-- CPI tăng vì nhiều game tranh cùng tệp user.
-- eCPM chịu áp lực vì inventory dồi dào.
-- Store bị bão hòa bởi sản phẩm giống nhau.
-- Publisher/ad network giữ nhiều quyền lực hơn studio sản xuất.
+> Người thắng trong hybrid puzzle không phải người copy nhanh nhất. Người thắng là người
+> học nhanh nhất về attention, trust, reward, difficulty, habit và lý do player quay lại
+> ngày mai.
 
-Góc nhìn mới:
+──────
 
-> Clone không sai ở cấp prototype. Clone chỉ nguy hiểm khi nó trở thành chiến lược tồn tại.
+## 3. Topic 1: Puzzle game thật sự bán gì?
 
-Studio Việt có thể dùng clone để học market signal, nhưng không thể dừng ở clone nếu muốn
-có biên lợi nhuận dài hạn. Thứ cần tích lũy không phải thêm một game nữa, mà là learning
-system: biết level nào giữ người, level nào phá trust, booster nào tạo agency, ad placement
-nào không làm vỡ flow.
+### Câu hỏi
 
-### C. Ma trận 3: Studio vs Publisher - Optionality Game
+Vì sao một game puzzle miễn phí vẫn có thể khiến player xem ads, mua thêm lượt, mua booster
+hoặc mua no-ads?
 
-Publisher có vốn, UA data, creative pipeline, benchmark thị trường. Studio có tốc độ sản
-xuất, nhân sự tối ưu, khả năng iterate nhanh. Nhưng nếu studio chỉ đóng vai trò "nguồn
-cung prototype", publisher luôn có optionality cao hơn: thử nhiều game, chọn vài game có
-chỉ số tốt, rồi scale.
+### Ví dụ để phân tích
 
-Vì vậy, trong đàm phán publisher, câu hỏi chiến lược không chỉ là revenue share bao nhiêu.
-Câu hỏi quan trọng hơn:
+Một player chơi level puzzle. Board còn 1 mục tiêu. Player còn 1 lượt. Họ nhìn thấy nước đi
+có thể thắng, nhưng game kết thúc. Màn hình hiện offer:
 
-> Sau mỗi vòng test, studio học được gì mà publisher không thể lấy đi?
+> Mua thêm 5 lượt hoặc xem rewarded ad để chơi tiếp.
 
-Nếu studio không có quyền truy cập cohort data, A/B result, level funnel, monetization
-breakdown, thì studio chỉ đang bán sức sản xuất. Nếu có data learning loop, studio đang
-tích lũy năng lực chiến lược.
+Ở bề mặt, đây là monetization moment. Nhưng sâu hơn, đây là điểm giao nhau của nhiều hệ
+thống:
 
-## 4. Khung viết mới: bài nên đi từ cảm giác người chơi đến chiến lược studio
+- player vừa trải qua kỳ vọng, căng thẳng và near-miss;
+- họ đã bỏ thời gian, sự tập trung và cảm xúc vào level;
+- họ tin mình vẫn có thể thắng nếu có thêm một cơ hội;
+- game đưa ra lựa chọn: trả attention, trả tiền hoặc bỏ cuộc;
+- designer đang thử xem trust đã đủ để player chấp nhận giao dịch chưa.
 
-Một cấu trúc sắc hơn cho bài LinkedIn:
+### Lý thuyết tổng
 
-### 1. Mở bằng một khoảnh khắc ai cũng biết
+Puzzle game bán quyền duy trì một trạng thái tâm lý:
 
-Bạn còn 1 lượt. Board còn 1 mục tiêu. Bạn nhìn thấy nước đi đúng. Game kết thúc.
+- giữ flow;
+- bảo vệ công sức;
+- lấy lại agency;
+- tránh tiếc nuối;
+- tăng tiến trình;
+- giữ streak;
+- sở hữu meta/decor/collection;
+- giảm annoyance từ ads.
 
-Màn hình hiện ra: mua thêm 5 lượt.
+Player không mua vật phẩm ảo theo nghĩa hẹp. Họ mua quyền không đánh mất một trạng thái họ
+đang muốn giữ.
 
-Đây không chỉ là monetization moment. Đây là một phép thử niềm tin.
+### Lý thuyết phân tích ví dụ
 
-### 2. Đặt nghịch lý
+Trong ví dụ extra moves, player không trả tiền chỉ để thắng. Họ trả tiền vì 5 điều kiện đã
+xảy ra cùng lúc:
 
-Game puzzle kiếm tiền không phải bằng cách làm người chơi thua. Nó kiếm tiền bằng cách làm
-người chơi tin rằng mình đã gần thắng một cách công bằng.
+1. Họ đã đầu tư thời gian vào level.
+2. Họ thua ở trạng thái gần thắng.
+3. Họ còn cảm giác kiểm soát.
+4. Offer xuất hiện đúng lúc frustration chưa chuyển thành tức giận.
+5. Họ tin game không cố tình lừa mình.
 
-### 3. Gọi tên bằng Game Theory
+Nếu game giữ trust, offer này là win-win. Player có thêm cơ hội, studio có revenue hoặc ad
+impression, và ký ức sau session vẫn tích cực.
 
-Designer và player đang ở trong một repeated game có thông tin bất cân xứng. Nếu designer
-khai thác quá tay, player rời game. Nếu designer tạo đủ thử thách và đủ niềm tin, player
-quay lại, xem ads, mua IAP, giới thiệu game.
+Nếu game phá trust, offer này thành win-lose. Player cảm thấy level bị bóp, mua hoặc xem ad
+xong vẫn thấy mình bị thao túng.
 
-### 4. Đưa insight chuyên môn
+### Kết luận
 
-FAR, APS, SR không chỉ là metric vận hành level. Chúng là chỉ số đo niềm tin:
+Purchase trong puzzle không bắt đầu ở shop. Nó bắt đầu từ những lần game giữ lời hứa trước
+đó.
 
-- FAR thấp quá: level có thể tạo cảm giác bất công ngay từ lần đầu.
-- APS cao quá: player cảm thấy mình bị khóa tiến trình.
-- SR cao quá: game mất cảm giác chinh phục.
-- SR thấp nhưng near-miss tốt: player vẫn tin mình có thể thắng.
+### Công thức và bài học
 
-### 5. Mở rộng sang thị trường Việt Nam
+Công thức:
 
-Nhiều studio Việt có lợi thế execution: dev nhanh, art nhanh, prototype nhanh. Nhưng trong
-puzzle game hiện đại, execution chỉ là vé vào cửa. Lợi thế thật nằm ở khả năng biến từng
-test thành tri thức: hiểu player, hiểu trust curve, hiểu economy, hiểu cohort.
+> Value delivered -> trust -> near-miss/need -> fair offer -> fulfillment -> good memory.
 
-### 6. Chốt bằng hướng đi
+Bài học:
 
-Studio Việt không nhất thiết phải thắng bằng ngân sách UA lớn hơn. Studio Việt có thể
-thắng bằng learning velocity: tốc độ học ra quy luật giữ người và kiếm tiền nhanh hơn chi
-phí burn-rate.
+- Đừng đặt monetization trước khi player thấy game đáng chơi.
+- Đừng bán lời giải cho frustration do game cố tình tạo.
+- Extra moves chỉ hợp lý khi player thấy có đường thắng thật.
+- Booster nên là công cụ chiến thuật, không phải vé qua cổng.
+- Rewarded ads nên là giao dịch công bằng: attention đổi lấy agency/progress.
 
-## 5. Các câu "đinh" có thể dùng trong bài
+──────
 
-- "Puzzle game không bán chiến thắng. Nó bán cảm giác chiến thắng vẫn còn trong tầm tay."
-- "Một level tốt không chỉ hỏi người chơi có thắng không. Nó hỏi người chơi có còn tin
-  rằng game công bằng không."
-- "Near-miss là tài sản. Frustration spike là nợ."
-- "IAP bền vững không đến từ tuyệt vọng. Nó đến từ agency bị thiếu đúng một chút."
-- "Difficulty curve là bề mặt. Trust curve mới là thứ quyết định retention."
-- "Clone là công cụ học thị trường. Clone không thể là chiến lược sinh tồn dài hạn."
-- "Trong game với publisher, thứ studio cần giữ không chỉ là revenue share, mà là quyền
-  sở hữu learning."
+## 4. Topic 2: Thị trường puzzle/hybrid puzzle đã bão hòa chưa?
 
-## 6. Bổ sung khuyến nghị thực chiến cho studio Việt
+### Câu hỏi
 
-1. Đo trust curve, không chỉ đo difficulty curve
+Puzzle/hybrid puzzle còn cơ hội không, hay thị trường đã quá đông và chỉ còn chỗ cho top
+publisher?
 
-   Bên cạnh FAR, APS, SR, nên theo dõi thêm các tín hiệu:
+### Ví dụ để phân tích
 
-   - tỷ lệ quit sau fail;
-   - tỷ lệ xem rewarded ad sau fail;
-   - tỷ lệ mua thêm lượt sau near-miss;
-   - tỷ lệ quay lại level sau 1 giờ, 24 giờ;
-   - số lần fail trước khi người chơi dùng booster đầu tiên.
+Một studio nhỏ thấy Screw, Sort hoặc Block đang tăng. Team làm một bản clone nhanh:
 
-   Những metric này trả lời câu hỏi: player đang còn tin hay đã bỏ cuộc?
+- gameplay gần giống top title;
+- đổi art;
+- thêm ads;
+- test CPI;
+- mong publisher scale.
 
-2. Thiết kế monetization moment sau cảm giác agency
+Ban đầu CPI có thể ổn vì player hiểu mechanic nhanh. Nhưng D7/D14 yếu vì game không có
+level depth, trust curve, meta reason hoặc live ops.
 
-   Không đặt offer khi player thấy bị nghiền nát. Đặt offer khi player thấy mình đã hiểu
-   bài toán, chỉ thiếu tài nguyên để hoàn tất.
+### Lý thuyết tổng
 
-   Đây là khác biệt giữa "bán cứu hộ" và "bán quyền hoàn thành".
+Puzzle không chết. Thị trường đã trưởng thành.
 
-3. Tách level thành 3 vai trò
+Trong thị trường trưởng thành, download không còn là cầu thật. Cầu thật là attention lặp
+lại mà player sẵn sàng trao cho game.
 
-   - Teaching level: dạy pattern, tạo cảm giác thông minh.
-   - Tension level: tăng áp lực, kiểm tra kỹ năng.
-   - Conversion level: tạo near-miss có kiểm soát, nhưng không phá trust.
+Khi một mechanic thắng, supply clone tăng nhanh:
 
-   Nếu mọi level đều là conversion level, game sẽ kiệt trust rất nhanh.
+- tooling rẻ;
+- art pipeline nhanh;
+- creative pattern bị lộ;
+- publisher có benchmark;
+- AI/asset pipeline giảm chi phí sản xuất.
 
-4. Xem rewarded ads như một cơ chế thương lượng
+Nhưng attention của player không tăng cùng tốc độ. Vì vậy:
 
-   Rewarded ad không chỉ là ad placement. Nó là một lời đề nghị trong Game Theory:
+> Khi supply của game giống nhau tăng, price của differentiation tăng.
 
-   > "Bạn cho tôi 30 giây chú ý, tôi cho bạn thêm cơ hội giữ flow."
+### Lý thuyết phân tích ví dụ
 
-   Nếu reward quá yếu, player thấy bị coi thường. Nếu reward quá mạnh, economy mất cân
-   bằng. Nếu đặt sai thời điểm, flow bị gãy.
+Clone giúp giảm rủi ro product education: player nhìn ads là hiểu. Nhưng clone tăng rủi ro
+cạnh tranh:
 
-5. Khi làm việc với publisher, yêu cầu quyền học
+- CPI tăng vì nhiều game cùng mua một nhóm user;
+- creative fatigue nhanh;
+- LTV không đủ bù UA;
+- player so sánh với top game ngay;
+- publisher giữ nhiều quyền lực hơn studio;
+- studio sống bằng prototype tiếp theo thay vì tích lũy IP/know-how.
 
-   Trong hợp đồng hoặc quy trình vận hành, studio nên cố gắng có quyền truy cập:
+Vì vậy clone là chiến lược giảm rủi ro sản phẩm nhưng tăng rủi ro cạnh tranh.
 
-   - cohort retention D1/D7/D30;
-   - level funnel;
-   - fail reason/event taxonomy;
-   - rewarded ad placement performance;
-   - IAP conversion theo level cluster;
-   - creative performance theo player segment.
+### Kết luận
 
-   Không có những dữ liệu này, studio khó nâng cấp từ production vendor thành product
-   owner.
+Puzzle game không bão hòa. Thứ bão hòa là puzzle game không có hệ thống giữ niềm tin và lý
+do quay lại.
 
-## 7. Bổ sung góc nhìn: Puzzle game trong nền kinh tế của sự chú ý
+### Công thức và bài học
 
-Nếu Game Theory giúp ta hiểu cuộc chơi giữa designer, player, studio, publisher và ad
-network, thì "nền kinh tế của sự chú ý" giúp ta hiểu thứ thật sự đang được trao đổi là gì.
+Công thức:
 
-Trong puzzle game, người chơi không chỉ trả bằng tiền. Họ trả bằng 4 loại tài sản:
+> Familiar core + meaningful difference + trust curve + repeat reason.
 
-- thời gian;
-- sự tập trung;
-- dữ liệu hành vi;
-- khả năng chịu gián đoạn.
+Bài học:
 
-IAP là khi player trả bằng tiền. Rewarded ads là khi player trả bằng chú ý. Forced ads là
-khi game cưỡng chế chú ý. Retention là khi player tự nguyện quay lại để tiếp tục trao chú
-ý cho game.
+- CPI rẻ chỉ chứng minh player tò mò. D7 mới chứng minh player muốn quan hệ dài hạn.
+- Giống top game nhưng kém hơn không phải định vị. Đó là quảng cáo miễn phí cho top game.
+- Bắt chước hiện tại thường là bắt chước quá khứ của người thắng.
+- Studio nhỏ nên tìm niche/adjacent possible, không đánh trực diện bằng UA capital.
 
-Vì vậy, bài toán monetization không nên được viết là:
+──────
 
-> Làm sao để vắt thêm tiền từ người chơi?
+## 5. Topic 3: Vì sao player quay lại mỗi ngày?
 
-Mà nên viết là:
+### Câu hỏi
 
-> Làm sao để biến sự chú ý thành giá trị mà không phá hủy lý do khiến người chơi trao sự
-> chú ý đó ngay từ đầu?
+Vì sao nhiều player không tự nhận là gamer nhưng vẫn mở puzzle game mỗi ngày?
 
-Đây là lớp giải thích sâu hơn cho vì sao puzzle game rất phù hợp với attention economy:
+### Ví dụ để phân tích
 
-- Session ngắn, dễ chen vào nhiều khoảnh khắc trong ngày.
-- Luật chơi đơn giản, giảm chi phí nhận thức ban đầu.
-- Feedback loop nhanh: đi sai, thua, thử lại, gần thắng.
-- Near-miss tạo cảm giác còn dang dở, kéo người chơi sang lượt tiếp theo.
-- Rewarded ads biến sự chú ý thành "tiền tệ thay thế" cho IAP.
+Player mở game khi chờ xe, nghỉ trưa hoặc trước khi ngủ. Họ chỉ định chơi 2-3 phút, nhận
+daily reward, thử một level, rồi chơi thêm vì đang gần mở được chest hoặc giữ streak.
 
-Góc nhìn cần nhấn mạnh:
+### Lý thuyết tổng
 
-> Trong puzzle game, attention không phải traffic. Attention là inventory có cảm xúc.
+Puzzle mạnh vì nó fit với habit loop:
 
-Một lượt xem ad sau khi player vừa thua vì "thiếu 1 nước" có giá trị tâm lý khác hoàn toàn
-với một interstitial bị nhét vào sau level dễ. Cùng là 30 giây quảng cáo, nhưng một bên là
-player chủ động giao dịch để giữ flow, một bên là game cắt ngang nhịp chơi.
+> Cue -> craving -> response -> reward.
 
-Đây là nơi Game Theory và Attention Economy gặp nhau:
+Trong puzzle:
 
-- Player có lựa chọn: chơi tiếp, xem ad, mua thêm lượt, hoặc thoát.
-- Designer có lựa chọn: tôn trọng flow hoặc khai thác sự mắc kẹt.
-- Ad network có lựa chọn: tối ưu impression hoặc tối ưu attention quality.
-- Studio có lựa chọn: tối đa hóa doanh thu phiên hiện tại hoặc tối đa hóa LTV.
+| Thành phần | Biểu hiện |
+|---|---|
+| Cue | giờ nghỉ, notification, lives đầy, event sắp hết |
+| Craving | muốn thư giãn, hoàn tất level, giữ streak, mở reward |
+| Response | chơi level, xem ads, dùng booster, mua offer |
+| Reward | win, coin, chest, decor, progress, relief |
 
-Nếu studio lạm dụng attention, game rơi vào "attention debt": doanh thu hôm nay được trả
-bằng retention ngày mai. Nếu studio dùng attention như một tài sản cần bảo toàn, rewarded
-ads và IAP có thể trở thành phần tự nhiên của flow.
+Puzzle session ngắn nên rất dễ chen vào các khoảng trống nhỏ của đời sống.
 
-### Cách đưa vào bài cho đại chúng
+### Lý thuyết phân tích ví dụ
 
-> Khi bạn xem một quảng cáo 30 giây để lấy thêm 5 lượt đi, bạn không chơi miễn phí nữa.
-> Bạn đang trả bằng sự chú ý.
+Player không cần quyết định lớn để chơi. Game chỉ cần một cue đủ nhỏ:
 
-Đây là câu rất dễ hiểu với đại chúng. Ai từng chơi mobile game đều thấy mình trong đó.
+- icon trên màn hình;
+- notification lives đầy;
+- daily reward;
+- event timer;
+- ký ức rằng game này từng giúp mình thư giãn.
 
-### Cách nâng cấp cho người trong ngành
+Khi cue lặp đủ nhiều, player có thể mở game trước khi họ tự hỏi mình có thật sự muốn chơi
+không. Đây là sức mạnh của habit. Nhưng cũng là rủi ro: nếu habit bị gắn với frustration và
+FOMO, player sẽ cảm thấy game đang đòi nợ attention.
 
-> Rewarded ads không chỉ là ad placement. Nó là một exchange rate giữa attention và
-> progression. Nếu tỷ giá này sai, player thấy bị lợi dụng. Nếu tỷ giá này đúng, player
-> thấy mình vừa đưa ra một lựa chọn hợp lý.
+### Kết luận
 
-Từ đó có thể xây một framework mới:
+Puzzle thắng không chỉ vì gameplay đơn giản. Nó thắng vì session ngắn, feedback nhanh và
+reward loop dễ trở thành ritual.
 
-### Attention Exchange Rate
+### Công thức và bài học
 
-Attention Exchange Rate là "tỷ giá" giữa lượng chú ý game lấy từ player và giá trị game
-trả lại cho player.
+Công thức:
 
-Ví dụ:
+> Small cue -> fast competence -> visible progress -> clean closure -> reason to return.
 
-- 30 giây ad để nhận thêm 5 moves khi player vừa near-miss: tỷ giá có thể được cảm nhận là
-  công bằng.
-- 30 giây ad sau mỗi level 20 giây: tỷ giá bị cảm nhận là bóc lột.
-- 30 giây ad để nhận reward quá nhỏ: tỷ giá thấp, player thấy phí thời gian.
-- Reward quá mạnh: phá economy, làm IAP mất giá.
+Bài học:
 
-Nếu trust curve đo niềm tin vào fairness của level, thì attention exchange rate đo niềm
-tin vào fairness của monetization.
+- First session phải tạo competence trước khi tạo pressure.
+- Daily loop nên tạo ritual, không tạo nghĩa vụ.
+- Streak tốt khi nó làm player tự hào; xấu khi nó biến game thành việc phải làm.
+- Meta progression phải cho player thấy ngày mai quay lại vì điều gì.
 
-Câu đinh có thể dùng:
+──────
 
-> Puzzle game giỏi không chỉ tối ưu độ khó. Nó tối ưu tỷ giá giữa chú ý, tiến trình và
-> cảm giác công bằng.
+## 6. Topic 4: Hormone, ký ức vô thức và thói quen mua hàng
 
-### Hàm ý cho studio Việt
+### Câu hỏi
 
-Với các studio còn phụ thuộc IAA, attention economy là khung cực kỳ quan trọng. Nếu chỉ tối
-ưu eCPM, fill rate, impression per DAU, studio rất dễ tăng doanh thu ngắn hạn bằng cách phá
-trải nghiệm. Nhưng nếu đo thêm attention quality, studio có thể phân biệt:
+Hormone, cảm xúc cơ thể và ký ức vô thức ảnh hưởng thế nào đến hành vi mua hàng trong
+puzzle/hybrid puzzle?
 
-- ad impression tạo giá trị;
-- ad impression phá flow;
-- rewarded ad được player chủ động chọn;
-- forced ad khiến player giảm trust;
-- placement tăng ARPDAU nhưng làm giảm D7/D30.
+### Ví dụ để phân tích
 
-Khuyến nghị metric bổ sung:
+Player từng 3 lần xem rewarded ad hoặc mua thêm lượt ở trạng thái near-miss và đều thắng.
+Lần thứ 4, tình huống tương tự xuất hiện. Họ không cần phân tích lại từ đầu. Họ có shortcut:
 
-- rewarded ad opt-in rate sau fail;
-- rewarded ad completion rate;
-- quit rate sau interstitial;
-- time-to-next-session sau ad exposure;
-- ad frequency trước churn;
-- LTV theo nhóm ad tolerance;
-- IAP conversion sau rewarded ad vs sau forced ad.
+> Lần trước mua/xem ad là hợp lý. Lần này có thể cũng hợp lý.
 
-Luận điểm chiến lược:
+### Lý thuyết tổng
 
-> Studio Việt không nên chỉ hỏi "mỗi user xem được bao nhiêu ads". Câu hỏi đúng hơn là:
-> "Mỗi ads tiêu hao bao nhiêu niềm tin, và trả lại bao nhiêu tiến trình?"
+Không nên viết:
 
-## 8. Bản đồ luận điểm - nguồn chống lưng
+> Dopamine làm player mua.
 
-Phần này quan trọng khi viết bài final: không nên biến toàn bộ bài thành một bài học thuật,
-nhưng mỗi claim lớn phải có nguồn đứng sau. Các câu sắc như "trust curve" là diễn giải của
-tác giả, còn dữ liệu thị trường và nghiên cứu DDA/rewarded ads cần dẫn nguồn rõ.
+Cách đúng hơn:
 
-### Claim 1: Thị trường mobile game đang chuyển từ tăng download sang tối ưu retention và monetization
+> Puzzle game tạo các trạng thái kỳ vọng, căng thẳng, gần hoàn thành, thất bại, kiểm soát
+> và nhẹ nhõm. Các trạng thái này liên quan đến hệ reward/motivation, stress và social
+> bonding của cơ thể. Purchase dễ xảy ra hơn khi offer can thiệp đúng vào trạng thái đang
+> thiếu hụt.
 
-Nguồn dùng:
+Các tín hiệu chính:
 
-- Sensor Tower, State of Mobile Gaming 2025.
+| Tín hiệu | Vai trò | Moment dễ liên quan |
+|---|---|---|
+| Dopamine | kỳ vọng, prediction error, near-miss, động lực thử lại | extra moves, chest, event reward |
+| Adrenaline/cortisol ngắn hạn | căng thẳng khi gần thua, timer, out-of-moves | thêm lượt/thời gian |
+| Endorphin/opioid nội sinh | nhẹ nhõm sau khi vượt level khó | bundle sau win, starter pack |
+| Serotonin | mastery, ổn định, status nhỏ, streak/rank | pass, rank protection |
+| Oxytocin/social bonding | team, giúp bạn bè, mục tiêu chung | team pack, event contribution |
 
-Cách viết nên dùng:
+Hormone không ra quyết định thay player. Chúng thay đổi trọng lượng cảm xúc của quyết định.
 
-> Theo Sensor Tower, năm 2024 mobile game đạt khoảng $82B IAP toàn cầu, trong khi download
-> giảm nhẹ. Điều này cho thấy cuộc chơi đang dịch từ "kiếm thêm install" sang giữ và khai
-> thác giá trị người chơi hiện hữu.
+### Lý thuyết phân tích ví dụ
 
-Mức độ chắc: Cao.
+Implicit memory ảnh hưởng mạnh đến purchase. Player không cần nhớ chính xác level 128 diễn
+ra thế nào. Nhưng họ nhớ bằng cảm giác:
 
-Lưu ý: Không nên nói "download không còn quan trọng". Nên nói "download vẫn quan trọng,
-nhưng retention và monetization đang trở thành trọng tâm lớn hơn".
+- hard level có thể qua nếu dùng booster;
+- mua thêm lượt lúc near-miss thường đáng;
+- xem rewarded ad thường cứu được flow;
+- pass làm tiến trình vui hơn;
+- game này khó nhưng công bằng;
+- game kia mua cũng vô ích.
 
-### Claim 2: Hybrid monetization đang là hướng tăng trưởng, không phải lựa chọn phụ
+Nếu sau purchase player thắng và thấy fulfillment rõ, ký ức tích lũy là trust. Nếu sau
+purchase player vẫn thua vì RNG hoặc cảm thấy bị ép, ký ức tích lũy là regret.
 
-Nguồn dùng:
+### Kết luận
 
-- Sensor Tower, State of Mobile Gaming 2025.
-- Sensor Tower, Gaming Deep Dive: Ad Monetization 2026.
+Purchase design trong puzzle là memory design.
 
-Cách viết nên dùng:
+### Công thức và bài học
 
-> Sensor Tower ghi nhận hybridcasual IAP tăng mạnh, đồng thời ad monetization trong mobile
-> game vẫn là thị trường trên $12B. Điều này giải thích vì sao puzzle studio không thể chỉ
-> nghĩ theo một cực: hoặc IAA, hoặc IAP. Bài toán mới là phối hợp ads, rewarded ads và IAP
-> mà không phá flow.
+Công thức:
 
-Mức độ chắc: Cao.
+> Trigger -> action -> fulfillment -> emotional closure -> memory.
 
-### Claim 3: Puzzle game vẫn tăng trưởng doanh thu dù download có dấu hiệu giảm
+Bài học:
 
-Nguồn dùng:
+- Mỗi purchase phải để lại một ký ức tốt hoặc ít nhất không tạo hối hận.
+- Extra moves phải tạo cơ hội thắng thật.
+- Booster phải tạo agency nhìn thấy được.
+- Rewarded ads phải trả đúng lời hứa ngay.
+- Đừng dùng hormone như lời giải thích máy móc. Hãy phân tích state, context và memory.
 
-- Sensor Tower, State of Mobile Gaming 2025.
-- Naavik, "How Niche Subgenres are Reshaping the Mobile Puzzle Market", 2026.
+──────
 
-Cách viết nên dùng:
+## 7. Topic 5: Player mua gì trong IAP?
 
-> Puzzle không chết. Nó đang tái cấu trúc. Naavik ghi nhận mobile puzzle năm 2025 đạt hơn
-> 9.7B downloads và khoảng $10B IAP revenue, tăng 14% YoY, nhưng tăng trưởng không chia đều
-> cho các subgenre cũ.
+### Câu hỏi
 
-Mức độ chắc: Trung bình - cao.
+Player thật sự mua gì khi họ mua extra moves, booster, no-ads, pass hoặc cosmetic?
 
-Lưu ý: Với số liệu subgenre, nên ghi "theo Naavik/Sensor Tower" vì nhiều dữ liệu là ước tính
-market intelligence, không phải báo cáo tài chính công khai.
+### Ví dụ để phân tích
 
-### Claim 4: DDA/personalized difficulty có thể tăng doanh thu dài hạn bằng retention, dù làm giảm mua hàng tức thời
+Cùng là 0.99 USD, nhưng ý nghĩa mua khác nhau:
 
-Nguồn dùng:
+- mua thêm lượt khi gần thắng;
+- mua no-ads sau 30 phút thấy game hay;
+- mua pass sau vài ngày giữ streak;
+- mua cosmetic khi đã gắn với căn phòng/nhân vật;
+- mua piggy bank sau khi thấy coin đã được tích lũy.
 
-- Eva Ascarza, Oded Netzer, Julian Runge, "Personalized game design for improved user
-  retention and monetization in freemium games", International Journal of Research in
-  Marketing, 2025.
+### Lý thuyết tổng
 
-Cách viết nên dùng:
+IAP trong puzzle thường là mua một trạng thái tâm lý:
 
-> Một nghiên cứu thực nghiệm trên freemium mobile game cho thấy giảm độ khó cho nhóm có
-> nguy cơ churn có thể làm giảm nhu cầu mua item ngay trong round, nhưng lại tăng engagement,
-> retention và monetization dài hạn.
+| Item | Bề mặt | Trạng thái thật |
+|---|---|---|
+| Extra moves | thêm lượt | bảo vệ công sức và tránh tiếc nuối |
+| Booster | công cụ mạnh hơn | lấy lại agency |
+| Lives/energy | quyền chơi tiếp | giữ flow |
+| No-ads | bỏ quảng cáo | giảm gián đoạn và annoyance |
+| Battle pass | reward track | cam kết tiến trình dài hạn |
+| Piggy bank | coin giá rẻ | cảm giác đã tích lũy sẵn giá trị |
+| Cosmetic/decor | skin/phòng/vật phẩm | ownership, taste, identity |
+| Team/event pack | tài nguyên event | belonging, contribution, status |
 
-Mức độ chắc: Cao với kết quả nghiên cứu; Trung bình khi áp dụng trực tiếp sang mọi puzzle game.
+### Lý thuyết phân tích ví dụ
 
-Lưu ý: Không nên viết "DDA chắc chắn làm tăng doanh thu". Nên viết "DDA tốt có thể chuyển
-bài toán từ ép mua ngắn hạn sang tăng LTV dài hạn".
+Có hai nhóm purchase lớn:
 
-### Claim 5: Cá nhân hóa độ khó trong mobile puzzle game có thể tạo uplift doanh thu lớn
+1. Pressure purchase
 
-Nguồn dùng:
+   Player mua để thoát khỏi khó chịu: bị kẹt, hết lives, sợ mất streak, bị ads làm phiền.
 
-- "Personalized content, engagement, and monetization in a mobile puzzle game",
-  International Journal of Industrial Organization, 2025.
+2. Gratitude purchase
 
-Cách viết nên dùng:
+   Player mua vì game đã cho họ đủ value trước. Họ muốn ủng hộ game, giữ trải nghiệm sạch
+   hơn, tiến nhanh hơn hoặc tự thưởng cho mình.
 
-> Một nghiên cứu về mobile puzzle game cho thấy việc cá nhân hóa độ khó theo đặc điểm
-> người chơi có thể tạo uplift doanh thu đáng kể so với cách đặt độ khó trung bình cho
-> toàn bộ player.
+Gratitude purchase khỏe hơn vì nó tạo ký ức tốt:
 
-Mức độ chắc: Cao cho hướng nghiên cứu; thận trọng với con số uplift nếu chưa trích dẫn
-đầy đủ trong bài public.
+> Tôi mua vì game xứng đáng, không phải vì game dồn tôi vào góc.
 
-### Claim 6: Rewarded ads hiệu quả nhất khi nó hỗ trợ flow, không cắt ngang flow
+### Kết luận
 
-Nguồn dùng:
+Không phải mọi purchase tốt đều đến từ pressure. Purchase bền vững nhất thường đến từ trust,
+ownership và reciprocity.
 
-- Jiaying Deng, Stephanie Lee, Yong Tan, "Flow of the Game: A Hidden Markov Model of
-  Player Engagement in Online Mobile Games", Information Systems Research, 2024.
-- Jiacheng Chang, Xiao Lei, Zhixi Wan, Lei Huang, "Adaptive Design for In-App Advertising
-  Games", SSRN, 2026.
+### Công thức và bài học
 
-Cách viết nên dùng:
+Công thức:
 
-> Rewarded ads nên được xem như một cơ chế thương lượng: player đổi sự chú ý để lấy cơ hội
-> giữ flow. Nghiên cứu về engagement trong mobile game cho thấy reward ads có thể hỗ trợ
-> trạng thái gắn kết, đặc biệt khi người chơi đang gặp challenge đủ cao.
+> Earned value -> goodwill -> fair offer -> proud purchase -> repeat trust.
 
-Mức độ chắc: Trung bình - cao.
+Bài học:
 
-Lưu ý: SSRN 2026 là working paper, nên dùng như nguồn bổ trợ, không dùng như kết luận tuyệt
-đối.
+- No-ads không nên là tiền chuộc khỏi trải nghiệm tệ. Nó nên là cách giữ trải nghiệm tốt ở
+  trạng thái sạch hơn.
+- Pass tốt làm hành trình có mục tiêu hơn. Pass xấu biến game thành checklist.
+- Piggy bank tốt làm player thấy họ mua lại giá trị mình tạo. Piggy bank xấu làm player
+  thấy game giữ tiền của họ làm con tin.
+- Cosmetic chỉ có giá trị khi player còn thấy nó sau khi mua.
 
-### Claim 7: "Trust curve" là đóng góp diễn giải, không phải thuật ngữ đã chuẩn hóa
+──────
 
-Nguồn dùng:
+## 8. Topic 6: Cài ads/IAP thế nào khi user đã mệt vì bị "bào"?
 
-- Đây là synthesis của tác giả, rút ra từ Game Theory, DDA, flow theory, rewarded ads và
-  thực tiễn monetization.
+### Câu hỏi
 
-Cách viết nên dùng:
+Trong thị trường user đã quen với ads dày, fake ads và paywall sớm, cài ads/IAP thế nào để
+không phá trust?
 
-> Tôi gọi lớp này là trust curve: đường cong niềm tin của người chơi vào việc level vẫn
-> công bằng, dù họ vừa thua.
+### Ví dụ để phân tích
 
-Mức độ chắc: Đây là framework tác giả đề xuất.
+Một game mới đặt interstitial ngay sau tutorial, rồi tiếp tục hiện sau mỗi 1-2 level. Player
+chưa kịp thích game đã thấy game muốn lấy attention. Họ uninstall trước khi core gameplay có
+cơ hội chứng minh giá trị.
 
-Lưu ý: Nên nói rõ "tôi gọi là" hoặc "có thể gọi là", để biến nó thành góc nhìn riêng thay vì
-giả vờ là thuật ngữ học thuật phổ biến.
+Ngược lại, một game khác để player chơi vài level đầu không ads, tạo cảm giác competence,
+rồi đưa rewarded ads ở near-miss hoặc multiplier sau win. Player thấy ads là lựa chọn, không
+phải hình phạt.
 
-### Claim 8: Với studio Việt, lợi thế bền không nằm ở clone nhanh mà ở learning velocity
+### Lý thuyết tổng
 
-Nguồn dùng:
+Ads không chỉ là inventory. Ads là interruption contract:
 
-- Suy luận chiến lược từ dữ liệu thị trường: puzzle/hybrid monetization tăng, ad market
-  cạnh tranh, IAP tập trung hơn ads, subgenre mới tăng nhanh nhưng retention gap vẫn lớn.
+> Game mượn attention của player, đổi lại phải trả value đủ rõ.
 
-Cách viết nên dùng:
+Ads hợp lý khi nó xuất hiện ở ranh giới tự nhiên của flow, hoặc khi player chủ động đổi
+attention để lấy agency/progress.
 
-> Với studio Việt, clone có thể là công cụ học market signal, nhưng lợi thế dài hạn phải
-> nằm ở learning velocity: tốc độ biến test thành tri thức về level, cohort, ads và economy.
+### Lý thuyết phân tích ví dụ
 
-Mức độ chắc: Đây là quan điểm chiến lược, không phải fact định lượng.
+Interstitial phù hợp hơn khi:
 
-### Claim 9: Trong attention economy, game không chỉ kiếm tiền từ player mà còn định giá sự chú ý của player
+- player đã qua vài level đầu;
+- một vòng cảm xúc đã kết thúc;
+- game đã trả reward/feedback trước;
+- ads có cooldown;
+- player quay lại đúng context sau ads;
+- payer được giảm/tắt ads.
 
-Nguồn dùng:
+Rewarded ads phù hợp hơn khi:
 
-- Herbert A. Simon, attention scarcity/attention economics.
-- McKinsey, "Gaming's next growth era: Unlocking the value of attention", 2026.
-- Johan Orrenius, "What is the Value of Attention? Supply and Demand Estimation of
-  Attention in a Mobile App Setting", SSRN/IFN Working Paper, 2026.
+- player chủ động chọn;
+- reward có ý nghĩa thật;
+- nút từ chối rõ;
+- từ chối không bị phạt quá đau;
+- ads trả đúng lời hứa ngay.
 
-Cách viết nên dùng:
+Các vị trí nguy hiểm:
 
-> Trong nền kinh tế của sự chú ý, game không chỉ cạnh tranh ví tiền của player. Game cạnh
-> tranh quyền được chiếm dụng sự tập trung của họ. Với mobile puzzle, rewarded ads biến sự
-> chú ý thành một loại tiền tệ thay thế: người chơi không trả $0.99, nhưng trả 30 giây tập
-> trung.
+- trước khi player hiểu game;
+- giữa level;
+- ngay sau purchase;
+- sau hard fail quá bực;
+- sau mỗi level theo nhịp máy móc;
+- khi reward quá nhỏ so với thời lượng ads.
 
-Mức độ chắc: Cao ở tầng lý thuyết attention scarcity; Trung bình khi diễn giải "attention
-như tiền tệ" vì đây là framing của tác giả, dù được hỗ trợ bởi nghiên cứu mobile app.
+### Kết luận
 
-### Claim 10: Rewarded ads cần được thiết kế như exchange, không phải interruption
+Player chấp nhận ads khi game đã trả value trước hoặc cho họ quyền chọn rõ ràng.
 
-Nguồn dùng:
+### Công thức và bài học
 
-- Microsoft Advertising/dentsu/Lumen, "Play Attention" coverage, 2024.
-- Jiaying Deng, Stephanie Lee, Yong Tan, Information Systems Research, 2024.
-- Chang et al., SSRN, 2026.
+Công thức:
 
-Cách viết nên dùng:
+> Value first -> natural boundary -> clear choice -> fair reward -> return to flow.
 
-> Rewarded ads có sức mạnh vì nó giữ được yếu tố lựa chọn. Player trả attention để mua
-> progression. Khi reward ads hỗ trợ flow, nó là trao đổi. Khi forced ads cắt ngang flow,
-> nó là thuế chú ý.
+Bài học:
 
-Mức độ chắc: Trung bình - cao.
+- Không interstitial trong 3-5 level đầu.
+- Rewarded ads nên xuất hiện trước interstitial.
+- Near-miss ưu tiên rewarded extra moves, không ưu tiên popup IAP ngay.
+- Sau purchase, giảm ads và giảm offer pressure trong một khoảng thời gian.
+- Đo churn sau từng placement, không chỉ đo revenue placement.
+- Tối ưu theo D7/LTV, không chỉ ARPDAU D0.
 
-Lưu ý: Nguồn Microsoft là industry research, dùng để hỗ trợ góc attention advertising; nguồn
-INFORMS và SSRN dùng để hỗ trợ phần flow/retention trong game.
+──────
 
-## 9. Nguồn tham khảo nên dùng khi viết bài
+## 9. Topic 7: Game theory giữa player, studio và publisher
 
-- Sensor Tower, State of Mobile Gaming 2025: mobile game IAP đạt khoảng $82B năm 2024;
-  hybrid monetization tăng mạnh; puzzle giảm download nhưng tăng revenue, cho thấy thị
-  trường đang ưu tiên retention và monetization hơn raw installs.
+### Câu hỏi
+
+Vì sao monetization trong puzzle nên được nhìn như một trò chơi lặp lại, không phải một lần
+bán hàng?
+
+### Ví dụ để phân tích
+
+Designer biết level difficulty, RNG, offer timing, booster economy và cohort data. Player
+không biết toàn bộ hệ thống. Player chỉ cảm nhận:
+
+> Game này có công bằng không?
+
+Nếu player nghĩ game bóp độ khó để ép mua, họ rời đi. Nếu họ nghĩ game khó nhưng công bằng,
+họ quay lại.
+
+### Lý thuyết tổng
+
+Có ba game chính:
+
+1. Player vs Designer: Trust Game
+2. Studio vs Studio: Commodity Trap
+3. Studio vs Publisher: Optionality Game
+
+### Lý thuyết phân tích ví dụ
+
+Player vs Designer:
+
+- Designer có nhiều thông tin hơn.
+- Player đánh giá bằng cảm giác fairness.
+- Nếu designer tận thu ngắn hạn, game thành zero-sum trap.
+- Nếu designer tạo near-miss công bằng, game thành repeated game tốt.
+
+Studio vs Studio:
+
+- Một studio clone có thể sống.
+- Một trăm studio cùng clone tạo race to the bottom.
+- Cạnh tranh chuyển từ product sang UA capital.
+
+Studio vs Publisher:
+
+- Publisher có vốn, UA data, creative machine, benchmark.
+- Studio có tốc độ và chi phí thấp.
+- Nếu studio chỉ giao prototype, publisher giữ optionality.
+- Nếu studio giữ được data learning, level insight, economy insight và IP, studio tăng quyền
+  lực.
+
+### Kết luận
+
+Game theory giúp thấy rủi ro lớn nhất không phải là một offer bán kém. Rủi ro lớn nhất là
+phá trò chơi lặp lại giữa player và game.
+
+### Công thức và bài học
+
+Công thức:
+
+> Short-term extraction < long-term repeated trust.
+
+Bài học:
+
+- Đừng tối ưu một placement nếu nó phá D7/D14.
+- Đừng để hard level trở thành bằng chứng rằng game đang ép tiền.
+- Đừng để publisher giữ toàn bộ learning.
+- Sau mỗi test, studio phải giữ lại được insight mà đối tác không thể lấy đi.
+
+──────
+
+## 10. Topic 8: Nếu không clone thì bắt trend thế nào?
+
+### Câu hỏi
+
+Nếu không copy surface của game đang thắng, studio nhỏ nên bắt trend bằng cách nào?
+
+### Ví dụ để phân tích
+
+Studio thấy Screw đang tăng. Cách clone yếu là làm game tháo vít giống top title. Cách tốt
+hơn là hỏi:
+
+- tension đến từ đâu?
+- constraint có nhìn thấy không?
+- stuck state xuất hiện lúc nào?
+- near-miss có rõ không?
+- player đổi attention/tiền để mua gì?
+- retention đến từ mastery hay meta?
+
+### Lý thuyết tổng
+
+Không clone surface. Clone signal.
+
+Signal của Screw có thể là:
+
+> spatial constraint + visible stuck state + tactile release + near-miss rõ.
+
+Signal đó có thể chuyển thành mechanic khác, fantasy khác, meta khác.
+
+### Lý thuyết phân tích ví dụ
+
+Bắt trend ít rủi ro hơn bằng 5 cách:
+
+1. Clone signal, không clone hình dạng.
+2. Tìm adjacent possible: familiar core + unfamiliar twist.
+3. Dùng creative test làm radar.
+4. Theo dõi 3 đường cong: install, retention, RPD/LTV.
+5. Build prototype theo hypothesis, không theo cảm hứng.
+
+Ví dụ adjacent possible:
+
+- Sort + physics;
+- Block + traffic jam;
+- Screw + restoration/decor;
+- Match-3 + roguelite event;
+- Merge + mystery narrative;
+- Puzzle + light team economy.
+
+### Kết luận
+
+Bắt trend tốt không phải là chạy theo chart. Đó là hiểu job-to-be-done tâm lý mà chart đang
+phản ánh.
+
+### Công thức và bài học
+
+Công thức:
+
+> Market signal -> psychological job -> mechanic hypothesis -> creative test -> retention
+> test -> scale/kill.
+
+Bài học:
+
+- Không có hypothesis thì không phải prototype. Đó chỉ là demo.
+- Creative test không chứng minh retention, nhưng giúp tránh build thứ không ai muốn thử.
+- Subgenre tốt cho studio nhỏ không nhất thiết là subgenre lớn nhất. Nó là nơi còn khoảng
+  trống cho product/creative, chưa bị khóa bởi UA capital.
+
+──────
+
+## 11. Topic 9: Chiến lược cho studio Việt
+
+### Câu hỏi
+
+Studio Việt nên sống và lớn lên trong thị trường hybrid puzzle như thế nào?
+
+### Ví dụ để phân tích
+
+Một studio nhỏ có 3 lựa chọn:
+
+1. Clone trend để kiếm cashflow.
+2. Làm adjacent bet để tìm khác biệt.
+3. Thử frontier idea để học trước thị trường.
+
+Nếu chỉ clone, studio sống ngắn hạn nhưng không tích lũy tài sản học tập. Nếu chỉ làm ý
+tưởng mới, studio dễ hết tiền trước khi có signal.
+
+### Lý thuyết tổng
+
+Chiến lược thực dụng là barbell:
+
+> 70% exploit để sống, 20% adjacent bets để lớn, 10% frontier bets để học tương lai.
+
+### Lý thuyết phân tích ví dụ
+
+70% exploit:
+
+- test biến thể Sort/Block/Screw;
+- scope 2-6 tuần;
+- kill nếu CPI cao hoặc D1 yếu;
+- chỉ scale khi D3/D7 và rewarded opt-in hợp lý;
+- output phải là learning asset, không chỉ revenue.
+
+20% adjacent bets:
+
+- đổi một biến quan trọng trên core quen thuộc;
+- giữ 3-second clarity;
+- tạo khác biệt người chơi cảm nhận được;
+- đo D7 và near-miss opt-in.
+
+10% frontier bets:
+
+- scope cực nhỏ;
+- test curiosity signal trước;
+- không yêu cầu profit ngay;
+- nếu signal tốt thì chuyển sang nhóm 20%.
+
+### Kết luận
+
+Studio khỏe không phải studio có nhiều prototype. Studio khỏe là studio có memory tốt hơn
+sau mỗi prototype.
+
+### Công thức và bài học
+
+Công thức:
+
+> Clone phải trả tiền cho R&D. R&D phải trả lại insight cho clone.
+
+Bài học:
+
+- Đừng hỏi "game gì đang hot?". Hỏi "trend này đang giải quyết nhu cầu tâm lý nào?".
+- Đừng chỉ đo CPI/eCPM. Đo trust curve, fail-to-quit, near-miss, rewarded opt-in, D7/D14.
+- Đừng scale game khi chưa biết lý do player quay lại ngày mai.
+- Đừng để publisher giữ toàn bộ learning.
+- Hybrid đúng không phải nhét meta vào puzzle. Hybrid đúng là tạo lý do quay lại mà không
+  phá simplicity.
+
+──────
+
+## 12. Hệ metric nên đo
+
+### Marketability
+
+- CTR;
+- IPM;
+- CPI;
+- thumb-stop rate;
+- comment sentiment;
+- creative fatigue speed;
+- hook angle theo market.
+
+### Retention và habit
+
+- D1/D3/D7/D14/D30;
+- session per user;
+- time between sessions;
+- streak adoption;
+- churn sau mất streak;
+- return rate sau meta milestone.
+
+### Trust và difficulty
+
+- fail-to-retry;
+- fail-to-quit;
+- near-miss to retry;
+- near-miss to rewarded opt-in;
+- near-miss to purchase;
+- churn sau hard level;
+- churn sau purchase fail.
+
+### Ads
+
+- ad impression per user per session;
+- ad exposure before D1;
+- rewarded opt-in rate;
+- interstitial quit rate;
+- quit within 30 seconds after ad;
+- no-ads conversion;
+- post-no-ads retention.
+
+### IAP
+
+- first purchase timing;
+- payer conversion by context;
+- purchase success rate sau extra moves;
+- refund/support ticket;
+- churn after purchase;
+- payer D7/D14 retention;
+- repeat purchase rate;
+- ad-to-IAP cannibalization.
+
+──────
+
+## 13. Công thức bài viết hoàn chỉnh
+
+### Mở bài
+
+Bắt đầu bằng khoảnh khắc near-miss:
+
+> Board còn 1 mục tiêu. Player còn 1 lượt. Game hiện offer mua thêm 5 lượt hoặc xem ads.
+
+Sau đó đặt câu hỏi:
+
+> Đây là monetization, manipulation hay một giao dịch công bằng?
+
+### Thân bài
+
+Đi theo 6 lớp:
+
+1. Puzzle bán attention và trạng thái tâm lý.
+2. Habit loop khiến player quay lại.
+3. Hormone/tín hiệu cơ thể làm quyết định có trọng lượng cảm xúc.
+4. Ký ức vô thức quyết định player tin offer hay nghi ngờ offer.
+5. Ads/IAP là hợp đồng attention/trust.
+6. Game theory giải thích vì sao tận thu ngắn hạn phá repeated game dài hạn.
+
+### Mở rộng thị trường
+
+Giải thích vì sao thị trường không chết mà trưởng thành:
+
+- download không còn là cầu thật;
+- attention lặp lại mới là cầu thật;
+- clone làm supply tăng nhanh;
+- differentiation trở nên đắt;
+- studio cần learning velocity.
+
+### Kết bài
+
+Chốt bằng hướng đi cho studio Việt:
+
+> Clone có thể giúp sống. Learning system mới giúp lớn.
+
+──────
+
+## 14. Câu đinh có thể dùng
+
+- "Puzzle game không chỉ là trò chơi giải đố. Nó là hệ thống trao đổi attention, trust và
+  agency."
+- "Player không trả tiền chỉ để thắng. Player trả tiền khi họ tin chiến thắng vẫn công bằng
+  và nằm trong tầm kiểm soát."
+- "Purchase không bắt đầu ở shop. Nó bắt đầu từ ký ức của những lần game giữ lời hứa."
+- "Dopamine không phải nút mua hàng. Nó là tín hiệu rằng kết quả sắp tới đáng để chú ý."
+- "Ads không chỉ là inventory. Ads là hợp đồng mượn attention."
+- "Rewarded ads win-win khi player đổi attention lấy agency thật."
+- "No-ads không nên là tiền chuộc khỏi trải nghiệm tệ. Nó nên là cách giữ một trải nghiệm
+  tốt ở trạng thái sạch hơn."
+- "Clone là cách mua sự chắc chắn bằng biên lợi nhuận tương lai."
+- "Bắt chước hiện tại thường là bắt chước quá khứ của người thắng."
+- "Trong thị trường cung game rẻ, thứ đắt nhất là attention còn tin tưởng."
+- "Studio khỏe không phải studio có nhiều prototype. Studio khỏe là studio có memory tốt hơn
+  sau mỗi prototype."
+- "Hybrid puzzle kiếm tiền tốt không phải vì nó hack dopamine. Nó kiếm tiền khi biết biến
+  thất bại thành kỳ vọng, kỳ vọng thành agency, agency thành tiến trình, và tiến trình thành
+  ký ức mà player muốn bảo vệ."
+
+──────
+
+## 15. Nguồn tham khảo
+
+- Sensor Tower, "Mobile Gaming Rebounds in 2024 as Player Engagement and Spending Reach New
+  Highs": mobile game IAP 2024 đạt khoảng $82B, downloads giảm 7%, hybrid monetization tăng.
   https://sensortower.com/press/press-release-sensor-tower-mobile-gaming-rebounds-in-2024-as-player-engagement-and-spending-reach-new-highs
 
-- Sensor Tower, Gaming Deep Dive: Ad Monetization 2026: mobile gaming ad monetization
-  vượt $12B năm 2025; ad-supported games chiếm phần lớn download; puzzle là một trong
-  các genre quan trọng của ad economy; hybrid-casual tách thành ads-first và IAP-first.
-  https://sensortower.com/report/gaming-deep-dive-ad-monetization
+- Sensor Tower, "State of Mobile Gaming 2025": developers tăng tập trung vào live services,
+  hybridcasual monetization tăng, TikTok và AppLovin tăng mạnh share of voice.
+  https://sensortower.com/state-of-gaming-2025
 
-- Eva Ascarza, Oded Netzer, Julian Runge, "Personalized game design for improved user
-  retention and monetization in freemium games", International Journal of Research in
-  Marketing, 2025: DDA có thể giảm mua hàng tức thời nhưng tăng engagement, retention và
-  monetization dài hạn.
-  https://www.sciencedirect.com/science/article/pii/S0167811625000060
-
-- "Personalized content, engagement, and monetization in a mobile puzzle game",
-  International Journal of Industrial Organization, 2025: personalization độ khó trong
-  mobile puzzle game có thể tạo uplift doanh thu đáng kể so với difficulty trung bình.
-  https://www.sciencedirect.com/science/article/pii/S0167718724000833
-
-- Jiacheng Chang, Xiao Lei, Zhixi Wan, Lei Huang, "Adaptive Design for In-App Advertising
-  Games", SSRN, 2026: rewarded ads trong level-based puzzle games là bài toán đánh đổi
-  giữa ad usage ngắn hạn và retention dài hạn.
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709
-
-- Jiaying Deng, Stephanie Lee, Yong Tan, "Flow of the Game: A Hidden Markov Model of
-  Player Engagement in Online Mobile Games", Information Systems Research, 2024: challenge
-  có tác động tích cực nhưng giảm dần lên engagement; reward ads có thể giúp player chuyển
-  sang trạng thái engagement cao hơn khi challenge đủ lớn.
-  https://pubsonline.informs.org/doi/10.1287/isre.2021.0217
-
-- Naavik, "How Niche Subgenres are Reshaping the Mobile Puzzle Market", 2026: mobile
-  puzzle năm 2025 đạt hơn 9.7B downloads và khoảng $10B IAP revenue; tăng trưởng dịch
-  chuyển sang các subgenre như Match Merge 2, Sort, Screw, Block; retention gap vẫn là
-  bài toán lớn của các subgenre mới.
+- Naavik, "How Niche Subgenres are Reshaping the Mobile Puzzle Market", 2026: puzzle 2025
+  đạt hơn 9.7B downloads và khoảng $10B IAP revenue; tăng trưởng dịch sang Match Merge 2,
+  Sort, Screw, Block.
   https://naavik.co/digest/how-niche-subgenres-are-reshaping-the-mobile-puzzle-market/
 
-- Herbert A. Simon, "Designing Organizations for an Information-Rich World", 1971: nền
-  tảng kinh điển của attention economics, thường được tóm lược bằng ý rằng sự giàu có của
-  thông tin tạo ra sự khan hiếm của chú ý.
-  https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748
+- PocketGamer.biz, "Royal Kingdom surpasses $750m...", 2026: Royal Kingdom vượt $750M
+  player spending ngày 3/7/2026, cho thấy top-tier match-3/puzzle vẫn scale được.
+  https://www.pocketgamer.biz/royal-kingdom-surpasses-750m-with-42-of-all-revenue-made-in-h1-2026/
 
-- McKinsey, "Gaming's next growth era: Unlocking the value of attention", 2026: gaming có
-  chất lượng chú ý cao vì người chơi chủ động tương tác, không chỉ tiêu thụ thụ động; mobile
-  gaming có attention value đáng kể so với nhiều định dạng media khác.
-  https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/gamings-next-growth-era-unlocking-the-value-of-attention
+- International Journal of Industrial Organization, "Personalized content, engagement, and
+  monetization in a mobile puzzle game", 2025: personalized difficulty trong mobile puzzle
+  có thể tăng engagement và revenue.
+  https://econpapers.repec.org/article/eeeindorg/v_3a98_3ay_3a2025_3ai_3ac_3as0167718724000833.htm
 
-- Johan Orrenius, "What is the Value of Attention? Supply and Demand Estimation of
-  Attention in a Mobile App Setting", IFN Working Paper/SSRN, 2026: nghiên cứu freemium
-  mobile game nơi user lựa chọn giữa trả tiền và xem video ads, giúp củng cố framing
-  "attention như một dạng payment".
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6075067
+- Information Systems Research, "Flow of the Game", 2024: rewarded ads có thể hỗ trợ flow
+  khi challenge cao.
+  https://pubsonline.informs.org/doi/10.1287/isre.2021.0217
 
-- Microsoft Advertising, "A new approach to measuring attention in mobile game
-  advertising", 2024: industry research về attention trong game advertising, nhấn mạnh
-  rewarded video ads và cách ad nên bổ sung trải nghiệm thay vì phá trải nghiệm.
-  https://about.ads.microsoft.com/en/blog/post/may-2024/new-approach-measuring-attention-in-mobile-game-advertising
+- Schultz, Dayan & Montague, Science, 1997: dopamine neurons và prediction/reward signal.
+  https://www.science.org/doi/10.1126/science.275.5306.1593
+
+- Hollerman & Schultz, Nature Neuroscience, 1998: dopamine neurons phản ánh reward prediction
+  error trong học tập.
+  https://www.nature.com/articles/nn0898_304
+
+- Caplin & Dean, "Dopamine and Reward Prediction Error", 2007: kết nối dopamine RPE với
+  neuroeconomics.
+  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=983120
+
+- Sheldon & Lyubomirsky, "The challenge of staying happier", 2012: hedonic adaptation và vai
+  trò của variety/appreciation.
+  https://pubmed.ncbi.nlm.nih.gov/22361725/
+
+- Lundy, Raman, Fu & Leyton-Brown, AAAI 2024, "Pay to (Not) Play": monetization bằng
+  impatience/waiting trong mobile games.
+  https://ojs.aaai.org/index.php/AAAI/article/view/28846
+
+- Charles Duhigg, "The Power of Habit": mô hình cue-routine-reward/habit loop để diễn giải
+  hành vi lặp lại.
+
+- B. J. Fogg, "Tiny Habits": hành vi lặp lại cần prompt, ability và motivation.
+
+- Kahneman & Tversky, prospect theory/loss aversion: hữu ích để phân tích vì sao player
+  muốn tránh mất công sức, streak hoặc progress.
+
+- Csikszentmihalyi, Flow: nền tảng để giải thích trạng thái tập trung và rủi ro khi ads hoặc
+  paywall cắt ngang flow.
