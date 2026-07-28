@@ -5,6 +5,7 @@ Thumbs.db:encryptable
 
 # Folder config file
 Desktop.ini
+.DS_Store
 
 # Recycle Bin used on NTFS volumes
 $RECYCLE.BIN/
