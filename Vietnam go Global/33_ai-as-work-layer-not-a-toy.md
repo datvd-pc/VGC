@@ -118,7 +118,7 @@ For a PM, I would build a different routine:
 
 For a Founder, I would use AI to compare scenarios:
 
-- Keep current cashflow model;
+- Keep current Cashflow model;
 - Invest in Data capability;
 - Hire a Senior PM;
 - Pitch Publishers;
@@ -171,3 +171,7 @@ Many teams do not need AI to “do the job.”
 They need AI to reduce the time spent on low-value thinking and repetitive cleanup.
 
 That is where the gain is.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

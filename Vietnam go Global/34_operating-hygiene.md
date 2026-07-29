@@ -132,7 +132,7 @@ This is how a team builds memory.
 
 Without memory, every project becomes a fresh struggle.
 
-In the next 2-4 years, Operating Hygiene will become a bigger advantage because production speed will keep increasing. AI, better tools, and more templates will make building easier. But faster building also creates faster confusion if the operating system is weak.
+In the next 2-4 years, Operating Hygiene will become a bigger advantage because production speed will keep increasing. AI, better tools, and more templates will make building easier. But faster building also creates faster confusion if the Operating System is weak.
 
 The best small teams will not be the most formal.
 
@@ -140,7 +140,7 @@ They will be the ones with just enough structure to keep learning visible.
 
 That structure also needs one owner.
 
-If nobody owns the operating system, the operating system slowly disappears.
+If nobody owns the Operating System, the Operating System slowly disappears.
 
 I would assign one person to each:
 
@@ -163,3 +163,7 @@ If I were a Founder, I would ask monthly:
 > Can we still explain what happened last week without asking three people separately?
 
 If the answer is no, the system is too weak.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

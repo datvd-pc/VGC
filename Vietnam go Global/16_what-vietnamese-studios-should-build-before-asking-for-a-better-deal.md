@@ -4,7 +4,7 @@ If a Studio wants a better deal, it should first prove it can create more than o
 
 That is the real leverage point.
 
-Many Vietnamese Studios are already good at shipping. That is useful. But in a market where Publishers have capital, big Data, legal leverage, and distribution power, “we can build fast” is not enough.
+Many Vietnamese Studios are already good at shipping. That is useful. But in a market where Publishers have capital, Big Data, legal leverage, and distribution power, “we can build fast” is not enough.
 
 Before asking for a better deal, a Studio should be able to show:
 
@@ -148,3 +148,7 @@ If I were a foreign partner, I would think of this as due diligence on maturity.
 
 The best Studios are not necessarily the loudest.
 They are the ones that can show their work.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

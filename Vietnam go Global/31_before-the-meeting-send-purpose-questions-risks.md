@@ -67,7 +67,7 @@ Use this structure:
 
 Example:
 
-> Purpose: align on the next playable build for the hybrid puzzle prototype.  
+> Purpose: align on the next playable build for the Hybrid Puzzle prototype.  
 > Current Context: core loop is playable, but onboarding is still too long.  
 > Questions: should we optimize for first-session clarity or add meta progression now?  
 > Assumption: the next test is mainly for D1 and first-session comprehension, not long-term Monetization.  
@@ -86,7 +86,7 @@ If the assumption is wrong, the partner can correct it before the team wastes ti
 
 Third, it improves power balance.
 
-Even if you are a smaller Studio, clear preparation makes you look like an operator, not only a vendor.
+Even if you are a smaller Studio, clear preparation makes you look like an Operator, not only a vendor.
 
 AI can help draft this note from rough context.
 
@@ -134,3 +134,7 @@ You are not only writing.
 You are designing the response you want.
 
 That is a real professional skill.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

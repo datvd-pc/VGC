@@ -3,7 +3,7 @@
 Do not ask whether a Vietnamese Studio is good.
 Ask what maturity level it is operating at.
 
-That is a better question for every Publisher, investor, and foreign operator.
+That is a better question for every Publisher, Investor, and foreign Operator.
 
 The Vietnamese ecosystem is not one single type of company. It is a mix of operating models.
 
@@ -11,28 +11,28 @@ I would group them like this:
 
 1. Production vendor
 2. Prototype hunter
-3. Reskin / polish cashflow Studio
-4. Emerging hybrid operator
-5. Mature global operator
+3. Reskin / polish Cashflow Studio
+4. Emerging hybrid Operator
+5. Mature global Operator
 
 Each level has value.
 Each level also has a different kind of risk.
 
 The production vendor is strong at execution, speed, and cost.
-The prototype hunter is strong at market search and creative testing.
-The reskin Studio is strong at survival and cashflow.
-The emerging operator is starting to own Data, Monetization, and Retention.
-The mature operator can hold learning, IP, and long-term value.
+The prototype hunter is strong at market search and Creative Testing.
+The reskin Studio is strong at survival and Cashflow.
+The emerging Operator is starting to own Data, Monetization, and Retention.
+The mature Operator can hold learning, IP, and long-term value.
 
 The formula is not “level 5 is always best.”
 The formula is:
 
 > Fit = maturity level + scope + control model
 
-That means a team can be excellent for co-dev and risky for Live Ops. A team can be perfect for prototype production and weak for Monetization architecture. A team can be good for a short revenue-share bet and bad for a long operator partnership.
+That means a team can be excellent for co-dev and risky for Live Ops. A team can be perfect for prototype production and weak for Monetization architecture. A team can be good for a short revenue-share bet and bad for a long Operator partnership.
 
 This is where many foreign partners make mistakes.
-They expect every good team to behave like a mature operator. That is unfair and unproductive.
+They expect every good team to behave like a mature Operator. That is unfair and unproductive.
 
 The better move is to classify the team first:
 
@@ -45,7 +45,7 @@ If I were a Publisher, I would design the relationship based on the level:
 
 - Level 1: controlled scope, clear instructions, tight milestones;
 - Level 2: fast test, clear kill criteria;
-- Level 3: cashflow-friendly collaboration;
+- Level 3: Cashflow-friendly collaboration;
 - Level 4: capability building and Data sharing;
 - Level 5: strategic partnership.
 
@@ -69,8 +69,8 @@ One useful way to think about the five levels is to ask what each level is tryin
 
 - Level 1 optimizes speed and reliability.
 - Level 2 optimizes signal discovery.
-- Level 3 optimizes survival and cashflow.
-- Level 4 optimizes learning and operating control.
+- Level 3 optimizes survival and Cashflow.
+- Level 4 optimizes learning and Operating Control.
 - Level 5 optimizes long-term value and repeatability.
 
 That is why the same Studio can be excellent at one level and weak at another.
@@ -106,11 +106,11 @@ Level 1 is where many teams can make money, but the Publisher still has to hold 
 
 Level 2 is where the Studio starts to carry more of the work and can be trusted with a narrower form of independence.
 
-Level 3 is where cashflow logic becomes clear. The Studio knows how to survive, but may still be underinvesting in operating maturity.
+Level 3 is where Cashflow logic becomes clear. The Studio knows how to survive, but may still be underinvesting in Operating Maturity.
 
 Level 4 is where the team starts to create learning on purpose. It does not just ship. It improves the next decision.
 
-Level 5 is where the Studio is no longer only a local production unit. It becomes a partner in product thinking, risk, and long-term value.
+Level 5 is where the Studio is no longer only a local production unit. It becomes a partner in Product Thinking, risk, and long-term value.
 
 The reason this matters is simple.
 
@@ -167,3 +167,7 @@ Level 3 keeps the company alive.
 Level 4 and 5 help you compound.
 
 That is the real business logic behind the ladder.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

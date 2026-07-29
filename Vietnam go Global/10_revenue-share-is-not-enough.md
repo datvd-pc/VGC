@@ -3,7 +3,7 @@
 Revenue Share sounds like success. For a Vietnamese Studio, it can be. But it is not enough.
 
 A Studio can make real money from a hit and still end up with very little long-term power.
-That happens when the Studio gets paid for success but does not keep enough of the learning, the rights, or the operating control.
+That happens when the Studio gets paid for success but does not keep enough of the learning, the rights, or the Operating Control.
 
 This is the part many people miss.
 
@@ -14,7 +14,7 @@ In Vietnam, that matters even more because a hit can already change a Founder’
 Some teams will cash out.
 Some will become lifestyle Studios.
 Some will chase the next hit.
-Very few will keep reinvesting into operating maturity.
+Very few will keep reinvesting into Operating Maturity.
 
 The formula is simple:
 
@@ -62,7 +62,7 @@ If I were a Studio, I would ask:
 
 If I were a Publisher, I would ask:
 
-- Does this Studio want cash-out, lifestyle, repeat-hit, or operator-building?
+- Does this Studio want cash-out, lifestyle, repeat-hit, or Operator-building?
 - Are we funding a team or funding a system?
 - Are we paying for a title, or for a learning partner?
 
@@ -88,7 +88,7 @@ But breathing is not the same as building.
 If the team uses the success only to recover, it may never build the next layer of capability.
 That is why some teams become comfortable too early.
 
-For a Publisher, this matters because a profitable Studio may still be a weak long-term partner if it does not know how to turn success into an operating system.
+For a Publisher, this matters because a profitable Studio may still be a weak long-term partner if it does not know how to turn success into an Operating System.
 
 For a Founder, this matters because the right response to a hit is not only celebration. It is reinvestment:
 
@@ -148,3 +148,7 @@ If you want a simple test, ask:
 > Does this deal make the next project easier to build, easier to understand, or easier to scale?
 
 If the answer is no, then the deal is probably too thin.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

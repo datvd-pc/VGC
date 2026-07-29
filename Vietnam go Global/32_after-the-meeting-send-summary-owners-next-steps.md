@@ -144,3 +144,7 @@ It also creates a paper trail for learning.
 When the next problem happens, you can check what was actually decided instead of arguing from memory.
 
 That alone is worth a lot.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

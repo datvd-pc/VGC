@@ -71,7 +71,7 @@ For a first collaboration, the test should be narrow enough that the Publisher c
 
 I would not ask:
 
-> Can you make a hybrid puzzle hit?
+> Can you make a Hybrid Puzzle hit?
 
 That question is too large.
 
@@ -155,7 +155,7 @@ Then I would watch whether the Studio uses it actively.
 
 That behavior tells me more than a sales deck.
 
-In the next 2-4 years, Publishers looking at Vietnam should not only ask which Studio is cheap or fast. They should ask which Studio can become a repeatable operating partner.
+In the next 2-4 years, Publishers looking at Vietnam should not only ask which Studio is cheap or fast. They should ask which Studio can become a repeatable Operating Partner.
 
 The first project is not only a prototype.
 
@@ -176,3 +176,7 @@ If I had to score the Studio on a simple 1-to-5 scale, I would use:
 - Learning Behavior.
 
 That is the kind of scoreboard the infographic should mirror.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

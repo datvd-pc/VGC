@@ -7,7 +7,7 @@ That is the most practical advice many Vietnamese Studios need.
 
 If your Studio does not yet have a hit, you cannot treat dream-building as if it were free.
 You need runway.
-And runway comes from cashflow.
+And runway comes from Cashflow.
 
 That is why many Studios survive through:
 
@@ -27,7 +27,7 @@ The formula is:
 
 > Cashflow -> runway -> capability purchase -> better odds
 
-If you have cashflow, the best use of it is not comfort.
+If you have Cashflow, the best use of it is not comfort.
 It is capability purchase:
 
 - Analytics;
@@ -44,9 +44,9 @@ You should ask what path keeps the team alive while still letting it learn.
 That is a much better question.
 
 If I were a Founder, I would choose the path that fits my runway.
-If I were a Publisher, I would partner with the Studio that uses cashflow to get stronger, not just to stay comfortable.
+If I were a Publisher, I would partner with the Studio that uses Cashflow to get stronger, not just to stay comfortable.
 
-In the next 2-4 years, cashflow discipline will separate the Studios that survive from the Studios that merely stay busy.
+In the next 2-4 years, Cashflow discipline will separate the Studios that survive from the Studios that merely stay busy.
 
 Dream later is not defeat.
 It is sequencing.
@@ -57,7 +57,7 @@ There is nothing wrong with wanting to build a global hit. But a global hit is n
 
 Before that outcome, the Studio needs survival.
 
-That is why cashflow-first thinking is not small thinking.
+That is why Cashflow-first thinking is not small thinking.
 It is a way to buy time.
 
 But there is a trap.
@@ -86,7 +86,7 @@ Comfort zone means:
 
 The same money can create two different futures.
 
-If I were a Vietnamese Founder, I would divide cashflow into three buckets:
+If I were a Vietnamese Founder, I would divide Cashflow into three buckets:
 
 1. **Survival Money**: salary, rent, tool cost, basic runway.
 2. **Capability Money**: Data, AI pipeline, PM training, legal review, reusable tech, design support.
@@ -117,19 +117,19 @@ In the next 2-4 years, the market will be less forgiving. UA will stay hard. Com
 
 So the people and Studios who survive will not be the ones who only work hard.
 
-They will be the ones who use cashflow to buy better odds.
+They will be the ones who use Cashflow to buy better odds.
 
-If you have cashflow, protect it.
+If you have Cashflow, protect it.
 But do not worship it.
 
 Use it to become harder to replace.
 
-There is also a strategic difference between cashflow and comfort.
+There is also a strategic difference between Cashflow and comfort.
 
 Cashflow is useful because it buys options.
 Comfort is dangerous when it buys complacency.
 
-If your Studio has cashflow, you can use it to:
+If your Studio has Cashflow, you can use it to:
 
 - Keep the team stable;
 - Hire one missing role;
@@ -140,7 +140,7 @@ If your Studio has cashflow, you can use it to:
 
 That is good use.
 
-If you use the same cashflow only to avoid change, the business becomes less adaptable.
+If you use the same Cashflow only to avoid change, the business becomes less adaptable.
 
 For Vietnamese teams, this is especially important because the market still rewards survival.
 
@@ -157,3 +157,7 @@ If I had to show the logic in one line, it would be:
 Revenue -> runway -> capability -> better odds.
 
 That is the sequence the visual should communicate.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

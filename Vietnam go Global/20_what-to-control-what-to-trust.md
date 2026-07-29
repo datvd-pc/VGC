@@ -138,3 +138,7 @@ Trust what local speed can improve.
 That is the rule I would use.
 
 It is simple enough to remember in a meeting and strong enough to keep the partnership sane.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -9,7 +9,7 @@ If your Studio has revenue but no hit, you are not in a failure state. You are i
 The choice is:
 
 - Keep everything comfortable;
-- Or use the cashflow to buy a better future.
+- Or use the Cashflow to buy a better future.
 
 The second path is harder.
 The first path is easier.
@@ -24,7 +24,7 @@ And then they lose urgency.
 That is not irrational.
 It is human.
 
-But if you want to keep growing, the right use of cashflow is not comfort. It is capability purchase.
+But if you want to keep growing, the right use of Cashflow is not comfort. It is capability purchase.
 
 What should you buy?
 
@@ -42,13 +42,13 @@ The formula is:
 
 If I were a Founder, I would ask:
 
-- What is this month’s cashflow buying?
+- What is this month’s Cashflow buying?
 - Is it comfort or leverage?
 - Is it keeping me alive or making me stronger?
 
-If I were a Publisher, I would want to see whether the Founder uses cashflow to build or just to relax.
+If I were a Publisher, I would want to see whether the Founder uses Cashflow to build or just to relax.
 
-In the next 2-4 years, teams that use stable cashflow to improve their operating system will outlast teams that only use cashflow to stay comfortable.
+In the next 2-4 years, teams that use stable Cashflow to improve their Operating System will outlast teams that only use Cashflow to stay comfortable.
 
 Cashflow is not the destination.
 It is the tool.
@@ -71,7 +71,7 @@ That is rational.
 
 But the Founder should name it honestly.
 
-If you want a lifestyle cashflow company, build it well. Protect margin. Keep scope simple. Avoid unnecessary complexity. Build a stable hiring model. Do not pretend you are trying to become the next global Publisher.
+If you want a lifestyle Cashflow company, build it well. Protect margin. Keep scope simple. Avoid unnecessary complexity. Build a stable hiring model. Do not pretend you are trying to become the next global Publisher.
 
 If you want to become an operating Studio, accept that the company must change.
 
@@ -116,7 +116,7 @@ Path one: **Defend Cashflow**.
 This means focus on low-risk projects, polish, reskin, operational efficiency, and team stability. The goal is not glory. The goal is durability.
 
 Path two: **Buy Learning**.
-This means using cashflow to fund one capability upgrade: Data, Game Design, AI pipeline, Producer system, or Publisher relationship. The goal is to become better, not immediately bigger.
+This means using Cashflow to fund one capability upgrade: Data, Game Design, AI pipeline, Producer system, or Publisher relationship. The goal is to become better, not immediately bigger.
 
 Path three: **Build For Global Operation**.
 This means accepting more risk, hiring stronger leaders, building Data and Live Ops capability, and negotiating deals that transfer learning.
@@ -130,7 +130,7 @@ In the next 2-4 years, I think many Vietnamese Studios will not fail because the
 
 The best Founders will be clear:
 
-“We are a cashflow Studio.”
+“We are a Cashflow Studio.”
 “We are a prototype partner.”
 “We are building toward global operation.”
 
@@ -144,7 +144,7 @@ If I were that Founder, I would turn the choice into a written policy:
 
 Then I would make the team feel that choice in real life.
 
-If we are a cashflow Studio, we optimize for margin, repeatability, and team stability.
+If we are a Cashflow Studio, we optimize for margin, repeatability, and team stability.
 If we are a prototype partner, we optimize for speed, learning, and clean test design.
 If we are building toward global operation, we optimize for Data, communication, legal clarity, and leadership depth.
 
@@ -152,7 +152,7 @@ The worst state is pretending to be all three at once.
 
 That usually creates mediocre execution in every direction.
 
-The real value of cashflow is not comfort.
+The real value of Cashflow is not comfort.
 It is optionality.
 
 Use it to buy a better version of the company, not only a safer version of the same company.
@@ -160,3 +160,7 @@ Use it to buy a better version of the company, not only a safer version of the s
 That is the cleanest summary:
 
 Cashflow should buy options, not excuses.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

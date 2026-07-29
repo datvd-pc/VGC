@@ -1,11 +1,11 @@
 # The Real Scarcity Is Not Talent, But Operating Maturity
 
 Vietnam does not lack game production talent.
-It lacks enough global operating maturity.
+It lacks enough global Operating Maturity.
 
 That is a very different statement.
 
-Vietnam has already proven that it can build at scale. The country has been reported at around 4.9 billion mobile game downloads in 2025, with roughly 95% coming from outside Vietnam. That is not a small achievement. It means Vietnam is already a global participant in mobile games.
+Vietnam has already proven that it can build at scale. The country has been reported at around 4.9 billion Mobile Game downloads in 2025, with roughly 95% coming from outside Vietnam. That is not a small achievement. It means Vietnam is already a global participant in Mobile Games.
 
 But reach is not the same as control.
 Production is not the same as operation.
@@ -35,7 +35,7 @@ They see:
 - Speed;
 - Willingness to work;
 - Good production cost;
-- Strong casual and puzzle output.
+- Strong casual and Puzzle output.
 
 What they do not always see is:
 
@@ -57,12 +57,12 @@ In the next 2-4 years, this will define the real gap inside Vietnam itself. The 
 - Pure production vendors;
 - Prototype hunters;
 - Cashflow reskin Studios;
-- Emerging operators;
-- Mature global operators.
+- Emerging Operators;
+- Mature global Operators.
 
 That split is healthy. It is also honest.
 
-Not every Studio needs to become a global operator. But every Studio should know what it is, what it is not, and what it can realistically become.
+Not every Studio needs to become a global Operator. But every Studio should know what it is, what it is not, and what it can realistically become.
 
 If I were a foreign Publisher, I would stop asking only, “Can this team build?” I would ask:
 
@@ -75,7 +75,7 @@ If I were a foreign Publisher, I would stop asking only, “Can this team build?
 If I were a Vietnamese Founder, I would stop thinking of success as only a hit. I would think of success as a system that can survive and improve after the hit.
 
 Vietnam has already exported attention.
-The next step is exporting operating quality.
+The next step is exporting Operating Quality.
 
 Sources:
 - https://mobidictum.com/vietnam-mobile-game-report-2025/
@@ -84,7 +84,7 @@ Sources:
 
 ---
 
-What does operating maturity look like in practice?
+What does Operating Maturity look like in practice?
 
 It is not a slogan.
 It shows up in very ordinary things:
@@ -124,3 +124,7 @@ If I were turning this into a visual scoreboard, I would show:
 - 2026-2029 as the period where the gap becomes obvious.
 
 That visual would be enough to make the point without overcomplicating it.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

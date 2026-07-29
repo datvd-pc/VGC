@@ -33,9 +33,9 @@ If you are a Publisher, the deal should match the Studio’s maturity.
 
 - A vendor needs tighter scope and tighter control.
 - A prototype hunter needs fast test logic.
-- A reskin Studio needs cashflow clarity.
-- An emerging operator needs learning rights.
-- A mature operator needs strategic alignment.
+- A reskin Studio needs Cashflow clarity.
+- An emerging Operator needs learning rights.
+- A mature Operator needs strategic alignment.
 
 If you are a Studio, you should stop asking for “better terms” before you can show better discipline.
 
@@ -66,13 +66,13 @@ There are four possible things a Studio can own:
 
 Weak teams only see Cash Value.
 Better teams see Cash Value and Asset Value.
-Strong operators negotiate for all four.
+Strong Operators negotiate for all four.
 
-This matters because a failed game can still be valuable if the Studio understands why it failed. A successful game can still be strategically weak if the Studio receives money but learns nothing about UA, Retention, Monetization, creative testing, or Live Ops.
+This matters because a failed game can still be valuable if the Studio understands why it failed. A successful game can still be strategically weak if the Studio receives money but learns nothing about UA, Retention, Monetization, Creative Testing, or Live Ops.
 
 For Vietnam, this is one of the key maturity questions.
 
-Vietnam already has production strength. Many teams can build fast. Many teams can iterate quickly. But the high-value knowledge often sits with the Publisher: market selection, ad creative testing, metric thresholds, portfolio timing, legal protection, IP strategy, and scaling decisions.
+Vietnam already has production strength. Many teams can build fast. Many teams can iterate quickly. But the high-value knowledge often sits with the Publisher: market selection, ad Creative Testing, metric thresholds, Portfolio timing, legal protection, IP strategy, and scaling decisions.
 
 If the deal keeps all of that invisible, the Studio remains dependent.
 
@@ -117,3 +117,7 @@ If you want to use this in a real negotiation, ask one final question:
 
 If the answer is nothing useful, the deal may be too thin.
 If the answer includes learning, assets, and a better next step, the deal is probably doing real work.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -162,3 +162,7 @@ If you are a Developer or Designer, use it to ask for clarity.
 If you are a Founder, use it to keep the team honest.
 
 That one structure alone will lift the quality of many Vietnamese teams.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -37,7 +37,7 @@ If I were a Publisher, I would not use the same deal structure for every Studio.
 - A vendor needs one shape.
 - A prototype hunter needs another.
 - A reskin Studio needs another.
-- An emerging operator needs another.
+- An emerging Operator needs another.
 
 The next 2-4 years will not reward generic contracts. They will reward contracts that match the actual maturity and ambition of the partner.
 
@@ -66,7 +66,7 @@ Level four: **Operating Partner**.
 The Studio can run Live Ops, content planning, Data review, and product improvement with Publisher oversight.
 
 Level five: **Strategic Partner**.
-Both sides can discuss IP, co-development, co-publishing, long-term portfolio planning, and larger financial structures.
+Both sides can discuss IP, co-development, co-publishing, long-term Portfolio planning, and larger financial structures.
 
 Not every Studio needs to reach level five.
 But both sides should know what the next level requires.
@@ -167,3 +167,7 @@ That is what I would want if I were building long-term in Vietnam.
 The goal is not to make every deal larger.
 
 The goal is to make every deal teach the Studio how to deserve a better one next time.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

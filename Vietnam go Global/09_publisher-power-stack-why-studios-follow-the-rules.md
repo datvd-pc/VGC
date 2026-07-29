@@ -4,19 +4,19 @@ Studio talent is real. Publisher power is still bigger.
 
 That is not a moral statement. It is a structural one.
 
-A strong Publisher usually controls five layers that matter in puzzle and hybrid puzzle:
+A strong Publisher usually controls five layers that matter in Puzzle and Hybrid Puzzle:
 
 1. Capital
 2. Big Data
 3. Legal leverage
 4. Distribution
-5. Operating system
+5. Operating System
 
 Capital pays for UA, milestone support, burn rate, and soft-launch risk.
 Big Data gives the Publisher a better read on creative, cohort quality, and game performance across many titles.
 Legal leverage decides who owns the IP, source code, test Data, exclusivity, sequel rights, and publishing rights.
 Distribution decides who can actually scale the game.
-Operating system decides whether the Publisher can make the game better after launch.
+Operating System decides whether the Publisher can make the game better after launch.
 
 That is why Studios follow Publisher rules.
 
@@ -28,7 +28,7 @@ That is the hidden cost.
 
 The formula is:
 
-> Publisher power = capital + big Data + legal + distribution + operating system
+> Publisher power = capital + Big Data + legal + distribution + Operating System
 
 Once you see the stack, you can see why so many Studios become dependent. It is not just because they need money. It is because the Publisher often controls the path to scale and the records of what happened along the way.
 
@@ -67,7 +67,7 @@ If I were a Studio, I would try to keep:
 - Clarity on IP and source ownership;
 - A written record of what was learned.
 
-If I were a Publisher, I would not treat every Studio the same. A vendor needs one deal structure. A prototype hunter needs another. An operator-builder needs a third.
+If I were a Publisher, I would not treat every Studio the same. A vendor needs one deal structure. A prototype hunter needs another. An Operator-builder needs a third.
 
 That is the point most people miss:
 
@@ -164,10 +164,14 @@ Repeatable partnerships are where the real value sits.
 
 The practical next step is to negotiate for what the stack usually hides:
 
-- visibility into Data;
-- clarity on rights;
-- access to learning;
-- protection of reusable work;
-- a path to the next project.
+- Visibility into Data;
+- Clarity on rights;
+- Access to learning;
+- Protection of reusable work;
+- A path to the next project.
 
 That is where the Studio starts to gain real leverage.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

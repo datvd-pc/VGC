@@ -6,7 +6,7 @@ They will not tell you everything. But they are enough to read whether a Vietnam
 
 That matters because the wrong read creates the wrong deal.
 
-A good team in Vietnam can look different from a mature global operator. A team may be fast, polite, responsive, and technically strong, but still not ready for a deeper partnership. Another team may look rough on the surface but already think in systems, learning, and ownership.
+A good team in Vietnam can look different from a mature global Operator. A team may be fast, polite, responsive, and technically strong, but still not ready for a deeper partnership. Another team may look rough on the surface but already think in systems, learning, and ownership.
 
 The difference is not cosmetic. It is structural.
 
@@ -14,7 +14,7 @@ What should you look for in the first two meetings?
 
 Start with the questions that reveal how the team thinks:
 
-- What cashflow path are you on today?
+- What Cashflow path are you on today?
 - What was the last project that failed, and what did you learn?
 - What does your team keep after each prototype?
 - Who owns Data, decision, and follow-up?
@@ -25,13 +25,13 @@ Those answers tell you more than a polished deck.
 
 The formula is:
 
-> First two meetings = cashflow path + learning path + control path
+> First two meetings = Cashflow path + learning path + control path
 
 If the team only talks about what they built, you are reading output.
 If the team talks about what they learned, you are reading maturity.
 If the team talks about how they operate when things get messy, you are reading potential.
 
-This is especially important in Vietnam because many Studios are still young and many Founders are still in the early stages of global operating maturity. That is normal. But it means a foreign partner should not confuse warmth, speed, and responsiveness with partnership readiness.
+This is especially important in Vietnam because many Studios are still young and many Founders are still in the early stages of global Operating Maturity. That is normal. But it means a foreign partner should not confuse warmth, speed, and responsiveness with partnership readiness.
 
 If I were a Publisher, I would leave the first meeting with three notes:
 
@@ -127,3 +127,7 @@ That is why I would judge less by polish and more by readability.
 
 Readable teams are easier to trust, easier to steer, and easier to work with over time.
 That is usually the better bet.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

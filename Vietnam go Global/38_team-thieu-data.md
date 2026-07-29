@@ -154,3 +154,7 @@ If I were turning this into a compact board, I would show:
 Metric -> Decision -> Action
 
 That simple sequence makes the problem visible immediately.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

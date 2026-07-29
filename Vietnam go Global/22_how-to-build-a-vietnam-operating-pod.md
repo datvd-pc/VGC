@@ -35,7 +35,7 @@ If I were a Studio, I would rather join a clear pod than a blurry “let’s kee
 
 This is especially useful in Vietnam because many teams are strong at production but still developing the operating muscle for Live Ops, Data cadence, and structured communication. A pod makes those gaps visible fast.
 
-In the next 2-4 years, I expect more serious Publishers to use pod structures in Vietnam instead of asking every partner to behave like a full operator on day one.
+In the next 2-4 years, I expect more serious Publishers to use pod structures in Vietnam instead of asking every partner to behave like a full Operator on day one.
 
 The point is not to make the team smaller.
 The point is to make the collaboration clearer.
@@ -45,7 +45,7 @@ Sources:
 
 The Operating Pod model is useful because it matches the real situation of many Vietnamese game teams.
 
-They are often not ready to become full global operators on day one. But they can become very strong compact teams if the working system is clear.
+They are often not ready to become full global Operators on day one. But they can become very strong compact teams if the working system is clear.
 
 That difference matters.
 
@@ -150,3 +150,7 @@ If I wanted to make the visual concrete, I would show:
 - 1 trust score after the cycle.
 
 That gives the pod a shape people can immediately understand.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

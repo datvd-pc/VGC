@@ -168,3 +168,7 @@ That language says:
 - Here is the recap.
 
 That is enough to make trust grow.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -37,7 +37,7 @@ That formula works across roles.
 - Make decisions;
 - Delegate well;
 - Coach others;
-- Protect the operating quality.
+- Protect the Operating Quality.
 
 AI can help with reflection:
 
@@ -131,7 +131,7 @@ For PMs:
 
 For Founders:
 
-- Learn cashflow;
+- Learn Cashflow;
 - Learn hiring leverage;
 - Learn deal structure;
 - Learn IP and legal basics;
@@ -152,9 +152,9 @@ Every month, write one page:
 - What proof I can show;
 - What I will train next month.
 
-This creates a personal operating system.
+This creates a personal Operating System.
 
-It also creates material for performance review, portfolio building, LinkedIn sharing, and future hiring.
+It also creates material for performance review, Portfolio building, LinkedIn sharing, and future hiring.
 
 In the next 2-4 years, the strongest Vietnamese talent will not only be technically good. They will be readable to global teams.
 
@@ -184,3 +184,7 @@ That is how the market notices you.
 
 Not because you said you were ready.
 Because your work made other people’s work easier.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

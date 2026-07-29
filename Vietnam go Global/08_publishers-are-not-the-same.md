@@ -13,8 +13,8 @@ Here is the simplest way to see the difference:
 - Voodoo leans toward industrialized filtering and high-volume prototype testing.
 - SayGames leans toward fewer bets and deeper partnerships.
 - Supersonic leans toward transparency, Data, and Unity-integrated publishing.
-- Rollic leans toward hybrid puzzle craftsmanship and deeper long-term titles.
-- Homa leans toward tool-assisted hybridization and portfolio expansion.
+- Rollic leans toward Hybrid Puzzle craftsmanship and deeper long-term titles.
+- Homa leans toward tool-assisted hybridization and Portfolio expansion.
 - TapNation leans toward broad Studio networks and infrastructure-heavy scaling.
 - CrazyLabs leans toward broad funnel Monetization and the long tail.
 - Lion/AppLovin leans toward platform-backed publishing with a strong growth stack.
@@ -26,7 +26,7 @@ For example:
 If you pitch Voodoo, they may care about speed, creative volume, and whether your prototype can survive filtering.
 If you pitch SayGames, they may care more about whether your team can build with them over time.
 If you pitch Supersonic, they may care about KPI clarity and whether your team can actually use transparent Data.
-If you pitch Rollic, they may care about craftsmanship in level design, pacing, and Retention.
+If you pitch Rollic, they may care about craftsmanship in Level Design, pacing, and Retention.
 
 The formula is not:
 
@@ -46,7 +46,7 @@ In practice, foreign Publishers are not only buying prototypes. They are buying 
 - Can this team become a repeatable partner?
 
 The wrong fit wastes time on both sides.
-The right fit can turn a small team into a reliable operating partner.
+The right fit can turn a small team into a reliable Operating Partner.
 
 That is why a Vietnamese Studio should never ask only, “Which Publisher is biggest?” Better questions are:
 
@@ -67,7 +67,7 @@ If I were a Founder, I would prepare different stories for different Publisher a
 
 If I were a Publisher, I would want the Studio to understand my model before asking for capital.
 
-In the next 2-4 years, Publisher differentiation will matter even more. AI will make raw production easier. That means the real value will move toward the Publisher’s operating model, not just the fact that they can write checks.
+In the next 2-4 years, Publisher differentiation will matter even more. AI will make raw production easier. That means the real value will move toward the Publisher’s Operating Model, not just the fact that they can write checks.
 
 The better your fit, the better your deal.
 
@@ -112,7 +112,7 @@ If a Publisher is platform-backed, your team should be ready to:
 
 If a Publisher is focused on hybrid craftsmanship, your team should be ready to:
 
-- Think harder about level design;
+- Think harder about Level Design;
 - Understand trust curves;
 - Keep player memory in mind;
 - Avoid shallow mechanic copying.
@@ -145,7 +145,7 @@ If a Studio works mainly with fast test Publishers, it will learn speed, creativ
 
 If a Studio works with deeper hybrid partners, it will learn content systems, level quality, and Retention thinking.
 
-If a Studio works with portfolio-driven Publishers, it will learn how to manage probability, not just passion.
+If a Studio works with Portfolio-driven Publishers, it will learn how to manage probability, not just passion.
 
 If a Studio works with IP-minded or strategic partners, it will learn rights, process, and long-term value.
 
@@ -161,9 +161,9 @@ That question is much sharper.
 
 It also protects against bad positioning.
 
-For example, a team with weak Data habits should not sell itself as a mature operating partner.
+For example, a team with weak Data habits should not sell itself as a mature Operating Partner.
 A team with strong production but weak Monetization should not pretend to own scaling.
-A team with strong design instincts but limited portfolio evidence should not pitch like a proven global operator.
+A team with strong design instincts but limited Portfolio evidence should not pitch like a proven global Operator.
 
 That does not mean hiding your ambition.
 
@@ -194,10 +194,14 @@ That is why Publishers are not the same.
 If you want a short decision rule, use this:
 
 - Fast filter: great for speed and volume.
-- Hybrid depth: great for retention and craft.
+- Hybrid depth: great for Retention and craft.
 - Platform-backed: great for operating structure.
 - IP strategy: great for long-term value.
-- Long-tail monetization: great for breadth and portfolio play.
+- Long-tail Monetization: great for breadth and Portfolio play.
 
 The question is not which one is best.
 The question is which one matches your current team.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -1,22 +1,62 @@
-# Infographic Prompt - Article 28
+# 28 - Know Your Real Level
 
 ## Goal
-Help young talent self-assess accurately.
+Create a LinkedIn infographic for Vietnamese game talent about self-assessment without ego inflation or false modesty.
+
+## Viewer Benefit
+The viewer should get a practical career mirror. It helps juniors, mids, seniors, leads, and founders identify what level they actually operate at by evidence, not title.
 
 ## Core Message
-Real level is output, reliability, learning speed, and ownership.
+Your title is not your level. Your level is the size of problem you can solve with limited supervision, clear communication, and repeatable results.
+
+Knowing your level is not an insult. It is the fastest way to choose the next skill gap.
 
 ## Data Points To Include
-- 4 level bars: Output, Reliability, Learning Speed, Ownership.
-- 4 role badges: Developer, Designer, PM, Founder.
-- 1 truth test: what still works if you are absent?
+- 5 evidence dimensions: Output Quality, Autonomy, Communication, Decision Quality, Business Awareness.
+- 4 career levels: Junior, Mid, Senior, Lead.
+- 3 traps: title inflation, task-count illusion, confidence without evidence.
+- 1 rule: evidence beats self-image.
+- 2026-2029 implication: global teams will pay for reliable judgment, not only years of experience.
 
 ## Text On Image
-Know Your Real Level
+Main title: “Know Your Real Level”
 
-## Visual Metaphor
-An arcade level assessment screen with skill bars.
+Subtitle: “Title Is Not Evidence.”
+
+Five evidence bars:
+- Output Quality.
+- Autonomy.
+- Communication.
+- Decision Quality.
+- Business Awareness.
+
+Four-level ladder:
+- Junior: Needs clear tasks.
+- Mid: Owns a workstream.
+- Senior: Solves ambiguous problems.
+- Lead: Improves the system.
+
+Warning:
+“Busy Is Not Senior.”
+
+Bottom takeaway:
+“Your Level Is The Problem Size You Can Own.”
+
+Footer text:
+- Author: Dat Dao.
+- linkedin.com/in/datvd90.
+- QR Code Placeholder.
+
+## Visual Structure
+Use a retro arcade character-level screen. Replace fantasy stats with work evidence stats. Use a clear 4-level ladder and five stat bars. Minimal icons: badge, chart, compass, warning.
 
 ## Image Prompt
-Create a premium editorial infographic in a retro arcade ranking style. Overall style: modern gaming industry analytics mixed with nostalgic 16-bit pixel art aesthetics. Format: vertical LinkedIn infographic, 4:5 ratio. Top headline: "Know Your Real Level". Middle: arcade player profile with four stat bars: Output, Reliability, Learning Speed, Ownership. Add role badges: Developer, Designer, PM, Founder. Bottom takeaway: "Confidence is easy. Accuracy is leverage." Use dark charcoal, off-white, cyan, amber, neon green. Keep it premium, readable, and strategic.
-Include callouts: "4 level bars", "4 role badges", "evidence over feeling", "truth test".
+Create a premium editorial infographic in a retro arcade character-level style. Overall style: Modern gaming industry analytics mixed with nostalgic 16-bit pixel art aesthetics. Bright warm ivory background, strong black pixel typography, red headline, cyan ladder lines, neon green stat bars, amber warning badge. Show five evidence bars: Output Quality, Autonomy, Communication, Decision Quality, Business Awareness. Show four levels: Junior, Mid, Senior, Lead. Include warning “Busy Is Not Senior.” Clean layout, few icons, high readability.
+
+Add a clean bottom footer strip: left side text "Author: Dat Dao | linkedin.com/in/datvd90"; bottom-right reserved white square placeholder labeled "QR Code" with enough quiet-zone margin for a real QR to be added later; do not generate a fake scannable QR code.
+
+## Avoid
+Avoid motivational career poster style. Avoid showing people ranking each other harshly. Avoid tiny text and too many level descriptions.
+
+## Quality Check
+The viewer should feel they can honestly assess themselves in under 10 seconds.

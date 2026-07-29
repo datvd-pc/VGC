@@ -42,7 +42,7 @@ I would ask:
 
 If I were a PM, I would review the weekly burn against the actual signal, not against hope.
 
-In the next 2-4 years, the teams that manage runway intelligently will have a much better chance of surviving long enough to become real operators.
+In the next 2-4 years, the teams that manage runway intelligently will have a much better chance of surviving long enough to become real Operators.
 
 Good allocation beats heroic optimism.
 
@@ -148,3 +148,7 @@ If I had to reduce the runway board to one screen, I would show:
 - Growth mode.
 
 That is enough to force honest tradeoffs.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

@@ -7,7 +7,7 @@ Sometimes what looks like small ambition is simply rational risk management.
 
 That distinction matters.
 
-Vietnam is a market where many Founders can already do very well with a relatively modest outcome. The local cost base is lower. The cash-out threshold is lower. The emotional and financial pressure to avoid failure is real. Add to that the fact that hits are hard, UA is expensive, and many Studios have limited runway, and you get a rational tendency to stay close to cashflow.
+Vietnam is a market where many Founders can already do very well with a relatively modest outcome. The local cost base is lower. The cash-out threshold is lower. The emotional and financial pressure to avoid failure is real. Add to that the fact that hits are hard, UA is expensive, and many Studios have limited runway, and you get a rational tendency to stay close to Cashflow.
 
 That is not a mindset bug.
 It is an economic response.
@@ -18,7 +18,7 @@ The formula is:
 
 If runway is short, the Founder may choose safety.
 If pain tolerance is low after a previous failure, the Founder may choose a lifestyle path.
-If the current cashflow is already good enough, the Founder may decide not to pay the cost of bigger complexity.
+If the current Cashflow is already good enough, the Founder may decide not to pay the cost of bigger complexity.
 
 That is why “dream bigger” is not always useful advice.
 
@@ -31,8 +31,8 @@ If I were a foreign Publisher, I would not interpret every conservative behavior
 
 If I were a Vietnamese Founder, I would ask the same thing about myself.
 
-- Do I really want to build a global operator?
-- Or do I want a stable, high-quality cashflow business?
+- Do I really want to build a global Operator?
+- Or do I want a stable, high-quality Cashflow business?
 - What pain am I actually willing to pay for the upside?
 
 The goal is not to shame cautious Founders.
@@ -81,7 +81,7 @@ Unclear ambition is.
 
 If the team knows it wants survival, say that.
 If it knows it wants to build, say that.
-If it wants cashflow first and operator later, say that too.
+If it wants Cashflow first and Operator later, say that too.
 
 That honesty alone can save a lot of bad deals.
 
@@ -125,3 +125,7 @@ They are just choosing survival first.
 
 That is often rational.
 And rational decisions are usually easier to partner with than vague dreams.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

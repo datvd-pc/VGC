@@ -12,7 +12,7 @@ Once that happens, the Studio’s next path is no longer guaranteed.
 Some Founders cash out.
 Some become lifestyle Studios.
 Some hunt the next hit.
-Very few decide to become operators.
+Very few decide to become Operators.
 
 That is why “we got one hit, so now we are a global Studio” is usually false.
 
@@ -44,12 +44,12 @@ That is why a Publisher should ask:
 
 The answer changes the deal.
 
-If the team is cash-out oriented, the Publisher should not expect operator behavior.
+If the team is cash-out oriented, the Publisher should not expect Operator behavior.
 If the team is lifestyle oriented, the Publisher should not expect deep reinvestment.
 If the team is repeat-hit oriented, the Publisher should expect speed but not necessarily maturity.
-If the team is operator-oriented, then the Publisher can build something more durable.
+If the team is Operator-oriented, then the Publisher can build something more durable.
 
-In the next 2-4 years, I expect the industry to create more micro-Studios after hits, not necessarily more global operators. That is normal. It is also why foreign partners need to read motivation, not just revenue.
+In the next 2-4 years, I expect the industry to create more micro-Studios after hits, not necessarily more global Operators. That is normal. It is also why foreign partners need to read motivation, not just revenue.
 
 If I were a Founder, I would ask:
 
@@ -146,3 +146,7 @@ If you want the cleanest post-hit filter, ask:
 3. What should we stop assuming now?
 
 That is the shortest path to a more honest Studio.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

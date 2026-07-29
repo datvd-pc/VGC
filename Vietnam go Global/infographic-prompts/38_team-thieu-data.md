@@ -1,22 +1,64 @@
-# Infographic Prompt - Article 38
+# 38 - No Data, No Real Learning
 
 ## Goal
-Explain minimum Data discipline for young game teams.
+Create a LinkedIn infographic that pushes Vietnamese game teams to treat Data as a learning system, not a dashboard decoration.
+
+## Viewer Benefit
+The viewer should get a minimum viable analytics checklist for puzzle and Hybrid Puzzle work. It should help teams connect metrics to decisions, instead of collecting numbers that do not change action.
 
 ## Core Message
-Data is useful only when it supports a decision.
+If Data does not change what the team builds, cuts, tests, or prioritizes, it is not learning.
+
+No Data means every postmortem becomes opinion. Bad Data means every decision feels scientific but may still be wrong.
 
 ## Data Points To Include
-- 6 core metrics: D1 Retention, D7 Retention, Playtime, Fail Rate, Retry Rate, Monetization Signal.
-- 1 decision question: what decision does this metric support?
-- 1 rule: collect Data because it changes action, not because it looks professional.
+- 7 core metrics: D1 Retention, D7 Retention, Playtime, Fail Rate, Retry Rate, Monetization Signal, Crash Rate.
+- 4 decisions Data should support: keep, cut, tune, test.
+- 3 Data risks: missing event, wrong event name, no owner for interpretation.
+- 1 rule: every metric needs a decision owner.
+- 2026-2029 implication: AI and faster content pipelines make measurement discipline more important.
 
 ## Text On Image
-No Data, No Real Learning
+Main title: “No Data, No Real Learning”
 
-## Visual Metaphor
-An arcade analytics dashboard with decision-linked metrics.
+Subtitle: “Charts Are Useless Until They Change Decisions.”
+
+Seven metric cards:
+- D1 Retention.
+- D7 Retention.
+- Playtime.
+- Fail Rate.
+- Retry Rate.
+- Monetization Signal.
+- Crash Rate.
+
+Decision buttons:
+- Keep.
+- Cut.
+- Tune.
+- Test.
+
+Warning:
+“Every Metric Needs An Owner.”
+
+Bottom takeaway:
+“Data Must Change Action.”
+
+Footer text:
+- Author: Dat Dao.
+- linkedin.com/in/datvd90.
+- QR Code Placeholder.
+
+## Visual Structure
+Use a retro arcade analytics dashboard with seven big metric cards, not dense charts. Put four decision buttons under the cards. Use max three icons: chart, owner badge, warning.
 
 ## Image Prompt
-Create a premium editorial infographic in a retro arcade ranking style. Overall style: modern gaming industry analytics mixed with nostalgic 16-bit pixel art aesthetics. Format: vertical LinkedIn infographic, 4:5 ratio. Top headline: "No Data, No Real Learning". Middle: arcade analytics dashboard with metric cards: D1 Retention, D7 Retention, Playtime, Fail Rate, Retry Rate, Monetization Signal, Crash Rate. Add question overlay: "What decision does this metric support?" Bottom takeaway: "Do not make important game decisions in the dark." Use dark background, pixel charts, neon green stat bars, cyan and amber accents.
-Include callouts: "6 core metrics", "one decision question", "Data must change action", "no charts without decisions".
+Create a premium editorial infographic in a retro arcade analytics-dashboard style. Overall style: Modern gaming industry analytics mixed with nostalgic 16-bit pixel art aesthetics. Bright warm ivory background, crisp black pixel font, bright red title banner, cyan metric cards, neon green decision buttons, amber warning badge. Show seven metric cards: D1 Retention, D7 Retention, Playtime, Fail Rate, Retry Rate, Monetization Signal, Crash Rate. Add decision buttons: Keep, Cut, Tune, Test. Include warning “Every Metric Needs An Owner.” Clean, bright, low clutter, readable for LinkedIn mobile.
+
+Add a clean bottom footer strip: left side text "Author: Dat Dao | linkedin.com/in/datvd90"; bottom-right reserved white square placeholder labeled "QR Code" with enough quiet-zone margin for a real QR to be added later; do not generate a fake scannable QR code.
+
+## Avoid
+Avoid tiny line charts. Avoid realistic BI dashboard screenshots. Avoid too many numbers without decisions.
+
+## Quality Check
+The viewer should understand that analytics only matters when it changes action.

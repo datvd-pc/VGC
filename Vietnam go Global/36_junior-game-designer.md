@@ -17,7 +17,7 @@ That is the real job.
 
 The formula is:
 
-> Good level design = clarity + fairness + near-miss + return reason
+> Good Level Design = clarity + fairness + near-miss + return reason
 
 If a junior Designer only thinks in difficulty, they will often make the player feel trapped instead of engaged.
 If they only think in novelty, they may build something interesting but not usable.
@@ -75,7 +75,7 @@ The player asks silently:
 - Is the reward worth another attempt?
 - Is the game respecting my time?
 
-For puzzle and hybrid puzzle, this is critical.
+For Puzzle and Hybrid Puzzle, this is critical.
 
 A level can be mathematically solvable and still feel unfair.
 A booster can be useful and still feel forced.
@@ -100,7 +100,7 @@ AI can help turn this into a routine.
 
 Prompt:
 
-> Review this puzzle level concept. Check clarity, fairness, player agency, near-miss, fail-to-retry, fail-to-quit, booster value, and reward timing. Ask questions before giving suggestions.
+> Review this Puzzle level concept. Check clarity, fairness, player agency, near-miss, fail-to-retry, fail-to-quit, booster value, and reward timing. Ask questions before giving suggestions.
 
 But the Designer must still play, observe, and compare with Data.
 
@@ -161,3 +161,7 @@ I would ask them to explain more clearly:
 - What they would change next.
 
 That is where growth begins.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

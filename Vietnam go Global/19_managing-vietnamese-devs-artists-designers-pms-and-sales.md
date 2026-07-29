@@ -147,3 +147,7 @@ They show you where the real management work is.
 
 Once you know the answers, you can adjust the system instead of blaming the people.
 That is what real management looks like.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

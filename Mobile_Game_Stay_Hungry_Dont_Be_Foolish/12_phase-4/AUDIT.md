@@ -1,162 +1,213 @@
 # Phase 4 Audit
 
-## Status
+## Verdict
 
-The current Phase 4 direction is strategically correct, but the `DRAFT.md` files are not yet publish-ready.
+Phase 4 direction is strategically correct.
 
-Treat them as raw material only.
+The current `DRAFT.md` files are useful raw material, but they are not yet publish-ready.
 
-## What Is Covered
+They need one more pass to match the mindset of Phase 1-3 and the `Vietnam go Global` series:
 
-The current material covers the right business objectives:
+- English-first LinkedIn article style;
+- data-backed context;
+- Past / Present / Future;
+- one sharp keyword;
+- multi-role scenario logic;
+- practical 7-14 day action;
+- infographic-ready numbers, levels, scorecards, or decision rules.
 
-- Deal flow;
-- Events;
-- Studio acquisition;
-- Studio selection;
-- Strategic control;
-- Capability transfer;
-- Studio nurture;
-- Revenue;
-- Achievement metrics;
-- Repeat business.
+## Phase 4 Mindset
 
-## What Phase 1 Requires
+Phase 1-3 built the argument that Vietnam has production capacity but still needs operating maturity.
 
-Phase 1 does not read like a memo.
+Phase 4 must move one level higher:
 
-It reads like a LinkedIn article with a clear market shift, a sharp thesis, public evidence, and a practical consequence.
+> The question is no longer whether Vietnam can build games. The question is who can build the operating system that turns Vietnam's game talent into repeatable publishing advantage.
 
-It also uses named publishers, market comparatives, and value-chain positions instead of staying at the level of abstract strategy language.
+This means every article should behave like an operating memo disguised as a LinkedIn article:
 
-## Gaps In The Current Drafts
+- sharp enough for foreign Publishers;
+- practical enough for Vietnamese Studios;
+- structured enough for Investors / ecosystem operators;
+- visual enough to become an infographic.
 
-### 1. English first
+## Publish-Ready Rubric
 
-The publishable articles must be English-first.
+Each article must pass all 10 gates.
 
-Internal Vietnamese planning language should not bleed into the article draft.
+1. **Opening contrast**
+   The article must start with old question vs better question.
 
-### 2. LinkedIn rhythm
+2. **Vietnam context**
+   Include a Vietnam-specific observation, not generic publishing advice.
 
-The older English articles follow a recognizable rhythm:
+3. **Evidence**
+   Include at least one sourced number, named report, named Publisher comparison, or clearly marked inference from research.
 
-- Series anchor;
-- Opening contrast;
-- Old question / better question;
-- Market context;
-- Thesis;
-- Scenario logic;
-- Multi-role view;
-- Practical action;
-- Sharp close;
-- Author line.
+4. **Timeline**
+   Include Past / Present / Future or a clear 2022-2026 / 2026-2029 shift.
 
-The current drafts are still too close to structured notes.
+5. **Main keyword**
+   One strategic keyword must stand alone in bold.
 
-### 3. Evidence and numbers
+6. **Mechanism**
+   Explain how the idea works in practice: what changes in behavior, signal, decision, or economics.
 
-The current drafts do not yet consistently prove claims with data.
+7. **Multi-role view**
+   Include Publisher, Studio, and Investor / ecosystem operator perspective.
 
-Each article needs one of the following:
+8. **Decision rule**
+   Give one simple operating rule or scorecard.
 
-- A number from research;
-- A named market report;
-- A public publisher benchmark;
-- A clearly marked inference from research.
+9. **7-14 day action**
+   End with an action that can actually be done soon.
 
-Useful evidence sources:
+10. **Infographic readiness**
+   The article must contain visual inputs: numbers, levels, steps, score bars, columns, or decision tree.
 
-- Vietnam Mobile Game Industry Report / GameGeek;
-- VietnamNet;
-- Gamesforum;
-- VECOM;
-- World Bank;
-- Google / Temasek / Bain e-Conomy SEA;
-- Public publisher data from Voodoo, Unity Supersonic, TapNation, SayGames, CrazyLabs.
+## Article Audit Table
 
-### 4. Past / Present / Future
+| Article | Current Status | Main Gap | Required Fix |
+| --- | --- | --- | --- |
+| 41 | Strongest draft, close to usable | Needs sharper infographic scorecard | Add 6-layer Operating Model visual and 3 compounding metrics |
+| 42 | Good thesis | Needs Vietnam-specific sourcing funnel numbers / proxy | Add intake scorecard, SLA, qualification funnel |
+| 43 | Good idea | Event logic still abstract | Add event funnel: attendance -> qualified lead -> pilot -> repeat |
+| 44 | Useful topic | Needs stronger attraction mechanism | Add Studio value proposition scorecard |
+| 45 | Good portfolio framing | Repeats itself and needs metrics | Add 4-bucket governance board and allocation rules |
+| 46 | Correct thesis | Needs measurable capability transfer | Add before/after capability checklist |
+| 47 | Too short | Needs 6-week nurture program design | Add program calendar and Studio learning milestones |
+| 48 | Correct but abstract | Needs portfolio revenue model | Add revenue layers: first deal, repeat deal, portfolio upside |
+| 49 | Too thin | Needs achievement metrics hierarchy | Add metric ladder: activity, signal, capability, revenue, repeat |
+| 50 | Good close article | Needs Repeat Business dashboard | Add second-deal rate, referral rate, churn reason, repeat revenue |
 
-Phase 1 style is not static.
+## Required Data / Visual Inputs By Article
 
-It shows:
+### 41 - Publishing Operating System
 
-- What used to work;
-- What is changing now;
-- What will matter in the next 2-4 years.
+Use:
 
-The current drafts do not consistently carry that temporal structure.
+- Vietnam 2025: about 4.9B downloads;
+- roughly 95% downloads outside Vietnam;
+- about 210 active Studios;
+- more than 27,000 new games published;
+- 6 operating layers: sourcing, qualification, deal design, support, governance, retention.
 
-### 5. Scenario logic
+Visual:
 
-The current drafts mention roles, but they do not yet consistently convert them into operating scenarios.
+- 6-layer operating system board;
+- output vs value capture gap.
 
-Each article needs:
+### 42 - Deal Flow Architecture
 
-- Publisher incentive;
-- Studio incentive;
-- Investor / ecosystem incentive;
-- Misalignment risk;
-- Better equilibrium.
+Use:
 
-### 6. Concrete ecosystem comparatives
+- Vietnam has many young Studios and uneven maturity;
+- 4-stage funnel: source -> qualify -> prioritize -> convert;
+- SLA metric: first response time, review time, pilot decision time.
 
-The research references e-commerce, fintech, startup ecosystems, and platform businesses, but the drafts do not use them consistently as operating analogies.
+Visual:
 
-Each article should include at least one relevant comparative lens:
+- funnel board;
+- intake scorecard.
 
-- E-commerce for seller acquisition, onboarding, trust, and settlement;
-- Fintech for trust, compliance, transaction frequency, and risk control;
-- Startup ecosystem for pipeline, mentor layer, and capability building;
-- Platform business for repeat participation and network effects.
+### 43 - Events Are Market Infrastructure
 
-### 7. Mechanism before abstraction
+Use:
 
-The current drafts rely too heavily on abstract nouns:
+- event funnel: attendance -> qualified lead -> follow-up -> pilot -> repeat;
+- compare e-commerce seller acquisition and startup ecosystem demo days;
+- event success should not be attendance only.
 
-- operating system;
-- strategic control;
-- portfolio governance;
-- capability transfer;
-- repeat business.
+Visual:
 
-These are valid terms, but the article must show the mechanism behind them.
+- event conversion funnel;
+- signal capture dashboard.
 
-Required:
+### 44 - Attract High-Quality Studios
 
-- What changes in behavior;
-- Who does what differently;
-- What signal gets stronger;
-- What commercial outcome follows.
+Use:
 
-### 8. Action specificity
+- 5 Studio attraction factors: fairness, speed, useful feedback, learning access, deal clarity;
+- compare Publisher as employer brand for Studios;
+- stronger Studios choose partners, not just accept offers.
 
-The current drafts sometimes end with principles instead of operating actions.
+Visual:
 
-Each article must end with one action that can be done in 7-14 days:
+- Studio value proposition scorecard.
 
-- Build a studio intake scorecard;
-- Define a response SLA;
-- Create an event follow-up pipeline;
-- Run a 6-week studio pilot;
-- Add a learning review;
-- Build a portfolio dashboard.
+### 45 - Studio Selection Is Portfolio Governance
 
-### 9. Named comparatives
+Use:
 
-Phase 1 uses named publisher comparatives to anchor argument.
+- 4 portfolio buckets: Pilot, Nurture, Strategic Partner, Not Now;
+- 4 allocation types: capital, support, response speed, review cadence;
+- named Publisher comparatives: Voodoo, TapNation, SayGames.
 
-The Phase 4 set should do the same where relevant.
+Visual:
 
-Use public comparatives like:
+- portfolio board.
 
-- Voodoo;
-- Unity Supersonic;
-- TapNation;
-- SayGames;
-- CrazyLabs.
+### 46 - Capability Transfer
 
-## Required Article Template
+Use:
+
+- 5 transfer layers: Data, Creative, Monetization, Live Ops, Process;
+- before/after Studio maturity;
+- capability transfer as retention mechanism.
+
+Visual:
+
+- capability transfer bridge.
+
+### 47 - Studio Nurture Program
+
+Use:
+
+- 6-week program;
+- weekly milestones: diagnosis, brief, playable, data, review, next bet;
+- 3 outputs: better team, better process, better next project.
+
+Visual:
+
+- 6-week nurture roadmap.
+
+### 48 - Revenue Is A Portfolio Outcome
+
+Use:
+
+- revenue is not one hit only;
+- 4 layers: prototype pipeline, first launch, repeat partner, portfolio learning;
+- compare fund portfolio thinking.
+
+Visual:
+
+- portfolio revenue stack.
+
+### 49 - Achievement Metrics That Matter
+
+Use:
+
+- 5 metric levels: activity, signal, capability, revenue, repeat;
+- vanity metrics vs operating metrics;
+- 7-14 day dashboard action.
+
+Visual:
+
+- metric ladder.
+
+### 50 - Repeat Business
+
+Use:
+
+- 4 repeat metrics: second-deal rate, referral rate, churn reason, repeat partner revenue;
+- second and third deals should be easier than the first;
+- repeat trust as moat.
+
+Visual:
+
+- Repeat Business flywheel.
+
+## Rewrite Template
 
 ```md
 # Day X - Title
@@ -171,51 +222,70 @@ The better question is:
 
 "New strategic question."
 
-[Market context and Vietnam-specific observation.]
+[Vietnam-specific market context.]
 
-[Evidence: number / report / public benchmark / inference.]
+[Evidence: sourced number / named report / named Publisher comparison / marked inference.]
 
-[Past / Present / Future.]
+## Past
 
-**Main keyword.**
+[What used to work.]
 
-[Core thesis.]
+## Present
 
-[Scenario block.]
+[What is changing now.]
 
-For publishers:
+## Future
 
-[Action / incentive / risk.]
+[What matters in the next 2-4 years.]
 
-For studios:
+## Main keyword
 
-[Action / incentive / risk.]
+**Keyword.**
 
-For investors / ecosystem operators:
+## Mechanism
 
-[Action / incentive / risk.]
+[How this works operationally.]
 
-[Practical operating action.]
+## Scenario
 
-[7-14 day action.]
+If the Publisher does X, consequence Y.
 
-[Sharp close.]
+If the Studio does X, incentive Y.
+
+If the ecosystem lacks X, bottleneck Y.
+
+## For Publishers
+
+[Specific implication.]
+
+## For Studios
+
+[Specific implication.]
+
+## For Investors / Ecosystem Operators
+
+[Specific implication.]
+
+## Scorecard
+
+[3-6 measurable checks.]
+
+## Action
+
+In the next 7-14 days, [specific action].
+
+## Close
+
+[Short sharp close.]
 
 ---
 **Author:** [Dat Dao](https://www.linkedin.com/in/datvd90/)
 ```
 
-## Decision Needed
+## Non-Negotiables
 
-Before rewriting the articles, confirm this direction:
-
-- English-first;
-- LinkedIn article style;
-- 1,500-2,500 words per final article;
-- Scenario block in every article;
-- One main keyword per article;
-- Evidence / numbers in every article;
-- Past / Present / Future in every article;
-- Practical 7-14 day action in every article;
-- Some named publisher comparatives across the set;
-- Existing `DRAFT.md` files treated as raw material, not publish drafts.
+- No generic consulting language without mechanism.
+- No fake market numbers.
+- If hard data is missing, use structural counts from the model.
+- Every article must produce an infographic brief.
+- Every article must make Dat look like a local operating advisor, not just a content writer.

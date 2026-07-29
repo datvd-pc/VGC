@@ -46,8 +46,8 @@ I would also test whether the PM understands power.
 
 Many young PMs think their job is to keep everyone happy. That is understandable, but it is incomplete. In a game team, the PM often sits between people with different incentives.
 
-The Publisher wants speed, learning, and portfolio fit.
-The Founder wants cashflow, reputation, and relationship protection.
+The Publisher wants speed, learning, and Portfolio fit.
+The Founder wants Cashflow, reputation, and relationship protection.
 The Developer wants stable scope and enough time.
 The Designer wants room to test ideas.
 The Artist wants clear visual direction.
@@ -176,3 +176,7 @@ Show me the recap.
 Show me the risk log.
 Show me how you corrected the misunderstanding.
 That tells me more than a confident introduction.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

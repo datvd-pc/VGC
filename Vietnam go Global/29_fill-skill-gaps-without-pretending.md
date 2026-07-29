@@ -55,7 +55,7 @@ AI is not useful if you use it to pretend you understand things you do not.
 
 If I were a young Designer, I would learn FAR, APS, SR, fairness, and near-miss before I learned fancy buzzwords.
 If I were a PM, I would learn decision logging and escalation before I learned more frameworks.
-If I were a Founder, I would learn cashflow and deal literacy before I tried to look strategic.
+If I were a Founder, I would learn Cashflow and deal literacy before I tried to look strategic.
 
 In the next 2-4 years, the people who build learning loops will outgrow the people who only collect information.
 
@@ -140,7 +140,7 @@ Some people do not know what role they are actually playing.
 
 A Developer may need to become a technical partner, not just a task finisher.
 A Designer may need to become a product thinker, not just an idea person.
-A PM may need to become a decision operator, not just a scheduler.
+A PM may need to become a decision Operator, not just a scheduler.
 A Founder may need to become a capital allocator, not just a strong executor.
 
 If you do not know your position, you cannot choose the right skill to learn.
@@ -184,3 +184,7 @@ The point is not to become impressive.
 The point is to become more useful in the specific market you are in.
 
 That is how skill growth turns into leverage.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

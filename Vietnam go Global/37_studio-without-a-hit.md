@@ -20,7 +20,7 @@ The mistake is to confuse movement with progress.
 
 The formula is:
 
-> No-hit Studio = cashflow discipline + learning discipline + kill discipline
+> No-hit Studio = Cashflow discipline + learning discipline + kill discipline
 
 If you are still pre-hit, the key question is not:
 
@@ -40,17 +40,17 @@ AI can help with:
 - Option analysis;
 - Kill criteria thinking.
 
-If I were a Founder, I would keep one eye on cashflow and one eye on capability growth.
-If I were a Publisher, I would care whether the team knows how to use cashflow to buy learning, not just comfort.
+If I were a Founder, I would keep one eye on Cashflow and one eye on capability growth.
+If I were a Publisher, I would care whether the team knows how to use Cashflow to buy learning, not just comfort.
 
-In the next 2-4 years, Studios that know how to survive and learn at the same time will have a much better chance of becoming real operators later.
+In the next 2-4 years, Studios that know how to survive and learn at the same time will have a much better chance of becoming real Operators later.
 
 Cashflow is runway.
 Runway buys learning.
 
 A Studio without a hit still has strategic choices.
 
-It can become a cashflow machine.
+It can become a Cashflow machine.
 It can become a prototype hunter.
 It can become a strong co-development partner.
 It can become a talent farm.
@@ -60,7 +60,7 @@ The mistake is acting like all paths are the same.
 
 They are not.
 
-If the Studio chooses cashflow, the key metrics are margin, delivery reliability, repeat clients, and runway.
+If the Studio chooses Cashflow, the key metrics are margin, delivery reliability, repeat clients, and runway.
 
 If the Studio chooses prototype hunting, the key metrics are number of tests, speed to playable, learning per test, and Publisher access.
 
@@ -70,9 +70,9 @@ If the Studio chooses talent farm, the key metrics are training speed, promotion
 
 If the Studio chooses original IP, the key metrics are creative ownership, audience understanding, funding path, and long-term operating capability.
 
-Each path needs a different operating system.
+Each path needs a different Operating System.
 
-A cashflow Studio should not pretend every project is a future unicorn.
+A Cashflow Studio should not pretend every project is a future unicorn.
 A prototype hunter should not over-polish before learning.
 A co-development Studio should not ignore documentation.
 A talent farm should not treat juniors as disposable labor.
@@ -97,7 +97,7 @@ In the next 2-4 years, Studios without a hit can still survive and grow, but onl
 
 The hit may come later.
 
-The operating maturity must be built now.
+The Operating Maturity must be built now.
 
 I would also watch for a common trap:
 
@@ -115,3 +115,7 @@ The question is whether the Studio is becoming more valuable every quarter.
 If the answer is yes, the Studio is still moving in the right direction.
 
 That is what matters more than the label.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

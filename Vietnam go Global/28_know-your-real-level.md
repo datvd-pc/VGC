@@ -118,7 +118,7 @@ AI can help here too.
 
 Use it to create a personal skill matrix:
 
-> Build a skill matrix for a Mid-level mobile game Designer working on hybrid puzzle. Include Game Design, Data, Economy, Communication, Tools, AI workflow, Publisher communication, and Live Ops basics. For each skill, define Junior, Mid, Senior behavior.
+> Build a skill matrix for a Mid-level Mobile Game Designer working on Hybrid Puzzle. Include Game Design, Data, Economy, Communication, Tools, AI workflow, Publisher communication, and Live Ops basics. For each skill, define Junior, Mid, Senior behavior.
 
 Then compare yourself honestly.
 
@@ -154,3 +154,7 @@ That is not failure.
 It is useful truth.
 
 Truth makes growth faster.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)

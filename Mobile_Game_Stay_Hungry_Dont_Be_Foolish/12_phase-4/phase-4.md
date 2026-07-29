@@ -1,6 +1,6 @@
 # Phase 4 - Publisher Operating System In Vietnam
 
-Mục tiêu: Cho publisher, investor, và operator thấy tôi hiểu cách xây dựng một publishing system tại Việt Nam: tạo deal flow, tổ chức market infrastructure, chọn studio đúng, chuyển giao capability, kiểm soát portfolio, và tạo repeat business.
+Mục tiêu: Cho Publisher, Investor, và Operator thấy tôi hiểu cách xây dựng một Publishing System tại Việt Nam: tạo Deal Flow, tổ chức Market Infrastructure, chọn Studio đúng, chuyển giao Capability, kiểm soát Portfolio, và tạo Repeat Business.
 
 Ngôn ngữ xuất bản chính:
 
@@ -8,29 +8,61 @@ Ngôn ngữ xuất bản chính:
 
 Các bài Phase 4 phải được viết như LinkedIn articles bằng tiếng Anh trước. Bản tiếng Việt chỉ dùng sau nếu cần chuyển ngữ.
 
+## 0. Operating Mindset
+
+Đọc trước khi viết hoặc rewrite bất kỳ bài Phase 4 nào:
+
+- [MINDSET.md](MINDSET.md)
+- [AUDIT.md](AUDIT.md)
+- [WRITE_BRIEFS.md](WRITE_BRIEFS.md)
+
+Phase 4 không được viết như “một chuỗi bài nói về Publisher”.
+
+Phase 4 phải viết như một hệ operating memo công khai:
+
+> Vietnam does not lack production talent. It lacks enough repeatable operating systems around that talent.
+
+Mỗi bài phải giúp người đọc thấy 3 lớp:
+
+- **Market shift:** thị trường thay đổi gì từ 2022-2026;
+- **Operating System:** Publisher cần xây lớp vận hành nào;
+- **Action:** trong 7-14 ngày làm gì để kiểm chứng hoặc triển khai.
+
+Nếu bài không có số liệu thật, phải có structural count:
+
+- số layer;
+- số bước;
+- số bucket;
+- scorecard;
+- dashboard;
+- funnel;
+- decision tree.
+
+Không dùng insight chung chung nếu chưa biến nó thành cơ chế vận hành.
+
 ## 1. Vai trò của phase
 
-- Phase 1 xây authority về ecosystem và publisher strategy.
+- Phase 1 xây authority về Ecosystem và Publisher Strategy.
 - Phase 2 chuyển sang working model với team Việt.
 - Phase 3 hoàn thiện execution layer: communication, AI, hygiene, operating discipline.
 - Phase 4 phải chuyển từ vận hành tốt sang **kiến tạo hệ sinh thái**.
 
 ## 2. Luận điểm trung tâm
 
-Publisher thành công tại Việt Nam không chỉ là publisher có nhiều game.
-Publisher thành công là publisher có:
+Publisher thành công tại Việt Nam không chỉ là Publisher có nhiều game.
+Publisher thành công là Publisher có:
 
 - Deal flow ổn định;
 - Tiêu chuẩn chọn team rõ ràng;
-- Cơ chế nuôi studio có kỷ luật;
+- Cơ chế nuôi Studio có kỷ luật;
 - Khả năng phân bổ vốn theo portfolio;
-- Uy tín đủ mạnh để studio tốt tự tìm đến;
+- Uy tín đủ mạnh để Studio tốt tự tìm đến;
 - Hệ thống giúp partner học nhanh hơn qua từng vòng hợp tác;
-- Strategic control đủ mạnh để publisher không bị kéo vào các deal thiếu lợi thế.
+- Strategic Control đủ mạnh để Publisher không bị kéo vào các deal thiếu lợi thế.
 
 Thesis tiếng Anh dùng cho cả phase:
 
-> Vietnam is not only a production market for mobile games. It can become a publisher operating market if the right systems are built around deal flow, trust, capability transfer, and portfolio governance.
+> Vietnam is not only a production market for mobile games. It can become a Publisher Operating Market if the right systems are built around Deal Flow, trust, Capability Transfer, and Portfolio Governance.
 
 ## 3. Góc nhìn hệ sinh thái tương tự tại Việt Nam
 
@@ -62,12 +94,12 @@ Phase 4 không hỏi:
 
 Phase 4 hỏi:
 
-- Ai tạo deal flow tốt nhất;
-- Ai có khả năng chọn đúng studio;
+- Ai tạo Deal Flow tốt nhất;
+- Ai có khả năng chọn đúng Studio;
 - Ai có thể chuyển năng lực cho partner;
-- Ai giữ được studio quay lại;
+- Ai giữ được Studio quay lại;
 - Ai biến portfolio thành lợi thế tích lũy;
-- Ai giữ strategic control khi nhiều studio, vendor, platform, và investor cùng tham gia cuộc chơi.
+- Ai giữ Strategic Control khi nhiều Studio, Vendor, Platform, và Investor cùng tham gia cuộc chơi.
 
 ## 5. Kịch bản viết bài bắt buộc
 
@@ -136,12 +168,12 @@ Ví dụ:
 
 **Deal flow architecture.**
 
-**7. Scenario / operating model**
+**7. Scenario / Operating Model**
 
 Không chỉ list khái niệm. Phải có kịch bản vận hành:
 
-- If the publisher does X, consequence Y;
-- If the studio behaves X, incentive Y;
+- If the Publisher does X, consequence Y;
+- If the Studio behaves X, incentive Y;
 - If the ecosystem lacks X, bottleneck Y.
 
 **8. Multi-role view**
@@ -161,7 +193,7 @@ Action phải đủ rõ để làm trong 7-14 ngày:
 - Build a scorecard;
 - Define a response SLA;
 - Create an event follow-up pipeline;
-- Run a 6-week studio pilot;
+- Run a 6-week Studio pilot;
 - Add a learning review;
 - Build a portfolio dashboard.
 
@@ -173,6 +205,42 @@ Một câu kết ngắn, mạnh, giống style các bài 01-06.
 
 ---
 **Author:** [Dat Dao](https://www.linkedin.com/in/datvd90/)
+
+## 5.1. Publish-Ready Checklist
+
+Trước khi coi một bài là publish-ready, phải tick đủ:
+
+- Opening contrast rõ: old question vs better question;
+- Vietnam-specific context;
+- Evidence hoặc named comparative;
+- Past / Present / Future;
+- 1 keyword đứng riêng;
+- Mechanism cụ thể;
+- Multi-role view: Publisher / Studio / Investor hoặc ecosystem operator;
+- Scorecard hoặc decision rule;
+- 7-14 day action;
+- Infographic-ready input.
+
+Không đạt 10/10 thì vẫn là draft.
+
+## 5.2. Infographic Requirement
+
+Mỗi bài Phase 4 phải có thể biến thành ảnh theo style:
+
+> premium editorial infographic in a retro arcade ranking style, modern gaming industry analytics mixed with nostalgic 16-bit pixel art aesthetics.
+
+Mỗi bài cần ít nhất một visual structure:
+
+- operating stack;
+- funnel;
+- ladder;
+- portfolio board;
+- flywheel;
+- metric dashboard;
+- before / after matrix;
+- scorecard.
+
+Nếu không vẽ được, nghĩa là luận điểm vẫn còn quá trừu tượng.
 
 ## 6. Research nền
 
@@ -201,7 +269,7 @@ Một câu kết ngắn, mạnh, giống style các bài 01-06.
 
 Luận điểm:
 
-> A publisher in Vietnam should not act only as a buyer of games. It should become the operating system that turns studios, capital, data, and distribution into repeatable advantage.
+> A Publisher in Vietnam should not act only as a buyer of games. It should become the Operating System that turns Studios, capital, data, and distribution into repeatable advantage.
 
 Evidence:
 
@@ -210,22 +278,34 @@ Evidence:
 
 Action:
 
-- Map the publisher operating system into six layers: sourcing, qualification, deal design, support, governance, retention.
+- Map the Publisher Operating System into six layers: sourcing, qualification, deal design, support, governance, retention.
+
+Infographic:
+
+- 6-layer operating system;
+- Vietnam output vs value capture gap;
+- 3 compounding metrics: Deal Flow quality, Studio capability, Repeat Business.
 
 ### Bài 42 - Deal Flow Architecture Is The First Moat
 
 Luận điểm:
 
-> Good deal flow is not luck. It is a designed system for sourcing, qualifying, prioritizing, and converting the right studios early.
+> Good Deal Flow is not luck. It is a designed system for sourcing, qualifying, prioritizing, and converting the right Studios early.
 
 Evidence:
 
-- Vietnam has many young studios and concentrated studio hubs, which makes network access and qualification important.
-- Use Vietnam studio age / maturity data from `vietnam-go-global-studio-talent-context.md`.
+- Vietnam has many young Studios and concentrated Studio hubs, which makes network access and qualification important.
+- Use Vietnam Studio age / maturity data from `vietnam-go-global-studio-talent-context.md`.
 
 Action:
 
-- Build a studio intake scorecard and response SLA.
+- Build a Studio intake scorecard and response SLA.
+
+Infographic:
+
+- source -> qualify -> prioritize -> convert funnel;
+- SLA board;
+- Studio intake scorecard.
 
 ### Bài 43 - Events Are Market Infrastructure, Not Branding
 
@@ -240,37 +320,54 @@ Evidence:
 
 Action:
 
-- Design one closed roundtable or demo day with a CRM follow-up pipeline.
+- Build event follow-up pipeline: attendance -> qualified lead -> follow-up -> pilot -> repeat.
+
+Infographic:
+
+- event conversion funnel;
+- signal capture dashboard.
 
 ### Bài 44 - High-Quality Studios Choose Useful Publishers
 
 Luận điểm:
 
-> Strong studios do not choose a publisher only for money. They choose speed, clarity, fairness, usefulness, and follow-through.
+> Strong Studios do not choose a Publisher only for money. They choose speed, clarity, fairness, usefulness, and follow-through.
 
 Evidence:
 
 - Use Gamesforum / Vietnam maturity gaps: capital, data, live ops, legal, product ownership.
-- Use publisher strategy research for partner support examples.
+- Use Publisher Strategy research for partner support examples.
 
 Action:
 
 - Write a public partner promise: criteria, response time, support layers, and decision process.
 
+Infographic:
+
+- Studio value proposition scorecard;
+- 5 attraction factors: fairness, speed, useful feedback, learning access, deal clarity;
+- Publisher promise board.
+
 ### Bài 45 - Studio Selection Is Portfolio Governance
 
 Luận điểm:
 
-> Choosing the wrong studio is not only a sourcing mistake. It is a portfolio governance failure.
+> Choosing the wrong Studio is not only a sourcing mistake. It is a Portfolio Governance failure.
 
 Evidence:
 
-- Use studio maturity segmentation from Phase 1 and Vietnam studio context research.
-- Use publisher optionality logic from publisher strategy research.
+- Use Studio maturity segmentation from Phase 1 and Vietnam Studio context research.
+- Use Publisher optionality logic from Publisher Strategy research.
 
 Action:
 
-- Create a four-bucket studio portfolio model: pilot, nurture, strategic partner, not now.
+- Create a four-bucket Studio Portfolio model: Pilot, Nurture, Strategic Partner, Not Now.
+
+Infographic:
+
+- 4-bucket portfolio board;
+- allocation matrix: capital, support, response speed, review cadence;
+- Studio maturity vs support intensity.
 
 ### Bài 46 - Capability Transfer Is The Real Retention Mechanism
 
@@ -287,11 +384,17 @@ Action:
 
 - Add a learning review after every milestone or test.
 
+Infographic:
+
+- capability transfer bridge;
+- 5 transfer layers: Data, Creative, Monetization, Live Ops, Process;
+- before / after Studio maturity.
+
 ### Bài 47 - A Studio Nurture Program Is Not Charity
 
 Luận điểm:
 
-> A nurture program should not make studios dependent. It should increase their capability so the next collaboration creates more value.
+> A Nurture Program should not make Studios dependent. It should increase their Capability so the next collaboration creates more value.
 
 Evidence:
 
@@ -302,6 +405,12 @@ Action:
 
 - Build a 6-8 week nurture track with selection, milestones, support layers, review cadence, and graduation rule.
 
+Infographic:
+
+- 6-8 week nurture roadmap;
+- weekly milestones: diagnosis, brief, playable, Data, review, next bet;
+- graduation rule.
+
 ### Bài 48 - Revenue Is A Portfolio Outcome, Not A Single-Hit Story
 
 Luận điểm:
@@ -310,12 +419,18 @@ Luận điểm:
 
 Evidence:
 
-- Use public publisher portfolio data: Voodoo, Supersonic, TapNation, SayGames where relevant.
+- Use public Publisher Portfolio data: Voodoo, Supersonic, TapNation, SayGames where relevant.
 - Use mobile game market trend: downloads down / revenue up from Master Research Brief.
 
 Action:
 
 - Review revenue by title cohort, partner cohort, and capital allocation stage.
+
+Infographic:
+
+- portfolio revenue stack;
+- 4 layers: prototype pipeline, first launch, repeat partner, portfolio learning;
+- revenue by cohort dashboard.
 
 ### Bài 49 - Achievement Metrics That Matter
 
@@ -326,26 +441,38 @@ Luận điểm:
 Evidence:
 
 - Use platform / fintech analogy: repeat use and trust metrics matter more than one-off activity.
-- Use publisher operating model research.
+- Use Publisher Operating Model research.
 
 Action:
 
-- Build a dashboard with studio pipeline, title portfolio, partner retention, and learning log.
+- Build a dashboard with Studio Pipeline, Title Portfolio, Partner Retention, and Learning Log.
+
+Infographic:
+
+- metric ladder;
+- 5 levels: activity, signal, capability, revenue, repeat;
+- vanity metrics vs operating metrics.
 
 ### Bài 50 - Repeat Business Is The Real Moat
 
 Luận điểm:
 
-> In Vietnam, the strongest moat may not be capital. It may be the ability to create repeated collaboration with high-quality studios.
+> In Vietnam, the strongest moat may not be capital. It may be the ability to create repeated collaboration with high-quality Studios.
 
 Evidence:
 
 - Use repeated-game logic from Phase 1 and trust / retention analogies from e-commerce and fintech.
-- Use studio loyalty and operating maturity logic from Phase 2 / Phase 3.
+- Use Studio loyalty and Operating Maturity logic from Phase 2 / Phase 3.
 
 Action:
 
-- Track second-deal rate, studio referral rate, partner churn reason, and repeat partner revenue.
+- Track second-deal rate, Studio referral rate, Partner churn reason, and Repeat Partner Revenue.
+
+Infographic:
+
+- Repeat Business flywheel;
+- 4 repeat metrics: second-deal rate, referral rate, churn reason, repeat partner revenue;
+- first deal vs second deal cost / speed comparison.
 
 ## 9. Cách viết
 
@@ -368,7 +495,7 @@ Trust infrastructure.
 Retention economics.
 
 - Mỗi bài phải có một mâu thuẫn lợi ích rõ ràng.
-- Mỗi bài phải kết thúc bằng một điều publisher có thể làm ngay.
+- Mỗi bài phải kết thúc bằng một điều Publisher có thể làm ngay.
 - Mỗi bài phải có evidence rõ: số liệu, nguồn, hoặc dẫn chứng từ research.
 - Mỗi bài phải có Past / Present / Future.
 - Không viết bài publish mới khi chưa có approval cho brief.

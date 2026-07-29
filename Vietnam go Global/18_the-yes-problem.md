@@ -141,3 +141,7 @@ It also builds confidence with foreign partners because it shows seriousness.
 
 If I were a junior, I would get used to writing these three lines after any important call.
 If I were a PM, I would make this a team rule.
+
+---
+
+**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)
