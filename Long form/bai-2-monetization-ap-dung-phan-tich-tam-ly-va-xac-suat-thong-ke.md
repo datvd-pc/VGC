@@ -635,15 +635,187 @@ Puzzle IAP thường xoay quanh:
 - Limited event pack (gói giới hạn theo sự kiện).
 - Cosmetic/meta decoration (đồ trang trí, skin, vật phẩm cho meta).
 
-Người chơi mua khi họ cảm thấy:
+Nhưng nếu chỉ liệt kê item để bán thì vẫn chưa chạm vào gốc. Item không tự tạo doanh thu. Động cơ mua mới tạo doanh thu.
+
+Một cách hiểu tốt hơn:
+
+```text
+Purchase = Need * Context * Trust * Price Fit
+```
+
+Trong đó:
+
+- Need (nhu cầu): người chơi đang muốn giải quyết điều gì?
+- Context (ngữ cảnh): offer xuất hiện có đúng khoảnh khắc không?
+- Trust (niềm tin): người chơi có tin game công bằng không?
+- Price Fit (độ hợp giá): giá có khớp với giá trị cảm nhận và mức sẵn sàng chi không?
+
+Nghiên cứu về in-game purchase motivation cho thấy động cơ mua không nằm trong một nhóm duy nhất. Hamari và cộng sự phân nhóm lý do mua thành unobstructed play (chơi không bị cản), social interaction (tương tác xã hội), competition (cạnh tranh), economical rationale (lý do kinh tế/giá trị), indulging children (mua cho con/trẻ em), và unlocking content (mở khóa nội dung). Một nghiên cứu khác về mobile game IAP cho thấy loyalty (lòng trung thành với game), perceived playfulness (cảm giác vui), reward (phần thưởng) và good price (giá tốt) có liên quan tới ý định mua. Nghiên cứu 2025 về IGCPM dùng Self-Determination Theory (lý thuyết tự quyết) còn gom động cơ mua về ba nhu cầu tâm lý lớn: autonomy (tự chủ/lựa chọn), competence (năng lực/tiến bộ/thành tựu), và relatedness (kết nối/xã hội).
+
+Nói bằng ngôn ngữ thiết kế game:
+
+Người chơi không mua "5 cái búa". Họ mua quyền không bị mất một ván đã chơi tốt.
+
+Người chơi không mua "remove ads". Họ mua một trải nghiệm sạch hơn cho game mà họ đã quyết định giữ lại.
+
+Người chơi không mua "skin". Họ mua cách thể hiện gu, cái tôi, sự thuộc về, hoặc dấu hiệu rằng mình đã gắn bó với game.
+
+Người chơi không mua "starter pack". Họ mua một cam kết nhỏ để biến mình từ người thử game thành người có stake (phần đã đầu tư) trong game.
+
+Người chơi không mua "battle pass". Họ mua một lộ trình có mục tiêu rõ, phần thưởng đều, và lý do quay lại mỗi ngày.
+
+Vì vậy nên phân loại IAP theo động cơ, không chỉ theo item.
+
+### Nhóm 1: Trả tiền để bảo vệ công sức đã xây
+
+Đây là nhóm gần với sunk cost (hiệu ứng chi phí chìm) và loss aversion (né mất mát). Người chơi đã bỏ thời gian, sự tập trung và cảm xúc vào một level, event, streak, room, collection hoặc battle pass. Khi họ sắp mất tiến độ, họ có động cơ trả tiền hoặc xem rewarded video để bảo vệ phần đã xây.
+
+Ví dụ:
+
+- Mua extra move khi còn thiếu một nước là thắng.
+- Mua continue trong event khi chuỗi thắng sắp gãy.
+- Mua energy để không bỏ lỡ tiến độ season.
+- Mua piggy bank vì cảm giác "đây là tiền/gem mình đã tự tích".
+
+Nhưng đây là nhóm nguy hiểm nhất về mặt trust. Nếu người chơi tin rằng mình thua vì sai, vì thiếu kỹ năng, hoặc vì thiếu một chút may mắn hợp lý, offer có thể được cảm nhận là giải pháp. Nếu họ tin rằng game cố tình dàn dựng thất bại để bán thêm lượt, offer bị cảm nhận là tống tiền.
+
+Nguyên tắc:
+
+```text
+Protect effort, do not manufacture helplessness.
+```
+
+Hãy bán bảo hiểm cho nỗ lực thật. Đừng tạo vết thương giả rồi bán băng gạc.
+
+### Nhóm 2: Trả tiền để tưởng thưởng cho game và team làm game
+
+Đây là insight thị trường thường bỏ qua vì nó không nằm gọn trong economy spreadsheet. Một số người chơi mua không phải vì item có hiệu quả tối đa, mà vì họ đã nhận đủ giá trị giải trí và muốn trả lại cho game.
+
+Nghiên cứu về non-functional items trong League of Legends ghi nhận một động cơ đáng chú ý: hành vi mua có thể là cách chuyển tiền cho developer để tiếp tục được chơi game, không chỉ vì giá trị của chính item. Đây là lý do các gói như remove ads, cosmetic supporter pack, founder pack, no-ads bundle hoặc một starter pack tử tế có thể hoạt động tốt nếu game đã tạo thiện cảm.
+
+Với puzzle/hybrid puzzle, động cơ này xuất hiện khi:
+
+- Game cho first session vui và sạch.
+- Ads không bị lạm dụng.
+- Giá gói đầu tiên thấp và rõ giá trị.
+- User cảm thấy game xứng đáng được ủng hộ.
+- Store không spam popup khi user chưa kịp yêu game.
+
+Thiết kế tốt:
+
+- Remove ads là một gói "cảm ơn" hợp lý, không phải phí chuộc thân khỏi ads dày đặc.
+- Starter pack xuất hiện sau khi player đã hiểu booster và đã có vài khoảnh khắc thỏa mãn.
+- Gói supporter/cosmetic không phá balance, nhưng cho player cảm giác mình đã chọn ủng hộ game.
+
+### Nhóm 3: Trả tiền để thể hiện cái tôi
+
+Cosmetic, skin, avatar, decoration, room theme, badge, profile frame, pet, trail effect, tile style hoặc victory animation thường không bán sức mạnh. Chúng bán identity (bản sắc), taste (gu), ownership (sở hữu), status (địa vị) và self-expression (tự biểu đạt).
+
+Trong game cạnh tranh, cosmetic còn có lớp social signaling (phát tín hiệu xã hội): người khác nhìn thấy mình là ai, đã chơi lâu chưa, có gu không, có thuộc nhóm nào không. Trong puzzle đơn người chơi, cosmetic vẫn có giá trị nếu meta khiến người chơi nhìn thấy thành quả của mình thường xuyên: căn phòng đẹp hơn, bộ sưu tập đầy hơn, khu vườn mở rộng hơn, bảng profile có dấu ấn riêng hơn.
+
+Thiết kế cosmetic tốt:
+
+- Không làm người chơi mạnh hơn theo cách phá công bằng.
+- Có visual presence (người chơi thật sự nhìn thấy/được dùng thường xuyên).
+- Gắn với milestone, event hoặc collection.
+- Cho phép lựa chọn, phối hợp, cá nhân hóa.
+- Có một số item earnable (kiếm được bằng chơi) để giữ niềm tin, và một số item premium để tạo doanh thu.
+
+Nếu cosmetic chỉ là ảnh nhỏ trong inventory, nó khó bán. Nếu cosmetic biến progression thành không gian sở hữu, nó có thể trở thành động cơ dài hạn.
+
+### Nhóm 4: Trả tiền để giữ flow giải trí
+
+Một nhóm người chơi không muốn "thắng bằng tiền". Họ muốn game tiếp tục trôi. Họ mua để tránh interruption (gián đoạn), waiting (chờ), grind (cày lặp), hoặc friction (ma sát) quá nhỏ nhưng khó chịu.
+
+Ví dụ:
+
+- Remove ads để phiên chơi mượt hơn.
+- Mua một ít booster để không kẹt quá lâu ở một màn.
+- Mua bundle để có đủ tài nguyên tiếp tục event cuối tuần.
+- Mua battle pass vì nó gom reward thành một đường tiến độ dễ theo.
+
+Đây không phải pay-to-win nếu game vẫn giữ được ba điều:
+
+- Người không trả tiền vẫn có đường tiến bộ hợp lý.
+- Người trả tiền tiết kiệm thời gian hoặc có nhiều lựa chọn hơn, nhưng không làm mất ý nghĩa của kỹ năng.
+- Level vẫn được cảm nhận là thử thách công bằng.
+
+Người chơi sẽ chấp nhận "pay to continue enjoying" hơn "pay because the game stops being fun".
+
+### Nhóm 5: Trả tiền để đạt thêm một nấc tiến bộ
+
+Đây là nhóm competence: người chơi muốn cảm thấy mình giỏi hơn, đi xa hơn, mở khóa thêm, hoàn thành bộ, leo event, đạt streak, vượt hard level, hoặc tiến gần hơn tới mục tiêu dài hạn.
+
+Với puzzle, động cơ này rất mạnh vì loop thường ngắn: mỗi màn là một đơn vị tiến bộ. IAP nên làm rõ "sau khi mua, tôi đạt thêm điều gì" thay vì chỉ nói "giảm giá 80%".
+
+Offer tốt cần trả lời được:
+
+- Mua xong player qua được mục tiêu hiện tại không?
+- Mua xong player tiến gần milestone nào?
+- Mua xong player có cảm thấy mình vẫn là người giải puzzle không?
+- Mua xong player có lý do quay lại không?
+
+Nếu booster giải thay toàn bộ bài toán, competence giảm. Nếu booster chỉ mở thêm lựa chọn chiến thuật, competence vẫn còn.
+
+### Nhóm 6: Trả tiền vì giá trị kinh tế rõ
+
+Người chơi không hoàn toàn phi lý. Nhiều người mua vì họ thấy deal tốt: giá thấp, bundle rõ, tiết kiệm so với mua lẻ, phần thưởng đúng nhu cầu, hoặc thời điểm hợp với kế hoạch chơi.
+
+Đây là chỗ price anchoring (neo giá), discount (giảm giá), bundle design (thiết kế gói), daily deal (deal hằng ngày), piggy bank và battle pass có tác dụng. Nhưng "giá tốt" không cứu được offer sai nhu cầu. Một gói rẻ nhưng không liên quan tới mục tiêu hiện tại vẫn là rác.
+
+Nguyên tắc:
+
+```text
+Value is contextual, not absolute.
+```
+
+Một booster extra move có giá trị cao ngay sau near miss. Cùng booster đó có giá trị thấp ở home screen khi user chưa có vấn đề cần giải.
+
+### Nhóm 7: Trả tiền vì xã hội, thuộc về hoặc so sánh
+
+Trong puzzle đơn thuần, động cơ này yếu hơn midcore/MMO. Nhưng trong hybrid puzzle có leaderboard, clan, event team, decorate sharing, album collection hoặc social room visit, relatedness bắt đầu quan trọng.
+
+Người chơi có thể mua vì:
+
+- Muốn đóng góp cho team event.
+- Muốn không tụt lại so với bạn bè.
+- Muốn khoe room/skin/badge.
+- Muốn hoàn thành collection mà cộng đồng đang nói tới.
+- Muốn có vật phẩm giới hạn để đánh dấu mình đã có mặt trong season đó.
+
+Phản biện quan trọng: social pressure có thể tạo doanh thu, nhưng dễ trượt sang toxic nếu game làm người chơi thấy xấu hổ, bị ép, hoặc bị so sánh quá nặng. Với puzzle/casual, social nên tăng belonging (cảm giác thuộc về) hơn là humiliation (cảm giác bị hạ thấp).
+
+### Ranh giới đạo đức và thương mại: game có còn công bằng không?
+
+Nghiên cứu về unwillingness to pay trong mobile games chỉ ra nhiều người không mua vì cảm nhận free-to-play bị mâu thuẫn, IAP bị aggressive (hung hăng/ép quá mức), game không công bằng, hoặc họ lo mất kiểm soát chi tiêu. Nói cách khác, không mua không chỉ vì nghèo hoặc không thích trả tiền. Nhiều khi họ không mua vì game làm họ mất niềm tin.
+
+Đây là phản biện cần đưa thẳng vào monetization design:
+
+```text
+Revenue tốt không phải là ép được một lần mua.
+Revenue tốt là tạo được lý do mua mà sau đó user vẫn muốn tiếp tục chơi.
+```
+
+Một IAP lành mạnh thường có các dấu hiệu:
 
 - Mình hiểu vì sao mình cần món này.
 - Món này giúp mình vượt qua mục tiêu hiện tại.
 - Game vẫn công bằng nếu không mua.
 - Giá trị cảm nhận cao hơn giá tiền.
 - Khoảnh khắc mua xuất hiện đúng ngữ cảnh.
+- Sau khi mua, mình không thấy mình vừa bị lừa.
+- Sau khi mua, mình vẫn muốn quay lại game.
 
-Các nguyên tắc tâm lý cũ vẫn đúng:
+Một IAP độc hại thường có các dấu hiệu:
+
+- Game cố tình làm khó đột ngột để ép mua.
+- Người không mua bị làm nhục hoặc bị chặn tiến độ quá lộ.
+- Random reward có kết quả thấp quá tệ, trùng lặp vô dụng, không có pity/guarantee.
+- Popup xuất hiện khi user chưa hiểu giá trị.
+- Giá bị che, bundle rối, hoặc dùng timer giả.
+- Mua xong phá luôn cảm giác thử thách.
+
+Các nguyên tắc tâm lý cũ vẫn có tác dụng:
 
 - Neo giá (đặt một gói đắt bên cạnh để gói trung bình trông hợp lý hơn).
 - Khan hiếm (giới hạn thời gian/số lượng để tăng cảm giác đáng mua).
@@ -653,11 +825,31 @@ Các nguyên tắc tâm lý cũ vẫn đúng:
 - Cam kết nhỏ (gói rẻ đầu tiên giúp phá rào cản trả tiền).
 - Sưu tầm (mong muốn hoàn thành bộ sưu tập).
 
-Nhưng trong puzzle/hybrid puzzle, IAP mạnh nhất thường không đến từ popup ngẫu nhiên. Nó đến từ level design và economy.
+Nhưng nguyên tắc tâm lý không phải giấy phép để thao túng vô hạn. Trong puzzle/hybrid puzzle, IAP mạnh nhất thường không đến từ popup ngẫu nhiên. Nó đến từ level design, economy và trust.
 
 Một offer (đề nghị mua hàng) sau khi thua sát nút có lý do rõ hơn popup lúc mới mở game. Một starter pack sau khi player hiểu booster có giá trị sẽ tự nhiên hơn starter pack xuất hiện trước khi player biết booster là gì. Một piggy bank có giá trị hơn nếu người chơi thấy mình đã tích lũy nó bằng công sức.
 
 Ranh giới nằm ở trust. Nếu game tạo cảm giác "tôi thua vì mình thiếu một chút", monetization tự nhiên. Nếu game tạo cảm giác "tôi thua vì game cố tình khóa", monetization trở thành khai thác.
+
+Vì vậy dashboard IAP không nên chỉ có conversion và ARPPU. Nên tag từng offer theo động cơ:
+
+- Protect effort: bảo vệ công sức/chuỗi tiến độ.
+- Restore flow: giữ phiên chơi mượt.
+- Express identity: thể hiện cái tôi/trang trí.
+- Support game: ủng hộ game/team.
+- Advance goal: đạt milestone tiếp theo.
+- Economic value: deal có giá trị rõ.
+- Social belonging: thuộc về/đóng góp/khoe thành tựu.
+
+Sau đó đọc:
+
+- Offer shown -> click -> purchase theo từng động cơ.
+- Purchase xong D1/D3/D7 của payer có tốt hơn không.
+- Purchase xong session length có tăng hay giảm.
+- Refund, complaint, rating, review có xấu đi không.
+- Payer có mua lần hai không, hay chỉ mua một lần rồi rời game.
+
+Nếu một offer tăng conversion nhưng làm payer retention giảm, đó không phải monetization tốt. Đó là mượn tiền từ tương lai.
 
 ## 9. Xác suất thống kê và cảm giác công bằng
 
@@ -870,3 +1062,11 @@ Làm game là sản xuất. Làm game kiếm tiền lớn là thiết kế một
 - Liftoff/Singular - 2025 Casual Gaming Apps Report release: https://www.prnewswire.com/news-releases/28-of-casual-game-installs-from-non-gaming-publishers-come-from-utility-apps-liftoffs-casual-gaming-apps-report-reveals-302441607.html
 - AppsFlyer - 2025 App Marketing Outlook: https://www.appsflyer.com/blog/measurement-analytics/2025-app-marketer-survey/
 - Adjust - Gaming app insights 2026: https://www.adjust.com/resources/ebooks/gaming-app-insights/
+- Hamari et al. - Why do players buy in-game content? An empirical study on concrete purchase motivations: https://www.sciencedirect.com/science/article/pii/S0747563216307865
+- Hsiao & Chen - What drives in-app purchase intention for mobile games? An examination of perceived values and loyalty: https://www.sciencedirect.com/science/article/pii/S156742231600003X
+- Hussain et al. - In-game content purchase motivations (IGCPMs): Conceptualization, scale development, and validation: https://uhra.herts.ac.uk/id/eprint/25842/
+- Petrovskaya & Zendle - The Avatar's new clothes: Understanding why players purchase non-functional items in free-to-play games: https://www.sciencedirect.com/science/article/pii/S0747563218304461
+- Saral et al. - To pay or not to pay: understanding mobile game app users' unwillingness to pay for in-app purchases: https://www.sciencedirect.com/science/article/pii/S2040712221000864
+- Arkes & Blumer - The psychology of sunk cost: https://www.sciencedirect.com/science/article/pii/0749597885900494
+- Freeman et al. - Pay to Win or Pay to Cheat: How Players of Competitive Online Games Perceive Fairness of In-Game Purchases: https://dl.acm.org/doi/10.1145/3549510
+- Deng et al. - Flow of the Game: reward ads, perceived challenge và engagement trong mobile games: https://pubsonline.informs.org/doi/10.1287/isre.2021.0217
