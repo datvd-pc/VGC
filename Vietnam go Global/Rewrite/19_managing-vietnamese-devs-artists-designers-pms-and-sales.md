@@ -2,28 +2,24 @@
 
 One management style does not fit every role. Each role in a Vietnam game Studio has its own strengths and failure modes.
 
-**Dev** - Strength: execution speed, technical adaptation. Risk: under-communicates issues until too late. Needs clean requirements, stable build flow, fewer late changes.
+Dev - Strong in execution speed and technical adaptation. Risk is under-communicating issues until too late. Needs clean requirements, stable build flow, and fewer late changes.
 
-**Artist** - Strength: production quality, flexibility. Risk: needs very clear direction and review criteria. Needs fast feedback, visual standards, less vague criticism.
+Artist - Strong in production quality and flexibility. Risk is unclear direction or vague review criteria. Needs fast feedback, visual standards, and less vague criticism.
 
-**Designer** - Strength: mechanic thinking, fast iteration. Risk: confuses novelty with quality or difficulty with depth. Needs Data access, honest review, room to think.
+Designer - Strong in mechanic thinking and fast iteration. Risk is confusing novelty with quality, or difficulty with depth. Needs Data access, honest review, and room to think.
 
-**PM/Producer** - Strength: coordination, keeping things alive. Risk: becomes task manager instead of outcome owner. Needs decision clarity, escalation support.
+PM/Producer - Strong in coordination and keeping things alive. Risk is becoming a task manager instead of an outcome owner. Needs decision clarity and escalation support.
 
-**Sales/BD** - Strength: energy, relationship, deal making. Risk: overpromises if scope and control unclear. Needs clear promise, realistic scope, stable deliverables.
+Sales/BD - Strong in energy, relationship, and deal making. Risk is overpromising when scope and control are unclear. Needs a clear promise, realistic scope, and stable deliverables.
 
-> Role management = role-specific output + role-specific risk signal
+Role Management = Role-Specific Output + Role-Specific Risk Signal
 
-Do not evaluate people only by how busy they are. The better question: what kind of risk does this role create if unmanaged, and what output does it create when managed well?
+Do not evaluate people only by how busy they are. The better question - what kind of risk does this role create if unmanaged, and what output does it create when managed well?
 
-If you manage everyone the same way, you are applying noise uniformly. Ask each role: what do you need to do your best work? What usually blocks you? What should the team stop doing to help you?
+If you manage everyone the same way, you are applying noise uniformly. Ask each role - what do you need to do your best work? What usually blocks you? What should the team stop doing to help you?
 
-> Different roles. Different strengths. Different risks. Different management.
-
-Sources:
-- https://www.globalgamesforum.com/features/mobile-executive-summit-the-challenge-of-scaling-vietnamese-games-globally
-- https://career.vng.com.vn/tim-kiem-viec-lam/chi-tiet/6421-senior-game-designer-vnggames-vi
+Different roles. Different strengths. Different risks. Different management.
 
 ---
 
-**Author:** [Dat Dao](https://www.linkedin.com/in/datvd90)
+Author - [Dat Dao](https://www.linkedin.com/in/datvd90)
