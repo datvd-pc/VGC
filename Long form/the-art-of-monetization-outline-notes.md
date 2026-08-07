@@ -86,6 +86,47 @@ LTV = Acquisition Quality
 - Nếu họ vào để giải trí nhưng bị biến thành công cụ xem ads, trust vỡ.
 - Nếu game tạo cảm giác công bằng, tiến bộ và có quyền lựa chọn, monetization tự nhiên hơn.
 
+### 2.1 Monetization không phải một layer, mà là hệ sinh thái vận hành
+
+Monetization bị ảnh hưởng bởi gần như toàn bộ game-life flow:
+
+```text
+Market/Niche -> Trend -> Creative Promise -> Player Motivation
+-> Core Loop -> Level Flow -> Sensory Design -> Ads/IAP Moment
+-> Live Ops -> Data Reading -> Team Workflow -> Iteration Speed
+```
+
+Nói cách khác, doanh thu không chỉ đến từ placement. Doanh thu đến từ việc nhiều hệ thống cùng đẩy player tới một trạng thái tâm lý đủ rõ:
+
+- Tôi hiểu game này.
+- Tôi đang vui.
+- Tôi đang tiến bộ.
+- Tôi vừa thắng lớn hoặc gần thắng.
+- Tôi biết mình thiếu gì.
+- Tôi tin trao đổi này đáng.
+- Tôi muốn tiếp tục thêm một chút nữa.
+
+Các lớp ảnh hưởng tới monetization:
+
+- Player psychology: động cơ chơi, cảm giác công bằng, tiếc nuối, tự hào, muốn hoàn thành, muốn sưu tầm.
+- Game design: core loop, level curve, booster, reward, meta, economy.
+- Sensory design: màu sắc, âm thanh, animation, haptic, nhịp peak/drop.
+- UA/creative: lời hứa ngoài ads/store có khớp game thật không.
+- Marketing/niche: game đang bán fantasy nào, cho ai, trong bối cảnh trend nào.
+- Studio workflow: team có ship level/content/creative nhanh và đúng insight không.
+- Publisher workflow: có đủ dashboard, cadence, benchmark, funding và decision rule không.
+- Dev workflow: event tracking, remote config, ad/IAP reliability, build velocity.
+- Live ops: game có reason để quay lại, event để tiêu tài nguyên, offer để mua đúng lúc không.
+
+Tip:
+
+- Khi audit monetization, không bắt đầu bằng câu hỏi "đặt ads ở đâu?".
+- Bắt đầu bằng câu hỏi: "người chơi đang ở trạng thái tâm lý nào, vì sao họ muốn đi tiếp, và game đưa ra trao đổi gì ở khoảnh khắc đó?".
+- Nếu placement tốt nhưng retention giảm, vấn đề có thể nằm ở trust/flow chứ không nằm ở eCPM.
+- Nếu creative thắng CPI nhưng D1 thấp, vấn đề nằm ở promise mismatch.
+- Nếu IAP thấp nhưng retention tốt, vấn đề có thể nằm ở lack of need, offer timing hoặc economy không tạo mục tiêu mua.
+- Nếu ads viewer rate thấp, vấn đề có thể nằm ở reward value, visual clarity, timing hoặc player segment.
+
 ## 3. Player journey tổng quát
 
 Section này là xương sống mới của bài.
@@ -386,6 +427,29 @@ Chỉ số:
 - D1/D3 by ad exposure.
 - Rating/review after ad frequency change.
 
+Các trường hợp cần phân tích thêm:
+
+- Xem ads để qua màn tiếp theo.
+- Xem ads để bước vào bonus level/bonus room.
+- Xem ads sau mỗi màn chơi như nhiều casual game đang làm.
+- Xem ads sau khi thua để try again, continue hoặc nhận booster cứu màn.
+- Xem ads sau khi thắng để nhân đôi reward hoặc mở bonus reward.
+- Thắng hay thua đều phải xem ads trước khi next/try again: tăng impression ngắn hạn, nhưng dễ làm player cảm thấy ads là "thuế bắt buộc" thay vì trao đổi tự nguyện.
+- Xem ads để vượt qua mốc "mình hơi thiếu may mắn": thiếu 1 move, 1 slot, 1 objective, 1 lượt quay, 1 mảnh ghép.
+
+Góc nhìn bright/dark:
+
+- Bright-side: ads xuất hiện ở điểm nghỉ tự nhiên, có reward rõ, player có lựa chọn thật.
+- Dark-side: ads được dùng như friction bắt buộc, hoặc game cố tình tạo thiếu hụt để ads trở thành lối thoát ít đau nhất.
+- Operating lens: không chỉ hỏi placement này kiếm bao nhiêu, mà phải hỏi sau placement đó player còn muốn chơi tiếp không.
+
+Cơ chế loading/ad avoidance:
+
+- Nếu player tắt game khi ads đang chạy, thường không nên cấp reward vì exchange chưa hoàn tất.
+- Có thể dùng loading/cooldown như biện pháp chống exploit kỹ thuật.
+- Không nên viết như một khuyến nghị "phạt người né ads", nhưng nên phân tích đây là một dạng friction có thể tồn tại trong thị trường.
+- Nếu dùng, cần đo churn, rage quit, session return, review sentiment và ad completion rate.
+
 ## 8. IAP: pay to solve needs
 
 Luận điểm:
@@ -404,6 +468,8 @@ Nhóm động cơ:
 - Advance goal: trả tiền để đạt thêm một nấc tiến bộ.
 - Economic value: trả tiền vì deal đúng nhu cầu.
 - Social belonging: trả tiền để thuộc về, đóng góp hoặc khoe thành tựu.
+- Complete set/gift: mua một phần nhỏ để ghép thành phần thưởng lớn.
+- Chance and hope: mua vé quay, lượt mở rương, cơ hội nhận reward hiếm.
 
 IAP theo genre:
 
@@ -435,7 +501,228 @@ Tip:
 - Nếu payer mua một lần rồi rời game: offer có thể đang phá trust.
 - Nếu non-payer retention cao nhưng IAP thấp: nhu cầu mua chưa rõ hoặc offer sai timing.
 
-## 9. Return journey: vì sao người chơi quay lại
+Các trường hợp cần phân tích thêm:
+
+- IAP như cách tưởng thưởng cho đội làm game: supporter pack, remove ads, cosmetic pack, tip-like purchase.
+- Mua một vật phẩm nhỏ nhưng ghép nối vào thành món quà lớn: puzzle piece, collection fragment, room decoration set, album, pet/skin shard.
+- Mua để bổ sung lượt điểm danh nhận quà lớn: restore streak, buy missed check-in, unlock premium daily track.
+- Mua để quay thưởng ngẫu nhiên: ticket, lucky wheel, chest, capsule, gacha-lite.
+- Mua để vượt qua cảm giác "mình chỉ thiếu một chút": extra moves, extra slot, undo pack, continue pack.
+
+Góc nhìn bright/dark:
+
+- Bright-side: IAP giải quyết nhu cầu thật, giúp player giữ flow, thể hiện support, hoặc hoàn thành mục tiêu họ đã chọn.
+- Dark-side: IAP được đặt sau thiếu hụt nhân tạo, dùng randomness để kéo repeat purchase, hoặc khiến player cảm thấy nếu không mua thì công sức trước đó bị lãng phí.
+- Guardrail: nếu có quay thưởng, nên phân tích odds, pity, duplicate handling, spending cap, age sensitivity và tác động trust.
+
+## 9. Randomness Management: near-miss, luck và purchase opportunity
+
+Luận điểm:
+
+```text
+Randomness là vật liệu thiết kế cảm xúc.
+Nó có thể tạo bất ngờ, hồi hộp và replay value; cũng có thể tạo thiếu hụt nhân tạo để kích hoạt ads/IAP.
+```
+
+Phần này không nhằm cổ vũ dark pattern, mà để người làm game hiểu các cơ chế đang tồn tại trong thị trường: từ cách dùng công bằng để tăng giá trị trải nghiệm, tới cách dùng cực đoan có thể bào mòn trust và retention dài hạn.
+
+Bright-side randomness:
+
+- Board/reward có biến thể để game không bị lặp.
+- Near-miss xuất hiện tự nhiên từ skill, lựa chọn và độ khó.
+- Random reward tạo cảm giác bất ngờ nhưng không phá economy.
+- Dynamic difficulty giữ player trong flow, không làm họ thấy bị bóp.
+
+Dark-side randomness:
+
+- Điều chỉnh drop rate/spawn để player thường xuyên thiếu đúng 1 bước.
+- Tạo cảm giác "mình chỉ hơi xui" để player xem ads hoặc mua booster.
+- Dùng lucky wheel/chest/ticket để biến uncertainty thành repeat purchase.
+- Thắng/thua đều bị đưa vào monetization gate trước khi tiếp tục.
+
+Ví dụ theo genre:
+
+- Sort: thiếu một ống trống, thiếu một undo, stack bị khóa ở trạng thái gần giải được.
+- Jam: thiếu một slot, xe cuối bị kẹt, chỉ cần clear một xe là thông.
+- Physics: fail vì timing rất sát, thiếu một tool để cứu setup.
+- Match-3: còn 1-2 objective hoặc thiếu vài move.
+- Match-2: còn ít target, board còn một cụm lớn chưa clear được.
+
+Metrics:
+
+- Near-miss rate.
+- Rewarded ad opt-in after near-miss.
+- Booster purchase after fail.
+- Retry rate after fail.
+- Rage quit after fail.
+- Payer conversion by difficulty/randomness segment.
+- Retention and review sentiment after RNG tuning.
+
+## 10. Sound design: âm thanh như công cụ điều tiết cảm xúc
+
+Luận điểm:
+
+```text
+Sound design không chỉ làm game "có âm thanh".
+Sound design điều khiển nhịp chú ý, kỳ vọng, căng thẳng, giải tỏa và cảm giác thiếu hụt.
+```
+
+Trong casual/puzzle, âm thanh thường tác động ở tầng rất nhanh: click, pop, combo, fail, near-miss, reward, chest, countdown, bonus entrance, purchase confirmation. Người chơi có thể không gọi tên nó, nhưng cơ thể họ đọc được nhịp căng - thả - hụt.
+
+Bright-side sound design:
+
+- Click/tap sound rõ giúp thao tác có trọng lượng.
+- Combo sound tăng dần để player cảm thấy mình đang vào flow.
+- Win sting tạo điểm giải tỏa sau khi căng thẳng.
+- Near-miss sound cho player hiểu "mình gần làm được rồi" mà không cần text dài.
+- Reward sound làm phần thưởng có cảm giác đáng nhận.
+- Music layer thay đổi theo trạng thái level: calm khi suy nghĩ, tension khi sắp hết move/time, release khi thắng.
+
+Dark-side sound design:
+
+- Dùng âm thanh tăng hưng phấn trước reward rồi cắt đột ngột để tạo cảm giác hụt.
+- Countdown, pitch-up, riser, heartbeat hoặc accelerating tick để tăng áp lực trước offer.
+- Chest/lucky wheel dùng âm thanh gần trúng để kích hoạt cảm giác "thêm một lượt nữa".
+- Fail/near-miss sound được thiết kế để player cảm thấy tiếc hơn là chấp nhận thua.
+- Offer/IAP xuất hiện ngay sau một đoạn âm thanh peak -> drop, khiến player muốn bù lại cảm giác thiếu.
+
+Ứng dụng theo thời điểm:
+
+- First open: nhạc nhẹ, sạch, không gây áp lực; SFX thao tác phải phản hồi nhanh.
+- First 10 levels: âm thanh dạy luật chơi bằng feedback, không cần quá nhiều lớp nhạc.
+- Near-miss: giảm nhạc nền, nhấn vào objective còn thiếu, dùng SFX tiếc nuối vừa đủ.
+- Rewarded ad offer: âm thanh nên làm rõ giá trị reward, không biến popup thành casino.
+- Bonus level/bonus room: tăng tempo, thêm sparkle/chime, tạo cảm giác bước vào khoảnh khắc đặc biệt.
+- IAP offer: sound cue ngắn, sạch, không nên quá aggressive nếu muốn giữ trust dài hạn.
+- Lucky wheel/chest: cần phân tích kỹ vì đây là vùng dễ trượt sang gambling-like feedback.
+
+Ví dụ theo genre:
+
+- Sort: âm thanh đổ chất lỏng/stack clean, combo khi giải liên tục, near-miss khi thiếu tube.
+- Jam: tiếng xe, slot lock, traffic release, tension tick khi còn ít chỗ.
+- Physics: âm thanh va chạm vui, fail comedy, tool activation rõ.
+- Match-3: cascade scale-up, booster impact, objective clear sting.
+- Match-2: pop chain, big group charge-up, board clear release.
+
+Metrics:
+
+- Session length with sound on/off.
+- Ad opt-in after near-miss with sound variants.
+- Booster use/purchase after fail sound variants.
+- Level retry rate.
+- Reward claim rate.
+- IAP conversion by offer sound treatment.
+- Churn/review sentiment nếu âm thanh bị xem là quá aggressive.
+
+Guardrail:
+
+- Âm thanh nên làm trạng thái game dễ hiểu hơn trước khi làm nó gây nghiện hơn.
+- Nếu sound cue khiến player hiểu sai xác suất hoặc cảm thấy bị dụ, trust sẽ giảm.
+- Với chest/wheel/random reward, tránh feedback "gần trúng" giả nếu kết quả đã được quyết định từ trước.
+- Luôn có mute, volume control và không dùng âm thanh như vũ khí ép attention.
+
+## 11. Visual and sensory design: màu sắc, animation, haptic và perceived value
+
+Luận điểm:
+
+```text
+Màu sắc, animation và haptic không chỉ làm game đẹp hơn.
+Chúng làm người chơi đọc được giá trị, trạng thái, cơ hội và cảm xúc của khoảnh khắc.
+```
+
+Thiết kế cảm giác có thể tăng monetization vì nó ảnh hưởng tới 5 điểm:
+
+- Attention: người chơi nhìn vào đâu trước.
+- Clarity: người chơi hiểu điều gì vừa xảy ra.
+- Perceived value: reward/offer trông có đáng nhận hay đáng mua không.
+- Emotional peak: khoảnh khắc thắng, combo, bonus có đủ sướng không.
+- Loss/near-miss salience: phần còn thiếu có đủ rõ để player muốn bù không.
+
+Bright-side visual design:
+
+- Màu giúp phân cấp thông tin: objective, reward, CTA, danger, progress.
+- Animation làm reward có trọng lượng.
+- Haptic làm thao tác có cảm giác thật hơn.
+- Rarity color giúp player học giá trị vật phẩm: common, rare, epic, legendary.
+- Contrast tốt giúp player không bỏ lỡ cơ hội ads/IAP tự nguyện.
+
+Dark-side visual design:
+
+- Nút mua/ads quá nổi, nút đóng quá mờ.
+- Countdown đỏ/cam tạo áp lực giả.
+- Reward bình thường nhưng dùng glow/rainbow như reward hiếm.
+- Chest/wheel dùng hiệu ứng gần trúng giả để kích thích thêm lượt.
+- Fail state phóng đại phần thiếu hụt để player cảm thấy tiếc quá mức.
+
+Tip theo trạng thái chơi:
+
+- Combo đang tăng:
+  - Màu nền có thể tăng saturation nhẹ theo combo tier.
+  - Particle và trail tăng dần, nhưng không che board.
+  - SFX tăng pitch/layer theo chuỗi combo.
+  - Haptic ngắn hơn, sắc hơn ở mỗi nấc combo.
+  - Sau combo lớn, đặt rewarded ad nhân đôi reward có thể hợp lý vì player đang ở emotional peak.
+
+- Win streak:
+  - Dùng palette ấm hơn, ánh sáng rộng hơn, progress bar sáng hơn.
+  - Nhạc có thể thêm layer nhịp nhanh hoặc melody tích cực.
+  - CTA "double reward", "bonus room", "claim streak chest" dễ được chấp nhận hơn sau chuỗi thắng.
+  - Cần tránh chèn interstitial quá mạnh ngay sau high streak vì có thể phá cảm giác flow.
+
+- Thắng hoàn toàn:
+  - Tạo win release rõ: board sạch, màu sáng, SFX giải tỏa, particle vừa đủ.
+  - Sau 0.5-1.5 giây release, mới đưa offer ads nhân đôi reward/bonus entry.
+  - Nếu offer xuất hiện quá sớm, player chưa kịp cảm nhận thắng; nếu quá muộn, emotional peak đã rơi.
+  - Test A/B thời điểm hiển thị: immediate, sau win animation, sau reward count-up.
+
+- Thua còn 1 xíu:
+  - Highlight phần còn thiếu bằng màu rõ nhưng không gây lừa.
+  - Giảm nhạc nền, dùng near-miss sting ngắn, cho player thấy "thiếu 1 move/1 slot/1 target".
+  - Rewarded ad continue/extra move có khả năng cao hơn vì player đã có goal cụ thể.
+  - IAP booster cũng hợp ngữ cảnh, nhưng nên có retry option rõ để không thành paywall.
+
+- Bonus/chest/lucky wheel:
+  - Dùng màu hiếm, glow, sparkle, count-up để tạo perceived value.
+  - Sound và animation có thể tăng anticipation, nhưng phải tránh cảm giác casino nếu game hướng tới casual rộng.
+  - Nếu có random reward, visual rarity phải khớp odds/value thật.
+
+Ví dụ theo genre:
+
+- Sort:
+  - Combo đổ đúng liên tục: màu chất lỏng sáng hơn, tube glow nhẹ, SFX fill tăng tầng.
+  - Near-miss: highlight ống trống/undo còn thiếu, offer extra tube bằng ads.
+- Jam:
+  - Chuỗi xe thoát liên tục: đường thoát sáng, traffic jam chuyển từ đỏ/căng sang xanh/sạch.
+  - Near-miss: slot cuối pulse nhẹ, offer extra slot/clear car.
+- Physics:
+  - Setup thành công: slow-motion ngắn, particle theo va chạm, SFX impact vui.
+  - Fail sát: freeze frame ngắn ở khoảnh khắc thiếu timing, offer retry/tool.
+- Match-3:
+  - Cascade lớn: saturation tăng, board shake nhẹ, booster glow.
+  - Còn 1 objective: objective icon pulse, offer +5 moves.
+- Match-2:
+  - Big tap/chain clear: pop scale, haptic burst, màu board sạch dần.
+  - Còn ít target: target counter nổi rõ, offer bomb/color clear.
+
+Metrics:
+
+- Rewarded ad opt-in after win animation variants.
+- Rewarded ad opt-in after near-miss visual variants.
+- IAP conversion after fail/near-miss treatment.
+- Double reward claim rate.
+- Bonus room entry rate.
+- Time to CTA click.
+- Close rate on offer popup.
+- Retention/review sentiment after aggressive visual treatment.
+
+Guardrail:
+
+- CTA có thể nổi bật, nhưng nút đóng phải đọc được.
+- Visual phải phản ánh đúng giá trị thật của reward.
+- Không dùng màu/animation để che giá, odds, điều kiện hoặc lựa chọn từ chối.
+- Sensory peak nên làm khoảnh khắc game hay hơn trước khi dùng nó để bán ads/IAP.
+
+## 12. Return journey: vì sao người chơi quay lại
 
 Luận điểm:
 
@@ -470,7 +757,7 @@ Tip:
 - Notification nên gắn với mục tiêu thật: building complete, event ending, reward ready.
 - D3 cần reason, D7 cần habit, D30 cần live ops.
 
-## 10. Sharing loop: vì sao người chơi giới thiệu game
+## 13. Sharing loop: vì sao người chơi giới thiệu game
 
 Luận điểm:
 
@@ -504,7 +791,7 @@ Tip:
 - Cho người chơi khoe thành quả, không ép invite.
 - Referral nên có reward nhẹ, không phá economy.
 
-## 11. UA/Creative + AI pipeline
+## 14. UA/Creative + AI pipeline
 
 Luận điểm:
 
@@ -545,7 +832,7 @@ Chỉ số cần nối:
 - Creative angle -> payer conversion.
 - Creative angle -> ad viewer rate.
 
-## 12. Operating system cho publisher/studio
+## 15. Operating system cho publisher/studio
 
 Giữ lại nhiều nội dung hiện tại nhưng đặt sau player journey.
 
@@ -568,7 +855,137 @@ Các phần cần có:
 
 Tất cả cần cùng đọc player journey.
 
-## 13. Suggested research extensions
+### 15.1 Workflow audit: ai ảnh hưởng monetization như thế nào
+
+Monetization là kết quả của nhiều workflow giao nhau. Nếu một nhóm tối ưu sai local metric, toàn bộ LTV có thể giảm.
+
+Dev workflow:
+
+- Ảnh hưởng: load time, crash, ANR, ad latency, IAP success rate, event tracking, remote config, A/B test velocity.
+- Tip:
+  - Event taxonomy phải có trước khi scale UA.
+  - Ads/IAP phải có fail-safe: no fill, purchase pending, duplicate reward, offline, restore purchase.
+  - Remote config cần tách placement, reward value, frequency cap, difficulty, offer, cohort.
+  - Build pipeline chậm làm giảm learning speed, cuối cùng làm giảm monetization.
+- Metrics:
+  - Crash-free users, load time, ad show success, ad completion, payment success, event coverage, config rollout time.
+
+Game design workflow:
+
+- Ảnh hưởng: player need, level tension, booster demand, reward loop, economy sink/source.
+- Tip:
+  - Mỗi booster phải gắn với một pain cụ thể.
+  - Mỗi hard level phải có readable failure.
+  - Mỗi reward phải có nơi tiêu hoặc lý do tích lũy.
+  - Không tạo economy chỉ để bán pack; economy phải làm progression dễ hiểu hơn.
+- Metrics:
+  - Level fail/retry, booster use, currency earn/burn, level completion, near-miss, economy inflation.
+
+Player workflow:
+
+- Ảnh hưởng: người chơi đi qua game theo thói quen thật, không theo flowchart của team.
+- Tip:
+  - Map các micro-loop: win -> claim -> next; fail -> retry/continue; event -> thiếu tài nguyên -> kiếm/mua; daily -> streak -> comeback.
+  - Đọc rage quit và silent quit khác nhau.
+  - Đừng chỉ đo session length; đo session quality: sau ads/IAP player có tiếp tục chơi không.
+- Metrics:
+  - Path after win, path after fail, return after ad, return after purchase, session depth, rage quit, next-level start.
+
+Publisher workflow:
+
+- Ảnh hưởng: chọn game nào được fund, soft launch ở đâu, scale lúc nào, kill lúc nào.
+- Tip:
+  - Publisher cần benchmark theo genre, country, channel, build age.
+  - Không scale vì CPI đẹp nếu D1/D3 và ad viewer quality xấu.
+  - Không kill quá sớm nếu creative chưa test đúng fantasy hoặc onboarding chưa fix clarity.
+  - Cadence tốt: daily metric triage, weekly build learning, monthly portfolio decision.
+- Metrics:
+  - CPI, IPM, D1/D3/D7, ARPDAU, LTV curve, payback, creative fatigue, cohort quality.
+
+Studio workflow:
+
+- Ảnh hưởng: tốc độ học, chất lượng implementation, khả năng biến data thành build mới.
+- Tip:
+  - Studio cần learning repository: level nào fail, creative nào thắng, offer nào phá trust.
+  - Designer/dev/artist/UA phải cùng xem replay/funnel, không làm theo task rời rạc.
+  - Sprint nên có output học được, không chỉ output feature.
+- Metrics:
+  - Build cycle time, experiment shipped/week, bug regression, content throughput, learning-to-change latency.
+
+UA/creative workflow:
+
+- Ảnh hưởng: player quality, promise, CPI, first session expectation, monetization response.
+- Tip:
+  - Creative phải tag theo angle: chaos/order, rescue, near-miss, fail comedy, satisfying clear, progression.
+  - AI giúp scale variation, nhưng strategy vẫn là chọn đúng promise cho đúng niche.
+  - Nếu creative kéo user thích fail comedy vào game progression nặng, monetization sẽ lệch.
+  - Store assets phải nối ads promise với game thật.
+- Metrics:
+  - CTR, IPM, CPI, store CVR, D1 by creative, payer/ad viewer by creative, creative fatigue.
+
+Marketing/niche workflow:
+
+- Ảnh hưởng: game đang bán fantasy nào, cho ai, với ngôn ngữ nào.
+- Tip:
+  - Niche không chỉ là genre; niche là combination của mechanic, fantasy, audience, visual code, difficulty taste và monetization tolerance.
+  - Sort thư giãn khác sort cạnh tranh thời gian.
+  - Jam cute/family khác jam traffic-stress.
+  - Match-3 decor khác match-3 challenge.
+  - Niche càng rõ, offer càng dễ đúng ngữ cảnh.
+- Metrics:
+  - Audience segment by creative, country response, theme performance, review keyword, organic keyword, payer persona.
+
+Trend workflow:
+
+- Ảnh hưởng: trend kéo CPI xuống hoặc làm creative dễ được chú ý, nhưng trend cũng làm game dễ commoditized.
+- Tip:
+  - Trend nên được dùng như wrapper/hook, không thay thế core loop.
+  - Nếu trend chỉ nằm trong creative mà không vào game, D1 sẽ trả giá.
+  - Trend cần được đánh giá theo saturation: càng nhiều clone, càng cần execution khác biệt.
+  - Trend tốt cho soft launch learning, chưa chắc tốt cho long-term brand.
+- Metrics:
+  - Trend angle CPI, D1/D3 by trend creative, organic uplift, creative fatigue speed, competitor density.
+
+Psychology workflow:
+
+- Ảnh hưởng: động cơ xem ads/mua IAP khác nhau theo persona.
+- Tip:
+  - Relax player mua remove ads/clean flow.
+  - Challenge player mua extra move khi fail công bằng.
+  - Completion player mua mảnh ghép/streak/collection.
+  - Value seeker xem ads nhiều nếu reward rõ.
+  - Identity player mua cosmetic/theme/status.
+  - Supporter mua pack nếu họ thích game/team.
+- Metrics:
+  - Persona tags, offer response by persona, ads/IAP mix, purchase repeat, retention after monetization.
+
+### 15.2 Pre-rewrite audit checklist
+
+Trước khi viết bài chính thức, outline nên được audit bằng 12 câu hỏi:
+
+1. Bài đã chứng minh monetization bắt đầu từ player journey chưa?
+2. Có nối creative promise với first session và LTV chưa?
+3. Có đủ ví dụ theo genre casual/puzzle/hybrid puzzle chưa?
+4. Có phân biệt ads tự nguyện, ads bắt buộc và ads như dark pattern chưa?
+5. Có phân biệt IAP giải quyết nhu cầu thật và IAP tạo thiếu hụt nhân tạo chưa?
+6. Có đủ lớp RNG, sound, color, animation, haptic chưa?
+7. Có giải thích workflow của dev/studio/publisher/UA không?
+8. Có nói về trend/niche/marketing như nguồn ảnh hưởng monetization không?
+9. Có đưa metric tương ứng cho từng luận điểm không?
+10. Có tip thực thi đủ cụ thể để team áp dụng được không?
+11. Có cảnh báo trust/retention khi tối ưu revenue ngắn hạn không?
+12. Có đủ chất "nghệ thuật trong sáng và hắc ám" nhưng không biến thành hướng dẫn lạm dụng không?
+
+### 15.3 Research notes cập nhật
+
+- Sensor Tower State of Mobile Gaming 2025: mobile gaming quay lại tăng trưởng; IAP revenue tăng, session/time spent tăng; hybrid monetization và live services nổi bật.
+- AppsFlyer State of Gaming for Marketers 2026: AI làm creative scale tăng mạnh, paid pressure cao hơn, thành công phụ thuộc vào khả năng đo và đọc tín hiệu phân mảnh.
+- Unity rewarded ads guidance: rewarded ads hợp khi game có currency/economy, booster/consumable/store và placement đúng lúc player có động cơ tiếp tục.
+- Unity Analytics docs: dashboard nên nối performance, retention và revenue; retention curve/funnel giúp phát hiện điểm player rời game.
+- Google/AdMob player-first monetization: segment player theo khả năng mua và preference; ads/IAP nên phù hợp hành vi từng nhóm.
+- Quantic Foundry motivation model: player motivation khác nhau; monetization nên map theo achievement, mastery, social, immersion, excitement, completion, identity.
+
+## 16. Suggested research extensions
 
 Bài này là pillar content. Các bài sau có thể tách:
 
@@ -576,14 +993,19 @@ Bài này là pillar content. Các bài sau có thể tách:
 2. `Dynamic Level Design`: rule, fairness, near-miss, difficulty curve.
 3. `Rewarded Ads Without Breaking Trust`: thiết kế ads như utility.
 4. `IAP Motivation Taxonomy`: vì sao người chơi mua.
-5. `AI Creative Pipeline for Puzzle Games`: test creative không clone IP.
-6. `Genre Monetization Playbooks`: sort, jam, physics, match-3, match-2.
-7. `Publisher Operating System`: dashboard, cadence, studio management.
-8. `From D1 to D30`: retention, live ops, event, habit.
-9. `Remove Ads, Starter Pack, Piggy Bank, Battle Pass`: khi nào dùng từng sản phẩm.
-10. `Player Personas in Casual Puzzle`: persona, journey, monetization response.
+5. `Randomness Management`: near-miss, luck, fair tension và dark-side scarcity.
+6. `Sound Design for Monetization`: âm thanh, dopamine loop, tension/release và guardrail.
+7. `Visual and Sensory Design`: màu sắc, animation, haptic, perceived value và monetization moments.
+8. `Workflow Audit for Monetization`: dev, studio, publisher, UA, marketing, trend và niche.
+9. `Trend and Niche Strategy`: trend dùng để giảm CPI, niche dùng để tăng fit và LTV.
+10. `AI Creative Pipeline for Puzzle Games`: test creative không clone IP.
+11. `Genre Monetization Playbooks`: sort, jam, physics, match-3, match-2.
+12. `Publisher Operating System`: dashboard, cadence, studio management.
+13. `From D1 to D30`: retention, live ops, event, habit.
+14. `Remove Ads, Starter Pack, Piggy Bank, Battle Pass`: khi nào dùng từng sản phẩm.
+15. `Player Personas in Casual Puzzle`: persona, journey, monetization response.
 
-## 14. Rewrite notes cho bài hiện tại
+## 17. Rewrite notes cho bài hiện tại
 
 Nên rewrite mạnh, không chỉ chèn thêm.
 
@@ -601,8 +1023,13 @@ Cần thêm:
 - Mở bài đúng LinkedIn audience.
 - Player journey làm xương sống.
 - Persona-based journey.
+- Market/niche/trend lens.
+- Workflow audit cho dev/studio/publisher/UA/marketing.
 - First 10 levels.
 - Dynamic level.
+- Randomness management.
+- Sound design.
+- Visual/sensory design.
 - Genre examples xuyên suốt.
 - Practical tips.
 - AI creative pipeline.
@@ -614,34 +1041,40 @@ Cần giảm:
 - Lặp lại vai trò publisher/studio.
 - Công thức quá sớm ở mở bài.
 
-## 15. Proposed final structure
+## 18. Proposed final structure
 
 ```text
 # The Art of Monetization
 
 ## 0. Bài này dành cho ai
 ## 1. Monetization không bắt đầu từ cửa hàng
-## 2. Player journey: từ click tới share
-## 3. Không có một user journey duy nhất: persona khác nhau, monetization khác nhau
-## 4. UA/Creative: bán fantasy, không bán feature
-## 5. Store và first open: lời hứa phải được kiểm chứng ngay
-## 6. First 10 levels: dạy cách chơi mà không làm chán
-## 7. Dynamic level design: độ khó, near-miss và trust
-## 8. Retention: lý do quay lại theo từng nhóm người chơi
-## 9. Ads as utility: khi nào người chơi sẵn sàng xem ads
-## 10. Booster: thêm lựa chọn, không sửa lỗi thiết kế
-## 11. IAP: pay to solve needs
-## 12. Remove ads, starter pack, piggy bank, battle pass: dùng khi nào
-## 13. Sharing loop: khi nào người chơi rủ người khác
-## 14. Áp dụng theo genre: sort, jam, physics, match-3, match-2
-## 15. Publisher/studio operating system
-## 16. Metrics, dashboard và decision cadence
-## 17. Từ nghiên cứu tổng hợp tới các bài chuyên sâu tiếp theo
-## 18. Kết luận
+## 2. Monetization là hệ sinh thái: player, product, market, workflow
+## 3. Player journey: từ click tới share
+## 4. Không có một user journey duy nhất: persona khác nhau, monetization khác nhau
+## 5. Market, niche và trend: game đang bán fantasy nào, cho ai
+## 6. UA/Creative: bán fantasy, không bán feature
+## 7. Store và first open: lời hứa phải được kiểm chứng ngay
+## 8. First 10 levels: dạy cách chơi mà không làm chán
+## 9. Dynamic level design: độ khó, near-miss và trust
+## 10. Randomness management: near-miss, luck và purchase opportunity
+## 11. Ads as utility: khi nào người chơi sẵn sàng xem ads
+## 12. Booster: thêm lựa chọn, không sửa lỗi thiết kế
+## 13. IAP: pay to solve needs
+## 14. Sound design: âm thanh, dopamine loop và cảm giác thiếu hụt
+## 15. Visual and sensory design: màu sắc, animation, haptic và perceived value
+## 16. Remove ads, starter pack, piggy bank, battle pass: dùng khi nào
+## 17. Retention: lý do quay lại theo từng nhóm người chơi
+## 18. Sharing loop: khi nào người chơi rủ người khác
+## 19. Áp dụng theo genre: sort, jam, physics, match-3, match-2
+## 20. Workflow audit: dev, studio, publisher, UA, marketing
+## 21. Publisher/studio operating system
+## 22. Metrics, dashboard và decision cadence
+## 23. Từ nghiên cứu tổng hợp tới các bài chuyên sâu tiếp theo
+## 24. Kết luận
 ## Nguồn nghiên cứu
 ```
 
-## 16. Notes về cách viết từng section
+## 19. Notes về cách viết từng section
 
 Mỗi section nên có format:
 
@@ -667,7 +1100,7 @@ Sai lầm thường gặp.
 
 Không phải section nào cũng cần đủ 6 phần nếu quá dài, nhưng nên giữ logic này trong đầu để bài không trôi thành lý thuyết suông.
 
-## 17. Câu lõi nên xuất hiện trong bài
+## 20. Câu lõi nên xuất hiện trong bài
 
 ```text
 Người chơi trả bằng thời gian trước khi trả bằng tiền.
@@ -698,6 +1131,28 @@ Creative pipeline là một phần của product pipeline.
 ```
 
 ```text
+Randomness là vật liệu thiết kế cảm xúc: dùng tốt thì tạo bất ngờ và replay value, dùng xấu thì tạo thiếu hụt nhân tạo.
+```
+
+```text
+Sound design không chỉ trang trí trải nghiệm. Nó điều tiết kỳ vọng, căng thẳng, giải tỏa và cảm giác hụt.
+```
+
+```text
+Màu sắc, animation và haptic làm player cảm thấy reward có giá trị, thất bại có trọng lượng và cơ hội monetization có đúng lúc hay không.
+```
+
+```text
 Revenue tốt không phải là ép được một lần mua. Revenue tốt là tạo được lý do mua mà sau đó user vẫn muốn tiếp tục chơi.
 ```
 
+## 21. Nguồn nghiên cứu nên dùng khi viết bài chính
+
+- Sensor Tower - State of Mobile Gaming 2025: https://sensortower.com/state-of-gaming-2025
+- AppsFlyer - State of Gaming for Marketers 2026: https://www.appsflyer.com/company/newsroom/pr/gaming-marketing/
+- Unity - Rewarded ad systems: https://unity.com/kr/blog/rewarded-ad-systems
+- Unity Analytics dashboards: https://docs.unity.com/en-us/analytics/dashboards/dashboards
+- Unity IAP revenue metrics: https://docs.unity.com/en-us/iap/reporting/revenue-performance-reference
+- Google for Games - Global Insights Report / monetization: https://games.withgoogle.com/reports/insightsreport/
+- Quantic Foundry - Gamer Motivation Model: https://quanticfoundry.com/gamer-motivation-model/
+- GameRefinery - live ops, motivations, feature/market tracking: https://www.gamerefinery.com/
