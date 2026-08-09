@@ -28,6 +28,90 @@ Bài này không nên được viết như một checklist gắn SDK/IAP. Nó c�
 - Đưa ví dụ theo genre cụ thể: sort, jam, physics, match-3, match-2.
 - Đưa tip thực thi, bao gồm AI creative pipeline, dynamic level, 10 level đầu, booster, remove ads, rewarded ads, sharing loop.
 
+## 0.1 Ebook architecture v2
+
+Vai trò của ebook:
+
+```text
+Không phải cẩm nang gắn ads/IAP.
+Không phải bài giải thích chỉ số.
+Không phải collection tip rời rạc.
+
+Đây là operating map để nhìn casual/puzzle game như một hệ thống kiếm tiền dựa trên hành vi, trust, tiến bộ, áp lực, sản phẩm monetization, dữ liệu và năng lực vận hành.
+```
+
+Framework lõi nên dùng xuyên suốt:
+
+```text
+Monetization System = Promise * Progress * Pressure * Permission * Payment * Persistence
+```
+
+Giải thích:
+
+- `Promise`: creative, store, screenshot, first impression đang hứa điều gì với player.
+- `Progress`: game làm player cảm thấy mình đang giỏi hơn, đi xa hơn, mở khóa nhiều hơn như thế nào.
+- `Pressure`: game tạo căng thẳng, thiếu hụt, near-miss, mục tiêu và giới hạn ra sao.
+- `Permission`: player có cảm thấy việc xem ads/trả tiền là công bằng, tự nguyện và đúng ngữ cảnh không.
+- `Payment`: ads/IAP/remove ads/starter pack/piggy bank/battle pass đang giải quyết nhu cầu thật nào.
+- `Persistence`: live ops, habit, event, social loop và content pipeline có giữ được vòng đời đủ dài không.
+
+Một cách viết khác, gần với vận hành:
+
+```text
+Revenue không đến từ một placement.
+Revenue đến từ chuỗi quyết định đồng bộ:
+đúng user -> đúng promise -> đúng first session -> đúng pressure -> đúng offer -> đúng cadence -> đúng learning loop.
+```
+
+Các phần lớn của ebook nên được chia theo tầng:
+
+```text
+Part 1 - Philosophy
+Monetization là hệ thống hành vi, không phải cửa hàng.
+
+Part 2 - Player Journey
+Từ ad, store, first open, 10 levels, habit, ads, purchase, share.
+
+Part 3 - Psychological Design
+Progress, pressure, fairness, randomness, reward, sound, trust.
+
+Part 4 - Monetization Products
+Rewarded ads, interstitial, boosters, remove ads, starter pack, piggy bank, battle pass, event offer.
+
+Part 5 - Metrics & Decision System
+Signal taxonomy, dashboard, experiment cadence, remote config, kill/iterate/scale criteria.
+
+Part 6 - Supply Chain & Operating System
+Market, prototype, level, art, SDK, mediation, IAP, QA, ASO, localization, creative, live ops, margin, team roles.
+
+Part 7 - Genre Playbooks
+Sort, jam, physics, match-3, match-2.
+
+Part 8 - LinkedIn Content Engine
+Tách ebook thành các bài nhỏ có hook, example, metric và takeaway rõ.
+```
+
+Các concept cần bổ sung vì hiện blueprint mới chạm một phần:
+
+- `Trust Budget`: mỗi player có một lượng trust hữu hạn. Creative sai hứa, ads dày, level unfair, popup sớm, purchase lỗi đều tiêu trust. Game muốn monetization dài hạn phải biết đầu tư lại trust bằng clarity, fairness, progress, reward và support tốt.
+- `Monetization Debt`: doanh thu ngắn hạn tạo bằng friction có thể để lại nợ: review xấu, D7/D30 yếu, UA khó scale, creative phải aggressive hơn, player quality giảm, team hiểu sai nguyên nhân tăng revenue.
+- `Player Persona Taxonomy`: không có một player casual/puzzle duy nhất. Relaxer, Solver, Collector, Optimizer, Rescuer, Ad Trader, Convenience Payer phản ứng khác nhau với ads/IAP/difficulty/live ops.
+- `Ethical Guardrails`: cần phân biệt fair tension với manipulation, dynamic level với secretly rigged difficulty, rewarded ads với coercive friction, booster với paywall trá hình.
+- `Signal Taxonomy`: gom metrics thành nhóm acquisition, activation, engagement, difficulty, ads, IAP, trust, operating, business. Không để metrics rải rác như checklist.
+- `Decision Trees`: thêm cây quyết định kiểu "D1 thấp thì đọc gì", "RV opt-in cao nhưng D3 giảm thì xử lý gì", "fail cao retry thấp nghĩa là gì", "payer conversion thấp nhưng store open cao nghĩa là gì".
+- `Economy Integrity`: nguồn vào/nguồn ra tài nguyên, inflation, scarcity, reward devaluation, event economy, soft/hard currency, sink/source.
+- `Market & Portfolio Lens`: một studio/publisher không chỉ tối ưu một game, mà cần danh mục prototype, creative angle, niche, genre risk, payback window và kill criteria.
+- `Policy & Platform Risk`: ATT/consent, privacy, age rating, random reward/gacha-like mechanic, misleading ads, refund, restore purchase, child/family positioning.
+- `Org Design`: ai sở hữu metric nào, cadence họp ra sao, feedback loop giữa design-data-UA-creative-dev-live ops thế nào.
+
+Nguyên tắc restructure:
+
+- Mỗi chương phải có một câu luận điểm sắc.
+- Mỗi chương phải trả lời 4 câu: player đang cảm gì, game đang tạo lực gì, monetization đặt ở đâu, team đọc metric nào.
+- Không dồn mọi ví dụ genre vào một chỗ; nên dùng ví dụ ngắn xuyên suốt và gom lại thành playbook ở cuối.
+- Các phần đạo đức/trust không để như disclaimer cuối bài; phải đi cùng từng mechanic.
+- Metrics không chỉ liệt kê, phải chỉ ra action tương ứng.
+
 ## 1. Mở bài: bài này dành cho ai
 
 Mục tiêu mở bài: thu hút đúng nhóm người đọc trên LinkedIn. Không mở bằng công thức LTV ngay. Mở bằng lời hứa rõ: nếu bạn đang làm game casual/puzzle và muốn hiểu cách biến game thành business, bài này là bản đồ.
@@ -1118,29 +1202,321 @@ Cần giảm:
 # The Art of Monetization
 
 ## 0. Bài này dành cho ai
+
+Part 1 - Philosophy: monetization là hệ thống hành vi
+
 ## 1. Monetization không bắt đầu từ cửa hàng
-## 2. Player journey: từ click tới share
-## 3. Không có một user journey duy nhất: persona khác nhau, monetization khác nhau
-## 4. UA/Creative: bán fantasy, không bán feature
-## 5. Store và first open: lời hứa phải được kiểm chứng ngay
-## 6. First 10 levels: dạy cách chơi mà không làm chán
-## 7. Dynamic level design: độ khó, near-miss và trust
-## 8. Randomness management: near-miss, luck và purchase opportunity
-## 9. Ads as utility: khi nào người chơi sẵn sàng xem ads
-## 10. Booster: thêm lựa chọn, không sửa lỗi thiết kế
-## 11. IAP: pay to solve needs
-## 12. Sound design: âm thanh, dopamine loop và cảm giác thiếu hụt
-## 13. Remove ads, starter pack, piggy bank, battle pass: dùng khi nào
-## 14. Retention: lý do quay lại theo từng nhóm người chơi
-## 15. Sharing loop: khi nào người chơi rủ người khác
-## 16. Áp dụng theo genre: sort, jam, physics, match-3, match-2
-## 17. Supply chain audit: từ market intel tới live ops
-## 18. Publisher/studio operating system
-## 19. Metrics, dashboard và decision cadence
-## 20. Từ nghiên cứu tổng hợp tới các bài chuyên sâu tiếp theo
-## 21. Kết luận
+## 2. Framework lõi: Promise, Progress, Pressure, Permission, Payment, Persistence
+## 3. Trust Budget: tài sản ẩn quyết định khả năng kiếm tiền dài hạn
+## 4. Monetization Debt: doanh thu ngắn hạn có thể tạo nợ vận hành dài hạn
+## 5. Bright design và dark pattern: ranh giới giữa thiết kế cảm xúc và thao túng
+
+Part 2 - Player Journey: từ click tới share
+
+## 6. Player journey tổng quát: See Ad -> Share
+## 7. UA/Creative: bán fantasy, không bán feature
+## 8. Store và first open: lời hứa phải được kiểm chứng ngay
+## 9. First 10 levels: hợp đồng cảm xúc giữa game và người chơi
+## 10. First return và habit: lý do quay lại không tự sinh ra
+## 11. Ads opt-in, first purchase, repeat purchase và share loop
+
+Part 3 - Player Psychology: progress, pressure, fairness
+
+## 12. Không có một user journey duy nhất: persona khác nhau, monetization khác nhau
+## 13. Player persona taxonomy: Relaxer, Solver, Collector, Optimizer, Rescuer, Ad Trader, Convenience Payer
+## 14. Progress design: mastery, completion, collection, streak, identity
+## 15. Pressure design: scarcity, limited move, bottleneck, countdown, event deadline
+## 16. Dynamic level design: độ khó, near-miss và trust
+## 17. Randomness management: luck, fairness, near-miss và purchase opportunity
+## 18. Sound, haptic và reward feel: điều tiết kỳ vọng, căng thẳng và giải tỏa
+
+Part 4 - Monetization Products: ads, IAP, economy
+
+## 19. Ads as utility: khi nào người chơi sẵn sàng xem ads
+## 20. Interstitial: thuế nhẹ ở điểm nghỉ hay nguồn phá trust
+## 21. Booster: thêm lựa chọn, không sửa lỗi thiết kế
+## 22. IAP: pay to solve needs
+## 23. Remove ads, starter pack, piggy bank, battle pass: dùng khi nào
+## 24. Economy integrity: source, sink, inflation, scarcity và reward devaluation
+## 25. Event economy: earn, burn, milestone, premium acceleration
+
+Part 5 - Metrics & Decision System
+
+## 26. Signal taxonomy: nhóm chỉ số cần đọc
+## 27. Acquisition signals: CTR, IPM, CPI, store CVR, creative quality
+## 28. Activation signals: load time, crash, tutorial, L1-L10, first session
+## 29. Engagement and difficulty signals: retry, next-level start, fail rate, APS, rage quit
+## 30. Ads and IAP signals: IMPDAU, RV opt-in, payer conversion, repeat purchase, refund
+## 31. Trust signals: rating, review keywords, churn after ads, support tickets, refund sentiment
+## 32. Decision trees: đọc tín hiệu và chọn hành động
+## 33. Experiment cadence: A/B test, remote config, rollout, rollback
+
+Part 6 - Supply Chain & Operating System
+
+## 34. Supply chain audit: từ market intel tới live ops
+## 35. Market, niche và portfolio lens: không chỉ tối ưu một game
+## 36. Prototype, core loop và kill criteria
+## 37. Level, content, art, UX, audio và tooling supply
+## 38. SDK, data, mediation, IAP, QA, ASO, localization và policy
+## 39. Live ops, support, community, review và trust operations
+## 40. Cost, vendor, margin, payback và contribution economics
+## 41. Publisher/studio operating system: role, dashboard, cadence, learning repository
+
+Part 7 - Genre Playbooks
+
+## 42. Sort: gỡ rối, trật tự, undo/extra tube và remove ads
+## 43. Jam: áp lực không gian, slot scarcity và continue moments
+## 44. Physics: tò mò, fail vui, retry nhanh và tool utility
+## 45. Match-3: long-term progression, booster economy và event depth
+## 46. Match-2: nhịp clear nhanh, reward đều và lightweight monetization
+## 47. Genre comparison matrix: emotion, risk, ads fit, IAP fit, metrics
+
+Part 8 - Content Engine
+
+## 48. Cách tách ebook thành chuỗi bài LinkedIn
+## 49. LinkedIn article template: hook, mistake, framework, example, metric, takeaway
+## 50. Suggested article series và thứ tự PR
+## 51. Kết luận: revenue tốt là lý do mua mà sau đó player vẫn muốn chơi tiếp
 ## Nguồn nghiên cứu
 ```
+
+Ghi chú về độ dài:
+
+- Ebook không nhất thiết phải viết đủ 51 chương dài ngang nhau.
+- Các mục trong Part 5 và Part 6 có thể gộp thành chương lớn nếu muốn ebook gọn hơn.
+- Với LinkedIn, ưu tiên tách theo luận điểm sắc, không tách máy móc theo mục lục.
+
+Phiên bản rút gọn nếu muốn ebook dễ đọc hơn:
+
+```text
+Part 1. Monetization Philosophy
+Part 2. Player Journey
+Part 3. Psychology & Trust
+Part 4. Ads, IAP & Economy
+Part 5. Metrics & Decisions
+Part 6. Supply Chain & Operating System
+Part 7. Genre Playbooks
+Part 8. LinkedIn Content Engine
+```
+
+## 18.1 Missing sections to write before rewrite
+
+### Trust Budget
+
+Luận điểm:
+
+```text
+Mỗi player bước vào game với một lượng trust hữu hạn.
+Monetization tốt không chỉ lấy value từ player, mà còn tái đầu tư trust bằng clarity, fairness, progress và support.
+```
+
+Cần viết rõ:
+
+- Creative sai promise tiêu trust trước cả khi game bắt đầu.
+- Tutorial dài, popup sớm, login/rating sớm làm trust giảm.
+- Ads sai thời điểm làm player cảm thấy mình bị dùng như inventory.
+- Level unfair làm booster/IAP bị hiểu như paywall.
+- Purchase lỗi, reward không grant, restore purchase kém làm payer trust sụp nhanh.
+- Trust có thể được phục hồi bằng visual clarity, readable failure, reward rõ, close button rõ, support nhanh, pricing minh bạch.
+
+Metrics:
+
+- Rating/review keyword.
+- Churn after ad exposure.
+- Churn after purchase fail.
+- Support ticket by issue.
+- Refund rate.
+- Store CVR trend sau review xấu.
+
+### Monetization Debt
+
+Luận điểm:
+
+```text
+Không phải mọi uplift revenue đều là tiến bộ.
+Một số uplift chỉ là vay trước từ trust, retention và brand equity.
+```
+
+Ví dụ debt:
+
+- Tăng interstitial sớm làm ARPDAU tăng nhưng D3/D7 giảm.
+- Hard level nhân tạo làm booster conversion tăng nhưng review "unfair" tăng.
+- Fake creative kéo CPI thấp nhưng D1/payer quality giảm.
+- Event quá dày làm payer spend tăng ngắn hạn nhưng fatigue tăng.
+- Reward inflation làm event sau phải trả nhiều hơn để có cùng opt-in.
+
+Cách đọc:
+
+- Luôn đọc revenue uplift cùng retention, review, session depth, payer retention.
+- Nếu revenue tăng nhưng player muốn rời game nhanh hơn, đó có thể là debt.
+- Nếu một tactic cần ngày càng tăng cường độ để giữ cùng revenue, đó là dấu hiệu debt.
+
+### Player Persona Taxonomy
+
+Nhóm persona nên dùng:
+
+- `Relaxer`: chơi để xả stress, thích clarity, ghét pressure thô.
+- `Solver`: thích cảm giác thông minh, chấp nhận fail nếu failure readable.
+- `Collector`: thích album, skin, decoration, completion.
+- `Optimizer`: thích streak, efficiency, event milestone, resource planning.
+- `Rescuer`: phản ứng tốt với fantasy cứu hộ, sửa chữa, dọn dẹp, giải phóng.
+- `Ad Trader`: ít trả tiền, sẵn sàng xem ads nếu exchange rõ và không bị ép.
+- `Convenience Payer`: mua remove ads, starter pack, extra move vì muốn trải nghiệm sạch/nhanh.
+
+Mỗi persona cần map:
+
+- Creative hook phù hợp.
+- First session promise.
+- Ads tolerance.
+- IAP motivation.
+- Churn trigger.
+- Live ops phù hợp.
+- Genre fit.
+
+### Ethical Guardrails
+
+Cần có một bảng phân biệt:
+
+```text
+Bright design:
+Tạo tension rõ, player hiểu luật, có lựa chọn thật, reward minh bạch, fail đọc được.
+
+Dark pattern:
+Ẩn luật, tạo thiếu hụt nhân tạo, ép ads bằng friction, rig difficulty bí mật, làm close khó thấy, bán giải pháp cho vấn đề do game cố tình tạo ra.
+```
+
+Các vùng nhạy cảm:
+
+- Dynamic difficulty.
+- Near-miss.
+- Random reward/chest/wheel.
+- Limited-time offer.
+- Streak loss.
+- Remove ads.
+- Kids/family positioning.
+- Misleading creative.
+
+### Signal Taxonomy
+
+Nhóm chỉ số đề xuất:
+
+- Acquisition: CTR, IPM, CPI, store CVR, creative fatigue.
+- Activation: load time, crash-free users, tutorial complete, L1-L10 completion, first session length.
+- Engagement: session count, session depth, next-level start, retry, D1/D3/D7/D30.
+- Difficulty: fail rate, APS, near-miss rate, rage quit, booster use by level.
+- Ads: RV viewer rate, RV IMPDAU, interstitial IMPDAU, fill, show, completion, retention by exposure.
+- IAP: store open, offer view/click/buy, payer conversion, ARPPU, repeat purchase, refund, purchase fail.
+- Trust: rating, review keywords, support tickets, churn after complaint, refund sentiment.
+- Operating: creative output/week, experiment cycle time, content throughput, remote config rollout time.
+- Business: LTV, ROAS, payback, contribution margin, platform/vendor cost.
+
+### Decision Trees
+
+Cần thêm các cây quyết định thực dụng:
+
+- `D1 thấp`: đọc creative promise, store match, load/crash, tutorial, L1-L3 clarity.
+- `D3 thấp nhưng D1 ổn`: đọc return reason, difficulty spike, ad exposure, content novelty.
+- `Fail cao + retry cao`: level có thể đang challenge tốt.
+- `Fail cao + retry thấp`: level có thể gây bực hoặc unfair.
+- `RV opt-in cao + retention ổn`: placement có utility tốt.
+- `RV opt-in cao + retention giảm`: có thể player đang bị ép bởi friction.
+- `Store open cao + purchase thấp`: offer/pricing/value framing có vấn đề.
+- `Purchase cao + refund/support cao`: delivery, expectation hoặc trust có vấn đề.
+
+### Economy Integrity
+
+Cần viết thêm vì IAP/event không thể bền nếu economy yếu:
+
+- Source/sink của currency.
+- Booster earn/spend.
+- Reward inflation.
+- Scarcity thật và scarcity nhân tạo.
+- Event currency.
+- Premium acceleration.
+- Payer/non-payer balance.
+- Whale pressure không phù hợp với casual relax audience.
+
+### Market, Portfolio and Kill Criteria
+
+Góc nhìn publisher/studio:
+
+- Không chỉ hỏi game này có LTV tốt không, mà hỏi game này thuộc portfolio risk nào.
+- Có game dùng để test creative angle.
+- Có game dùng để test mechanic.
+- Có game có D1 tốt nhưng LTV ceiling thấp.
+- Có game CPI thấp nhưng payer yếu.
+- Có game chưa scale vì content supply chưa đủ.
+
+Kill/iterate/scale nên dựa trên:
+
+- CPI/IPM.
+- D1/D3/D7.
+- L1-L10 clarity.
+- RV/IAP signal.
+- Creative iteration speed.
+- Content production capacity.
+- Payback window.
+- Contribution margin.
+
+## 18.2 LinkedIn PR map
+
+Không nên đăng LinkedIn theo thứ tự ebook 1:1. LinkedIn cần mỗi bài có một mũi nhọn dễ nhớ, một phản biện phổ biến, một ví dụ genre và một metric cụ thể.
+
+Format đề xuất cho mỗi bài:
+
+```text
+Hook:
+Một câu đánh vào hiểu lầm hoặc vấn đề đau.
+
+Problem:
+Vì sao team thường đọc sai vấn đề.
+
+Framework:
+Một mô hình ngắn 3-6 ý.
+
+Example:
+Một ví dụ sort/jam/physics/match-3/match-2.
+
+Metric:
+Một nhóm chỉ số cần đọc.
+
+Takeaway:
+Một câu có thể quote lại.
+```
+
+Chuỗi bài PR đề xuất:
+
+1. `Monetization không bắt đầu từ cửa hàng`: giới thiệu thesis và framework `Promise * Progress * Pressure * Permission * Payment * Persistence`.
+2. `Player trả bằng thời gian trước khi trả bằng tiền`: time, attention, trust như currency đầu tiên.
+3. `10 level đầu là hợp đồng cảm xúc`: vì sao tutorial không phải chỉ để dạy rule.
+4. `Creative bán fantasy, không bán feature`: nối UA promise với first session.
+5. `Rewarded ads tốt là utility`: phân biệt voluntary exchange với coercive friction.
+6. `Interstitial là thuế nhẹ, không phải búa doanh thu`: placement, frequency cap, natural break.
+7. `Booster tốt tạo lựa chọn`: khi nào booster là agency, khi nào là sửa lỗi level design.
+8. `Near-miss không vô tội`: fair tension, randomness và dark-side scarcity.
+9. `Trust Budget`: vì sao revenue tăng vẫn có thể làm game yếu đi.
+10. `Monetization Debt`: cách đọc uplift doanh thu mà không tự lừa mình.
+11. `Không có một player casual duy nhất`: persona và monetization response.
+12. `Sound design ảnh hưởng monetization`: reward feel, tension, release, perceived value.
+13. `Remove ads bán trải nghiệm sạch`: không bán lối thoát khỏi một trải nghiệm bị làm phiền quá mức.
+14. `Economy integrity`: source, sink, inflation và reward devaluation.
+15. `D1 thấp thì đừng nhìn mỗi CPI`: decision tree cho activation.
+16. `Fail cao không luôn là xấu`: phân biệt challenge tốt với unfair level.
+17. `Puzzle game là một supply chain`: market, level, asset, SDK, data, UA, live ops.
+18. `Publisher không chỉ có vốn UA`: operating system, cadence và learning loop.
+19. `Genre playbook - Sort`: gỡ rối, trật tự, undo/extra tube, remove ads.
+20. `Genre playbook - Jam`: áp lực không gian, slot scarcity, rewarded continue.
+21. `Genre playbook - Match-3`: progression dài hạn, booster economy, event depth.
+22. `Từ ebook thành operating checklist`: kết bài, mời đọc ebook/full framework.
+
+Cách dùng để PR ebook:
+
+- 3 bài đầu dùng để định vị tư tưởng.
+- 4-8 dùng để chứng minh chiều sâu game design/psychology.
+- 9-14 dùng để tạo uy tín senior vì có phản biện trust/ethics/economy.
+- 15-18 dùng để kéo nhóm operator, publisher, founder.
+- 19-21 dùng để kéo audience theo genre cụ thể.
+- Bài 22 dùng làm launch post cho ebook.
 
 ## 19. Notes về cách viết từng section
 
