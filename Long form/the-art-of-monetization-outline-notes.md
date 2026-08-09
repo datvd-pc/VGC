@@ -4,6 +4,34 @@ File này là blueprint trước khi rewrite bài `bai-2-monetization-ap-dung-ph
 
 Mục tiêu: biến bài hiện tại từ một bài giải thích chỉ số monetization thành một nghiên cứu tổng hợp về **hành trình người chơi, động cơ hành vi, thiết kế game, UA/creative, ads, IAP, live ops và operating system** cho casual, hybrid-casual, puzzle và hybrid puzzle.
 
+## Mục lục
+
+- [0. Định vị bài](#0-định-vị-bài)
+- [0.1 Ebook architecture v2](#01-ebook-architecture-v2)
+- [1. Mở bài: bài này dành cho ai](#1-mở-bài-bài-này-dành-cho-ai)
+- [2. Core thesis: monetization là hệ thống hành vi](#2-core-thesis-monetization-là-hệ-thống-hành-vi)
+- [3. Player journey tổng quát](#3-player-journey-tổng-quát)
+- [4. First 10 Levels: dạy mà không làm chán](#4-first-10-levels-dạy-mà-không-làm-chán)
+- [5. Dynamic Level Design](#5-dynamic-level-design)
+- [6. Booster: khi nào thêm, khi nào bán](#6-booster-khi-nào-thêm-khi-nào-bán)
+- [7. Ads: utility, không phải punishment](#7-ads-utility-không-phải-punishment)
+- [8. IAP: pay to solve needs](#8-iap-pay-to-solve-needs)
+- [9. Randomness Management: near-miss, luck và purchase opportunity](#9-randomness-management-near-miss-luck-và-purchase-opportunity)
+- [10. Sound design: âm thanh như công cụ điều tiết cảm xúc](#10-sound-design-âm-thanh-như-công-cụ-điều-tiết-cảm-xúc)
+- [11. Return journey: vì sao người chơi quay lại](#11-return-journey-vì-sao-người-chơi-quay-lại)
+- [12. Sharing loop: vì sao người chơi giới thiệu game](#12-sharing-loop-vì-sao-người-chơi-giới-thiệu-game)
+- [13. UA/Creative + AI pipeline](#13-uacreative--ai-pipeline)
+- [14. Operating system cho publisher/studio](#14-operating-system-cho-publisherstudio)
+- [15. Supply chain audit: chuỗi cung ứng tạo ra một game puzzle](#15-supply-chain-audit-chuỗi-cung-ứng-tạo-ra-một-game-puzzle)
+- [16. Suggested research extensions](#16-suggested-research-extensions)
+- [17. Rewrite notes cho bài hiện tại](#17-rewrite-notes-cho-bài-hiện-tại)
+- [18. Proposed final structure](#18-proposed-final-structure)
+- [18.1 Missing sections to write before rewrite](#181-missing-sections-to-write-before-rewrite)
+- [18.2 LinkedIn PR map](#182-linkedin-pr-map)
+- [18.3 Applied workflow và checklist mì ăn liền](#183-applied-workflow-và-checklist-mì-ăn-liền)
+- [19. Notes về cách viết từng section](#19-notes-về-cách-viết-từng-section)
+- [20. Câu lõi nên xuất hiện trong bài](#20-câu-lõi-nên-xuất-hiện-trong-bài)
+
 ## 0. Định vị bài
 
 Tên đề xuất:
@@ -1271,12 +1299,22 @@ Part 7 - Genre Playbooks
 ## 46. Match-2: nhịp clear nhanh, reward đều và lightweight monetization
 ## 47. Genre comparison matrix: emotion, risk, ads fit, IAP fit, metrics
 
-Part 8 - Content Engine
+Part 8 - Applied Workflow & Checklists
 
-## 48. Cách tách ebook thành chuỗi bài LinkedIn
-## 49. LinkedIn article template: hook, mistake, framework, example, metric, takeaway
-## 50. Suggested article series và thứ tự PR
-## 51. Kết luận: revenue tốt là lý do mua mà sau đó player vẫn muốn chơi tiếp
+## 48. Workflow áp dụng nhanh: từ game hiện tại tới monetization action plan
+## 49. Checklist audit 30 phút: tìm điểm rò revenue, trust và retention
+## 50. Checklist first 10 levels
+## 51. Checklist ads placement
+## 52. Checklist IAP/offer/economy
+## 53. Checklist data/dashboard
+## 54. Definition of Done: thế nào là một monetization system đủ chất lượng
+
+Part 9 - Content Engine
+
+## 55. Cách tách ebook thành chuỗi bài LinkedIn
+## 56. LinkedIn article template: hook, mistake, framework, example, metric, takeaway
+## 57. Suggested article series và thứ tự PR
+## 58. Kết luận: revenue tốt là lý do mua mà sau đó player vẫn muốn chơi tiếp
 ## Nguồn nghiên cứu
 ```
 
@@ -1296,7 +1334,8 @@ Part 4. Ads, IAP & Economy
 Part 5. Metrics & Decisions
 Part 6. Supply Chain & Operating System
 Part 7. Genre Playbooks
-Part 8. LinkedIn Content Engine
+Part 8. Applied Workflow & Checklists
+Part 9. LinkedIn Content Engine
 ```
 
 ## 18.1 Missing sections to write before rewrite
@@ -1517,6 +1556,181 @@ Cách dùng để PR ebook:
 - 15-18 dùng để kéo nhóm operator, publisher, founder.
 - 19-21 dùng để kéo audience theo genre cụ thể.
 - Bài 22 dùng làm launch post cho ebook.
+
+## 18.3 Applied workflow và checklist mì ăn liền
+
+Nên có phần này. Đây là cầu nối giữa ebook chuyên sâu và khả năng áp dụng nhanh. Người đọc senior cần framework, nhưng người đọc đang vận hành game cần checklist để biết ngay "ngày mai làm gì".
+
+Luận điểm:
+
+```text
+Một ebook monetization tốt không chỉ giúp người đọc hiểu đúng.
+Nó phải giúp họ ra quyết định nhanh hơn, audit game nhanh hơn và tránh tối ưu sai chỉ số.
+```
+
+### Workflow 1: Audit một game đang chạy trong 30 phút
+
+Mục tiêu: tìm nhanh điểm nghẽn lớn nhất trong player journey.
+
+```text
+1. Creative promise: ads đang hứa fantasy gì?
+2. Store match: store có xác nhận đúng lời hứa đó không?
+3. First open: player có vào gameplay nhanh không?
+4. First 10 levels: player rơi ở level nào?
+5. Difficulty: fail cao vì challenge hay vì unclear/unfair?
+6. Ads: placement là utility hay tax?
+7. IAP: offer giải quyết nhu cầu thật hay chỉ bán currency?
+8. Trust: review đang phàn nàn về ads, unfair, crash, purchase hay boring?
+9. Business: revenue tăng có đi cùng retention không?
+10. Action: chọn 1-3 thay đổi có xác suất tác động cao nhất.
+```
+
+Output sau audit:
+
+- Một problem statement rõ.
+- Một giả thuyết chính.
+- Một nhóm metric cần theo dõi.
+- Một experiment hoặc config change.
+- Một guardrail để tránh phá trust/retention.
+
+### Workflow 2: Từ insight tới experiment
+
+```text
+Signal -> Diagnosis -> Hypothesis -> Change -> Guardrail -> Result -> Decision
+```
+
+Ví dụ:
+
+```text
+Signal:
+Fail rate level 12 cao, retry thấp, rage quit cao.
+
+Diagnosis:
+Level không tạo challenge tốt; nó tạo cảm giác unfair hoặc unclear.
+
+Hypothesis:
+Nếu làm failure readable hơn và giảm bottleneck đầu level, retry sẽ tăng mà không cần giảm toàn bộ độ khó.
+
+Change:
+Sửa board, thêm visual hint nhẹ, giữ objective.
+
+Guardrail:
+Theo dõi D1/D3, retry, booster use, review keyword "unfair".
+
+Decision:
+Scale nếu retry tăng và retention không giảm; rollback nếu completion tăng nhưng session depth giảm mạnh.
+```
+
+### Workflow 3: Soft launch monetization readiness
+
+Trước soft launch, game nên có tối thiểu:
+
+- Event taxonomy đủ đọc journey: install, first open, level start/end, fail reason, ad request/show/complete, reward grant, offer show/click/buy, purchase success/fail.
+- Remote config cho ads frequency, placement, reward amount, offer price, level difficulty segment.
+- First 10 levels có tracking riêng.
+- Ít nhất 3-5 creative angle có tag rõ.
+- Store page khớp với creative promise.
+- Crash/loading/ad latency được đo theo device và country.
+- Rewarded ads có fallback khi no fill hoặc ad fail.
+- IAP có restore purchase, duplicate protection, pending purchase handling.
+- Dashboard đọc được D1/D3, level funnel, ads, IAP, trust signal.
+
+### Workflow 4: Scale readiness
+
+Không nên scale chỉ vì CPI thấp hoặc D1 đẹp. Scale cần xem hệ thống có chịu được traffic không.
+
+Checklist scale:
+
+- CPI/IPM ổn theo nhiều creative, không phụ thuộc một winning ad duy nhất.
+- D1/D3/D7 không sụp khi tăng volume.
+- Store CVR ổn và review không bị kéo xuống bởi ads/unfair/crash.
+- L1-L10 funnel rõ, không có drop bất thường.
+- RV opt-in cao nhưng không kéo giảm retention.
+- IAP conversion có tín hiệu thật, không chỉ do offer quá aggressive.
+- Content pipeline đủ để giữ D7/D30.
+- Live ops có lịch tối thiểu 4-8 tuần.
+- Ad mediation, no fill, latency, crash-free users đạt chuẩn.
+- Contribution margin và payback window hợp lý sau platform/vendor/publisher cost.
+
+### Checklist chất lượng theo từng lớp
+
+Player promise:
+
+- Creative có hứa đúng cảm xúc mà game thật deliver được không?
+- Screenshot đầu tiên có nói rõ mechanic không?
+- First session có xác nhận lời hứa trong 30-60 giây đầu không?
+
+Player progress:
+
+- 10 level đầu có tạo cảm giác "mình hiểu rồi" không?
+- Player có lý do bấm next level không?
+- Game có mở chiều sâu mà không làm player ngợp không?
+
+Player pressure:
+
+- Áp lực đến từ luật chơi rõ hay từ friction nhân tạo?
+- Near-miss có thật và readable không?
+- Dynamic difficulty có giữ flow mà không làm player thấy bị lật luật không?
+
+Ads:
+
+- Rewarded ads có value rõ và đúng context không?
+- Interstitial có nằm ở natural break không?
+- Có frequency cap và segment theo new user/payer/ad-heavy user không?
+- Sau khi tăng ads, retention/review/session depth có còn ổn không?
+
+IAP/economy:
+
+- Offer giải quyết motivation cụ thể nào: flow, completion, identity, value, support?
+- Booster có tạo lựa chọn hay thay game chơi hộ player?
+- Economy có source/sink rõ không?
+- Reward có bị inflation quá nhanh không?
+
+Trust:
+
+- Close/skip có rõ không?
+- Purchase/reward grant có đáng tin không?
+- Review keyword có cảnh báo "too many ads", "unfair", "pay to win", "fake ad" không?
+- Support có xử lý purchase/ad reward issue nhanh không?
+
+Operating:
+
+- Team có dashboard chung không?
+- Mỗi tuần có review creative, level, ads, IAP, retention, trust cùng nhau không?
+- Có learning repository ghi lại experiment và kết luận không?
+- Kill/iterate/scale criteria có được định nghĩa trước không?
+
+### Definition of Done cho monetization system
+
+Một game không cần hoàn hảo mới được scale, nhưng monetization system nên đạt các điều kiện tối thiểu:
+
+- Player hiểu game nhanh.
+- Game deliver đúng promise từ creative/store.
+- First 10 levels có funnel đủ sạch.
+- Ads không phá first session và không làm trust giảm rõ.
+- Rewarded ads có utility thật.
+- IAP offer gắn với nhu cầu thật, không chỉ popup bán currency.
+- Economy không tự phá giá reward.
+- Data đủ để đọc nguyên nhân, không chỉ đọc kết quả.
+- Team có thể thay đổi placement/price/reward/difficulty bằng config.
+- Revenue được đọc cùng retention, review, refund và contribution margin.
+
+Checklist kết luận cho người đọc:
+
+```text
+Nếu chỉ nhớ một workflow:
+
+1. Đọc promise.
+2. Đọc first session.
+3. Đọc first 10 levels.
+4. Đọc pressure/fairness.
+5. Đọc ads/IAP trong context.
+6. Đọc trust signal.
+7. Đọc margin.
+8. Chọn một experiment nhỏ.
+9. Đặt guardrail.
+10. Decide: kill, iterate, scale.
+```
 
 ## 19. Notes về cách viết từng section
 
