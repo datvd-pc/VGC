@@ -29,6 +29,8 @@ Mục tiêu: biến bài hiện tại từ một bài giải thích chỉ số m
 - [18.1 Missing sections to write before rewrite](#181-missing-sections-to-write-before-rewrite)
 - [18.2 LinkedIn PR map](#182-linkedin-pr-map)
 - [18.3 Applied workflow và checklist mì ăn liền](#183-applied-workflow-và-checklist-mì-ăn-liền)
+- [18.4 Genre/category example system](#184-genrecategory-example-system)
+- [18.5 Evidence, tension và case study system](#185-evidence-tension-và-case-study-system)
 - [19. Notes về cách viết từng section](#19-notes-về-cách-viết-từng-section)
 - [20. Câu lõi nên xuất hiện trong bài](#20-câu-lõi-nên-xuất-hiện-trong-bài)
 
@@ -131,6 +133,7 @@ Các concept cần bổ sung vì hiện blueprint mới chạm một phần:
 - `Market & Portfolio Lens`: một studio/publisher không chỉ tối ưu một game, mà cần danh mục prototype, creative angle, niche, genre risk, payback window và kill criteria.
 - `Policy & Platform Risk`: ATT/consent, privacy, age rating, random reward/gacha-like mechanic, misleading ads, refund, restore purchase, child/family positioning.
 - `Org Design`: ai sở hữu metric nào, cadence họp ra sao, feedback loop giữa design-data-UA-creative-dev-live ops thế nào.
+- `Category Lens`: phân biệt casual, hybrid-casual, puzzle và hybrid puzzle như 4 logic sản phẩm/monetization khác nhau, không chỉ là 4 nhãn genre.
 
 Nguyên tắc restructure:
 
@@ -139,6 +142,7 @@ Nguyên tắc restructure:
 - Không dồn mọi ví dụ genre vào một chỗ; nên dùng ví dụ ngắn xuyên suốt và gom lại thành playbook ở cuối.
 - Các phần đạo đức/trust không để như disclaimer cuối bài; phải đi cùng từng mechanic.
 - Metrics không chỉ liệt kê, phải chỉ ra action tương ứng.
+- Không ép mọi khía cạnh đều có đủ 4 ví dụ cho casual/hybrid-casual/puzzle/hybrid puzzle; chỉ dùng đủ 4 khi phần đó thật sự cần so sánh category.
 
 ## 1. Mở bài: bài này dành cho ai
 
@@ -1292,29 +1296,35 @@ Part 6 - Supply Chain & Operating System
 
 Part 7 - Genre Playbooks
 
-## 42. Sort: gỡ rối, trật tự, undo/extra tube và remove ads
-## 43. Jam: áp lực không gian, slot scarcity và continue moments
-## 44. Physics: tò mò, fail vui, retry nhanh và tool utility
-## 45. Match-3: long-term progression, booster economy và event depth
-## 46. Match-2: nhịp clear nhanh, reward đều và lightweight monetization
-## 47. Genre comparison matrix: emotion, risk, ads fit, IAP fit, metrics
+## 42. Category lens: casual, hybrid-casual, puzzle và hybrid puzzle khác nhau ở đâu
+## 43. Casual playbook: session ngắn, ads fit, remove ads và novelty
+## 44. Hybrid-casual playbook: casual core, light meta, ads/IAP hybrid mix
+## 45. Puzzle playbook: mastery, fairness, near-miss, booster utility
+## 46. Hybrid puzzle playbook: puzzle core, meta, economy, event và live ops
+## 47. Mechanic lens: sort, jam, physics, match-3, match-2
+## 48. Sort: gỡ rối, trật tự, undo/extra tube và remove ads
+## 49. Jam: áp lực không gian, slot scarcity và continue moments
+## 50. Physics: tò mò, fail vui, retry nhanh và tool utility
+## 51. Match-3: long-term progression, booster economy và event depth
+## 52. Match-2: nhịp clear nhanh, reward đều và lightweight monetization
+## 53. Genre/category comparison matrix: emotion, risk, ads fit, IAP fit, metrics
 
 Part 8 - Applied Workflow & Checklists
 
-## 48. Workflow áp dụng nhanh: từ game hiện tại tới monetization action plan
-## 49. Checklist audit 30 phút: tìm điểm rò revenue, trust và retention
-## 50. Checklist first 10 levels
-## 51. Checklist ads placement
-## 52. Checklist IAP/offer/economy
-## 53. Checklist data/dashboard
-## 54. Definition of Done: thế nào là một monetization system đủ chất lượng
+## 54. Workflow áp dụng nhanh: từ game hiện tại tới monetization action plan
+## 55. Checklist audit 30 phút: tìm điểm rò revenue, trust và retention
+## 56. Checklist first 10 levels
+## 57. Checklist ads placement
+## 58. Checklist IAP/offer/economy
+## 59. Checklist data/dashboard
+## 60. Definition of Done: thế nào là một monetization system đủ chất lượng
 
 Part 9 - Content Engine
 
-## 55. Cách tách ebook thành chuỗi bài LinkedIn
-## 56. LinkedIn article template: hook, mistake, framework, example, metric, takeaway
-## 57. Suggested article series và thứ tự PR
-## 58. Kết luận: revenue tốt là lý do mua mà sau đó player vẫn muốn chơi tiếp
+## 61. Cách tách ebook thành chuỗi bài LinkedIn
+## 62. LinkedIn article template: hook, mistake, framework, example, metric, takeaway
+## 63. Suggested article series và thứ tự PR
+## 64. Kết luận: revenue tốt là lý do mua mà sau đó player vẫn muốn chơi tiếp
 ## Nguồn nghiên cứu
 ```
 
@@ -1731,6 +1741,648 @@ Nếu chỉ nhớ một workflow:
 9. Đặt guardrail.
 10. Decide: kill, iterate, scale.
 ```
+
+## 18.4 Genre/category example system
+
+Cần phân biệt hai lớp:
+
+- `Category lens`: casual, hybrid-casual, puzzle, hybrid puzzle.
+- `Mechanic/genre lens`: sort, jam, physics, match-3, match-2.
+
+Không nên trộn hai lớp này thành một. Casual/hybrid-casual/puzzle/hybrid puzzle là cách nhìn về độ sâu sản phẩm, session, economy, ads/IAP mix và live ops. Sort/jam/physics/match-3/match-2 là cách nhìn về mechanic, emotion và moment-to-moment gameplay.
+
+Luận điểm:
+
+```text
+Không cần mỗi khía cạnh đều có đủ 4 ví dụ.
+Cần đủ 4 ví dụ ở những điểm category thật sự làm thay đổi monetization logic.
+```
+
+### Định nghĩa 4 category
+
+Casual:
+
+- Core loop dễ hiểu trong vài giây.
+- Session ngắn, friction thấp, nội dung nhẹ.
+- Monetization thường thiên về ads, đặc biệt interstitial/rewarded ads.
+- IAP nếu có thường là remove ads, small pack, cosmetic nhẹ, convenience.
+- Rủi ro chính: ads quá dày, game nông, D7/D30 yếu, creative kéo user tò mò nhưng không giữ được.
+
+Hybrid-casual:
+
+- Casual core nhưng có progression, upgrade, collection, light economy hoặc meta layer.
+- Ads vẫn quan trọng, nhưng IAP có đất hơn casual thuần.
+- Player có lý do quay lại nhờ unlock, resource, upgrade, collection, event nhẹ.
+- Rủi ro chính: meta gắn hời hợt, economy không đủ sâu, game mất sự đơn giản ban đầu.
+
+Puzzle:
+
+- Core challenge rõ; player trả bằng attention, mastery, retry và cảm giác giải được vấn đề.
+- Monetization phụ thuộc mạnh vào fairness, difficulty curve, near-miss và readable failure.
+- Ads/IAP tốt nhất khi gắn với trạng thái kẹt hợp lý: extra move, undo, hint, booster, continue.
+- Rủi ro chính: level unfair, booster như paywall, near-miss nhân tạo, ads phá flow suy nghĩ.
+
+Hybrid puzzle:
+
+- Puzzle core kết hợp meta, live ops, collection, event, decoration, progression dài hơn.
+- Có khả năng IAP và event monetization mạnh hơn puzzle thuần.
+- Cần economy, content pipeline, event cadence và segmentation tốt hơn.
+- Rủi ro chính: complexity quá sớm, economy inflation, event fatigue, content supply không theo kịp scale.
+
+### Khi nào cần đủ 4 ví dụ
+
+Nên có bảng đủ 4 category ở các phần sau:
+
+- Player motivation.
+- First 10 levels.
+- Ads placement.
+- IAP motivation.
+- Difficulty/pressure.
+- Retention/live ops.
+- Economy depth.
+- Metrics cần đọc.
+- Common mistakes.
+- Scale risk.
+
+Không cần đủ 4 ví dụ ở các phần:
+
+- Mở bài.
+- Core thesis.
+- Trust Budget.
+- Monetization Debt.
+- Ethical Guardrails.
+- Một số đoạn giải thích khái niệm chung.
+- LinkedIn post ngắn, trừ khi bài đó là bài so sánh category.
+
+Quy tắc thực thi:
+
+```text
+Section chiến lược: dùng 1-2 ví dụ sắc.
+Section monetization quan trọng: dùng bảng đủ 4 category.
+Cuối ebook: dùng playbook riêng cho từng category và mechanic.
+```
+
+### Example matrix: Rewarded Ads theo 4 category
+
+Casual:
+
+- Reward thường là coin, skin, double reward, daily bonus, bonus round.
+- Placement hợp lý: sau win, ở free gift, trước bonus room, nhân đôi reward.
+- Cần tránh: biến rewarded ads thành điều kiện gần như bắt buộc để chơi tiếp.
+
+Hybrid-casual:
+
+- Reward gắn với progression nhẹ: upgrade material, unlock speed, resource, retry, chest.
+- Placement hợp lý: trước upgrade, sau fail, khi thiếu ít resource, trong event milestone.
+- Cần tránh: economy phụ thuộc quá nhiều vào ads khiến IAP mất giá trị.
+
+Puzzle:
+
+- Reward mạnh nhất ở near-miss: extra move, undo, hint, booster, continue.
+- Placement hợp lý: sau fail readable, khi thiếu 1-2 objective, trước hard level để chuẩn bị.
+- Cần tránh: tạo thiếu hụt nhân tạo để ép ads.
+
+Hybrid puzzle:
+
+- Reward gắn cả core puzzle và meta: event currency, decoration item, collection piece, streak protection, booster bundle.
+- Placement hợp lý: trong event, sau near-miss, khi thiếu tài nguyên để đạt milestone.
+- Cần tránh: event economy bị inflation vì ads phát quá nhiều reward.
+
+### Example matrix: IAP theo 4 category
+
+Casual:
+
+- Best fit: remove ads, starter pack nhỏ, cosmetic nhẹ, convenience pack.
+- Motivation: chơi sạch hơn, đỡ gián đoạn, ủng hộ game, mở nhanh một vài tiện ích.
+- Bad fit: battle pass/economy phức tạp khi core loop quá nông.
+
+Hybrid-casual:
+
+- Best fit: starter pack, upgrade resource, remove ads bundle, progression accelerator.
+- Motivation: tiến nhanh hơn, mở content, tăng hiệu quả nhưng không phá game.
+- Bad fit: bán power quá mạnh làm game chuyển thành pay-to-progress thô.
+
+Puzzle:
+
+- Best fit: extra moves, booster pack, undo/hint bundle, remove ads.
+- Motivation: vượt qua kẹt hợp lý, giữ flow, hoàn thành objective.
+- Bad fit: hard level cố tình khóa để bán booster.
+
+Hybrid puzzle:
+
+- Best fit: event pack, battle pass nhẹ, piggy bank, decoration/collection bundle, booster economy.
+- Motivation: hoàn thành event, tăng progress dài hạn, sở hữu/collection, convenience.
+- Bad fit: quá nhiều offer layer làm player relax cảm thấy bị bán hàng liên tục.
+
+### Example matrix: First 10 levels theo 4 category
+
+Casual:
+
+- Mục tiêu: hiểu core action ngay, thắng nhanh, cảm giác nhẹ.
+- Nên show: fun trong 5-10 giây, reward đơn giản, ad/IAP chưa nên chen sớm.
+- Metric: level 1-3 completion, first session length, next-level start.
+
+Hybrid-casual:
+
+- Mục tiêu: core action rõ, hé lộ progression/meta mà không làm nặng.
+- Nên show: một upgrade/unlock nhỏ sau khi player đã hiểu loop.
+- Metric: L1-L10 completion, first upgrade, resource claim, D1.
+
+Puzzle:
+
+- Mục tiêu: dạy rule, tạo early mastery, cho thấy depth và readable failure.
+- Nên show: one-move-away, undo/hint sau khi player hiểu pain.
+- Metric: fail by level, retry, APS, rage quit, booster use.
+
+Hybrid puzzle:
+
+- Mục tiêu: dạy puzzle core, mở meta/event/collection đúng thời điểm.
+- Nên show: meta ở level 8-10 hoặc sau milestone, không mở quá sớm.
+- Metric: L1-L10, meta unlock engagement, event entry, D1/D3.
+
+### Example matrix: Retention/live ops theo 4 category
+
+Casual:
+
+- Return reason: daily reward, streak nhẹ, bonus round, new skin/theme.
+- Live ops nên nhẹ, không đòi hỏi planning phức tạp.
+- Risk: retention yếu nếu chỉ có ad loop và không có novelty.
+
+Hybrid-casual:
+
+- Return reason: upgrade, collection, unlock, event ngắn.
+- Live ops có thể dùng nhiệm vụ nhẹ, milestone, resource event.
+- Risk: meta không đủ hấp dẫn hoặc làm core loop chậm.
+
+Puzzle:
+
+- Return reason: level mới, hard level, challenge, mastery, streak, daily puzzle.
+- Live ops nên gắn với core challenge.
+- Risk: content/difficulty curve không đều làm player rời game.
+
+Hybrid puzzle:
+
+- Return reason: event, collection, decoration, team/light social, seasonal content.
+- Live ops là xương sống D7/D30 và repeat purchase.
+- Risk: content supply, economy inflation, event fatigue.
+
+### Category playbook format
+
+Mỗi category nên có một playbook riêng ở cuối ebook:
+
+```text
+Category:
+Casual / Hybrid-casual / Puzzle / Hybrid puzzle
+
+Core player emotion:
+Người chơi đến để cảm gì?
+
+Session shape:
+Một session tốt dài bao lâu, có nhịp gì?
+
+Primary monetization:
+Ads / IAP / hybrid mix.
+
+Best ads moments:
+Rewarded/interstitial nên đặt ở đâu.
+
+Best IAP moments:
+Offer nào hợp với nhu cầu nào.
+
+Retention driver:
+Vì sao player quay lại.
+
+Economy depth:
+Cần economy nông, vừa hay sâu.
+
+Creative promise:
+Ads/store nên hứa gì.
+
+Common traps:
+Những lỗi dễ phá trust/retention.
+
+Metrics to watch:
+Nhóm chỉ số quan trọng nhất.
+
+Fast checklist:
+5-10 câu hỏi audit nhanh.
+```
+
+### Mechanic playbook format
+
+Sau category playbook, có thể có mechanic playbook cho sort, jam, physics, match-3, match-2.
+
+```text
+Mechanic:
+Sort / Jam / Physics / Match-3 / Match-2
+
+Core emotion:
+Gỡ rối, áp lực không gian, tò mò, tiến bộ dài hạn, clear nhanh...
+
+Pressure source:
+Thiếu slot, thiếu move, blocker, timing, stack depth...
+
+Best near-miss:
+Thiếu 1 slot, 1 move, 1 target, 1 path, 1 combo...
+
+Best booster:
+Undo, hint, extra tube, extra slot, hammer, bomb, shuffle...
+
+Ads fit:
+Rewarded ads nào tự nhiên nhất.
+
+IAP fit:
+Pack nào hợp nhất.
+
+Fairness risk:
+Điểm nào dễ bị hiểu là unfair/paywall.
+
+Level metrics:
+Fail, APS, retry, rage quit, booster use.
+```
+
+### Cách đưa vào từng chapter
+
+Mỗi chapter nên dùng một trong ba chế độ ví dụ:
+
+1. `Single sharp example`: dùng một ví dụ thật sắc để giữ nhịp đọc.
+2. `Two-category contrast`: so casual với puzzle, hoặc hybrid-casual với hybrid puzzle để làm rõ khác biệt.
+3. `Four-category matrix`: dùng khi quyết định sản phẩm/monetization thật sự khác nhau theo category.
+
+Ví dụ:
+
+- Chapter `Trust Budget`: dùng 1-2 ví dụ, không cần đủ 4 category.
+- Chapter `Rewarded Ads`: nên có matrix đủ 4 category.
+- Chapter `First 10 Levels`: nên có matrix đủ 4 category.
+- Chapter `Sound Design`: dùng 1-2 ví dụ theo mechanic, không cần đủ 4 category.
+- Chapter `Scale Readiness`: nên có matrix đủ 4 category hoặc checklist có notes theo category.
+
+### Recommendation cho rewrite
+
+Khi rewrite ebook, đừng viết kiểu:
+
+```text
+Ở casual thì...
+Ở hybrid-casual thì...
+Ở puzzle thì...
+Ở hybrid puzzle thì...
+```
+
+lặp lại trong mọi section. Thay vào đó:
+
+```text
+Monetization logic thay đổi theo độ sâu của sản phẩm.
+Với casual, vấn đề thường là ads không phá flow.
+Với puzzle, vấn đề thường là fairness của pressure.
+Với hybrid puzzle, vấn đề thường là economy và live ops có đủ bền không.
+```
+
+Sau đó chỉ dùng bảng khi bảng thật sự giúp người đọc hành động nhanh hơn.
+
+## 18.5 Evidence, tension và case study system
+
+Mục tiêu của phần này: khi rewrite ebook, nội dung không chỉ đúng về logic mà còn có lực kéo để người đọc muốn đọc tiếp, có ví dụ đủ thật để dân chuyên môn không thấy sáo rỗng, và có một case study xuyên suốt để newbie dễ áp dụng.
+
+### Audit hiện trạng
+
+Điểm mạnh hiện tại:
+
+- Có thesis rõ: monetization là hệ thống hành vi.
+- Có nhiều câu lõi có cảm xúc.
+- Có workflow/checklist áp dụng nhanh.
+- Có phân biệt category và mechanic.
+- Có ethical guardrails, trust, debt, supply chain.
+
+Điểm còn thiếu trước khi rewrite:
+
+- Chưa có opening tension đủ mạnh.
+- Chưa có một case study xuyên suốt để người đọc nhìn thấy framework vận hành trên một game cụ thể.
+- Chưa có evidence map: phần nào cần nguồn, phần nào là framework nội bộ, phần nào là kinh nghiệm thực hành.
+- Chưa có sidebar case thật từ lịch sử ngành để tạo thẩm quyền.
+- Chưa có "reader payoff" rõ ở cuối mỗi part: đọc xong part này, người đọc làm được gì ngay.
+
+### Tension cần cài vào ebook
+
+Mở bài nên bắt đầu từ nghịch lý, không bắt đầu từ định nghĩa:
+
+```text
+Có game gắn đủ analytics, ads mediation, IAP, remote config và dashboard.
+Nhưng vẫn không scale.
+
+Vì monetization không chết ở cửa hàng.
+Nó chết sớm hơn: ở lời hứa creative, first session, 10 level đầu, cảm giác unfair, ads sai thời điểm, offer sai nhu cầu và trust bị tiêu quá nhanh.
+```
+
+Các tension chính nên lặp lại xuyên suốt:
+
+- Revenue tăng nhưng game yếu đi.
+- Ads opt-in cao nhưng retention giảm.
+- CPI thấp nhưng user quality sai.
+- Level khó tạo doanh thu ngắn hạn nhưng làm trust giảm.
+- Booster bán được nhưng có thể đang che lỗi level design.
+- Creative thắng CTR nhưng first session không deliver đúng promise.
+- Live ops tăng spend nhưng tạo fatigue.
+- Dashboard có nhiều số nhưng team vẫn quyết định sai vì đọc thiếu context.
+
+Mỗi part nên có một câu hỏi kéo người đọc:
+
+- Part 1: Nếu monetization không bắt đầu từ store, nó bắt đầu từ đâu?
+- Part 2: Player mất trust ở bước nào trước khi họ trả tiền?
+- Part 3: Pressure nào tạo challenge, pressure nào tạo thao túng?
+- Part 4: Ads/IAP đang giải quyết nhu cầu thật hay đang bán lối thoát khỏi friction?
+- Part 5: Chỉ số nào là signal, chỉ số nào là noise?
+- Part 6: Mắt xích nào trong supply chain đang phá monetization?
+- Part 7: Cùng là puzzle/casual, vì sao monetization logic khác nhau?
+- Part 8: Nếu chỉ có 30 phút audit game, nên nhìn gì trước?
+
+### Case study xuyên suốt
+
+Không nên dùng một game thật làm case study xuyên suốt nếu không có dữ liệu nội bộ. Dùng Candy Crush, Royal Match, Parking Jam, Water Sort làm case chính rất dễ bị dân chuyên môn bắt lỗi vì ta không biết funnel, config, retention, payer data thật.
+
+Cách tốt hơn:
+
+```text
+Dùng một fictional composite case, nhưng mỗi bài học quan trọng được neo bằng nguồn công khai hoặc case thật.
+```
+
+Case đề xuất:
+
+```text
+Project Clear Garden
+
+Category:
+Hybrid puzzle.
+
+Core mechanic:
+Sort/jam nhẹ, có puzzle board ngắn.
+
+Meta:
+Dọn vườn, mở khu vực, collection decoration.
+
+Monetization:
+Rewarded ads, interstitial có cap, remove ads, starter pack, booster pack, event currency.
+
+Audience:
+Relaxer, Solver, Collector, Ad Trader, Convenience Payer.
+
+Business situation:
+Game có CPI ổn và D1 tạm được, nhưng D7 yếu, ad complaints tăng, IAP thấp.
+```
+
+Project Clear Garden sẽ đi xuyên suốt ebook:
+
+- Opening: game có đủ SDK/ads/IAP nhưng không scale.
+- Player journey: creative hứa "relaxing garden cleanup", first session lại ép ads quá sớm.
+- First 10 levels: L1-L3 rõ, L6-L8 drop vì thêm blocker mà không dạy đủ.
+- Ads: rewarded ad opt-in cao ở continue, nhưng D3 giảm vì level tạo thiếu hụt nhân tạo.
+- IAP: starter pack yếu vì bán currency chung chung, không giải quyết moment cụ thể.
+- Economy: event reward quá hào phóng làm booster mất giá.
+- Trust: review bắt đầu có keyword "too many ads", "unfair", "fake ad".
+- Workflow: team audit, chọn 3 experiment, đặt guardrail retention/review.
+- Scale: không scale ngay dù CPI tốt vì content/live ops và trust chưa đạt.
+
+Case này giúp newbie theo được mạch, còn dân chuyên môn hiểu đây là composite chứ không phải claim về một game cụ thể.
+
+### Source-backed example bank
+
+Các nguồn nên dùng như sidebar hoặc footnote, không biến ebook thành báo cáo research khô.
+
+#### King / Candy Crush: live ops, portfolio, long-term franchise
+
+Góc dùng:
+
+- Match-3/hybrid puzzle không chỉ sống bằng core mechanic; live ops, UA, seasonal content, payer investment và portfolio matters.
+- King là ví dụ tốt cho `supply chain + live ops + franchise longevity`, không nên dùng để suy đoán chi tiết level/funnel nếu không có data nội bộ.
+
+Nguồn gợi ý:
+
+- Activision Blizzard Q2 2022 results: King tăng in-game net bookings, Candy Crush tăng engagement/payer, advertising business tăng, seasonal content và PvP features được nhắc tới.
+  - https://investor.activision.com/news-releases/news-release-details/activision-blizzard-announces-second-quarter-2022-financial
+- Activision Blizzard Q3 2022 results: Candy Crush tiếp tục là top-grossing game franchise ở U.S. app stores nhiều quý liên tiếp, time spent và payer numbers tăng.
+  - https://investor.activision.com/news-releases/news-release-details/activision-blizzard-announces-third-quarter-2022-financial
+- King 2015 SEC filing: doanh thu chủ yếu từ virtual items như extra lives, boosters, access/content acceleration; Candy Crush chiếm tỷ trọng lớn nhưng portfolio diversification là rủi ro/ưu tiên.
+  - https://www.sec.gov/Archives/edgar/data/1580732/000156459015004363/king-6k_20150331.htm
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Candy Crush không chứng minh rằng mọi puzzle game nên copy match-3 economy.
+Nó chứng minh một điều khác: puzzle monetization dài hạn là năng lực vận hành liên tục, không chỉ là core loop thắng ở prototype.
+```
+
+#### Unity / ironSource: rewarded ads, economy và IAA/IAP balance
+
+Góc dùng:
+
+- Rewarded ads nên được viết như opt-in utility.
+- Economy tốt giúp IAA và IAP không nhất thiết đối lập.
+- Ad engagement phải đọc cùng retention/session/monetization mix.
+
+Nguồn gợi ý:
+
+- Unity Monetization Strategy docs: rewarded ads là exchange tự nguyện, cần đúng incentive, ads implementation là một phần của game design.
+  - https://docs.unity.com/en-us/monetization/getting-started/monetization-strategy
+- Unity 2024 Mobile Growth and Monetization Report: ads removal/starter bundles hiệu quả ở early game; currency/limited-time sales mạnh hơn ở mid-late game; economy mạnh hỗ trợ ad monetization.
+  - https://activation.unity3d.com/ja/resources/mobile-growth-monetization-report-2024
+- Unity/ironSource rewarded ads analysis: cần đọc tác động của rewarded ads lên IAP, retention, engagement, không chỉ ad revenue.
+  - https://unity.com/kr/blog/understanding-the-impact-of-rewarded-ads-on-iap-retention-and-engagement
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Rewarded ads không nên được đánh giá bằng opt-in rate một mình.
+Một placement tốt phải giữ được exchange tự nguyện và không làm xấu retention/trust sau exposure.
+```
+
+#### FTC / Epic: dark patterns, billing, refund và trust risk
+
+Góc dùng:
+
+- Trust và ethics không phải phần phụ.
+- Purchase UX, consent, refund, child/privacy defaults có thể thành risk pháp lý và brand risk.
+- Dùng case này như guardrail, không dùng để nói mọi game monetization đều xấu.
+
+Nguồn gợi ý:
+
+- FTC 2022 settlement with Epic Games: $520M over COPPA/privacy and alleged dark patterns/unwanted charges.
+  - https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations
+- FTC business guidance blog on Epic settlement: complaint details around unwanted charges, refund friction, confusing purchase UX.
+  - https://search.ftc.gov/business-guidance/blog/2022/12/245-million-ftc-settlement-alleges-fortnite-owner-epic-games-used-digital-dark-patterns-charge
+- Epic statement on settlement: acknowledges changing long-standing industry practices and consumer protection expectations.
+  - https://www.epicgames.com/site/news/epic-ftc-settlement-and-moving-beyond-long-standing-industry-practices
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Dark pattern risk không chỉ là đạo đức trừu tượng.
+Nó có thể trở thành refund cost, legal risk, platform risk, review risk và loss of trust.
+```
+
+#### Apple ATT / privacy: UA, attribution và consent
+
+Góc dùng:
+
+- UA/measurement không còn chỉ là tối ưu campaign; consent và privacy là một phần của operating system.
+- Tracking permission phải được xử lý như trust moment.
+
+Nguồn gợi ý:
+
+- Apple Developer AppTrackingTransparency: app phải xin quyền nếu tracking người dùng qua app/web của công ty khác.
+  - https://developer.apple.com/documentation/apptrackingtransparency
+- Apple User Privacy and Data Use: apps cần minh bạch data usage, ATT permission, privacy nutrition labels, không được manipulate/trick/force consent.
+  - https://developer.apple.com/app-store/user-privacy-and-data-use/
+- Apple App Store Transparency Report: App Store định vị trust, privacy, security, content standards như một phần vận hành store.
+  - https://www.apple.com/legal/app-store/transparency/
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Consent prompt không phải thủ tục pháp lý đặt đại.
+Nó là một trust moment: hỏi sai lúc có thể làm hỏng first session, hỏi mập mờ có thể làm hỏng trust.
+```
+
+#### Microsoft / Activision Blizzard: portfolio, mobile và strategic value
+
+Góc dùng:
+
+- Mobile/casual không phải mảng phụ trong ngành game.
+- Portfolio và distribution là một phần chiến lược monetization cấp công ty.
+
+Nguồn gợi ý:
+
+- Microsoft 2024 Annual Report: Microsoft hoàn tất mua Activision Blizzard ngày 13/10/2023 với tổng purchase price $75.4B; acquisition hỗ trợ gaming across mobile, PC, console, cloud.
+  - https://www.microsoft.com/investor/reports/ar24/
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Ở cấp chiến lược, game monetization không chỉ là ARPDAU của một title.
+Nó còn là portfolio, distribution, IP, platform reach và khả năng vận hành nhiều vòng đời sản phẩm.
+```
+
+### Evidence map theo chapter
+
+Part 1 - Philosophy:
+
+- Dùng FTC/Epic cho dark pattern và trust risk.
+- Dùng Unity docs/report cho rewarded ads as utility.
+- Dùng King/Microsoft cho monetization như operating system, không chỉ placement.
+
+Part 2 - Player Journey:
+
+- Dùng Project Clear Garden làm case xuyên suốt.
+- Dùng Apple ATT làm ví dụ trust moment trong first open/consent.
+- Dùng store/creative promise như vấn đề thực hành, tránh claim không nguồn về creative cụ thể của game thật.
+
+Part 3 - Psychology:
+
+- Dùng framework nội bộ, nhưng tránh overclaim neuroscience.
+- Nếu nói dopamine/sound, dùng ngôn ngữ "reward feel", "expectation", "tension/release", không nói như kết luận y khoa.
+
+Part 4 - Monetization Products:
+
+- Dùng Unity cho rewarded ads, IAP stage, economy.
+- Dùng King/SEC cho virtual items, extra lives, boosters, content access.
+- Dùng FTC/Epic cho purchase/refund/consent guardrail.
+
+Part 5 - Metrics:
+
+- Dùng Unity report cho ad engagement, IAP product stage, economy.
+- Dùng framework tự xây cho decision trees; ghi rõ đây là practical heuristic.
+
+Part 6 - Supply Chain:
+
+- Dùng King/Activision public results cho live ops, seasonal content, UA, advertising business.
+- Dùng Microsoft annual report cho strategic portfolio/mobile context.
+- Dùng Apple privacy/transparency cho platform/policy supply.
+
+Part 7 - Genre/Category:
+
+- Dùng public examples như Candy Crush ở mức category/franchise.
+- Không suy đoán funnel/level/IAP config cụ thể nếu không có nguồn.
+- Dùng Project Clear Garden để minh họa chi tiết vì là composite.
+
+Part 8 - Workflow:
+
+- Dùng checklists như tool thực hành.
+- Có thể thêm "source-backed guardrail" ở cuối mỗi checklist.
+
+### Reader payoff cần thêm vào mỗi part
+
+Mỗi part nên kết thúc bằng:
+
+```text
+Sau phần này, bạn có thể:
+- Nhìn ra lỗi nào.
+- Đọc nhóm metric nào.
+- Đặt câu hỏi nào cho team.
+- Chọn một action nào.
+```
+
+Ví dụ Part 4:
+
+```text
+Sau phần Ads/IAP/Economy, bạn có thể:
+- Phân biệt rewarded ads có utility thật hay chỉ là friction.
+- Biết khi nào remove ads nên bán riêng, khi nào bundle với starter pack.
+- Nhìn ra offer đang giải quyết nhu cầu nào.
+- Đọc revenue cùng retention, refund và review.
+```
+
+### Rewrite guardrails để tránh phản cảm với dân chuyên môn
+
+- Không nói "case X làm như vậy nên bạn nên copy".
+- Không dùng số liệu công khai để suy ra funnel nội bộ.
+- Không gọi mọi monetization pressure là manipulation.
+- Không thần thánh hóa rewarded ads.
+- Không viết dopamine như một nút bấm sinh học đơn giản.
+- Không dùng "best practice" như chân lý; dùng "useful heuristic", "in many casual/puzzle contexts", "should be validated by cohort data".
+- Khi nhắc nguồn, ghi rõ nguồn nói gì và mình đang suy luận gì từ nguồn.
+
+### Practical insertion plan
+
+Nên bổ sung vào bản rewrite theo thứ tự:
+
+1. Opening tension: game đủ SDK nhưng không scale.
+2. Giới thiệu Project Clear Garden.
+3. Mỗi part quay lại case này một lần.
+4. Mỗi 2-3 chapter có một `Public case note`.
+5. Cuối mỗi part có `Reader payoff`.
+6. Cuối ebook có workflow/checklist và source list.
+
+### Source list cần giữ cho bản rewrite
+
+- Unity Monetization Strategy:
+  - https://docs.unity.com/en-us/monetization/getting-started/monetization-strategy
+- Unity 2024 Mobile Growth and Monetization Report:
+  - https://activation.unity3d.com/ja/resources/mobile-growth-monetization-report-2024
+- Unity/ironSource rewarded ads analysis:
+  - https://unity.com/kr/blog/understanding-the-impact-of-rewarded-ads-on-iap-retention-and-engagement
+- FTC Epic Games settlement press release:
+  - https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations
+- FTC Epic dark patterns business guidance:
+  - https://search.ftc.gov/business-guidance/blog/2022/12/245-million-ftc-settlement-alleges-fortnite-owner-epic-games-used-digital-dark-patterns-charge
+- Epic statement on FTC settlement:
+  - https://www.epicgames.com/site/news/epic-ftc-settlement-and-moving-beyond-long-standing-industry-practices
+- Apple AppTrackingTransparency:
+  - https://developer.apple.com/documentation/apptrackingtransparency
+- Apple User Privacy and Data Use:
+  - https://developer.apple.com/app-store/user-privacy-and-data-use/
+- Apple App Store Transparency Report:
+  - https://www.apple.com/legal/app-store/transparency/
+- King 2015 SEC filing:
+  - https://www.sec.gov/Archives/edgar/data/1580732/000156459015004363/king-6k_20150331.htm
+- Activision Blizzard Q2 2022 results:
+  - https://investor.activision.com/news-releases/news-release-details/activision-blizzard-announces-second-quarter-2022-financial
+- Activision Blizzard Q3 2022 results:
+  - https://investor.activision.com/news-releases/news-release-details/activision-blizzard-announces-third-quarter-2022-financial
+- Microsoft 2024 Annual Report:
+  - https://www.microsoft.com/investor/reports/ar24/
 
 ## 19. Notes về cách viết từng section
 
