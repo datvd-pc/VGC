@@ -1,4 +1,4 @@
-# Cách để game puzzle/casual viral và kiếm hàng triệu đô
+# Lịch sử hình thành của các hit game puzzle triệu đô
 
 Trong mobile game, đặc biệt là puzzle, hybrid puzzle, casual và hybrid-casual, một game "tốt" không tự động viral. Một game "hay" cũng không tự động kiếm hàng triệu đô.
 
