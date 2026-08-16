@@ -115,6 +115,21 @@ def build_docx():
         r.font.color.rgb = RGBColor(0x33, 0x41, 0x55)
         return p
 
+    def add_body(text, bold_prefix=None):
+        p = doc.add_paragraph()
+        p.paragraph_format.space_after = Pt(3)
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        if bold_prefix and text.startswith(bold_prefix):
+            r = p.add_run(bold_prefix)
+            r.font.bold = True
+            r.font.size = Pt(9.5)
+            r.font.color.rgb = RGBColor(0x0F, 0x17, 0x2A)
+            text = text[len(bold_prefix):]
+        r = p.add_run(text)
+        r.font.size = Pt(9.5)
+        r.font.color.rgb = RGBColor(0x33, 0x41, 0x55)
+        return p
+
     def add_checklist_table(headers, rows):
         t = doc.add_table(rows=len(rows)+1, cols=len(headers))
         t.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -169,8 +184,29 @@ def build_docx():
 
     # Document Header
     add_title("THE ART OF MONETIZATION")
-    add_subtitle("Master Audit Workflow & Operational Checklist Companion")
-    add_callout("How to Use: Keep this companion open next to your live game build and analytics dashboard. Trace the 6-stage lifecycle, execute diagnostic reality checks, and ensure all 10 Definition of Done quality gates are met before scaling UA spend.")
+    add_subtitle("Operational Monetization Audit & QA Checklist")
+    add_callout("Use this document beside the live build, source-of-truth dashboard, and store configuration. For every failed check, capture evidence, classify severity, assign one owner and a due date, then retest before closing it. Do not authorize UA scale on a critical trust, consent, purchase, or reward-delivery failure.")
+
+    add_h1("Audit Control Sheet")
+    add_body("Scope: [Prototype / Soft Launch / Live Game]     Project: [________________]     Build: [________]     Date: [________]     Audit Lead: [________________]")
+    add_body("Evidence standard: a check is PASS only when the auditor has directly verified the player path and, where available, linked supporting cohort telemetry. Use N/A only when the game stage genuinely makes the check inapplicable; write the reason.")
+    control_headers = ["Status", "Meaning", "Required action"]
+    control_rows = [
+        ["PASS", "Observed behavior meets the stated requirement; evidence is recorded.", "Keep evidence link, screenshot, or query reference."],
+        ["FAIL – Critical", "Trust, consent, purchase, reward delivery, or legal/platform risk.", "Block release or UA scale; owner and rollback plan required."],
+        ["FAIL – High", "Material retention, fairness, economy, or monetization harm.", "Fix before the next scale decision; retest required."],
+        ["FAIL – Medium / Low", "Important optimization or presentation issue without immediate player harm.", "Create a prioritized experiment or backlog item."],
+        ["N/A", "Not applicable at this product stage.", "State why; review at the next stage gate."]
+    ]
+    add_checklist_table(control_headers, control_rows)
+
+    add_h2("Finding Log (complete one row for every FAIL)")
+    finding_headers = ["Check ID", "Status / Severity", "Evidence", "Owner", "Due date", "Retest / Decision"]
+    finding_rows = [
+        ["[e.g., 3.2]", "[FAIL – High]", "[screen, video, dashboard link, cohort/date]", "[DRI]", "[YYYY-MM-DD]", "[Open / Pass / Rollback]"]
+        for _ in range(5)
+    ]
+    add_checklist_table(finding_headers, finding_rows)
 
     # 1. Acquisition to First Return
     add_h1("Stage 1: Acquisition to First Return Checklist")
@@ -333,9 +369,23 @@ def build_docx():
     ]
     add_checklist_table(headers4, rows4)
 
-    # 5. Definition of Done Scorecard
+    # 5. Monetization Technical QA
+    add_h1("Stage 5B: Monetization Technical QA", page_break=True)
+    add_callout("Run these checks on every release candidate that changes ads, purchase flow, pricing, entitlements, remote config, or consent. A successful UI review does not replace a verified transaction and reward-delivery test.")
+    tech_headers = ["QA Check", "Pass condition", "Failure severity", "Evidence to record", "Owner"]
+    tech_rows = [
+        ["[ ] T1 Rewarded-ad delivery", "Opt-in is voluntary; completion grants exactly one correct reward, immediately; cancellation, timeout, and network failure do not consume value.", "Critical if reward is lost or duplicated", "Device/video; ad callback; reward ledger", "Ads Eng / QA"],
+        ["[ ] T2 IAP purchase, restore & receipt", "Purchase, cancellation, pending payment, restore, and reinstall preserve correct entitlements with no duplicate charge or missing item.", "Critical", "Store sandbox receipt; entitlement record; video", "Commerce Eng / QA"],
+        ["[ ] T3 No-ads entitlement", "No-ads removes every promised forced placement across relaunch, session change, and remote-config refresh; rewarded ads remain voluntary.", "Critical if promise is broken", "Before/after placement map; purchase ID", "Ads Eng / QA"],
+        ["[ ] T4 Frequency cap & breakpoints", "Interstitial cap holds across level, session, background/resume, and config refresh; no interruption during play, tutorial, or defeat recovery.", "High", "Timestamped session trace; cap config", "Product / QA"],
+        ["[ ] T5 Consent, price & localization", "ATT/privacy consent is correctly timed; price, currency, tax disclosure, terms, and close/decline path are readable in every target locale.", "Critical for consent or price error", "Locale screenshots; store product config", "Product / Legal / QA"],
+        ["[ ] T6 Remote config & rollback", "A bad offer, ad rule, economy value, or experiment can be disabled safely without app update; change is logged and verified in production-safe test cohort.", "High", "Config revision; rollback test; owner", "Live Ops / Eng"],
+    ]
+    add_checklist_table(tech_headers, tech_rows)
+
+    # 6. Definition of Done Scorecard
     add_h1("Stage 6: The 10-Point 'Definition of Done' Scale Scorecard", page_break=True)
-    add_callout("Pass Requirement: Minimum score of 9/10 with ZERO critical trust fails before authorizing UA scale.")
+    add_callout("Scale decision: Minimum score of 9/10 AND zero Critical failures across this scorecard and Technical QA. A missing evidence record is not a pass. Any N/A needs a documented stage rationale and a named re-review date.")
     
     dod_items = [
         ("1. Promise Validation", "The core ad creative hook is proven within the first 3 minutes of gameplay and validated by strong FTUE completion across UA cohorts."),
@@ -350,9 +400,16 @@ def build_docx():
         ("10. Positive Contribution Economics", "Unit economics demonstrate true profitability after fully deducting platform fees (30%), ad tech/server infrastructure, UA marketing spend, and live operations overhead.")
     ]
 
-    dod_headers = ["Score Gate", "Criterion & Operational Definition", "Status [Pass / Fail]"]
-    dod_rows = [[title, desc, "[   ] PASS   /   [   ] FAIL"] for title, desc in dod_items]
+    dod_headers = ["Score Gate", "Criterion & Operational Definition", "Evidence / Owner", "Status"]
+    dod_rows = [[title, desc, "[link / cohort / DRI]", "[PASS / FAIL / N/A]"] for title, desc in dod_items]
     add_checklist_table(dod_headers, dod_rows)
+
+    add_h2("Scale Decision Record")
+    decision_headers = ["Decision", "Required sign-off", "Reason / evidence", "Next review date"]
+    decision_rows = [
+        ["[Scale / Hold / Iterate / Kill]", "Product Lead: [ ]  Data Lead: [ ]  Monetization Lead: [ ]  QA Lead: [ ]", "[score, critical-fail status, key cohort evidence]", "[YYYY-MM-DD]"]
+    ]
+    add_checklist_table(decision_headers, decision_rows)
 
     doc.save(DOCX_PATH)
     print(f"Audit Checklist DOCX generated at: {DOCX_PATH}")
