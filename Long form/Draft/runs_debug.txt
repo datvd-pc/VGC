@@ -1,0 +1,203 @@
+P2 [pStyle=Title]: THE ART OF MONETIZATIONNghệ thuật kiếm tiền trong game
+   run: text='THE ART OF MONETIZATION', bold=True, italic=False
+   run: text='Nghệ thuật kiếm tiền trong game', bold=True, italic=False
+P3 [pStyle=Heading1]: Research noteGhi chú nghiên cứu
+   run: text='Research note', bold=False, italic=False
+   run: text='Ghi chú nghiên cứu', bold=False, italic=False
+P4 [pStyle=None]: Trong kinh doanh game, rất ít quyết định có thể đứng vững nếu chỉ dựa vào một mechanic, một creative nổi bật hoặc một dashboard đẹp. Một mechanic được ưa chuộng chưa đủ để trở thành định hướng sản phẩm; một creative táo bạo cũng không thể che đi một economy thiếu bền vững. Dashboard có thể chỉ ra nơi team cần nhìn, nhưng không thay thế được cảm nhận khi chơi, năng lực thiết kế level hay quyết định khó nhất: dừng một ý tưởng có vẻ hứa hẹn.
+   run: text='Trong kinh doanh game, rất ít quyết định có thể đứng vững nếu chỉ dựa vào một mechanic, một creative nổi bật hoặc một dashboard đẹp. Một mechanic được ưa chuộng chưa đủ để trở thành định hướng sản phẩm; một creative táo bạo cũng không thể che đi một economy thiếu bền vững. Dashboard có thể chỉ ra nơi team cần nhìn, nhưng không thay thế được cảm nhận khi chơi, năng lực thiết kế level hay quyết định khó nhất: dừng một ý tưởng có vẻ hứa hẹn.', bold=False, italic=False
+P5 [pStyle=None]: Nghiên cứu này bắt đầu từ một Game Event do publisher tổ chức, rồi mở rộng thành việc quan sát kỹ hơn category puzzle. Thị trường có cơ hội rõ ràng, nhưng cơ hội chỉ trở nên có ý nghĩa khi một team hiểu mình đang tham gia vào phần nào của nó.
+   run: text='Nghiên cứu này bắt đầu từ một Game Event do publisher tổ chức, rồi mở rộng thành việc quan sát kỹ hơn category puzzle. Thị trường có cơ hội rõ ràng, nhưng cơ hội chỉ trở nên có ý nghĩa khi một team hiểu mình đang tham gia vào phần nào của nó.', bold=False, italic=False
+P6 [pStyle=None]: Cơ chế chơi, chủ đề và cách kiếm tiền của những game thành công thường được sao chép nhanh hơn tốc độ mà chúng được lý giải. Đằng sau một lựa chọn tưởng như đơn giản luôn có nhu cầu của người chơi, khối lượng sản xuất và logic economy riêng. Ebook này được viết để giúp người đọc nghiên cứu những điều đó kỹ hơn, trước khi biến một tín hiệu thị trường thành quyết định sản phẩm.
+   run: text='Cơ chế chơi, chủ đề và cách kiếm tiền của những game thành công thường được sao chép nhanh hơn tốc độ mà chúng được lý giải. Đằng sau một lựa chọn tưởng như đơn giản luôn có nhu cầu của người chơi, khối lượng sản xuất và logic economy riêng. Ebook này được viết để giúp người đọc nghiên cứu những điều đó kỹ hơn, trước khi biến một tín hiệu thị trường thành quyết định sản phẩm.', bold=False, italic=False
+P7 [pStyle=None]: Tài liệu này tập hợp các giả thuyết, công cụ, bằng chứng công khai và những câu hỏi chưa có đáp án cuối cùng. Nội dung sẽ tiếp tục được cập nhật từ góp ý của độc giả, kinh nghiệm phát hành game, hành vi người chơi và dữ liệu theo cohort.
+   run: text='Tài liệu này tập hợp các giả thuyết, công cụ, bằng chứng công khai và những câu hỏi chưa có đáp án cuối cùng. Nội dung sẽ tiếp tục được cập nhật từ góp ý của độc giả, kinh nghiệm phát hành game, hành vi người chơi và dữ liệu theo cohort.', bold=False, italic=False
+P8 [pStyle=None]: Phản biện có giá trị nhất khi chỉ ra điều kiện khiến một kết luận không còn đúng, đưa ra bằng chứng mâu thuẫn hoặc chia sẻ một decision tool đã giúp team tránh được một quyết định xấu. Những đóng góp như vậy sẽ giúp ebook chính xác hơn qua từng lần cập nhật.
+   run: text='Phản biện có giá trị nhất khi chỉ ra điều kiện khiến một kết luận không còn đúng, đưa ra bằng chứng mâu thuẫn hoặc chia sẻ một decision tool đã giúp team tránh được một quyết định xấu. Những đóng góp như vậy sẽ giúp ebook chính xác hơn qua từng lần cập nhật.', bold=False, italic=False
+P9 [pStyle=None]: Mục tiêu là tạo ra một ngôn ngữ rõ ràng hơn cho các quyết định làm game, rồi cải thiện ngôn ngữ đó cùng những người đang làm việc gần sản phẩm nhất.
+   run: text='Mục tiêu là tạo ra một ngôn ngữ rõ ràng hơn cho các quyết định làm game, rồi cải thiện ngôn ngữ đó cùng những người đang làm việc gần sản phẩm nhất.', bold=False, italic=False
+P10 [pStyle=Heading1]: A note to the readerLời nhắn tới người đọc
+   run: text='A note to the reader', bold=False, italic=False
+   run: text='Lời nhắn tới người đọc', bold=False, italic=False
+P11 [pStyle=None]: Làm game vốn đã khó. Việc kiếm tiền còn phức tạp hơn, vì thiết kế, economy, thu hút người chơi, sản phẩm, dữ liệu và vận hành phải gặp nhau trong cùng một trải nghiệm.
+   run: text='Làm game vốn đã khó. Việc kiếm tiền còn phức tạp hơn, vì thiết kế, economy, thu hút người chơi, sản phẩm, dữ liệu và vận hành phải gặp nhau trong cùng một trải nghiệm.', bold=False, italic=False
+P12 [pStyle=None]: Mỗi vai trò mang theo kỹ năng và kinh nghiệm riêng. Để cùng đưa một game đi xa hơn, founder, người phụ trách sản phẩm, game designer, analyst, người làm UA, publisher và những team nhỏ phải dùng chung một số khái niệm, dù mỗi người tiếp cận chúng từ một góc khác.
+   run: text='Mỗi vai trò mang theo kỹ năng và kinh nghiệm riêng. Để cùng đưa một game đi xa hơn, founder, người phụ trách sản phẩm, game designer, analyst, người làm UA, publisher và những team nhỏ phải dùng chung một số khái niệm, dù mỗi người tiếp cận chúng từ một góc khác.', bold=False, italic=False
+P13 [pStyle=None]: Mỗi framework trong sách là một cách kiểm tra một nguyên mẫu đang hình thành: creative nào cần test, level nào cần xem lại, quảng cáo nên xuất hiện ở đâu, offer nào có lý do tồn tại, chỉ số nào cần được đọc cùng nhau và khi nào nên dừng một hướng đi.
+   run: text='Mỗi framework trong sách là một cách kiểm tra một nguyên mẫu đang hình thành: creative nào cần test, level nào cần xem lại, quảng cáo nên xuất hiện ở đâu, offer nào có lý do tồn tại, chỉ số nào cần được đọc cùng nhau và khi nào nên dừng một hướng đi.', bold=False, italic=False
+P14 [pStyle=None]: Hãy đọc cùng một cuốn sổ ghi chú, bản game và bảng số liệu. Giá trị của ebook không nằm ở việc đưa ra câu trả lời thay cho team, mà ở việc giúp team mở game ra với những câu hỏi chính xác hơn.
+   run: text='Hãy đọc cùng một cuốn sổ ghi chú, bản game và bảng số liệu. Giá trị của ebook không nằm ở việc đưa ra câu trả lời thay cho team, mà ở việc giúp team mở game ra với những câu hỏi chính xác hơn.', bold=False, italic=False
+P15 [pStyle=Heading1]: Key termsThuật ngữ cần biết
+   run: text='Key terms', bold=False, italic=False
+   run: text='Thuật ngữ cần biết', bold=False, italic=False
+P16 [pStyle=None]: Bạn không cần biết sẵn ngôn ngữ của ngành game để đọc cuốn sách này. Các từ tiếng Anh dưới đây được giữ lại vì chúng xuất hiện nhiều trong công việc thực tế; lần đầu xuất hiện trong từng phần, chúng đều được giải thích theo nghĩa sử dụng trong sách.
+   run: text='Bạn không cần biết sẵn ngôn ngữ của ngành game để đọc cuốn sách này. Các từ tiếng Anh dưới đây được giữ lại vì chúng xuất hiện nhiều trong công việc thực tế; lần đầu xuất hiện trong từng phần, chúng đều được giải thích theo nghĩa sử dụng trong sách.', bold=False, italic=False
+P17 [pStyle=None]: Thuật ngữ
+   run: text='Thuật ngữ', bold=True, italic=False
+P18 [pStyle=None]: Nghĩa trong ebook
+   run: text='Nghĩa trong ebook', bold=True, italic=False
+P19 [pStyle=None]: Monetization
+   run: text='Monetization', bold=False, italic=False
+P20 [pStyle=None]: Cách game tạo doanh thu từ quảng cáo, mua trong game và các dịch vụ liên quan.
+   run: text='Cách game tạo doanh thu từ quảng cáo, mua trong game và các dịch vụ liên quan.', bold=False, italic=False
+P21 [pStyle=None]: UA (User Acquisition)
+   run: text='UA (User Acquisition)', bold=False, italic=False
+P22 [pStyle=None]: Hoạt động tìm và mua lượt cài đặt mới, thường qua quảng cáo.
+   run: text='Hoạt động tìm và mua lượt cài đặt mới, thường qua quảng cáo.', bold=False, italic=False
+P23 [pStyle=None]: IAP (In-App Purchase)
+   run: text='IAP (In-App Purchase)', bold=False, italic=False
+P24 [pStyle=None]: Khoản mua trực tiếp bên trong game, như gói khởi đầu, vật phẩm hoặc tắt quảng cáo.
+   run: text='Khoản mua trực tiếp bên trong game, như gói khởi đầu, vật phẩm hoặc tắt quảng cáo.', bold=False, italic=False
+P25 [pStyle=None]: Retention
+   run: text='Retention', bold=False, italic=False
+P26 [pStyle=None]: Tỷ lệ người chơi quay lại sau một khoảng thời gian, ví dụ D1 là quay lại ngày kế tiếp.
+   run: text='Tỷ lệ người chơi quay lại sau một khoảng thời gian, ví dụ D1 là quay lại ngày kế tiếp.', bold=False, italic=False
+P27 [pStyle=None]: Cohort
+   run: text='Cohort', bold=False, italic=False
+P28 [pStyle=None]: Một nhóm người chơi có cùng điểm bắt đầu, chẳng hạn cùng ngày cài game hoặc cùng thấy một quảng cáo.
+   run: text='Một nhóm người chơi có cùng điểm bắt đầu, chẳng hạn cùng ngày cài game hoặc cùng thấy một quảng cáo.', bold=False, italic=False
+P29 [pStyle=None]: Core loop
+   run: text='Core loop', bold=False, italic=False
+P30 [pStyle=None]: Vòng hành động chính người chơi lặp đi lặp lại trong game.
+   run: text='Vòng hành động chính người chơi lặp đi lặp lại trong game.', bold=False, italic=False
+P31 [pStyle=None]: Live ops
+   run: text='Live ops', bold=False, italic=False
+P32 [pStyle=None]: Công việc vận hành game đang phát hành: event, ưu đãi, nội dung, thông báo và cấu hình từ xa.
+   run: text='Công việc vận hành game đang phát hành: event, ưu đãi, nội dung, thông báo và cấu hình từ xa.', bold=False, italic=False
+P33 [pStyle=None]: Creative
+   run: text='Creative', bold=False, italic=False
+P34 [pStyle=None]: Mẫu quảng cáo: video, hình, tình huống hoặc thông điệp dùng để thu hút người chơi.
+   run: text='Mẫu quảng cáo: video, hình, tình huống hoặc thông điệp dùng để thu hút người chơi.', bold=False, italic=False
+P35 [pStyle=None]: Offer
+   run: text='Offer', bold=False, italic=False
+P36 [pStyle=None]: Gói đề nghị mua hoặc xem quảng cáo tại một thời điểm cụ thể.
+   run: text='Gói đề nghị mua hoặc xem quảng cáo tại một thời điểm cụ thể.', bold=False, italic=False
+P37 [pStyle=None]: Funnel
+   run: text='Funnel', bold=False, italic=False
+P38 [pStyle=None]: Chuỗi bước người chơi đi qua, từ thấy quảng cáo đến cài game, chơi, quay lại và chi tiền.
+   run: text='Chuỗi bước người chơi đi qua, từ thấy quảng cáo đến cài game, chơi, quay lại và chi tiền.', bold=False, italic=False
+P39 [pStyle=None]: LTV và CPI
+   run: text='LTV và CPI', bold=False, italic=False
+P40 [pStyle=None]: LTV là doanh thu kỳ vọng từ một người chơi; CPI là chi phí để có một lượt cài đặt.
+   run: text='LTV là doanh thu kỳ vọng từ một người chơi; CPI là chi phí để có một lượt cài đặt.', bold=False, italic=False
+P41 [pStyle=None]: ARPDAU và IMPDAU
+   run: text='ARPDAU và IMPDAU', bold=False, italic=False
+P42 [pStyle=None]: Doanh thu trung bình trên người chơi hoạt động mỗi ngày; số lượt hiển thị quảng cáo trung bình trên người chơi hoạt động mỗi ngày.
+   run: text='Doanh thu trung bình trên người chơi hoạt động mỗi ngày; số lượt hiển thị quảng cáo trung bình trên người chơi hoạt động mỗi ngày.', bold=False, italic=False
+P48 [pStyle=Heading1]: ContentsMục lục
+   run: text='Contents', bold=False, italic=False
+   run: text='Mục lục', bold=False, italic=False
+P49 [pStyle=ListNumber]: Hệ thống phía sau màn hình cửa hàng
+   run: text='Hệ thống phía sau màn hình cửa hàng', bold=False, italic=False
+P50 [pStyle=ListNumber]: Từ quảng cáo đến lần quay lại đầu tiên
+   run: text='Từ quảng cáo đến lần quay lại đầu tiên', bold=False, italic=False
+P51 [pStyle=ListNumber]: Tiến bộ, áp lực và sự công bằng
+   run: text='Tiến bộ, áp lực và sự công bằng', bold=False, italic=False
+P52 [pStyle=ListNumber]: Quảng cáo, IAP và nền kinh tế trong game
+   run: text='Quảng cáo, IAP và nền kinh tế trong game', bold=False, italic=False
+P53 [pStyle=ListNumber]: Tín hiệu, quyết định và thử nghiệm
+   run: text='Tín hiệu, quyết định và thử nghiệm', bold=False, italic=False
+P54 [pStyle=ListNumber]: Dữ liệu có thể và không thể quyết định gì
+   run: text='Dữ liệu có thể và không thể quyết định gì', bold=False, italic=False
+P55 [pStyle=ListNumber]: Hệ thống vận hành game đang phát hành
+   run: text='Hệ thống vận hành game đang phát hành', bold=False, italic=False
+P56 [pStyle=ListNumber]: Cẩm nang theo từng thể loại game
+   run: text='Cẩm nang theo từng thể loại game', bold=False, italic=False
+P57 [pStyle=ListNumber]: Kiểm tra tổng thể
+   run: text='Kiểm tra tổng thể', bold=False, italic=False
+P58 [pStyle=ListNumber]: Nguồn tham khảo công khai
+   run: text='Nguồn tham khảo công khai', bold=False, italic=False
+P59 [pStyle=Heading1]: How to read this ebookCách đọc ebook này
+   run: text='How to read this ebook', bold=False, italic=False
+   run: text='Cách đọc ebook này', bold=False, italic=False
+P60 [pStyle=None]: Đừng đọc như một bài blog. Ebook hiệu quả nhất khi bạn dùng nó để kiểm tra một game cụ thể.
+   run: text='Đừng đọc như một bài blog. Ebook hiệu quả nhất khi bạn dùng nó để kiểm tra một game cụ thể.', bold=False, italic=False
+P61 [pStyle=None]: Mỗi chương đi qua một điểm chạm cụ thể: quảng cáo, trang cửa hàng, phiên chơi đầu tiên, level, khoảnh khắc thua, quảng cáo có thưởng, gói đề nghị mua, sự kiện, bảng số liệu, đánh giá hoặc buổi họp của team.
+   run: text='Mỗi chương đi qua một điểm chạm cụ thể: quảng cáo, trang cửa hàng, phiên chơi đầu tiên, level, khoảnh khắc thua, quảng cáo có thưởng, gói đề nghị mua, sự kiện, bảng số liệu, đánh giá hoặc buổi họp của team.', bold=False, italic=False
+P62 [pStyle=None]: Với game đã phát hành, hãy giữ bản game gần bên. Khi đọc về mười level đầu, chơi lại mười level đầu. Khi đọc về quảng cáo có thưởng, tìm vị trí hiển thị đầu tiên và hỏi người chơi cần gì ở thời điểm đó. Khi đọc về mua trong app (IAP), mở cửa hàng và gọi tên vấn đề mà từng gói đang giải quyết. Khi đọc về chỉ số, mở bảng số liệu và tách tín hiệu khỏi nhiễu.
+   run: text='Với game đã phát hành, hãy giữ bản game gần bên. Khi đọc về mười level đầu, chơi lại mười level đầu. Khi đọc về quảng cáo có thưởng, tìm vị trí hiển thị đầu tiên và hỏi người chơi cần gì ở thời điểm đó. Khi đọc về mua trong app (IAP), mở cửa hàng và gọi tên vấn đề mà từng gói đang giải quyết. Khi đọc về chỉ số, mở bảng số liệu và tách tín hiệu khỏi nhiễu.', bold=False, italic=False
+P63 [pStyle=None]: Nếu game còn ở giai đoạn prototype, hãy dùng các chương như những cổng kiểm tra trước khi phát hành thử nghiệm giới hạn (soft launch). Một game chưa giải thích được lời hứa với người chơi, phiên chơi đầu, áp lực, trao đổi quảng cáo, logic của gói bán và lý do quay lại thì chưa sẵn sàng để mở rộng.
+   run: text='Nếu game còn ở giai đoạn prototype, hãy dùng các chương như những cổng kiểm tra trước khi phát hành thử nghiệm giới hạn (soft launch). Một game chưa giải thích được lời hứa với người chơi, phiên chơi đầu, áp lực, trao đổi quảng cáo, logic của gói bán và lý do quay lại thì chưa sẵn sàng để mở rộng.', bold=False, italic=False
+P64 [pStyle=None]: Mục tiêu không phải là đồng ý với mọi framework. Mục tiêu là rời mỗi chương với một câu hỏi sắc hơn cho game của bạn và cách tốt hơn để thách thức câu trả lời.
+   run: text='Mục tiêu không phải là đồng ý với mọi framework. Mục tiêu là rời mỗi chương với một câu hỏi sắc hơn cho game của bạn và cách tốt hơn để thách thức câu trả lời.', bold=False, italic=False
+P70 [pStyle=Heading1]: Monetization starts before the storeViệc kiếm tiền bắt đầu trước màn hình cửa hàng
+   run: text='Monetization starts before the store', bold=False, italic=False
+   run: text='Việc kiếm tiền bắt đầu trước màn hình cửa hàng', bold=False, italic=False
+P71 [pStyle=None]: Nhiều game không thất bại ở màn hình cửa hàng. Chúng thất bại sớm hơn, ở những điều kiện tạo ra niềm tin để người chơi muốn trả tiền.
+   run: text='Nhiều game không thất bại ở màn hình cửa hàng. Chúng thất bại sớm hơn, ở những điều kiện tạo ra niềm tin để người chơi muốn trả tiền.', bold=False, italic=False
+P72 [pStyle=None]: Quảng cáo hứa một cảm xúc, phiên chơi đầu lại đưa ra cảm xúc khác. 
+   run: text='Quảng cáo hứa một cảm xúc, phiên chơi đầu ', bold=False, italic=False
+   run: text='lại ', bold=False, italic=False
+   run: text='đưa ra cảm xúc khác. ', bold=False, italic=False
+P73 [pStyle=None]: Trang cửa hàng không thể tự chứng minh lời hứa của quảng cáo.
+   run: text='Trang cửa hàng không thể tự chứng minh lời hứa của quảng cáo.', bold=False, italic=False
+P74 [pStyle=None]: Hướng dẫn quá dài hoặc cướp quyền điều khiển.
+   run: text='Hướng dẫn quá dài hoặc cướp quyền điều khiển.', bold=False, italic=False
+P75 [pStyle=None]: Quảng cáo chen màn hình đầu tiên xuất hiện trước khi người chơi quyết định game có đáng thêm một phút nữa hay không.
+   run: text='Quảng cáo chen màn hình đầu tiên xuất hiện trước khi người chơi quyết định game có đáng thêm một phút nữa hay không.', bold=False, italic=False
+P76 [pStyle=None]: Một level tạo cảm giác bất công, rồi game mới bán booster như cách chữa lỗi.
+   run: text='Một level tạo cảm giác bất công, rồi game mới bán booster như cách chữa lỗi.', bold=False, italic=False
+P77 [pStyle=None]: Team đọc doanh thu như tín hiệu sức khỏe, trong khi tỷ lệ quay lại, đánh giá, hoàn tiền và niềm tin đang suy giảm.
+   run: text='Team đọc doanh thu như tín hiệu sức khỏe, trong khi tỷ lệ quay lại, đánh giá, hoàn tiền và niềm tin đang suy giảm.', bold=False, italic=False
+P78 [pStyle=None]: Màn hình cửa hàng là nơi hoàn tất trao đổi giá trị. Nó không thể cứu một trải nghiệm chưa khiến người chơi muốn ở lại.
+   run: text='Màn hình cửa hàng là nơi hoàn tất trao đổi giá trị. Nó không thể cứu một trải nghiệm chưa khiến người chơi muốn ở lại.', bold=False, italic=False
+P79 [pStyle=None]: Trước khi thu tiền, game cần nhận được gì từ người chơi?
+   run: text='Trước khi thu tiền, game cần nhận được gì từ người chơi?', bold=False, italic=False
+P80 [pStyle=None]: Trước hết là sự chú ý.
+   run: text='Trước hết là sự chú ý.', bold=False, italic=False
+P81 [pStyle=None]: Sau đó là cú nhấp, lượt cài đặt, thời gian chờ, phiên chơi đầu và lần quay lại.
+   run: text='Sau đó là cú nhấp, lượt cài đặt, thời gian chờ, phiên chơi đầu và lần quay lại.', bold=False, italic=False
+P82 [pStyle=None]: Tiền đến sau, khi game giữ được đủ niềm tin.
+   run: text='Tiền đến sau, khi game giữ được đủ niềm tin.', bold=False, italic=False
+P83 [pStyle=None]: Trong game casual, hybrid-casual, puzzle và hybrid puzzle, việc kiếm tiền là kết quả của cả một hành trình:
+   run: text='Trong game casual, hybrid-casual, puzzle và hybrid puzzle, việc kiếm tiền là kết quả của cả một hành trình:', bold=False, italic=False
+P84 [pStyle=None]: Thấy quảng cáo -> Nhấp -> Cửa hàng -> Cài đặt -> Mở lần đầu -> 10 level đầu -> Lần quay lại đầu tiên -> Thói quen -> Tự nguyện xem quảng cáo -> Lần mua đầu -> Mua lại -> Sự kiện/vận hành game -> Chia sẻ hoặc giới thiệu
+   run: text='Thấy quảng cáo -> Nhấp -> Cửa hàng -> Cài đặt -> Mở lần đầu -> 10 level đầu -> Lần quay lại đầu tiên -> Thói quen -> Tự nguyện xem quảng cáo -> Lần mua đầu -> Mua lại -> Sự kiện/vận hành game -> Chia sẻ hoặc giới thiệu', bold=False, italic=False
+P85 [pStyle=None]: Mỗi điểm chạm đều yêu cầu người chơi trao cho game một thứ.
+   run: text='Mỗi điểm chạm đều yêu cầu người chơi trao cho game một thứ.', bold=False, italic=False
+P86 [pStyle=None]: Quảng cáo cần sự chú ý. Trang cửa hàng cần niềm tin ban đầu. Lần mở đầu cần kiên nhẫn. Mười level đầu cần xây dựng niềm tin. Quảng cáo đầu tiên cần sự cho phép. Gói bán đầu tiên cần một lý do để trả tiền. Sự kiện đầu tiên cần thói quen quay lại.
+   run: text='Quảng cáo cần sự chú ý. Trang cửa hàng cần niềm tin ban đầu. Lần mở đầu cần kiên nhẫn. Mười level đầu cần xây dựng niềm tin. Quảng cáo đầu tiên cần sự cho phép. Gói bán đầu tiên cần một lý do để trả tiền. Sự kiện đầu tiên cần thói quen quay lại.', bold=False, italic=False
+P87 [pStyle=None]: Profit = Installs * (LTV - CPI)
+   run: text='Profit = Installs * (LTV - CPI)', bold=False, italic=False
+P88 [pStyle=None]: Đây là một thấu kính tài chính hữu ích, nhưng nó xuất hiện quá muộn để hướng dẫn thiết kế.
+   run: text='Đây là một thấu kính tài chính hữu ích, nhưng nó xuất hiện quá muộn để hướng dẫn thiết kế.', bold=False, italic=False
+P90 [pStyle=None]: Một công thức vận hành hữu ích hơn là:
+   run: text='Một công thức vận hành hữu ích hơn là:', bold=False, italic=False
+P91 [pStyle=None]: Monetization = Nhu cầu người chơi * Đúng ngữ cảnh * Niềm tin * Tốc độ thực thi
+   run: text='Monetization = Nhu cầu người chơi * Đúng ngữ cảnh * Niềm tin * Tốc độ thực thi', bold=False, italic=False
+P92 [pStyle=None]: Nhu cầu của người chơi có thể là cảm giác được giải tỏa, được chơi lại, thấy mình giỏi hơn, đi nhanh hơn, tiến bộ, sưu tập, thuận tiện, có địa vị hoặc kiểm soát được tình huống.
+   run: text='Nhu cầu của người chơi có thể là cảm giác được giải tỏa, được chơi lại, thấy mình giỏi hơn, đi nhanh hơn, tiến bộ, sưu tập, thuận tiện, có địa vị hoặc kiểm soát được tình huống.', bold=False, italic=False
+P93 [pStyle=None]: Đúng ngữ cảnh nghĩa là gói đề nghị xuất hiện khi nhu cầu ấy rõ nhất, không phải khi publisher hoặc studio cần thêm doanh thu.
+   run: text='Đúng ngữ cảnh nghĩa là gói đề nghị xuất hiện khi nhu cầu ấy rõ nhất, không phải khi publisher hoặc studio cần thêm doanh thu.', bold=False, italic=False
+P94 [pStyle=None]: Niềm tin là cảm giác game vẫn đủ công bằng để người chơi dành thêm thời gian hoặc tiền. Tốc độ thực thi là khả năng team học nhanh từ dữ liệu quảng cáo, phễu chuyển đổi, mức độ xem quảng cáo, tỷ lệ mua gói, tỷ lệ quay lại theo cohort, đánh giá và vận hành game đang phát hành.
+   run: text='Niềm tin là cảm giác game vẫn đủ công bằng để người chơi dành thêm thời gian hoặc tiền. Tốc độ thực thi là khả năng team học nhanh từ dữ liệu quảng cáo, phễu chuyển đổi, mức độ xem quảng cáo, tỷ lệ mua gói, tỷ lệ quay lại theo cohort, đánh giá và vận hành game đang phát hành.', bold=False, italic=False
+P95 [pStyle=None]: Bản đồ vận hành của ebook có sáu phần:
+   run: text='Bản đồ vận hành của ebook có sáu phần:', bold=False, italic=False
+P96 [pStyle=None]: Lời hứa * Tiến bộ * Áp lực * Sự cho phép * Thanh toán * Sự gắn bó lâu dài
+   run: text='Lời hứa * Tiến bộ * Áp lực * Sự cho phép * Thanh toán * Sự gắn bó lâu dài', bold=False, italic=False
+P97 [pStyle=None]: Khi thiếu một phần trong số này, doanh thu vẫn có thể tăng trong một thời gian. Điều đó vẫn nguy hiểm.
+   run: text='Khi thiếu một phần trong số này, doanh thu vẫn có thể tăng trong một thời gian. Điều đó vẫn nguy hiểm.', bold=False, italic=False
+P98 [pStyle=None]: Tại sao?
+   run: text='Tại sao?', bold=False, italic=False
+P99 [pStyle=None]: IMPDAU, tức số lượt hiển thị quảng cáo trung bình trên mỗi người chơi hoạt động hằng ngày, có thể tăng trong khi tỷ lệ quay lại ở ngày thứ ba (D3 retention) giảm. Một ưu đãi không phù hợp có thể vẫn chuyển đổi, trong khi phần đánh giá bắt đầu gọi level là bất công. Quảng cáo chen màn hình có thể nâng ARPDAU, nhưng khiến game khó mở rộng quy mô hơn.
+   run: text='IMPDAU, tức số lượt hiển thị quảng cáo trung bình trên mỗi người chơi hoạt động hằng ngày, có thể tăng trong khi tỷ lệ quay lại ở ngày thứ ba (D3 retention) giảm. Một ưu đãi không phù hợp có thể vẫn chuyển đổi, trong khi phần đánh giá bắt đầu gọi level là bất công. Quảng cáo chen màn hình có thể nâng ARPDAU, nhưng khiến game khó mở rộng quy mô hơn.', bold=False, italic=False
+P100 [pStyle=None]: Doanh thu lành mạnh để lại lý do cho người chơi tiếp tục sau quảng cáo, gói đề nghị mua và lần thanh toán. Doanh thu vay mượn lấy giá trị từ áp lực mà game không thể bảo vệ bằng luật chơi và giá trị trao đổi.
+   run: text='Doanh thu lành mạnh để lại lý do cho người chơi tiếp tục sau quảng cáo, gói đề nghị mua và lần thanh toán. Doanh thu vay mượn lấy giá trị từ áp lực mà game không thể bảo vệ bằng luật chơi và giá trị trao đổi.', bold=False, italic=False
+P101 [pStyle=Heading1]: Example: Clear GardenVí dụ: Clear Garden
+   run: text='Example: Clear Garden', bold=False, italic=False
+   run: text='Ví dụ: Clear Garden', bold=False, italic=False
+P102 [pStyle=None]: Hãy tưởng tượng một game puzzle lai đang được thử nghiệm phát hành giới hạn (soft launch) với tên Clear Garden.
+   run: text='Hãy tưởng tượng một game puzzle lai đang được thử nghiệm phát hành giới hạn (soft launch) với tên Clear Garden.', bold=False, italic=False
+P103 [pStyle=None]: Vòng lặp cốt lõi yêu cầu người chơi sắp đồ vật trong khu vườn bỏ hoang vào một khay có giới hạn, từ đó tạo không gian và phục hồi từng góc vườn. Mẫu quảng cáo bán cảm giác tìm lại trật tự và một biến đổi có thể nhìn thấy.
+   run: text='Vòng lặp cốt lõi yêu cầu người chơi sắp đồ vật trong khu vườn bỏ hoang vào một khay có giới hạn, từ đó tạo không gian và phục hồi từng góc vườn. Mẫu quảng cáo bán cảm giác tìm lại trật tự và một biến đổi có thể nhìn thấy.', bold=False, italic=False
+P104 [pStyle=None]: Phiên bản đầu tiên mắc những lỗi quen thuộc: xin quyền theo dõi trước khi người chơi chạm vào câu đố; đặt quảng cáo chen màn hình sau level hai; ở level 7, thêm quá nhiều loại đồ vật rồi đề nghị mua thêm ô khay ngay khi người chơi thua; bán gói khởi đầu gồm tiền tệ trong game nhưng không nói nó giải quyết vấn đề gì; trao phần thưởng hằng ngày rộng rãi nhưng khu vườn không tạo lý do để quay lại vào ngày mai.
+   run: text='Phiên bản đầu tiên mắc những lỗi quen thuộc: xin quyền theo dõi trước khi người chơi chạm vào câu đố; đặt quảng cáo chen màn hình sau level hai; ở level 7, thêm quá nhiều loại đồ vật rồi đề nghị mua thêm ô khay ngay khi người chơi thua; bán gói khởi đầu gồm tiền tệ trong game nhưng không nói nó giải quyết vấn đề gì; trao phần thưởng hằng ngày rộng rãi nhưng khu vườn không tạo lý do để quay lại vào ngày mai.', bold=False, italic=False
+P105 [pStyle=None]: Nếu đây là một bản build thật, chỉ số nào sẽ cho thấy rủi ro này trước khi team mua thêm traffic?
+   run: text='Nếu đây là một bản build thật, chỉ số nào sẽ cho thấy rủi ro này trước khi team mua thêm traffic?', bold=False, italic=False
+P106 [pStyle=None]: Clear Garden là một ví dụ hư cấu. Các loại quyết định được nêu ra thì rất thật.
+   run: text='Clear Garden là một ví dụ hư cấu. Các loại quyết định được nêu ra thì rất thật.', bold=False, italic=False
+P107 [pStyle=None]: Mỗi phần sẽ quay lại ví dụ này để biến một nguyên tắc thành một khoảnh khắc cụ thể trong phiên bản game đang thử nghiệm.
+   run: text='Mỗi phần sẽ quay lại ví dụ này để biến một nguyên tắc thành một khoảnh khắc cụ thể trong phiên bản game đang thử nghiệm.', bold=False, italic=False
+P108 [pStyle=Heading1]: Part I: The system behind the storePhần I: Hệ thống phía sau cửa hàng
+   run: text='Part I: The system behind the store', bold=False, italic=False
+   run: text='Phần I: Hệ thống phía sau cửa hàng', bold=False, italic=False

@@ -1,0 +1,705 @@
+[
+  {
+    "index": 388,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part VII: The operating system behind a live game\nPhần VII: Hệ điều hành của game đang phát hành",
+    "runs": [
+      {
+        "text": "Part VII: The operating system behind a live game",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần VII: Hệ điều hành của game đang phát hành",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 389,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "30. Monetization as a supply chain\nKiếm tiền như một chuỗi cung ứng giá trị: Một mắt xích yếu có thể phá vỡ toàn bộ lời hứa sản phẩm",
+    "runs": [
+      {
+        "text": "30. Monetization as a supply chain",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nKiếm tiền như một chuỗi cung ứng giá trị: Một mắt xích yếu có thể phá vỡ toàn bộ lời hứa sản phẩm",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 390,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Người chơi chỉ nhìn thấy một màn hình duy nhất trước mắt; nhưng để màn hình đó xuất hiện đúng lúc, đúng giá trị và hoạt động mượt mà, cả studio phải vận hành như một chuỗi cung ứng đồng bộ: ",
+    "runs": [
+      {
+        "text": "Người chơi chỉ nhìn thấy một màn hình duy nhất trước mắt; nhưng để màn hình đó xuất hiện đúng lúc, đúng giá trị và hoạt động mượt mà, cả studio phải vận hành như một chuỗi cung ứng đồng bộ: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 391,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nghiên cứu thị trường định hình hướng đi ➔ Bản mẫu (Prototype) kiểm chứng vòng lặp cốt lõi ",
+    "runs": [
+      {
+        "text": "Nghiên cứu thị trường định hình hướng đi ➔ Bản mẫu (Prototype) kiểm chứng vòng lặp cốt lõi ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 392,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Thiết kế màn chơi tạo ra thử thách hấp dẫn ➔ Đội ngũ đồ họa thổi hồn vào không gian ",
+    "runs": [
+      {
+        "text": "➔ Thiết kế màn chơi tạo ra thử thách hấp dẫn ➔ Đội ngũ đồ họa thổi hồn vào không gian ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 393,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Lập trình đảm bảo hiệu năng ➔ Đội ngũ UA thu hút đúng tệp người dùng ",
+    "runs": [
+      {
+        "text": "➔ Lập trình đảm bảo hiệu năng ➔ Đội ngũ UA thu hút đúng tệp người dùng ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 394,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Bộ phận dữ liệu phân tích phản hồi ➔ và Đội ngũ hỗ trợ khách hàng bảo vệ niềm tin.",
+    "runs": [
+      {
+        "text": "➔ Bộ phận dữ liệu phân tích phản hồi ➔ và Đội ngũ hỗ trợ khách hàng bảo vệ niềm tin.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 395,
+    "type": "table",
+    "rows": [
+      [
+        "Mắt xích trong chuỗi cung ứng",
+        "Dấu hiệu cảnh báo điểm yếu",
+        "Câu hỏi kiếm tiền bắt buộc"
+      ],
+      [
+        "Bản mẫu & Thiết kế màn chơi",
+        "Người chơi không hiểu giá trị hoặc lý do thất bại không rõ ràng.",
+        "Có nhu cầu thực tế để quảng cáo, booster hay IAP giải quyết không?"
+      ],
+      [
+        "Creative & Store listing",
+        "Hoạt động UA thu hút người chơi bằng thông điệp lệch pha với game.",
+        "Chỉ số CPI/CTR đẹp có đi cùng tỷ lệ chuyển đổi Store, D1 và thời lượng chơi không?"
+      ],
+      [
+        "Dữ liệu & Cấu hình từ xa",
+        "Không thể hoàn tác nhanh hoặc không giải thích được cơ chế tạo ra số liệu.",
+        "Vị trí quảng cáo hay gói ưu đãi nào có nhóm đối chứng và chỉ số cảnh báo rõ ràng?"
+      ],
+      [
+        "Kiểm thử (QA) & Hỗ trợ khách hàng",
+        "Niềm tin giao dịch bị tổn hại, điểm đánh giá giảm và tỷ lệ hoàn tiền tăng.",
+        "Quy trình trao thưởng, sự đồng thuận nạp tiền và xử lý khiếu nại có minh bạch không?"
+      ],
+      [
+        "Sản xuất nội dung & LiveOps",
+        "Nhịp độ cập nhật nội dung bị đứt gãy hoặc sự kiện biến thành màn vắt kiệt sức.",
+        "Studio có đủ năng lực sản xuất nội dung để giữ trọn lời hứa sau khi mở rộng quy mô UA không?"
+      ]
+    ]
+  },
+  {
+    "index": 396,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 397,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Chỉ cần một mắt xích bị lỗi — tốc độ ra màn chơi mới quá chậm khiến người chơi hết nội dung, khâu kiểm thử (QA) lỏng lẻo để lọt lỗi giao dịch nạp tiền, hoặc thông điệp quảng cáo truyền thông sai lệch — toàn bộ hệ thống kiếm tiền sẽ lập tức bị đình trệ.",
+    "runs": [
+      {
+        "text": "Chỉ cần một mắt xích bị lỗi — tốc độ ra màn chơi mới quá chậm khiến người chơi hết nội dung, khâu kiểm thử (QA) lỏng lẻo để lọt lỗi giao dịch nạp tiền, hoặc thông điệp quảng cáo truyền thông sai lệch — toàn bộ hệ thống kiếm tiền sẽ lập tức bị đình trệ.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 398,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy định kỳ đánh giá năng lực của từng mắt xích trong chuỗi cung ứng: Xác định rõ nút thắt cổ chai (Bottleneck) đang cản trở sự phát triển của dự án và tập trung nguồn lực giải quyết dứt điểm.",
+    "runs": [
+      {
+        "text": "Hãy định kỳ đánh giá năng lực của từng mắt xích trong chuỗi cung ứng: Xác định rõ nút thắt cổ chai (Bottleneck) đang cản trở sự phát triển của dự án và tập trung nguồn lực giải quyết dứt điểm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 399,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "31. Kill, iterate, or scale\nNghiên cứu chỉ có giá trị khi kết thúc bằng quyết định: Dừng lại, Lặp lại cải tiến, hoặc Mở rộng quy mô",
+    "runs": [
+      {
+        "text": "31. Kill, iterate, or scale",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nNghiên cứu chỉ có giá trị khi kết thúc bằng quyết định: Dừng lại, Lặp lại cải tiến, hoặc Mở rộng quy mô",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 400,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một biểu đồ thị trường đẹp không phải là một chiến lược. Trước khi biến một bản mẫu thành một dự án chính thức, hãy viết sẵn các tiêu chí dừng dự án (Kill criteria) vô cùng cụ thể về mức độ rõ ràng của lời hứa, tỷ lệ kích hoạt người chơi, tỷ lệ giữ chân ban đầu và chi phí sản xuất.",
+    "runs": [
+      {
+        "text": "Một biểu đồ thị trường đẹp không phải là một chiến lược. Trước khi biến một bản mẫu thành một dự án chính thức, hãy viết sẵn các tiêu chí dừng dự án (Kill criteria) vô cùng cụ thể về mức độ rõ ràng của lời hứa, tỷ lệ kích hoạt người chơi, tỷ lệ giữ chân ban đầu và chi phí sản xuất.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 401,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Ba lối rẽ chiến lược cần được xác lập rõ ràng:",
+    "runs": [
+      {
+        "text": "Ba lối rẽ chiến lược cần được xác lập rõ ràng:",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 402,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Dừng lại (Kill): Khi các bằng chứng thực tế cho thấy không còn con đường khả thi nào để đạt được hiệu quả kinh tế trong phạm vi nguồn lực cho phép.",
+    "runs": [
+      {
+        "text": "• Dừng lại (Kill): Khi các bằng chứng thực tế cho thấy không còn con đường khả thi nào để đạt được hiệu quả kinh tế trong phạm vi nguồn lực cho phép.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 403,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Lặp lại cải tiến (Iterate): Khi vẫn còn một ẩn số cụ thể có thể kiểm chứng được trong khung thời gian và ngân sách giới hạn.• Mở rộng quy mô (Scale): Khi tất cả các chỉ số cốt lõi về giữ chân người chơi, niềm tin và hiệu quả kinh tế biên đều được chứng minh vững chắc trên các nhóm thuần tập thực tế.",
+    "runs": [
+      {
+        "text": "• Lặp lại cải tiến (Iterate): Khi vẫn còn một ẩn số cụ thể có thể kiểm chứng được trong khung thời gian và ngân sách giới hạn.• Mở rộng quy mô (Scale): Khi tất cả các chỉ số cốt lõi về giữ chân người chơi, niềm tin và hiệu quả kinh tế biên đều được chứng minh vững chắc trên các nhóm thuần tập thực tế.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 404,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Supercell nổi tiếng với văn hóa sẵn sàng ăn mừng khi khai tử những dự án không đạt tiêu chuẩn xuất sắc (Như trường hợp của Hay Day Pop) để dồn toàn lực cho những cơ hội đột phá. Sự dũng cảm dừng một dự án yếu kém chính là phẩm chất phân biệt giữa một studio nghiệp dư và một tổ chức chuyên nghiệp tầm cỡ quốc tế.",
+    "runs": [
+      {
+        "text": "Supercell nổi tiếng với văn hóa sẵn sàng ăn mừng khi khai tử những dự án không đạt tiêu chuẩn xuất sắc (Như trường hợp của Hay Day Pop) để dồn toàn lực cho những cơ hội đột phá. Sự dũng cảm dừng một dự án yếu kém chính là phẩm chất phân biệt giữa một studio nghiệp dư và một tổ chức chuyên nghiệp tầm cỡ quốc tế.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 405,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "32. Live ops with memory\nVận hành trực tiếp có ghi nhớ: Phải luôn nhớ người chơi vừa nhận được gì, vừa bị đòi hỏi điều gì và còn gì đáng để quay lại",
+    "runs": [
+      {
+        "text": "32. Live ops with memory",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nVận hành trực tiếp có ghi nhớ: Phải luôn nhớ người chơi vừa nhận được gì, vừa bị đòi hỏi điều gì và còn gì đáng để quay lại",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 406,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hệ thống vận hành trực tiếp (Live ops) không phải là một chiếc máy bắn pop-up tự động vô cảm. Nó phải sở hữu một \"trí nhớ\" tinh tế: Nhận biết người chơi vừa trải qua chuỗi thất bại căng thẳng hay vừa hoàn thành một chiến tích vẻ vang, họ đã xem bao nhiêu quảng cáo trong ngày và số dư tài nguyên hiện tại của họ ra sao để đưa ra những tương tác phù hợp",
+    "runs": [
+      {
+        "text": "Hệ thống vận hành trực tiếp (Live ops) không phải là một chiếc máy bắn pop-up tự động vô cảm. Nó phải sở hữu một \"trí nhớ\" tinh tế: Nhận biết người chơi vừa trải qua chuỗi thất bại căng thẳng hay vừa hoàn thành một chiến tích vẻ vang, họ đã xem bao nhiêu quảng cáo trong ngày và số dư tài nguyên hiện tại của họ ra sao để đưa ra những tương tác phù hợp",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 407,
+    "type": "table",
+    "rows": [
+      [
+        "Vai trò của sự kiện",
+        "Người chơi cần cảm nhận",
+        "Chỉ số đo lường & Cảnh báo an toàn"
+      ],
+      [
+        "Hướng dẫn (Teach)",
+        "Một quy tắc hoặc công cụ mới hữu ích cho vòng lặp cốt lõi.",
+        "Tỷ lệ hoàn thành sự kiện, tần suất sử dụng lại, tỷ lệ bối rối/thoát game."
+      ],
+      [
+        "Tái kích hoạt (Reactivate)",
+        "Mục tiêu quen thuộc nhận được một lý do mới mẻ để quay lại.",
+        "Tỷ lệ quay lại, độ sâu phiên chơi, tỷ lệ chuyển đổi từ thông báo đẩy."
+      ],
+      [
+        "Thúc đẩy sưu tập (Collector goal)",
+        "Tiến độ đạt được và phần việc còn lại được nhìn thấy rõ ràng.",
+        "Tỷ lệ hoàn thành bộ sưu tập, số phiên chơi lặp lại, cân đối kinh tế."
+      ],
+      [
+        "Thời điểm chi tiêu (Spend moment)",
+        "Lựa chọn tăng tốc hoặc mở rộng nhưng không xóa bỏ con đường miễn phí.",
+        "Tỷ lệ chuyển đổi mua gói, tỷ lệ giữ chân nhóm từ chối mua, tỷ lệ hoàn tiền."
+      ],
+      [
+        "Phục hồi năng lượng (Recovery)",
+        "Khoảng nghỉ ngơi nhẹ nhàng sau các đợt sự kiện hoặc thử thách căng thẳng.",
+        "Tỷ lệ rời bỏ game (Churn), chỉ số cảm xúc người chơi, tỷ lệ quay lại tuần kế tiếp."
+      ]
+    ]
+  },
+  {
+    "index": 408,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 409,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Mỗi sự kiện đưa vào lịch trình phải đảm nhận một vai trò rõ rệt: Hướng dẫn kỹ năng mới (Teach), kích hoạt người chơi cũ quay lại (Reactivate), thúc đẩy mục tiêu sưu tập (Collector goal), tạo thời điểm chi tiêu hợp lý (Monetization moment), hoặc trao cho người chơi một khoảng nghỉ ngơi phục hồi năng lượng (Recovery). Đừng bao giờ biến lịch sự kiện thành một chuỗi ngày vắt kiệt sức lực của người chơi.",
+    "runs": [
+      {
+        "text": "Mỗi sự kiện đưa vào lịch trình phải đảm nhận một vai trò rõ rệt: Hướng dẫn kỹ năng mới (Teach), kích hoạt người chơi cũ quay lại (Reactivate), thúc đẩy mục tiêu sưu tập (Collector goal), tạo thời điểm chi tiêu hợp lý (Monetization moment), hoặc trao cho người chơi một khoảng nghỉ ngơi phục hồi năng lượng (Recovery). Đừng bao giờ biến lịch sự kiện thành một chuỗi ngày vắt kiệt sức lực của người chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 410,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "33. Contribution economics\nHiệu quả kinh tế chỉ có ý nghĩa khi phần lợi nhuận còn lại đủ nuôi sống studio sau mọi chi phí duy trì sản phẩm lành mạnh",
+    "runs": [
+      {
+        "text": "33. Contribution economics",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nHiệu quả kinh tế chỉ có ý nghĩa khi phần lợi nhuận còn lại đủ nuôi sống studio sau mọi chi phí duy trì sản phẩm lành mạnh",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 411,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Doanh thu tổng (Gross Revenue) chỉ là con số bề nổi để khoe truyền thông. Một doanh nghiệp game thực sự tồn tại và phát triển dựa trên Lợi nhuận Đóng góp Thực tế (Contribution Margin) — tức phần tiền còn lại sau khi đã thanh toán đầy đủ mọi chi phí bắt buộc.",
+    "runs": [
+      {
+        "text": "Doanh thu tổng (Gross Revenue) chỉ là con số bề nổi để khoe truyền thông. Một doanh nghiệp game thực sự tồn tại và phát triển dựa trên Lợi nhuận Đóng góp Thực tế (Contribution Margin) — tức phần tiền còn lại sau khi đã thanh toán đầy đủ mọi chi phí bắt buộc.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 412,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phương trình kinh tế đóng góp thực tế:",
+    "runs": [
+      {
+        "text": "Phương trình kinh tế đóng góp thực tế:",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 413,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "\nDoanh thu tổng (Gross Revenue) ",
+    "runs": [
+      {
+        "text": "\n",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Doanh thu tổng (Gross Revenue)",
+        "bold": true,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " ",
+        "bold": true,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 414,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Trừ đi: ( Phí nền tảng (30% cho Apple / Google) + Chi phí công nghệ quảng cáo & hạ tầng máy chủ + Ngân sách thu hút người dùng (UA Spend) + Chi phí sản xuất nội dung, đội ngũ hỗ trợ và vận hành )\n",
+    "runs": [
+      {
+        "text": "Trừ đi: ( ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Phí nền tảng (30% cho Apple / Google)",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " + ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Chi phí công nghệ quảng cáo & hạ tầng máy chủ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " + ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Ngân sách thu hút người dùng (UA Spend)",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " + ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Chi phí sản xuất nội dung, đội ngũ hỗ trợ và vận hành",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " )",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\n",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 415,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Còn lại:  Lợi nhuận Đóng góp Thực tế (Contribution Margin)\n",
+    "runs": [
+      {
+        "text": "Còn lại: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": " ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Lợi nhuận Đóng góp Thực tế (Contribution Margin)",
+        "bold": true,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\n",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 416,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Mỗi dòng chi phí đều phải được gắn liền với một người chịu trách nhiệm và theo dõi chặt chẽ theo từng nhóm thuần tập.",
+    "runs": [
+      {
+        "text": "Mỗi dòng chi phí đều phải được gắn liền với một người chịu trách nhiệm và theo dõi chặt chẽ theo từng nhóm thuần tập.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 417,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy đặc biệt lưu ý đến thời gian hoàn vốn (Payback period) và dòng tiền thực tế (Cash flow timing). Một chiến dịch UA có thể cho thấy chỉ số LTV kỳ vọng trên mô hình toán học rất đẹp, nhưng nếu thời gian thu hồi vốn kéo dài quá nhiều tháng, nó có thể đẩy studio vào cuộc khủng hoảng thanh khoản nghiêm trọng.",
+    "runs": [
+      {
+        "text": "Hãy đặc biệt lưu ý đến thời gian hoàn vốn (Payback period) và dòng tiền thực tế (Cash flow timing). Một chiến dịch UA có thể cho thấy chỉ số LTV kỳ vọng trên mô hình toán học rất đẹp, nhưng nếu thời gian thu hồi vốn kéo dài quá nhiều tháng, nó có thể đẩy studio vào cuộc khủng hoảng thanh khoản nghiêm trọng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 418,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 419,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 420,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 421,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 422,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 423,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 424,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 425,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 426,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart VII: Hệ điều hành và hiệu quả kinh tế đóng góp",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart VII: Hệ điều hành và hiệu quả kinh tế đóng góp",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 427,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 428,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Vẽ bản đồ chuỗi cung ứng giá trị: Xác định người chịu trách nhiệm, tiêu chuẩn chất lượng và dấu hiệu cảnh báo cho từng bộ phận.\n• Thiết lập tiêu chuẩn dừng, lặp lại cải tiến hoặc mở rộng quy mô (Kill/iterate/scale criteria) rõ ràng trước khi cấp thêm ngân sách UA.\n• Xây dựng mô hình tài chính tính toán Lợi nhuận Đóng góp Thực tế (Contribution Margin), thời gian hoàn vốn và dòng tiền.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Mắt xích nào trong chuỗi cung ứng đang làm đứt gãy lời hứa trước khi người chơi kịp cảm nhận giá trị?\n• Dự án đã hội tụ đủ bằng chứng về sự gắn kết và hiệu quả kinh tế biên để mở rộng quy mô hay chưa?\n• Sau khi trừ đi toàn bộ chi phí duy trì sản phẩm khỏe mạnh, nhóm người chơi này có thực sự tạo ra lợi nhuận không?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Mở rộng quy mô chỉ hợp lý khi bằng chứng thực nghiệm và năng lực vận hành cùng song hành tồn tại.\n• Doanh thu tổng là con số danh nghĩa; lợi nhuận đóng góp thực tế mới quyết định sự sống còn của doanh nghiệp.\n• Dũng cảm khai tử một dự án trung bình để tập trung tài lực cho một cơ hội xuất sắc là đỉnh cao của sự chuyên nghiệp.",
+        "ĐƯA VÀO CUỘC HỌP (60 phút):\n• Thành phần: Studio Director, Product Owner, Production Lead, UA Manager, Finance Lead.\n• Tài liệu mang theo: Bản đồ chuỗi cung ứng, mô hình kinh tế đóng góp theo nhóm thuần tập, tiến độ nội dung và tiêu chí scale.\n• Kết quả cần chốt: Quyết định dừng, cải tiến hay mở rộng quy mô cho từng dự án; giải quyết dứt điểm nút thắt cổ chai."
+      ]
+    ]
+  },
+  {
+    "index": 429,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 430,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần VIII sẽ thu hẹp các nguyên lý trên thành bản đồ cơ chế theo từng thể loại game cụ thể, giúp đội ngũ xuất phát từ đúng cảm xúc và nhu cầu của người chơi thay vì sao chép rập khuôn.",
+    "runs": [
+      {
+        "text": "Phần VIII sẽ thu hẹp các nguyên lý trên thành bản đồ cơ chế theo từng thể loại game cụ thể, giúp đội ngũ xuất phát từ đúng cảm xúc và nhu cầu của người chơi thay vì sao chép rập khuôn.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 431,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 432,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 433,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  }
+]

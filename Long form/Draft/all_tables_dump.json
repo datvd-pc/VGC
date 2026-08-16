@@ -1,0 +1,856 @@
+[
+  {
+    "table_index": 0,
+    "rows": [
+      [
+        "Thuật ngữ",
+        "Ý nghĩa trong tài liệu"
+      ],
+      [
+        "Monetization",
+        "Mô hình và chiến lược tạo doanh thu trong game thông qua quảng cáo, giao dịch in-app và các dịch vụ bổ trợ."
+      ],
+      [
+        "UA (User Acquisition)",
+        "Hoạt động thu hút người chơi mới cài đặt game, chủ yếu thông qua các chiến dịch quảng cáo trả phí (paid ads)."
+      ],
+      [
+        "IAP (In-App Purchase)",
+        "Giao dịch mua hàng trong ứng dụng, bao gồm gói nạp đầu (starter packs), tiền tệ in-game, vật phẩm bổ trợ hoặc gói gỡ quảng cáo (no-ads)."
+      ],
+      [
+        "Retention",
+        "Tỷ lệ giữ chân người chơi sau một mốc thời gian xác định (ví dụ: D1 là tỷ lệ người chơi quay lại vào ngày đầu tiên sau cài đặt, D7, D30)."
+      ],
+      [
+        "Cohort",
+        "Nhóm thuần tập: Tập hợp người chơi có cùng thời điểm bắt đầu hoặc chung đặc tính (ví dụ: cài game cùng ngày, đến từ cùng một mẫu creative)."
+      ],
+      [
+        "Core Loop",
+        "Vòng lặp cốt lõi: Chuỗi hành động chính yếu mà người chơi liên tục thực hiện và lặp lại trong suốt vòng đời trải nghiệm game."
+      ],
+      [
+        "Live Ops",
+        "Vận hành trực tiếp (Live Operations): Hoạt động duy trì và làm mới game sau khi ra mắt: tổ chức chuỗi sự kiện, tung gói ưu đãi, cập nhật nội dung, gửi push notification và tinh chỉnh cấu hình từ xa (remote config)."
+      ],
+      [
+        "Creative",
+        "Tư liệu quảng cáo: Các định dạng nội dung (video, hình ảnh, playable ad, thông điệp) được thiết kế nhằm thu hút sự chú ý và kích thích cài đặt."
+      ],
+      [
+        "Offer",
+        "Gói ưu đãi theo ngữ cảnh: Đề xuất mua vật phẩm hoặc xem quảng cáo có thưởng được kích hoạt tại đúng thời điểm và trạng thái cảm xúc của người chơi."
+      ],
+      [
+        "Funnel",
+        "Phễu chuyển đổi: Chuỗi các bước tuần tự người chơi trải qua: Thấy Creative ➔ Cài đặt ➔ FTUE ➔ Chơi tiếp ➔ Quay lại ➔ Chi trả."
+      ],
+      [
+        "LTV và CPI",
+        "LTV (Lifetime Value): Doanh thu trọn đời kỳ vọng từ một người chơi.\nCPI (Cost Per Install): Chi phí bình quân để có được một lượt cài đặt mới."
+      ],
+      [
+        "ARPDAU và IMPDAU",
+        "ARPDAU: Doanh thu trung bình trên mỗi người chơi hoạt động hàng ngày.\nIMPDAU: Số lượt hiển thị quảng cáo trung bình trên mỗi người chơi hoạt động hàng ngày."
+      ]
+    ]
+  },
+  {
+    "table_index": 1,
+    "rows": [
+      [
+        "Điều nuôi dưỡng niềm tin",
+        "Điều làm hao mòn niềm tin"
+      ],
+      [
+        "Mục tiêu rõ ràng, luật chơi dễ hiểu",
+        "Creative hứa một trải nghiệm khác"
+      ],
+      [
+        "Thua vẫn hiểu vì sao và còn nước đi tiếp theo",
+        "Can thiệp độ khó không được giải thích"
+      ],
+      [
+        "Rewarded ad là một trao đổi tự nguyện",
+        "Interstitial cắt ngang lúc người chơi đang tập trung"
+      ],
+      [
+        "Giá bán và thứ nhận được được nói rõ",
+        "Offer mơ hồ hoặc thao tác mua nhầm"
+      ],
+      [
+        "Khôi phục nhanh khi giao dịch có lỗi",
+        "Mất reward, khôi phục yếu, hỗ trợ chậm"
+      ]
+    ]
+  },
+  {
+    "table_index": 2,
+    "rows": [
+      [
+        "Thành phần",
+        "Câu hỏi cần trả lời",
+        "Lỗi thường gặp"
+      ],
+      [
+        "Lời hứa (Promise)",
+        "Vì sao người chơi muốn bắt đầu?",
+        "Creative và game hứa hẹn hai trải nghiệm khác nhau"
+      ],
+      [
+        "Tiến bộ (Progress)",
+        "Vì sao thêm một phút chơi còn đáng giá?",
+        "Reward không cho thấy người chơi đã đi xa hơn"
+      ],
+      [
+        "Áp lực (Pressure)",
+        "Vì sao cần hành động vào lúc này?",
+        "Ma sát tùy tiện hoặc hình phạt quá mức"
+      ],
+      [
+        "Sự cho phép (Permission)",
+        "Vì sao quảng cáo hoặc offer hợp lý ở thời điểm này?",
+        "Trao đổi làm gián đoạn thay vì hỗ trợ"
+      ],
+      [
+        "Thanh toán (Payment)",
+        "Tiền giải quyết vấn đề nào?",
+        "In-game store bán currency khi chưa có nhu cầu cụ thể"
+      ],
+      [
+        "Lý do quay lại (Persistence)",
+        "Vì sao người chơi quay lại ngày mai?",
+        "Nội dung và event không có mục đích rõ"
+      ]
+    ]
+  },
+  {
+    "table_index": 3,
+    "rows": [
+      [
+        "LÀM NGAY\nVẽ journey từ creative đến first return; đánh dấu mọi touchpoint xin attention, time hoặc money.\nChọn một thay đổi doanh thu gần nhất và lập bảng lợi ích tức thời so với chi phí retention, review, refund và support.\nAudit một payment/offer flow bằng bốn điểm: giá trị, giá, xác nhận và lựa chọn không mua.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nPlayer vừa nhận value gì trước touchpoint kiếm tiền này?\nChỉ số nào sẽ cho biết trust được giữ hay bị đánh đổi sau thay đổi?\nPressure đang tạo ra lựa chọn có hiểu biết, hay chỉ làm payment trở thành lối thoát dễ thấy nhất?\nMột uplift hiện tại có thể đang được trả bằng chi phí nào ở cohort sau?"
+      ],
+      [
+        "CẦN NHỚ\nMonetization bắt đầu trước in-game store: player trả bằng attention và time trước khi trả money.\nRevenue tăng không tự động là healthy revenue; cần đọc phần chi phí đi kèm.\nTrust không nằm trong một metric; nó tích lũy từ clarity, fairness, delivery và support xuyên journey.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: product, game design, monetization, data, UA và QA/support khi payment flow liên quan. Thời lượng: 45 phút.\nMang theo: journey map, replay touchpoint, cohort metrics, review/refund và thay đổi revenue gần nhất.\nChốt: một trust leak, một value leak, owner và experiment/rollback cần chạy trước khi thêm feature mới."
+      ]
+    ]
+  },
+  {
+    "table_index": 4,
+    "rows": [
+      [
+        "LÀM NGAY\nTạo Promise map: creative -> store listing -> first playable action; đánh dấu từng chỗ lời hứa đổi hướng.\nLập bảng L1-L10: luật mới, fail đầu, booster/offer/rewarded ad đầu tiên và lựa chọn không trả tiền đi kèm.\nChọn một return hook xuất hiện trước khi kết thúc phiên đầu; log cohort đã nhìn thấy hook đó.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nCohort đến từ creative này có hoàn thành tutorial và quay lại D1 khác cohort khác không?\nPlayer đã tự dùng hoặc hiểu booster trước khi offer xuất hiện chưa?\nPrompt này có theo sau một giá trị player vừa nhận, hay chỉ xuất hiện vì app vừa launch?\nKhi thoát phiên đầu, mục tiêu cụ thể nào còn lại trên màn hình?"
+      ],
+      [
+        "CẦN NHỚ\nCreative mua lượt cài đặt và đồng thời đặt trần kỳ vọng cho first session, D1 và LTV.\nPrompt sớm cạnh tranh với việc player cần hiểu và thử lời hứa cốt lõi.\nNotification chỉ nhắc về lý do quay lại; nó không tạo lý do đó.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: growth, product, game design và data. Thời lượng: 45 phút.\nMang theo: creative đang chạy, store listing, bản ghi L1-L10 và funnel theo creative/cohort.\nChốt: một lời hứa cốt lõi, first playable moment, lần exposure monetization đầu và một A/B test ưu tiên."
+      ]
+    ]
+  },
+  {
+    "table_index": 5,
+    "rows": [
+      [
+        "Kiểu người chơi",
+        "Họ tìm",
+        "Họ ghét",
+        "Cách trao đổi có thể phù hợp"
+      ],
+      [
+        "Người tìm sự thư giãn",
+        "Bình tĩnh, rõ ràng",
+        "Bị ngắt quãng thô bạo",
+        "Tắt quảng cáo, gợi ý tùy chọn"
+      ],
+      [
+        "Người thích giải bài toán",
+        "Vấn đề có thể hiểu",
+        "Ngẫu nhiên che nguyên nhân",
+        "Hoàn tác, công cụ đúng mục tiêu"
+      ],
+      [
+        "Người thích sưu tập",
+        "Hoàn tất, sở hữu",
+        "Reward không có chỗ để tồn tại",
+        "Album, trang trí"
+      ],
+      [
+        "Người tối ưu",
+        "Hiệu quả, lập kế hoạch",
+        "Tiền tệ vô nghĩa",
+        "Pass, phần thưởng theo mốc"
+      ],
+      [
+        "Người đổi thời gian lấy giá trị",
+        "Đổi thời gian lấy giá trị rõ ràng",
+        "Quảng cáo bị ép xem",
+        "Chơi lại có thưởng, tiền tệ"
+      ],
+      [
+        "Người trả tiền vì tiện lợi",
+        "Ít bị ngắt quãng và chờ đợi",
+        "Chướng ngại nhỏ lặp lại",
+        "Tắt quảng cáo, gói khởi đầu, nạp lại"
+      ]
+    ]
+  },
+  {
+    "table_index": 6,
+    "rows": [
+      [
+        "Dấu hiệu",
+        "Cách đọc",
+        "Việc đầu tiên"
+      ],
+      [
+        "Thua nhiều, chơi lại nhiều",
+        "Thử thách có thể hấp dẫn",
+        "Kiểm tra người chơi có học và tiến bộ không"
+      ],
+      [
+        "Thua nhiều, chơi lại ít",
+        "Có thể khó hiểu hoặc bất công",
+        "Xem lại phiên chơi, kiểm tra luật có rõ không"
+      ],
+      [
+        "Ít thua, chơi nông",
+        "Quá dễ hoặc ít rủi ro",
+        "Thêm lựa chọn có ý nghĩa"
+      ],
+      [
+        "Dùng booster nhiều, ít sang level kế",
+        "Công cụ đang vá trải nghiệm xấu",
+        "Sửa level trước khi bán công cụ mạnh hơn"
+      ]
+    ]
+  },
+  {
+    "table_index": 7,
+    "rows": [
+      [
+        "LÀM NGAY\nLập needs-by-cohort map cho level hoặc event có offer: nhu cầu, lựa chọn miễn phí, sản phẩm được đề nghị và kết quả sau khi từ chối.\nĐánh dấu trong economy loop mỗi reward đã đổi trạng thái player như thế nào, không chỉ đổi số currency.\nLập danh sách rule dynamic và random seed có thể ảnh hưởng outcome; xác định control cohort cho từng rule.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nOffer này giải nhu cầu nào của cohort nào, và player có thể mô tả nhu cầu đó không?\nSau khi từ chối offer, player còn một lựa chọn đáng tin để retry, học hoặc quay lại không?\nRule dynamic đã can thiệp tại đâu và team đọc kết quả so với control bằng metric nào?\nNear miss này có chỉ ra hành động khác khả thi, hay chỉ gợi ý chiến thắng đang rất gần?"
+      ],
+      [
+        "CẦN NHỚ\nConversion ở điểm có pressure chưa chứng minh pressure fair hoặc doanh thu bền vững.\nNhiều dữ liệu hay thuật toán phức tạp hơn không tự động tạo trải nghiệm tốt hơn.\nFeedback phải tương xứng với giá trị thật; thổi phồng mọi reward sẽ làm mờ thang giá trị của economy.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: product, game design, economy, data và UA/monetization. Thời lượng: 60 phút.\nMang theo: replay của fail/near miss, kết quả offer theo cohort, log rule dynamic, retention sau offer và review/refund nếu có.\nChốt: giữ, sửa hoặc dừng từng rule gây pressure; metric chính, guardrail và ngày đọc lại kết quả."
+      ]
+    ]
+  },
+  {
+    "table_index": 8,
+    "rows": [
+      [
+        "Nhu cầu",
+        "Cách trao đổi",
+        "Điều kiện bảo vệ"
+      ],
+      [
+        "Tiếp tục lượt chơi",
+        "Thêm lượt đi hoặc hồi sinh",
+        "Không dùng để vá độ khó bị che giấu"
+      ],
+      [
+        "Giữ phần thưởng",
+        "Nhân phần thưởng",
+        "Phần thưởng gốc vẫn phải có ý nghĩa"
+      ],
+      [
+        "Thử công cụ",
+        "Dùng thử",
+        "Giải thích rõ điều gì xảy ra sau khi dùng thử"
+      ],
+      [
+        "Giảm thời gian chờ",
+        "Nạp lại một phần nhỏ",
+        "Không chặn toàn bộ việc chơi"
+      ]
+    ]
+  },
+  {
+    "table_index": 9,
+    "rows": [
+      [
+        "Sản phẩm",
+        "Công dụng hợp lý",
+        "Cách dùng sai"
+      ],
+      [
+        "Tắt quảng cáo",
+        "Bảo vệ trải nghiệm lặp lại",
+        "Phạm vi tắt quảng cáo mơ hồ"
+      ],
+      [
+        "Gói khởi đầu",
+        "Lợi thế đầu game dễ hiểu",
+        "Bán khi vòng chơi chưa có giá trị"
+      ],
+      [
+        "Heo đất",
+        "Biến tiến bộ tích lũy thành lựa chọn",
+        "Cố ý làm kinh tế cơ bản thiếu thốn"
+      ],
+      [
+        "Gói tiếp tục",
+        "Giữ một lượt chơi đáng giá",
+        "Xuất hiện sau một lần thua khó hiểu"
+      ],
+      [
+        "Pass",
+        "Thưởng cho sự gắn bó dài hạn",
+        "Nội dung không đủ nhịp để hỗ trợ"
+      ]
+    ]
+  },
+  {
+    "table_index": 10,
+    "rows": [
+      [
+        "LÀM NGAY\nLập placement map cho rewarded ad và interstitial: trigger, reward, breakpoint, frequency cap và cohort được thấy.\nViết product brief một trang cho mỗi IAP: need, cohort, nội dung, giá, lựa chọn từ chối, metric chính và guardrail.\nVẽ source-sink map cho một currency và event scorecard tách doanh thu trong event khỏi kết quả sau event.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nRewarded ad đang kéo dài hành động player muốn làm, hay đang sửa một friction do game tạo ra?\nInterstitial có nằm sau một loop hoàn thành, và doanh thu thêm có bù được exit hoặc giảm return không?\nPlayer hiểu IAP giải quyết gì, nhận gì và có thể từ chối như thế nào trước khi chạm nút mua không?\nSource mới hoặc event reward mới sẽ làm currency balance và sink nào thay đổi?"
+      ],
+      [
+        "CẦN NHỚ\nOpt-in, impression hay conversion cao không tự chứng minh utility, fairness hoặc retention tốt.\nBooster là công cụ có job rõ; IAP là lựa chọn có consent rõ; cả hai không được bù cho level mơ hồ.\nEvent revenue chỉ đáng tin khi cohort quay lại, core economy còn khỏe và spend không bị kéo mượn từ tương lai.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: monetization/product, game design, economy, data và UA. Thời lượng: 60 phút.\nMang theo: replay placement, revenue theo placement/cohort, exit/return sau exposure, refund/review, currency balance và kết quả event trước.\nChốt: placement hoặc product nào giữ/sửa/dừng; một metric chính, guardrail và thời điểm review tiếp theo."
+      ]
+    ]
+  },
+  {
+    "table_index": 11,
+    "rows": [
+      [
+        "Câu hỏi",
+        "Câu hỏi",
+        "Signals cần đọc cùng nhau",
+        "Signals cần đọc cùng nhau",
+        "Việc cần làm tiếp",
+        "Việc cần làm tiếp"
+      ],
+      [
+        "Promise có được giữ?",
+        "Promise có được giữ?",
+        "CTR, store CVR, tutorial completion, D1 theo creative",
+        "CTR, store CVR, tutorial completion, D1 theo creative",
+        "So creative, store listing và first playable recording theo cohort.",
+        "So creative, store listing và first playable recording theo cohort."
+      ],
+      [
+        "Fail đầu có công bằng?",
+        "Fail đầu có công bằng?",
+        "Fail rate, retry, exit, booster use, review language",
+        "Fail rate, retry, exit, booster use, review language",
+        "Xem replay/board; phân biệt confusion với challenge.",
+        "Xem replay/board; phân biệt confusion với challenge."
+      ],
+      [
+        "Ad có utility?",
+        "Ad có utility?",
+        "Opt-in/impression, completion, exit sau exposure, return",
+        "Opt-in/impression, completion, exit sau exposure, return",
+        "So placement hoặc moment với control; giữ reward cố định.",
+        "So placement hoặc moment với control; giữ reward cố định."
+      ],
+      [
+        "IAP có giải need?",
+        "IAP có giải need?",
+        "Offer view, conversion, decliner behavior, refund, payer retention",
+        "Offer view, conversion, decliner behavior, refund, payer retention",
+        "Đọc product brief, clarity và lựa chọn khi từ chối.",
+        "Đọc product brief, clarity và lựa chọn khi từ chối."
+      ],
+      [
+        "Area",
+        "Area",
+        "Signals",
+        "Signals",
+        "Decision",
+        "Decision"
+      ],
+      [
+        "Acquisition",
+        "Acquisition",
+        "CTR, IPM, CPI, store CVR",
+        "CTR, IPM, CPI, store CVR",
+        "Promise có đúng audience?",
+        "Promise có đúng audience?"
+      ],
+      [
+        "Activation",
+        "Activation",
+        "Load, crash, tutorial, L1-L10",
+        "Load, crash, tutorial, L1-L10",
+        "Game prove promise nhanh?",
+        "Game prove promise nhanh?"
+      ],
+      [
+        "Engagement",
+        "Engagement",
+        "Sessions, depth, retry, D1/D3/D7",
+        "Sessions, depth, retry, D1/D3/D7",
+        "Loop có đáng return?",
+        "Loop có đáng return?"
+      ],
+      [
+        "Difficulty",
+        "Difficulty",
+        "Fail, exit, booster use",
+        "Fail, exit, booster use",
+        "Pressure là learning hay resentment?",
+        "Pressure là learning hay resentment?"
+      ],
+      [
+        "Ads",
+        "Ads",
+        "Viewer, IMPDAU, post-ad churn",
+        "Viewer, IMPDAU, post-ad churn",
+        "Exchange có utility?",
+        "Exchange có utility?"
+      ],
+      [
+        "IAP",
+        "IAP",
+        "View, buy, repeat, refund",
+        "View, buy, repeat, refund",
+        "Product có integrity?",
+        "Product có integrity?"
+      ],
+      [
+        "Trust",
+        "Trust",
+        "Rating, review, support",
+        "Rating, review, support",
+        "Relationship có suy yếu?",
+        "Relationship có suy yếu?"
+      ]
+    ]
+  },
+  {
+    "table_index": 12,
+    "rows": [
+      [
+        "Metric chính",
+        "Đọc thêm",
+        "Câu hỏi phải trả lời"
+      ],
+      [
+        "CTR",
+        "store CVR, D1, session depth",
+        "Creative đang thu hút đúng player hay chỉ thu hút click?"
+      ],
+      [
+        "Rewarded-ad opt-in",
+        "exit/return theo exposure, level friction",
+        "Utility tăng hay normal play đang bị cắt?"
+      ],
+      [
+        "IAP conversion",
+        "refund, review, payer retention, decliner behavior",
+        "Need có rõ và purchase flow có sạch không?"
+      ],
+      [
+        "ARPDAU",
+        "D3/D7, ad churn, rating",
+        "Doanh thu tăng có để lại lý do tiếp tục không?"
+      ],
+      [
+        "Event revenue",
+        "post-event return, currency balance, churn",
+        "Event tạo giá trị mới hay mượn spend từ tương lai?"
+      ]
+    ]
+  },
+  {
+    "table_index": 13,
+    "rows": [
+      [
+        "Trước khi ship",
+        "Chỉ được đi tiếp khi"
+      ],
+      [
+        "Giả thuyết",
+        "Nêu được cơ chế và một thay đổi nhỏ nhất để kiểm tra."
+      ],
+      [
+        "Metric",
+        "Có primary metric, guardrail và cách đọc theo cohort."
+      ],
+      [
+        "Quyết định",
+        "Đã viết điều kiện giữ, sửa, rollback hoặc dừng trước khi xem kết quả."
+      ],
+      [
+        "Trí nhớ team",
+        "Có owner và nơi lưu context để test sau không lặp lại cùng sai lầm."
+      ]
+    ]
+  },
+  {
+    "table_index": 14,
+    "rows": [
+      [
+        "LÀM NGAY\nGắn mỗi dashboard panel với một quyết định, owner, cohort cut và hành động quan sát tiếp theo.\nChọn ba metric chính hiện dùng và bổ sung guardrail cho từng metric trước review kế tiếp.\nDùng experiment brief cho thay đổi monetization/difficulty gần nhất; ghi rollback condition trước khi ship.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nMetric này đang là bằng chứng của kết quả hay đang bị dùng nhầm như lời giải thích nguyên nhân?\nCohort, source, platform hoặc exposure nào cần được tách trước khi kết luận?\nNếu primary metric tốt nhưng guardrail xấu, team sẽ giữ, sửa hay rollback?\nKết quả nào sẽ khiến giả thuyết hiện tại bị bác bỏ?"
+      ],
+      [
+        "CẦN NHỚ\nDashboard thu hẹp nơi cần nhìn; replay, technical check và experiment mới giúp kiểm tra cơ chế.\nMỗi uplift có một cái giá cần đọc cùng: retention, trust, quality, economy hoặc chi phí vận hành.\n'Chưa biết' là kết quả hợp lệ khi chưa có đủ bằng chứng để scale.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: owner của product/monetization, data, game design và UA khi source mix liên quan. Thời lượng: 45 phút.\nMang theo: decision log, cohort cut, replay/technical evidence, primary metric, guardrail và kết quả control.\nChốt: hypothesis nào tiếp tục, experiment nào ship/rollback và learning nào được ghi vào repository."
+      ]
+    ]
+  },
+  {
+    "table_index": 15,
+    "rows": [
+      [
+        "Dữ liệu bên ngoài có thể giúp",
+        "Dữ liệu bên ngoài không thể thay team quyết định"
+      ],
+      [
+        "Sàng lọc territory, mechanic, theme, visible cadence và cạnh tranh.",
+        "Core feeling nào team có thể làm tốt hơn và vì sao player sẽ chọn nó."
+      ],
+      [
+        "Đặt benchmark, tìm câu hỏi cần đào sâu, tránh clone lỗi thời.",
+        "Level nào fair, offer nào đúng moment, price nào hợp cohort và economy nào còn trust."
+      ],
+      [
+        "Ước lượng quy mô/rủi ro và chọn prototype nhỏ để test.",
+        "Khả năng sản xuất content, học từ thất bại, giữ quality và mở rộng contribution margin."
+      ]
+    ]
+  },
+  {
+    "table_index": 16,
+    "rows": [
+      [
+        "Trường",
+        "Nội dung cần viết",
+        "Nội dung cần viết"
+      ],
+      [
+        "Decision",
+        "Chọn một thay đổi hoặc một bet, không phải một danh sách feature.",
+        "Chọn một thay đổi hoặc một bet, không phải một danh sách feature."
+      ],
+      [
+        "Player value",
+        "Player nào nhận giá trị gì; moment nào value đó xuất hiện.",
+        "Player nào nhận giá trị gì; moment nào value đó xuất hiện."
+      ],
+      [
+        "Evidence và giả thuyết",
+        "Điều biết từ data ngoài/inside; điều vẫn chỉ là giả thuyết.",
+        "Điều biết từ data ngoài/inside; điều vẫn chỉ là giả thuyết."
+      ],
+      [
+        "Trade-off",
+        "Retention, trust, economy, production hoặc UA có thể phải trả giá gì.",
+        "Retention, trust, economy, production hoặc UA có thể phải trả giá gì."
+      ],
+      [
+        "Test và kill condition",
+        "Metric, guardrail, window đọc và điều kiện dừng/rollback.",
+        "Metric, guardrail, window đọc và điều kiện dừng/rollback."
+      ],
+      [
+        "Owner",
+        "Ai quyết định, ai vận hành và khi nào review lại.",
+        "Ai quyết định, ai vận hành và khi nào review lại."
+      ],
+      [
+        "Field",
+        "Field",
+        "Clear Garden",
+        "Clear Garden"
+      ],
+      [
+        "Market signal",
+        "Market signal",
+        "Order-and-clear cores đang thu hút thương mại",
+        "Order-and-clear cores đang thu hút thương mại"
+      ],
+      [
+        "Player job",
+        "Player job",
+        "Restore order và thấy garden thay đổi",
+        "Restore order và thấy garden thay đổi"
+      ],
+      [
+        "Product expression",
+        "Product expression",
+        "Limited trays, readable sorting, visible restoration",
+        "Limited trays, readable sorting, visible restoration"
+      ],
+      [
+        "Differentiator",
+        "Differentiator",
+        "Restoration fantasy có trong first minute",
+        "Restoration fantasy có trong first minute"
+      ],
+      [
+        "Monetization need",
+        "Monetization need",
+        "Extra tray/undo sau readable space mistake",
+        "Extra tray/undo sau readable space mistake"
+      ],
+      [
+        "Production burden",
+        "Production burden",
+        "Board patterns, art, tasks, event variants",
+        "Board patterns, art, tasks, event variants"
+      ],
+      [
+        "Evidence",
+        "Evidence",
+        "Creative match, L1-L10, retry health, return reason",
+        "Creative match, L1-L10, retry health, return reason"
+      ],
+      [
+        "Kill condition",
+        "Kill condition",
+        "Acquire attention nhưng không có repeat play dễ hiểu",
+        "Acquire attention nhưng không có repeat play dễ hiểu"
+      ]
+    ]
+  },
+  {
+    "table_index": 17,
+    "rows": [
+      [
+        "LÀM NGAY\nTách mọi research finding thành hai cột: market signal quan sát được và product thesis cần team tự chứng minh.\nViết một decision memo cho bet đang được đề xuất bởi publisher hoặc competitor study.\nChọn một gợi ý ngoài thị trường và biến nó thành prototype test có kill condition rõ.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nDữ liệu này cho biết sự kiện nào đã xảy ra, và phần nào team đang tự suy diễn?\nTeam có năng lực design, content, UA và live ops nào để giao lời hứa khác biệt này?\nBằng chứng nào sẽ khiến team revise hoặc kill thesis thay vì thêm feature?\nĐối thủ đã giải vấn đề nào mà team đang cố copy cấu hình của họ?"
+      ],
+      [
+        "CẦN NHỚ\nBig data làm hẹp lựa chọn và tăng tốc học; nó không tạo product conviction hay thay tay nghề triển khai.\nMột purchase event hoặc market chart không tự kể causal story của player.\nProduct thesis cần được kiếm qua build, cohort, quality và năng lực vận hành, không được mượn từ brand của publisher.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: studio lead, product/design, data, production và UA/BD khi nguồn gợi ý đến từ publisher. Thời lượng: 60 phút.\nMang theo: source research, decision memo, prototype/replay, capability map và kill criteria.\nChốt: thesis nào được test, scope nhỏ nhất, owner, deadline và điều kiện kill/iterate/scale."
+      ]
+    ]
+  },
+  {
+    "table_index": 18,
+    "rows": [
+      [
+        "Năng lực",
+        "Nếu yếu",
+        "Câu hỏi monetization"
+      ],
+      [
+        "Prototype + level design",
+        "Player không hiểu value hoặc fail không đọc được.",
+        "Có need thật để ad, booster hay IAP giải quyết không?"
+      ],
+      [
+        "Creative + store listing",
+        "UA mua traffic lệch lời hứa.",
+        "CPI/CTR đẹp có đi cùng store CVR, D1 và session depth không?"
+      ],
+      [
+        "Data + remote config",
+        "Team không rollback hoặc không biết cơ chế nào gây kết quả.",
+        "Placement/offer nào có control và guardrail?"
+      ],
+      [
+        "QA + support + policy",
+        "Purchase trust, rating và refund bị tổn hại.",
+        "Delivery, consent và complaint path có rõ không?"
+      ],
+      [
+        "Content + live ops",
+        "Return rhythm đứt hoặc event thành rush job.",
+        "Có đủ supply để giữ promise sau UA scale không?"
+      ]
+    ]
+  },
+  {
+    "table_index": 19,
+    "rows": [
+      [
+        "Role của event",
+        "Player cần thấy",
+        "Metric/guardrail"
+      ],
+      [
+        "Teach",
+        "Một luật hoặc tool mới có ích cho core loop.",
+        "Completion, repeat use, confusion/exit."
+      ],
+      [
+        "Reactivate",
+        "Mục tiêu cũ có lý do mới để quay lại.",
+        "Return, session depth, notification-to-play."
+      ],
+      [
+        "Collector goal",
+        "Tiến độ và phần còn lại nhìn thấy được.",
+        "Progress completion, repeat return, economy balance."
+      ],
+      [
+        "Spend moment",
+        "Một lựa chọn tăng tốc/mở rộng nhưng không xóa free path.",
+        "Conversion, decliner retention, refund/review."
+      ],
+      [
+        "Recovery",
+        "Khoảng thở sau pressure hoặc event dày.",
+        "Churn, sentiment, return tuần sau."
+      ]
+    ]
+  },
+  {
+    "table_index": 20,
+    "rows": [
+      [
+        "LÀM NGAY\nVẽ capability map: owner, chuẩn quality và failure signal cho prototype, data, content, QA, UA và support.\nViết kill/iterate/scale criteria cho bet hiện tại trước khi mở rộng scope hoặc UA spend.\nLàm post-event review có cohort return, currency balance, churn và contribution cost, không chỉ doanh thu.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nMắt xích nào đang làm lời hứa bị gãy trước khi player thấy value?\nThesis còn uncertainty nào test được trong scope rõ, và điều gì sẽ buộc team kill?\nCalendar có đang giao value/recovery đúng nhịp hay chỉ tăng demand?\nSau chi phí để giữ game healthy, cohort này còn contribution margin không?"
+      ],
+      [
+        "CẦN NHỚ\nScale chỉ hợp lý khi evidence và năng lực vận hành cùng tồn tại.\nEvent là một sản phẩm có role; không có role thì khó đo và dễ làm mòn trust.\nGross revenue không phải lợi nhuận; contribution margin phải tính cả chi phí chất lượng và giữ player.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: studio lead, product, production, UA, data, economy và live ops. Thời lượng: 60 phút.\nMang theo: capability map, roadmap/event calendar, cohort economics, content cost và kill criteria.\nChốt: bet nào kill/iterate/scale; bottleneck nào cần owner; cost nào phải được đưa vào contribution model."
+      ]
+    ]
+  },
+  {
+    "table_index": 21,
+    "rows": [
+      [
+        "Category",
+        "Cảm giác chính",
+        "Ads fit khi",
+        "IAP fit khi",
+        "Risk"
+      ],
+      [
+        "Casual",
+        "Novelty, quick relief",
+        "Clear breakpoints",
+        "Convenience/no ads",
+        "Ad load làm mòn loop mỏng"
+      ],
+      [
+        "Hybrid-casual",
+        "Fast core + light meta",
+        "Utility extend loop",
+        "Tickets, no ads, acceleration",
+        "Meta quá mỏng"
+      ],
+      [
+        "Puzzle",
+        "Mastery, order",
+        "Legible decision",
+        "Tool giải bottleneck fair",
+        "Pressure bị nhầm là difficulty"
+      ],
+      [
+        "Hybrid puzzle",
+        "Competence + investment",
+        "Event/meta support",
+        "Progress, collection, pass",
+        "Content/economy outgrow team"
+      ]
+    ]
+  },
+  {
+    "table_index": 22,
+    "rows": [
+      [
+        "Genre/mechanic",
+        "Cảm giác cốt lõi",
+        "Trao đổi cần kiểm tra",
+        "Rủi ro"
+      ],
+      [
+        "Sort",
+        "Relief qua trật tự",
+        "Undo/extra container sau plan đọc được",
+        "Thiếu ô trống bị tạo để ép tool."
+      ],
+      [
+        "Jam",
+        "Panic có kiểm soát rồi giải tỏa",
+        "Continue sau near miss có hành động khác",
+        "Pressure không còn giải thích được."
+      ],
+      [
+        "Physics",
+        "Tò mò, thử nhanh, bất ngờ",
+        "Fast retry hoặc ad utility không ngắt flow",
+        "Offer chậm làm mất nhịp khám phá."
+      ],
+      [
+        "Match-3",
+        "Mastery và progression dài",
+        "Booster/lives/event phục vụ mục tiêu dài hạn",
+        "Content/economy vượt năng lực vận hành."
+      ]
+    ]
+  },
+  {
+    "table_index": 23,
+    "rows": [
+      [
+        "LÀM NGAY\nChọn một genre/mechanic đang cân nhắc và viết emotional loop theo ngôn ngữ player, không theo feature list.\nChọn một exchange phù hợp với loop đó và test trong build nhỏ trước khi thêm economy rộng.\nGhi rõ rủi ro fairness/flow của mechanic trước khi biến nó thành offer hoặc ad placement.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nPlayer quay lại để tìm cảm giác gì, và product hiện tại có làm mạnh cảm giác đó không?\nExchange này bảo vệ loop hay làm gián đoạn đúng khoảnh khắc loop cần được hoàn thành?\nCase công khai đang chứng minh quy mô, cơ chế hay chỉ là một bối cảnh chiến lược?\nCohort nào cần test trước để giả thuyết genre không biến thành stereotype?"
+      ],
+      [
+        "CẦN NHỚ\nGenre là cơ chế và cảm xúc, không phải danh sách feature phải sao chép.\nMột placement chỉ fit khi nó giúp player đi sâu hơn vào loop họ đến để tìm.\nKhông có benchmark công khai nào thay thế được causal effect trong cohort của chính game.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: game design, product, economy, UA creative và data. Thời lượng: 45 phút.\nMang theo: mechanism map, competitor observation, prototype/replay và test plan theo cohort.\nChốt: emotional loop, exchange đầu tiên cần test, risk cần guardrail và điều kiện dừng."
+      ]
+    ]
+  },
+  {
+    "table_index": 24,
+    "rows": [
+      [
+        "Thời gian",
+        "Làm gì",
+        "Output bắt buộc"
+      ],
+      [
+        "0-5 phút",
+        "Xem ba creative và first playable minute.",
+        "Promise map: cảm giác quảng cáo bán và bằng chứng game giữ nó."
+      ],
+      [
+        "5-10 phút",
+        "Chơi L1-L10; đánh dấu control, fail, choice, interruption, booster.",
+        "Một fail có/không đọc được và lựa chọn không trả tiền còn lại."
+      ],
+      [
+        "10-15 phút",
+        "Tìm rewarded ad/interstitial đầu tiên.",
+        "Exchange map: player nhận gì, có thể decline ra sao, breakpoint có tự nhiên không."
+      ],
+      [
+        "15-20 phút",
+        "Mở in-game store sau natural need; xem delivery và currency.",
+        "Product brief ngắn: job, clarity, source/sink, remove-ads scope."
+      ],
+      [
+        "20-25 phút",
+        "Tìm return reason và event.",
+        "Return/event loop: earn, choose, spend, progress, finish và recovery."
+      ],
+      [
+        "25-30 phút",
+        "Đặt revenue cạnh retention, difficulty, exposure, review/refund.",
+        "Một trust leak, một value leak, một experiment có owner và rollback."
+      ]
+    ]
+  },
+  {
+    "table_index": 25,
+    "rows": [
+      [
+        "LÀM NGAY\nChạy audit 30 phút trên game hiện tại hoặc một competitor; ghi đủ ba output bắt buộc cuối audit.\nChọn một trust leak và một value leak; viết experiment brief với owner, guardrail và rollback.\nSo definition of done với cohort evidence và capability thật trước khi tăng scope hoặc UA spend.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH\nLời hứa, core loop, ad/IAP và return reason có đang tạo một evidence trail nhất quán không?\nLeak đang là vấn đề trust, value, technical quality hay economy; bằng chứng nào phân biệt chúng?\nTeam có thể rollback và học đủ nhanh nếu scale tạo ra tác dụng phụ không?\nSystem đã đủ bằng chứng để tăng spend, hay chỉ đủ feature để trông hoàn chỉnh?"
+      ],
+      [
+        "CẦN NHỚ\nAudit tốt kết thúc bằng một quyết định có thể kiểm tra, không phải một danh sách nhận xét.\nDefinition of done là ngưỡng để scale có trách nhiệm, không phải lời hứa rằng rủi ro đã biến mất.\nMột leak được xử lý tốt thường có giá trị hơn nhiều feature mới chưa chứng minh được need.",
+        "ĐƯA VÀO CUỘC HỌP\nThành phần: product owner, game design, data, UA/monetization, QA và production khi scope thay đổi. Thời lượng: 45 phút.\nMang theo: audit output, replay, cohort dashboard, decision memo, experiment brief và capability/cost impact.\nChốt: một leak ưu tiên, một test có rollback, owner, decision window và tiêu chuẩn kill/iterate/scale."
+      ]
+    ]
+  }
+]

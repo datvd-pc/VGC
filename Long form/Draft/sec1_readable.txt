@@ -1,0 +1,82 @@
+[97] (Heading 1): Part I: The system behind the store
+Phần I: Hệ thống phía sau cửa hàng
+[98] (Heading 2): 1. Trust budget
+Ngân sách niềm tin
+[99] (Normal): Tháng 3/2023, Ủy ban Thương mại Liên bang Hoa Kỳ (FTC) hoàn tất lệnh buộc Epic Games hoàn trả 245 triệu USD cho người tiêu dùng, sau các cáo buộc về dark patterns và khoản mua trong game không mong muốn. Đến tháng 12/2024, FTC cho biết đã gửi hơn 72 triệu USD tiền hoàn lại. Đây không phải là số liệu về retention, LTV hay hiệu quả kinh doanh của Fortnite. Nó là một bằng chứng công khai về giá phải trả khi luồng thanh toán khiến người chơi không còn hiểu rõ mình vừa đồng ý điều gì.
+[100] (Normal): Case này không cho phép suy ra cách Epic thiết kế economy nội bộ, cũng không cho phép quy kết một màn hình cụ thể là nguyên nhân duy nhất. Tuy vậy, nó làm rõ một điểm quan trọng: Purchase flow không đứng ngoài trải nghiệm chơi. Nó là một phần của lời hứa mà game đưa ra với người chơi.
+[101] (Normal): Vì vậy, thay vì hỏi một màn hình có chuyển đổi tốt không, hãy hỏi thêm: Người chơi có hiểu lựa chọn này không, có đủ thời gian để cân nhắc không, và liệu họ còn tin game sau khi giao dịch kết thúc không? Đó là điểm bắt đầu của trust budget.
+[102] (Normal): Mỗi người chơi đến với một lượng niềm tin hữu hạn. Một creative hứa quá mức, thời gian tải dài, hướng dẫn giành quyền điều khiển hoặc nút đóng khó thấy đều làm lượng niềm tin đó giảm đi. Một level tạo cảm giác bất công rồi lập tức bán booster gây hại nhanh hơn, vì nó khiến người chơi nghi ngờ lý do thật của thất bại.
+[103] (Normal): Niềm tin không đến từ một khoảnh khắc lớn. Nó được xây qua những chi tiết bình thường: Mục tiêu rõ, luật chơi dễ hiểu, thao tác đúng như lời hứa, reward được trao đúng lúc, giá bán minh bạch và hỗ trợ kịp thời khi giao dịch có lỗi.
+[104] (Normal): Tổng hợp của các chi tiết ấy quyết định người chơi xem rewarded ad như một trao đổi công bằng hay xem in-game store như một nơi họ cần dè chừng. Framework dưới đây không đo niềm tin bằng một con số duy nhất. Nó giúp team nhìn ra những điểm đang nuôi dưỡng hoặc làm hao mòn niềm tin trong cả hành trình.
+[105] (Normal): Đừng đọc một mức tăng doanh thu một mình. Thêm interstitial có thể làm ARPDAU tăng, nhưng cũng có thể khiến một cohort rời game sớm hơn, điểm đánh giá giảm và chi phí kéo người chơi quay lại cao hơn. 
+[106] (Normal): Tiền được thu sớm hơn chưa chắc đã là giá trị được tạo ra nhiều hơn.
+[107] (Normal): 
+[108] (Normal): 
+[109] (Normal): 
+[110] (Normal): 
+[111] (Normal): 
+[112] (Normal): 
+[113] TABLE: 6 rows x 2 cols
+  | Điều nuôi dưỡng niềm tin | Điều làm hao mòn niềm tin |
+  | Mục tiêu rõ ràng, luật chơi dễ hiểu | Creative hứa một trải nghiệm khác |
+  | Thua vẫn hiểu vì sao và còn nước đi tiếp theo | Can thiệp độ khó không được giải thích |
+  | Rewarded ad là một trao đổi tự nguyện | Interstitial cắt ngang lúc người chơi đang tập trung |
+  | Giá bán và thứ nhận được được nói rõ | Offer mơ hồ hoặc thao tác mua nhầm |
+  | Khôi phục nhanh khi giao dịch có lỗi | Mất reward, khôi phục yếu, hỗ trợ chậm |
+[114] (Normal): 
+[115] (Normal): Khi audit game, hãy chọn một điểm kiếm tiền cụ thể, chẳng hạn interstitial đầu tiên hoặc offer sau khi thua. Người chơi vừa nhận được giá trị gì? Họ có hiểu điều mình sắp đổi lấy không? Sau điểm đó, chỉ số nào sẽ cho biết niềm tin được giữ lại hay đã bị đánh đổi?
+[116] (Heading 2): 2. Healthy or borrowed revenue
+Doanh thu bền vững hay doanh thu đánh đổi tương lai
+[117] (Normal): Hãy nghĩ về thay đổi gần nhất team đã đưa vào để tăng doanh thu: Thêm interstitial, đặt một offer sau khi thua, tăng giá một gói hay làm một level khó hơn. Chỉ số nào tăng ngay sau thay đổi đó? Và team đã mở những chỉ số nào để kiểm tra cái giá phải trả?
+[118] (Normal): Nếu câu trả lời chỉ dừng ở doanh thu, tỷ lệ chuyển đổi hoặc lượt hiển thị quảng cáo, bức tranh vẫn chưa đủ. Một thay đổi có thể làm một chỉ số đẹp lên trong tuần này, đồng thời làm người chơi rời sớm hơn, đánh giá thấp hơn hoặc khiến chi phí nội dung tăng ở những tuần sau.
+[119] (Normal): Đó là ý nghĩa của doanh thu đánh đổi tương lai: Một thay đổi làm đẹp chỉ số ngắn hạn nhưng làm yếu điều kiện tạo doanh thu sau này. Interstitial quá sớm có thể tăng doanh thu quảng cáo nhưng kéo D1 xuống. Một bức tường độ khó có thể làm offer sau khi thua chuyển đổi tốt hơn, đồng thời khiến đánh giá của người chơi gọi game là bất công. Không có thay đổi nào tự động sai; điều quan trọng là team có đọc phần chi phí đi kèm hay không.
+[120] (Normal): Khi review một thay đổi, đặt lợi ích tức thời bên cạnh phần chi phí có thể phát sinh. Lợi ích có thể là doanh thu, tỷ lệ chuyển đổi, lượt hiển thị quảng cáo hoặc CPI. Phần chi phí có thể nằm ở retention, tỷ lệ người trả tiền quay lại, đánh giá, hoàn tiền, khối lượng hỗ trợ và chi phí nội dung về sau. Đặt hai nhóm chỉ số cạnh nhau trước khi kết luận một thay đổi là thành công.
+[121] (Normal): “Chúng tôi tăng ad load” chỉ mô tả điều team đã làm. “Chúng tôi cải thiện monetization” là kết luận cần bằng chứng. Tiếp theo, hãy cùng đi sâu vào điều kiện của bằng chứng đó: Một thiết kế tử tế phải cho người chơi hiểu luật chơi, lựa chọn và hệ quả của việc trả tiền.
+[122] (Heading 2): 3. Bright design
+Thiết kế tử tế bắt đầu từ sự minh bạch
+[123] (Normal): Hãy mở một level puzzle gần đây nhất của game. Sau khi người chơi thua, họ nhìn thấy gì trước: Nguyên nhân của thất bại, một nước đi khác, hay một offer? Nếu booster xuất hiện, người chơi có hiểu nó sẽ thay đổi tình huống nào không? Và nếu không mua, họ còn một cách hợp lý để tiếp tục hay không? Đây là self-audit, không phải một case thị trường: Câu trả lời phải đến từ chính build và dữ liệu của team.
+[124] (Normal): Puzzle vẫn cần bất ngờ và rủi ro. Nếu mọi kết quả đều được báo trước, game chỉ còn là một chuỗi thao tác. Sự minh bạch không có nghĩa là loại bỏ thử thách; nó có nghĩa là người chơi có đủ thông tin để hiểu lựa chọn của mình, nhận ra vì sao mình thắng hoặc thua, và biết mình đang mua điều gì.
+[125] (Normal): Một thiết kế tử tế làm luật chơi, xác suất, giá bán và hệ quả của lựa chọn trở nên dễ đọc. Dark pattern làm điều ngược lại: Che luật, tạo nhầm lẫn, giấu lối thoát hoặc bán sự giải tỏa cho một vấn đề mà game cố ý tạo ra. Khác biệt này không nằm ở việc có payment hay không, mà nằm ở việc payment có phải là một lựa chọn có hiểu biết hay chỉ là con đường duy nhất còn dễ thấy.
+[126] (Normal): Một lần suýt thắng có thể là thử thách tốt khi người chơi nhìn ra quyết định nào của mình có thể thay đổi kết quả. Nó trở thành trải nghiệm độc hại khi game che sự can thiệp, lặp lại thất bại, rồi đặt payment thành lựa chọn duy nhất còn dễ hiểu. Khi review một level, hãy hỏi: Sau lần thua này, người chơi có thể chỉ ra một nước đi khác, một công cụ miễn phí hoặc một lý do hợp lý để thử lại không?
+[127] (Normal): Với mỗi purchase flow, hãy kiểm tra bốn điểm: Người chơi có hiểu giá và thứ nhận được không; có một bước xác nhận phù hợp không; có thể tìm thấy cách hủy hoặc hoàn tiền không; và có thể tiếp tục chơi mà không mua không? Đây không phải là một công thức cho mọi puzzle game. Đây là tiêu chuẩn tối thiểu để một lựa chọn trả tiền vẫn là lựa chọn có hiểu biết.
+[128] (Heading 2): 4. The operating map
+Bản đồ vận hành của một hệ thống kiếm tiền
+[129] TABLE: 7 rows x 3 cols
+  | Thành phần | Câu hỏi cần trả lời | Lỗi thường gặp |
+  | Lời hứa (Promise) | Vì sao người chơi muốn bắt đầu? | Creative và game hứa hẹn hai trải nghiệm khác nhau |
+  | Tiến bộ (Progress) | Vì sao thêm một phút chơi còn đáng giá? | Reward không cho thấy người chơi đã đi xa hơn |
+  | Áp lực (Pressure) | Vì sao cần hành động vào lúc này? | Ma sát tùy tiện hoặc hình phạt quá mức |
+  | Sự cho phép (Permission) | Vì sao quảng cáo hoặc offer hợp lý ở thời điểm này? | Trao đổi làm gián đoạn thay vì hỗ trợ |
+  | Thanh toán (Payment) | Tiền giải quyết vấn đề nào? | In-game store bán currency khi chưa có nhu cầu cụ thể |
+  | Lý do quay lại (Persistence) | Vì sao người chơi quay lại ngày mai? | Nội dung và event không có mục đích rõ |
+[130] (Normal): 
+[131] (Normal): Tháng 7/2023, Sensor Tower ước tính Royal Match đạt khoảng 112 triệu USD doanh thu gộp và 14,6 triệu lượt tải; 61,5% lượt tải đến từ kênh trả phí. Bài viết của Sensor Tower còn ghi nhận tốc độ bổ sung khoảng 200 level mỗi tháng, cùng Royal Pass và mini-game Hidden Temple.
+[132] (Normal): Đây là bằng chứng về quy mô và một vài thành phần có thể quan sát, không phải bản thiết kế nội bộ của Royal Match. Nó không cho biết placement quảng cáo, funnel mua hàng hay economy của game được vận hành ra sao. Điều hữu ích hơn là dùng nó để đặt câu hỏi: Một game phải nối những phần nào với nhau để biến traffic, core loop và nội dung mới thành một vòng đời dài hơn?
+[133] (Normal): Operating map dưới đây là một cách trả lời câu hỏi đó. Sáu phần không phải sáu feature độc lập. Chúng là sáu điều kiện liên tiếp: Người chơi hiểu lời hứa, thấy mình đang tiến bộ, gặp áp lực có thể giải thích, được mời trao đổi đúng lúc, biết tiền giải quyết vấn đề gì và có lý do để quay lại.
+[134] (Normal): Khi một phần yếu, phần còn lại vẫn có thể tạo doanh thu trong một khoảng thời gian. Nhưng đội ngũ sẽ phải bù bằng nhiều traffic hơn, nhiều nội dung hơn hoặc nhiều áp lực hơn. Bản đồ này giúp nhận ra chỗ đang bị bù trừ trước khi một chỉ số ngắn hạn che khuất nó.
+[135] (Normal): Hãy chọn một game của team và đi qua từng hàng trong bảng. Nếu không trả lời được một câu hỏi bằng hành vi người chơi, dữ liệu hoặc một màn hình cụ thể, đó là phần cần nghiên cứu trước khi thêm feature mới.
+[136] (Normal): Chương tiếp theo bắt đầu ở mắt xích đầu tiên của bản đồ: Creative. 
+[137] (Normal): Trước khi đánh giá level, reward hay in-game store, người chơi đã hình thành một kỳ vọng từ quảng cáo.
+[138] (Normal): 
+[139] (Normal): 
+[140] (Normal): 
+[141] (Normal): 
+[142] (Normal): 
+[143] (Normal): 
+[144] (Normal): 
+[145] (Normal): 
+[146] (Normal): 
+[147] (Normal): 
+[148] (Normal): 
+[149] (Normal): 
+[150] (Normal): 
+[151] (Normal): 
+[152] (Heading 3): Memory note | Decision board
+Part I: Hệ thống phía sau monetization
+[153] (Normal): 
+[154] TABLE: 2 rows x 2 cols
+  | LÀM NGAY: • Vẽ hành trình từ mẫu quảng cáo (Creative) đến lần quay lại đầu tiên; đánh dấu mọi điểm chạm đòi hỏi sự chú ý, thời gian hoặc tiền bạc của người chơi. • Chọn một thay đổi doanh thu gần nhất và đo lường đồng thời: Doanh thu, tỷ lệ giữ chân D7, điểm đánh giá trên cửa hàng ứng dụng và tỷ lệ hoàn tiền. • Chạy một bài kiểm tra thiết kế sáng sủa: Người chơi có hiểu mình đang mua gì, có con đường từ chối rõ ràng và có nhận được đúng giá trị như lời hứa không? | HỎI TRƯỚC KHI QUYẾT ĐỊNH: • Tựa game đã tích lũy đủ ngân sách niềm tin trước khi đưa ra đề xuất mua hàng đầu tiên chưa? • Mức tăng trưởng này là doanh thu lành mạnh hay là doanh thu đang đi mượn từ tương lai? • Nếu người chơi từ chối trả tiền hoặc không xem quảng cáo, họ có còn một trải nghiệm chơi game trọn vẹn và công bằng không? |
+  | CẦN GHI NHỚ: • Việc kiếm tiền bắt đầu trước màn hình cửa hàng: Người chơi trả bằng sự chú ý và thời gian trước khi trả bằng tiền bạc. • Doanh thu tăng không đồng nghĩa với giá trị tạo ra nhiều hơn nếu tỷ lệ giữ chân đang âm thầm sụp đổ. • Thiết kế sáng sủa bảo vệ mối quan hệ lâu dài giữa người chơi và studio. | ĐƯA VÀO CUỘC HỌP (45 phút): • Thành phần: Founder / Product Lead, Game Designer, Monetization Designer, Data Analyst, UA Lead. • Tài liệu mang theo: Bản đồ hành trình người chơi, biểu đồ doanh thu ghép cặp cùng tỷ lệ giữ chân D7/D30. • Kết quả cần mong muốn: Nhận diện một điểm rò rỉ niềm tin cần khắc phục ngay và kế hoạch theo dõi các cặp chỉ số đối ứng. |
+[155] (Normal): 
+[156] (Normal): Phần II đi theo trọn vẹn hành trình trải nghiệm của người chơi: Từ khoảnh khắc tiếp cận mẫu quảng cáo (Creative) đầu tiên cho đến lần mở lại game sau đó — nơi người chơi bắt đầu tự kiểm chứng xem tựa game có thực sự giữ trọn lời hứa đã khiến họ nhấn nút cài đặt hay không.
+[157] (Normal): 

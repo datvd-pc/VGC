@@ -2265,6 +2265,253 @@ Case note:
 Nó còn là portfolio, distribution, IP, platform reach và khả năng vận hành nhiều vòng đời sản phẩm.
 ```
 
+#### Sensor Tower / Royal Match vs Candy Crush: UA, content cadence và live ops scale
+
+Góc dùng:
+
+- Dùng cho luận điểm `creative pipeline là một phần của product pipeline`.
+- Dùng cho Part 2, Part 6 và Part 7: puzzle scale không chỉ nhờ core mechanic; nó cần UA mạnh, content cadence, event/pass/minigame và khả năng vận hành dài hạn.
+- Đây là case tốt để nói về `Promise * Progress * Persistence`: player được kéo vào bằng promise, được giữ bằng content/progression, và được monetized bằng live ops/IAP layer.
+
+Dữ liệu / nguồn gợi ý:
+
+- Sensor Tower, August 2023: Royal Match vượt Candy Crush Saga trong tháng 7/2023 với 14.6M downloads và $112M gross revenue, so với Candy Crush 14.4M downloads và $104M gross revenue.
+  - https://sensortower.com/blog/royal-match-surpasses-candy-crush-saga-in-revenue-and-downloads-for-the
+- Cùng bài Sensor Tower: 61.5% downloads của Royal Match đến từ paid channels, cao hơn đáng kể so với Candy Crush Saga, vốn nằm trong khoảng 15.4%-25%.
+- Cùng bài Sensor Tower: Royal Match duy trì cadence thêm khoảng 200 level/tháng sau khi scale lên 100 level mỗi update từ 2021; bài cũng nhắc Royal Pass và Hidden Temple mini-game như lớp live ops/feature bổ sung.
+- Sensor Tower Market Outlook 2024: doanh thu global mobile games 2023 đạt $76.7B; hybridcasual mobile games tăng 30% và vượt $2.1B; puzzle và casino tăng lên mốc khoảng $10B.
+  - https://sensortower.com/blog/state-of-mobile-games-market-outlook-2024-report
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Royal Match không chỉ là câu chuyện "match-3 hay hơn".
+Sensor Tower cho thấy game thắng bằng tổ hợp UA trả phí mạnh, content cadence đều, pass/minigame/live ops và khả năng biến traffic thành vòng đời dài hơn.
+Vì vậy, khi audit một puzzle game, đừng chỉ hỏi level có vui không. Hãy hỏi: creative có kéo đúng người không, content có đủ nhịp không, live ops có lý do quay lại không, và team có đủ năng lực sản xuất đều không.
+```
+
+Guardrail:
+
+- Không dùng số Sensor Tower để suy ra D1, D7, payer conversion, ARPDAU hoặc placement config nội bộ.
+- Chỉ dùng để chứng minh quan hệ giữa UA, content cadence, live ops và market performance ở mức public signal.
+
+#### Sensor Tower / U.S. Puzzle market: genre lens và category economics
+
+Góc dùng:
+
+- Dùng cho luận điểm `không có một công thức monetization dùng nguyên xi cho mọi puzzle`.
+- Dùng cho Part 7: match-3, merge, decorate, sort/jam/physics không nên bị gom thành một nhóm "puzzle" chung khi thiết kế ads/IAP/economy.
+- Dùng cho Part 6: market intel phải đọc theo subgenre, không chỉ đọc top chart tổng.
+
+Dữ liệu / nguồn gợi ý:
+
+- Sensor Tower, April 2022: player spending của mobile Puzzle tại U.S. tăng 4.2% YoY lên $5B trong giai đoạn April 1, 2021 - March 31, 2022.
+  - https://sensortower.com/blog/us-mobile-puzzle-game-analysis-2022
+- Cùng bài: Candy Crush Saga là top Puzzle theo player spending tại U.S. với $845.5M; Classic Match 3 tạo $1.6B.
+- Cùng bài: Royal Match đạt $208.4M tại U.S. trong giai đoạn phân tích và tăng doanh thu theo từng quý; Merge games đạt $298.3M, tăng khoảng 5% YoY.
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Puzzle là một category lớn, nhưng monetization logic không đồng nhất.
+Match-3 có lịch sử payer và booster economy rất sâu. Merge dựa nhiều hơn vào board pressure, event, collection và pacing. Hybrid puzzle/sort/jam lại có thể đi theo hướng fail offer, rewarded utility, remove ads và light meta.
+Vì vậy, benchmark đúng không phải là "top puzzle làm gì", mà là "subgenre gần mình nhất đang kiếm tiền bằng nhu cầu nào".
+```
+
+#### AppMagic / Casual Games H1 2025: market concentration và kill criteria
+
+Góc dùng:
+
+- Dùng cho luận điểm `studio/publisher cần portfolio lens, không chỉ tối ưu một game`.
+- Dùng cho Part 6 và Part 8: market đẹp không có nghĩa game mới dễ scale; phải có kill criteria, payback window và prototype funnel đủ rõ.
+- Dùng cho phần mở bài để tạo tension: casual/puzzle vẫn lớn, nhưng cạnh tranh tập trung và khó vào top.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic Casual Games H1 2025 summary qua GameDev Reports: casual games revenue H1 2025 tăng 0.8% YoY lên $12B; downloads tăng 5.8%.
+  - https://gamedevreports.substack.com/p/appmagic-mobile-casual-games-in-h125
+- Cùng nguồn: Puzzle và Casino chiếm 72% revenue casual; 73/100 top-grossing casual games thuộc Casino hoặc Puzzle.
+- Cùng nguồn: hơn một nửa top games ra mắt trong giai đoạn 2015-2020; chỉ 11% top 100 ra mắt từ đầu 2023.
+- Cùng nguồn: Puzzle H1 2025 đạt $4.6B, tăng 13% YoY; Match-3 đạt $2.7B, Merge đạt $850M, Match-2 Blast đạt $282M.
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Số liệu AppMagic cho thấy casual/puzzle vẫn là mỏ lớn, nhưng không phải mỏ dễ đào.
+Nếu phần lớn doanh thu nằm trong tay các game lâu năm, studio mới cần kill criteria nghiêm hơn: CPI tốt chưa đủ, prototype vui chưa đủ, và một vài ngày revenue spike chưa đủ.
+Điểm cần chứng minh là khả năng học nhanh: tìm đúng niche, đúng promise, đúng content supply, đúng monetization need và đúng payback window.
+```
+
+#### AppMagic / Royal Match, Candy Crush, Royal Kingdom: dominance và sequel/portfolio strategy
+
+Góc dùng:
+
+- Dùng cho luận điểm `puzzle monetization dài hạn là năng lực vận hành, không chỉ core loop`.
+- Dùng cho Part 6/7: category leader có thể kéo tăng trưởng cả subgenre; sequel/adjacent title là chiến lược portfolio, không chỉ launch game mới.
+- Dùng cho Part 5: khi đọc market data, tách tăng trưởng do market rộng lên khỏi tăng trưởng do vài title lớn kéo.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic Casual Games H1 2025 summary: Match-3 tăng trưởng chủ yếu nhờ Royal Match ($788M, +15% YoY) và Candy Crush Saga ($602M, +11% YoY).
+  - https://gamedevreports.substack.com/p/appmagic-mobile-casual-games-in-h125
+- Cùng nguồn: nếu bỏ Royal Match và Candy Crush Saga, Match-3 chỉ tăng khoảng +1% YoY.
+- Cùng nguồn: Royal Kingdom đạt $98M; tháng thứ 7 sau soft launch đạt $25M, so với $21M của Royal Match ở cùng mốc; downloads tăng từ 2M tháng 3 lên 4.6M tháng 4 và peak 10.4M tháng 5 sau celebrity campaign.
+- PocketGamer.biz tóm tắt AppMagic Casual Games Report 2024: casual games đạt $15.2B IAP revenue năm 2024; Royal Match chiếm 51% match-3 revenue ở nhóm tier-one Western countries.
+  - https://www.pocketgamer.biz/royal-match-earned-51-of-all-match-3-revenue-in-2024/
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Khi một subgenre tăng trưởng, câu hỏi đầu tiên không phải là "cả genre đang dễ hơn à?"
+Câu hỏi đúng hơn là: tăng trưởng đến từ nhiều game mới, hay từ một vài operating machine cực mạnh?
+AppMagic cho thấy Match-3 tăng nhiều nhờ Royal Match và Candy Crush. Với studio mới, bài học không phải là copy match-3, mà là hiểu moat vận hành: UA, level supply, event cadence, brand trust và production speed.
+```
+
+#### AppMagic / Hybridcasual Q1-Q2 2025: puzzle takeover và IAP hybridization
+
+Góc dùng:
+
+- Dùng cho luận điểm `hybrid-casual không chỉ là hypercasual gắn thêm IAP`.
+- Dùng cho Part 4, Part 6 và Part 7: khi core casual được thêm progression, boosters, fail offers, live ops và economy, mô hình doanh thu thay đổi từ ads-heavy sang hybrid.
+- Dùng để xây ví dụ cho sort, block, screw, hole và arcade hybrid.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic Q1 2025 hybridcasual summary qua Gamigion: hybridcasual games tăng 67% YoY về net IAP revenue; trend chính gồm meta/boosters học từ Match-3 và Social Casino.
+  - https://www.gamigion.com/top-10-hybridcasual-games-in-q1-2025/
+- AppMagic Q2 2025 hybridcasual summary qua GameDev Reports: top 10 hybrid-casual/hypercasual projects tạo $126M trong Q2 2025; tăng trưởng Q2 đạt +100% YoY; hybrid-casual puzzles chiếm hơn 50% revenue top 10.
+  - https://gamedevreports.substack.com/p/appmagic-top-10-hybrid-casual-games
+- Games.gg tóm tắt AppMagic Q2 2025: Color Block Jam dẫn đầu với $42M revenue và 21.8M installs; Screwdom đạt $27.1M và 13.1M installs; All in Hole đạt $22.3M và 3.4M installs.
+  - https://games.gg/news/top-hybrid-casual-games-to-play/
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Hybrid-casual tăng không phải vì game trở nên phức tạp như midcore.
+Nó tăng vì các game đơn giản học cách tạo Progress, Pressure và Payment rõ hơn: level khó hơn, fail moment rõ hơn, booster có utility hơn, event có mục tiêu hơn, và offer xuất hiện đúng nhu cầu hơn.
+```
+
+#### AppMagic / Hybridcasual fail offers: pressure, fairness và first purchase
+
+Góc dùng:
+
+- Dùng cho luận điểm `pressure tốt tạo challenge, pressure xấu tạo thao túng`.
+- Dùng cho Part 3 và Part 4: fail offer là ví dụ mạnh cho ranh giới giữa "save progress" và "bán lối thoát khỏi friction".
+- Dùng cho Decision Trees: fail rate cao + fail offer revenue cao chưa đủ; phải đọc post-offer retention, retry, review, refund và level fairness.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic fail mechanic article được cộng đồng trích dẫn: trong một số hybridcasual puzzle, fail offer có thể tạo 20%-33% total IAP revenue và 27%-34% first purchases.
+  - https://www.linkedin.com/posts/michalkorek_appmagic-shared-analysis-on-the-fail-mechanic-activity-7440734209914081281-R8kw
+- LinkedIn summary của Mykola Veremiev từ AppMagic article: Color Block Jam có fail offer $4.99 tạo hơn 20% total IAP và khoảng 27% first purchases; Pixel Flow có fail offer $5.99 tạo khoảng 33% IAP và 34% first purchases; Happy Screw Trip 3D chỉ có revive pack khoảng 5% revenue, currency packs mới là driver chính.
+  - https://www.linkedin.com/posts/mykola-veremiev_hybridcasual-puzzles-monetizing-failure-activity-7440364531756961792-8DCC
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Fail offer là một trong những ví dụ rõ nhất cho monetization bằng context.
+Người chơi vừa thua, vừa thấy mình gần thắng, vừa có động lực bảo vệ tiến độ. Nhưng nếu level bị cảm nhận là rigged, cùng một offer sẽ chuyển từ "save" thành "tax".
+Vì vậy, fail offer phải đi kèm guardrail: fail rate theo level band, retry rate, conversion, post-offer retention, review keyword và refund sentiment.
+```
+
+Guardrail:
+
+- Đây là dữ liệu trích từ bài/summary công khai của AppMagic qua LinkedIn; khi đưa vào ebook nên ghi rõ là "AppMagic analysis, as summarized publicly" nếu không truy cập được full article.
+- Không biến fail offer thành khuyến nghị phổ quát. Happy Screw Trip 3D là ví dụ tốt để nói rằng không phải hybrid puzzle nào cũng kiếm tiền chủ yếu từ fail offer.
+
+#### AppMagic / Epic Plane Evolution: từ ads-heavy sang hybrid IAP
+
+Góc dùng:
+
+- Dùng cho luận điểm `IAP pay to solve needs`, không phải chỉ bán currency.
+- Dùng cho Part 4: remove ads, hard currency, energy/ticket, VIP membership và timing offer.
+- Dùng cho Part 8: experiment cần đọc theo platform/region, vì iOS và Android có thể phản ứng khác nhau.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic blog, August 2025: Epic Plane Evolution tăng monthly IAP revenue từ $592K tháng 4 lên $1.4M tháng 5/2025.
+  - https://appmagic.rocks/blog/epic-plane
+- Cùng bài: trước tháng 4/2025 game khó vượt $10K-$12K daily IAP revenue; tăng trưởng chủ yếu đến từ U.S. và iOS, trong khi Google Play chỉ quanh $2K-$3K/ngày.
+- Cùng bài: average check per transaction tại U.S. tăng từ khoảng $5 tháng 4 lên $13 tháng 7.
+- Cùng bài: large plane ticket bundles đóng góp 7.1% revenue; higher-priced remove ads offer đóng góp 11.7%; iOS chuyển mạnh sang VIP Membership gồm ad removal, unlimited tickets và daily refills.
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Epic Plane Evolution cho thấy "thêm IAP" không phải là thêm một pack tiền tệ vào shop.
+Game tạo nhu cầu bằng tickets, hard currency cho rocket/progression, remove ads/VIP và offer timing. Nhưng bài học quan trọng hơn là guardrail: nếu core vẫn gần hypercasual và phụ thuộc vào U.S. UA/iOS, spike revenue có thể không bền nếu retention/meta không đủ sâu.
+```
+
+#### AppMagic / Merge Mansion: live ops như năng lực phục hồi doanh thu
+
+Góc dùng:
+
+- Dùng cho luận điểm `return journey và live ops tạo persistence`.
+- Dùng cho Part 6/7: merge/hybrid puzzle không sống chỉ bằng board; event calendar, event variety và meta goal quyết định vòng đời.
+- Dùng cho Part 14/15: live ops là supply chain, không phải vài event rời rạc.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic / GameMakers analysis được chia sẻ công khai: Merge Mansion tăng khoảng +50% revenue để lấy lại vị trí top trong genre sau khi bị các game mới vượt lên.
+  - https://www.linkedin.com/posts/niektuerlings_merge-mansion-50-revenue-to-reclaim-the-activity-7308134995158528001-IDrg
+- Bản repost tiếng Trung của AppMagic analysis: số event hằng tháng của Merge Mansion tăng rõ trong 2024, từ 8 event tháng 1 lên hơn 20 event vào tháng 1/2025; irregular events tăng từ 6 lên 17/tháng.
+  - https://www.baijing.cn/article/52203
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Merge Mansion là ví dụ tốt cho ý: live ops không chỉ là "thêm event".
+Đó là năng lực vận hành lịch nội dung, reward economy, board pressure, narrative/meta và reason-to-return. Khi genre có đối thủ mới, live ops cadence có thể trở thành cách phục hồi vị thế, không chỉ là cách kiếm thêm revenue ngắn hạn.
+```
+
+#### AppMagic / UA trend: AI creative, live ops creative và fake-but-faithful
+
+Góc dùng:
+
+- Dùng cho luận điểm `creative bán fantasy, không bán feature`.
+- Dùng cho Part 2 và Part 13: AI creative pipeline cần thư viện scenario, nhưng phải giữ promise gần với trải nghiệm thật.
+- Dùng cho Trust Budget: creative sai hứa có thể tạo CPI tốt nhưng làm hỏng store CVR, D1/D3, review và scale lâu dài.
+
+Dữ liệu / nguồn gợi ý:
+
+- AppMagic "Five UA Trends" được cộng đồng tóm tắt: AI-generated content, creatives tập trung vào live ops thay vì chỉ gameplay, Reels/TikTok-like ads, niche hooks và celebrity collaborations.
+  - https://www.linkedin.com/posts/tomstorr_plenty-of-ua-ideas-in-appmagics-latest-report-activity-7381221826577842176-VKkd
+- AppMagic Casual Games H1 2025 summary: Royal Kingdom downloads tăng mạnh sau celebrity campaign tháng 4/2025, peak 10.4M downloads tháng 5.
+  - https://gamedevreports.substack.com/p/appmagic-mobile-casual-games-in-h125
+
+Cách đưa vào bài:
+
+```text
+Case note:
+Creative không còn chỉ là record gameplay.
+Nó có thể là AI scenario, live ops fantasy, short-form native format, niche hook hoặc celebrity-driven campaign. Nhưng trong casual/puzzle, creative chỉ bền khi fake-but-faithful: có thể phóng đại cảm xúc, nhưng không được hứa một game khác.
+```
+
+### Example matrix theo luận điểm ebook
+
+| Luận điểm | Ví dụ nên dùng | Dữ liệu neo | Cách dùng trong bài |
+| --- | --- | --- | --- |
+| Monetization là hệ thống hành vi, không phải cửa hàng | Royal Match vs Candy Crush | Sensor Tower: July 2023 Royal Match $112M gross revenue, 14.6M downloads, 61.5% paid downloads | Cho thấy revenue là tổ hợp UA, content cadence, live ops, pass/minigame, không chỉ SKU |
+| Player journey bắt đầu từ ad/store promise | AppMagic UA trends + Royal Kingdom celebrity campaign | AppMagic summary: Royal Kingdom downloads peak 10.4M tháng 5/2025 sau campaign | Dùng để nói creative pipeline là product pipeline và cần fake-but-faithful |
+| First 10 levels là hợp đồng cảm xúc | Epic Plane Evolution | AppMagic: onboarding iOS ban đầu non-intrusive, monetization sâu hơn xuất hiện sau khi player đã hiểu loop | Dùng như ví dụ timing offer/pressure sau khi player có context |
+| Dynamic difficulty / pressure cần guardrail | Color Block Jam / Pixel Flow fail offers | Public AppMagic summaries: fail offers có thể tạo 20%-33% IAP và 27%-34% first purchases | Dùng để giải thích pressure mạnh nhưng phải đọc post-offer retention/review/refund |
+| Booster tốt tạo lựa chọn, booster xấu sửa lỗi level | Hybridcasual puzzles | AppMagic Q1/Q2 2025: hybridcasual học meta/boosters từ Match-3/Social Casino; puzzle chiếm >50% revenue top 10 Q2 | Dùng để nói booster là product của moment, không phải nút cứu thiết kế lỗi |
+| Rewarded ads là utility, không phải punishment | Epic Plane Evolution / Unity | AppMagic: ads vẫn tồn tại nhưng iOS tăng nhờ tickets, hard currency, VIP; Unity nói ads cần đọc cùng IAP/retention | Dùng để so sánh ad utility với forced friction |
+| IAP pay to solve needs | Epic Plane Evolution | AppMagic: average check U.S. tăng ~$5 lên ~$13; ticket bundles 7.1%, remove ads 11.7% revenue | Dùng để chỉ nhu cầu cụ thể: tiếp tục chơi, nâng rocket, bỏ ads, nhận refill |
+| Return journey và live ops tạo persistence | Royal Match / Merge Mansion | Sensor Tower: Royal Match ~200 levels/tháng; AppMagic/Merge Mansion event cadence tăng lên >20 event/tháng | Dùng để nói live ops là supply chain nội dung |
+| Market & portfolio lens | AppMagic Casual H1 2025 | Casual H1 2025 $12B; Puzzle/Casino 72%; chỉ 11% top 100 launch từ 2023 | Dùng để đặt kill criteria và cảnh báo "market lớn không đồng nghĩa dễ thắng" |
+| Genre playbook phải tách subgenre | Sensor Tower U.S. Puzzle + AppMagic H1 2025 | U.S. Puzzle $5B; Classic Match-3 $1.6B; Puzzle H1 2025 $4.6B, Match-3 $2.7B, Merge $850M | Dùng để tách match-3, merge, hybrid puzzle, sort/jam/physics |
+| Metrics cần đọc theo context, không đọc một chỉ số | Royal Match / Match-3 dominance | AppMagic: nếu bỏ Royal Match và Candy Crush, Match-3 chỉ tăng khoảng +1% YoY | Dùng để dạy cách đọc market growth: do whole segment hay do leader kéo |
+| Trust Budget và Monetization Debt | Fail offers / Epic / FTC | Fail offer revenue cao nhưng cần guardrail; FTC/Epic cho legal/trust risk | Dùng để nhấn mạnh revenue spike phải đọc cùng retention, review, refund, policy |
+
 ### Evidence map theo chapter
 
 Part 1 - Philosophy:
@@ -2272,45 +2519,57 @@ Part 1 - Philosophy:
 - Dùng FTC/Epic cho dark pattern và trust risk.
 - Dùng Unity docs/report cho rewarded ads as utility.
 - Dùng King/Microsoft cho monetization như operating system, không chỉ placement.
+- Dùng AppMagic fail-offer và Epic Plane Evolution như ví dụ positive/negative về `Pressure * Permission * Payment`.
 
 Part 2 - Player Journey:
 
 - Dùng Project Clear Garden làm case xuyên suốt.
 - Dùng Apple ATT làm ví dụ trust moment trong first open/consent.
 - Dùng store/creative promise như vấn đề thực hành, tránh claim không nguồn về creative cụ thể của game thật.
+- Dùng AppMagic UA trends và Royal Kingdom celebrity campaign cho phần creative/store promise.
+- Dùng Sensor Tower Royal Match paid UA share để nói ad -> install là một phần của product operating system.
 
 Part 3 - Psychology:
 
 - Dùng framework nội bộ, nhưng tránh overclaim neuroscience.
 - Nếu nói dopamine/sound, dùng ngôn ngữ "reward feel", "expectation", "tension/release", không nói như kết luận y khoa.
+- Dùng AppMagic fail-offer examples để minh họa pressure/fairness/near-miss, nhưng luôn kèm guardrail retention và review.
 
 Part 4 - Monetization Products:
 
 - Dùng Unity cho rewarded ads, IAP stage, economy.
 - Dùng King/SEC cho virtual items, extra lives, boosters, content access.
 - Dùng FTC/Epic cho purchase/refund/consent guardrail.
+- Dùng Epic Plane Evolution cho ticket, hard currency, remove ads/VIP và khác biệt iOS/Android.
+- Dùng Color Block Jam / Pixel Flow / Happy Screw Trip 3D để so sánh fail offer không phải lúc nào cũng là SKU chính.
 
 Part 5 - Metrics:
 
 - Dùng Unity report cho ad engagement, IAP product stage, economy.
 - Dùng framework tự xây cho decision trees; ghi rõ đây là practical heuristic.
+- Dùng AppMagic Match-3 dominance để dạy cách tách market signal khỏi leader effect.
+- Dùng fail-offer examples cho decision tree: revenue tăng nhưng post-offer retention/review giảm thì đó là monetization debt.
 
 Part 6 - Supply Chain:
 
 - Dùng King/Activision public results cho live ops, seasonal content, UA, advertising business.
 - Dùng Microsoft annual report cho strategic portfolio/mobile context.
 - Dùng Apple privacy/transparency cho platform/policy supply.
+- Dùng Royal Match content cadence, Merge Mansion event cadence và AppMagic casual market concentration cho supply chain/content/portfolio lens.
 
 Part 7 - Genre/Category:
 
 - Dùng public examples như Candy Crush ở mức category/franchise.
 - Không suy đoán funnel/level/IAP config cụ thể nếu không có nguồn.
 - Dùng Project Clear Garden để minh họa chi tiết vì là composite.
+- Dùng Sensor Tower U.S. Puzzle và AppMagic H1 2025 để tách Match-3, Merge, Match-2 Blast, Hybridcasual Puzzle.
+- Dùng Q2 2025 hybridcasual examples như Color Block Jam, Screwdom, All in Hole cho block/screw/hole/sort-style mechanic lens.
 
 Part 8 - Workflow:
 
 - Dùng checklists như tool thực hành.
 - Có thể thêm "source-backed guardrail" ở cuối mỗi checklist.
+- Dùng AppMagic market concentration và leader effect để thêm kill/iterate/scale criteria vào workflow.
 
 ### Reader payoff cần thêm vào mỗi part
 
@@ -2383,6 +2642,34 @@ Nên bổ sung vào bản rewrite theo thứ tự:
   - https://investor.activision.com/news-releases/news-release-details/activision-blizzard-announces-third-quarter-2022-financial
 - Microsoft 2024 Annual Report:
   - https://www.microsoft.com/investor/reports/ar24/
+- Sensor Tower - Royal Match surpasses Candy Crush Saga in revenue and downloads:
+  - https://sensortower.com/blog/royal-match-surpasses-candy-crush-saga-in-revenue-and-downloads-for-the
+- Sensor Tower - Global Mobile Games Market Outlook 2024:
+  - https://sensortower.com/blog/state-of-mobile-games-market-outlook-2024-report
+- Sensor Tower - U.S. Mobile Puzzle Game Analysis 2022:
+  - https://sensortower.com/blog/us-mobile-puzzle-game-analysis-2022
+- AppMagic / GameDev Reports - Mobile Casual Games in H1 2025:
+  - https://gamedevreports.substack.com/p/appmagic-mobile-casual-games-in-h125
+- AppMagic / PocketGamer.biz - Casual Games Report 2024 / Royal Match match-3 share:
+  - https://www.pocketgamer.biz/royal-match-earned-51-of-all-match-3-revenue-in-2024/
+- AppMagic / Gamigion - Top 10 Hybridcasual Games in Q1 2025:
+  - https://www.gamigion.com/top-10-hybridcasual-games-in-q1-2025/
+- AppMagic / GameDev Reports - Top 10 Hybrid-Casual Games in Q2 2025:
+  - https://gamedevreports.substack.com/p/appmagic-top-10-hybrid-casual-games
+- AppMagic / Games.gg - Top Hybrid-Casual Games Q2 2025 summary:
+  - https://games.gg/news/top-hybrid-casual-games-to-play/
+- AppMagic - Epic Plane Evolution case study:
+  - https://appmagic.rocks/blog/epic-plane
+- AppMagic fail-offer analysis public summary - Michal Korek:
+  - https://www.linkedin.com/posts/michalkorek_appmagic-shared-analysis-on-the-fail-mechanic-activity-7440734209914081281-R8kw
+- AppMagic fail-offer analysis public summary - Mykola Veremiev:
+  - https://www.linkedin.com/posts/mykola-veremiev_hybridcasual-puzzles-monetizing-failure-activity-7440364531756961792-8DCC
+- AppMagic / Merge Mansion live ops analysis public discussion:
+  - https://www.linkedin.com/posts/niektuerlings_merge-mansion-50-revenue-to-reclaim-the-activity-7308134995158528001-IDrg
+- AppMagic / Merge Mansion live ops analysis repost:
+  - https://www.baijing.cn/article/52203
+- AppMagic UA trends public summary:
+  - https://www.linkedin.com/posts/tomstorr_plenty-of-ua-ideas-in-appmagics-latest-report-activity-7381221826577842176-VKkd
 
 ## 19. Notes về cách viết từng section
 

@@ -1,0 +1,163 @@
+=== Draft/sec0_front_matter.json (items: 97) ===
+  [2] Title: THE ART OF MONETIZATION
+Nghệ thuật Thiết kế Kinh tế & Kiếm tiền trong Game
+  [3] Heading 1: Research Note | Ghi chú Nghiên cứu
+  [12] Heading 1: A Note to the Reader | Lời Nhắn Gửi Người Đọc
+  [17] Heading 1: Key Terms | Thuật Ngữ Cần Biết
+  [19] TABLE: 13 rows x 2 cols
+  [27] Heading 1: Contents | Mục Lục
+  [38] Heading 1: How to Read this Playbook | Cách Sử Dụng Cuốn Sách Này
+  [47] Heading 1: Monetization Starts Before the Store | Việc Kiếm Tiền Bắt Đầu Trước Màn Hình Cửa Hàng
+  [83] Heading 1: Example Case: Clear Garden | Ví Dụ Phân Tích: Clear Garden
+=== Draft/sec1_part1.json (items: 61) ===
+  [97] Heading 1: Part I: The system behind the store
+Phần I: Hệ thống phía sau cửa hàng
+  [98] Heading 2: 1. Trust budget
+Ngân sách niềm tin
+  [113] TABLE: 6 rows x 2 cols
+  [116] Heading 2: 2. Healthy or borrowed revenue
+Doanh thu bền vững hay doanh thu đánh đổi tương lai
+  [122] Heading 2: 3. Bright design
+Thiết kế tử tế bắt đầu từ sự minh bạch
+  [128] Heading 2: 4. The operating map
+Bản đồ vận hành của một hệ thống kiếm tiền
+  [129] TABLE: 7 rows x 3 cols
+  [152] Heading 3: Memory note | Decision board
+Part I: Hệ thống phía sau monetization
+  [154] TABLE: 2 rows x 2 cols
+=== Draft/sec2_part2.json (items: 25) ===
+  [158] Heading 1: Part II: From creative to first return
+Phần II: Từ quảng cáo đến lần quay lại đầu tiên
+  [159] Heading 2: 5. Creative sells a feeling
+Quảng cáo hứa hẹn một cảm xúc, trò chơi phải mang lại đúng cảm xúc đó
+  [164] Heading 2: 6. Store listing and first open
+Trang giới thiệu trên kho ứng dụng và lần mở game đầu tiên phải xác thực cùng một lời hứa
+  [170] Heading 2: 7. The first ten levels
+Mười màn chơi đầu tiên: Dạy cách đưa ra lựa chọn trước khi dạy cách chi tiền
+  [174] Heading 2: 8. The first return
+Lần quay lại đầu tiên cần một mục tiêu dang dở có ý nghĩa, không chỉ là một lời nhắc nhở
+  [180] Heading 3: Memory note | Decision board
+Part II: Từ lời hứa quảng cáo đến lần quay lại đầu tiên
+  [182] TABLE: 2 rows x 2 cols
+=== Draft/sec3_part3.json (items: 46) ===
+  [183] Heading 1: Part III: Progress, pressure, and fairness
+Phần III: Tiến trình, áp lực và sự công bằng
+  [184] Heading 2: 9. Player motivations
+Người chơi chi tiền để thỏa mãn những nhu cầu khác nhau, không phải vì họ có cùng một hành trình
+  [187] TABLE: 7 rows x 4 cols
+  [192] Heading 2: 10. Meaningful progress
+Tiến trình chỉ thực sự có giá trị khi nó thay đổi rõ rệt tình thế mà người chơi đang quan tâm
+  [196] Heading 2: 11. Pressure creates a decision
+Áp lực chỉ có giá trị khi người chơi vẫn nhìn thấy một quyết định thực sự công bằng
+  [200] Heading 2: 12. Dynamic difficulty
+Độ khó động phải điều chỉnh thử thách, không được âm thầm định đoạt kết quả
+  [204] TABLE: 5 rows x 3 cols
+  [208] Heading 2: 13. Randomness and skill
+Tính ngẫu nhiên chỉ công bằng khi người chơi vẫn có thể học hỏi và phản ứng
+  [212] Heading 2: 14. Reward feedback
+Phản hồi âm thanh và hiệu ứng thị giác phải xác thực đúng giá trị của phần thưởng
+  [225] Heading 3: Memory note | Decision board
+Part III: Tiến trình, áp lực và sự công bằng
+  [228] TABLE: 2 rows x 2 cols
+=== Draft/sec4_part4.json (items: 53) ===
+  [229] Heading 1: 
+  [230] Heading 1: Part IV: Ads, IAP, and economy
+Phần IV: Quảng cáo, IAP và nền kinh tế trong game
+  [231] Heading 2: 15. Rewarded ads
+Quảng cáo đổi thưởng chỉ bền vững khi trao đổi đúng giá trị mà người chơi đang thực sự cần
+  [235] TABLE: 5 rows x 3 cols
+  [239] Heading 2: 16. Interstitials
+Quảng cáo xen kẽ chỉ nên xuất hiện tại những điểm ngắt tự nhiên khi sự tập trung đã hoàn tất
+  [243] Heading 2: 17. Boosters
+Vật phẩm bổ trợ phải mở ra một lựa chọn chiến thuật rõ ràng, không phải liều thuốc vá lỗi
+  [247] Heading 2: 18. IAP and present need
+Giao dịch mua trong ứng dụng phải giải quyết một nhu cầu thực tế đang hiện diện và minh bạch về giá trị
+  [251] TABLE: 6 rows x 3 cols
+  [255] Heading 2: 19. Economy integrity
+Nền kinh tế game chỉ đáng tin khi mỗi loại tiền tệ đều có đường vào, đường ra và mục đích rõ ràng
+  [259] Heading 2: 20. Event economy
+Sự kiện là một nền kinh tế thu nhỏ có thời hạn, không phải một chồng cửa sổ pop-up
+  [274] Heading 3: Memory note | Decision board
+Part IV: Quảng cáo, IAP và nền kinh tế game
+  [276] TABLE: 2 rows x 2 cols
+=== Draft/sec5_part5.json (items: 51) ===
+  [282] Heading 1: Part V: Signals, decisions, and experiments
+Phần V: Tín hiệu, quyết định và thử nghiệm
+  [283] Heading 2: 21. Reading the dashboard
+Bảng dữ liệu phải chỉ ra quyết định nào cần xem xét lại, không chỉ đơn thuần hiển thị kết quả
+  [286] TABLE: 5 rows x 3 cols
+  [292] TABLE: 8 rows x 3 cols
+  [301] Heading 2: 22. Read metric pairs
+Một chỉ số chỉ trở nên hữu ích khi được đối chiếu cùng cái giá mà nó tạo ra
+  [304] TABLE: 6 rows x 3 cols
+  [311] Heading 2: 23. Decision trees
+Cây quyết định ngăn đội ngũ nhảy vội từ một số liệu bề nổi sang một giải pháp quen tay
+  [319] Heading 2: 24. Experimentation
+Thử nghiệm chỉ có giá trị khi nó giúp đội ngũ loại bỏ một điều bất định quan trọng
+  [322] TABLE: 5 rows x 2 cols
+  [328] Heading 3: Memory note | Decision board
+Part V: Tín hiệu, quyết định và thử nghiệm
+  [330] TABLE: 2 rows x 2 cols
+=== Draft/sec6_part6.json (items: 55) ===
+  [333] Heading 1: Part VI: What data can and cannot decide
+Phần VI: Dữ liệu có thể và không thể quyết định những gì
+  [334] Heading 2: 25. Market intelligence
+Nghiên cứu thị trường giúp thu hẹp không gian lựa chọn; luận điểm sản phẩm mới quyết định canh bạc của studio
+  [336] TABLE: 4 rows x 2 cols
+  [343] Heading 2: 26. Behaviour needs interpretation
+Dữ liệu mô tả hành vi; ý nghĩa của hành vi bắt buộc phải được giải mã bằng một câu chuyện nhân quả
+  [348] Heading 2: 27. Decision memo
+Đơn vị công việc hữu ích nhất là một quyết định có thể kiểm chứng, không phải một danh sách tính năng
+  [357] TABLE: 9 rows x 2 cols
+  [359] TABLE: 7 rows x 2 cols
+  [360] Heading 2: 28. Copy the question, not the configuration
+Học hỏi bài toán đối thủ đã giải quyết; đừng sao chép cấu hình một cách mù quáng
+  [367] Heading 2: 29. Clear Garden: From prompt to decision
+Case Study Clear Garden: Biến gợi ý từ nhà phát hành thành một quyết định sản phẩm có thể kiểm chứng
+  [380] Heading 3: Memory note | Decision board
+Part VI: Dữ liệu, nghiên cứu thị trường và luận điểm sản phẩm
+  [382] TABLE: 2 rows x 2 cols
+=== Draft/sec7_part7.json (items: 46) ===
+  [388] Heading 1: Part VII: The operating system behind a live game
+Phần VII: Hệ điều hành của game đang phát hành
+  [389] Heading 2: 30. Monetization as a supply chain
+Kiếm tiền như một chuỗi cung ứng giá trị: Một mắt xích yếu có thể phá vỡ toàn bộ lời hứa sản phẩm
+  [395] TABLE: 6 rows x 3 cols
+  [399] Heading 2: 31. Kill, iterate, or scale
+Nghiên cứu chỉ có giá trị khi kết thúc bằng quyết định: Dừng lại, Lặp lại cải tiến, hoặc Mở rộng quy mô
+  [405] Heading 2: 32. Live ops with memory
+Vận hành trực tiếp có ghi nhớ: Phải luôn nhớ người chơi vừa nhận được gì, vừa bị đòi hỏi điều gì và còn gì đáng để quay lại
+  [407] TABLE: 6 rows x 3 cols
+  [410] Heading 2: 33. Contribution economics
+Hiệu quả kinh tế chỉ có ý nghĩa khi phần lợi nhuận còn lại đủ nuôi sống studio sau mọi chi phí duy trì sản phẩm lành mạnh
+  [426] Heading 3: Memory note | Decision board
+Part VII: Hệ điều hành và hiệu quả kinh tế đóng góp
+  [428] TABLE: 2 rows x 2 cols
+=== Draft/sec8_part8.json (items: 21) ===
+  [434] Heading 1: Part VIII: Genre playbooks
+Phần VIII: Cẩm nang thiết kế theo thể loại
+  [435] Heading 2: 34. The emotional loop
+Bắt đầu từ cảm xúc mà người chơi mong muốn tìm kiếm, rồi mới lựa chọn giải pháp kiếm tiền phù hợp
+  [436] TABLE: 5 rows x 5 cols
+  [446] TABLE: 5 rows x 4 cols
+  [449] Heading 2: 35. Evidence, not blueprint
+Ví dụ thị trường chỉ giúp lựa chọn câu hỏi đúng; dữ liệu nhóm thuần tập của studio mới quyết định cấu hình sản phẩm
+  [452] Heading 3: Memory note | Decision board
+Part VIII: Bản đồ cơ chế theo thể loại
+  [453] TABLE: 2 rows x 2 cols
+=== Draft/sec9_part9.json (items: 37) ===
+  [455] Heading 1: Part IX: The audit
+Phần IX: Quy trình kiểm toán và tiêu chuẩn hoàn thành
+  [456] Heading 2: 36. The 30-minute audit
+Kiểm toán hệ thống kiếm tiền trong 30 phút: Tìm ra một điểm rò rỉ niềm tin, một điểm thất thoát giá trị và một thử nghiệm có thể triển khai ngay
+  [458] TABLE: 7 rows x 3 cols
+  [459] Heading 2: 37. Definition of done
+Khi nào một hệ sinh thái sản phẩm đủ bằng chứng để mở rộng quy mô, thay vì chỉ vừa đủ tính năng để phát hành
+  [483] Heading 3: Memory note | Decision board
+Part IX: Kiểm toán sản phẩm và tiêu chuẩn sẵn sàng mở rộng quy mô
+  [485] TABLE: 2 rows x 2 cols
+=== Draft/sec10_closing.json (items: 26) ===
+  [492] Heading 1: Closing: The player must want to continue
+Lời kết: Kiếm tiền chỉ thực sự bền vững khi người chơi vẫn muốn tiếp tục cuộc hành trình
+  [503] Heading 1: Research notes and public sources
+Nguồn tham khảo học thuật và dữ liệu thị trường công khai

@@ -1,0 +1,796 @@
+[
+  {
+    "index": 97,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part I: The system behind the store\nPhần I: Hệ thống phía sau cửa hàng",
+    "runs": [
+      {
+        "text": "Part I: The system behind the store",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần I: Hệ thống phía sau cửa hàng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "1. Trust budget\nNgân sách niềm tin",
+    "runs": [
+      {
+        "text": "1. Trust budget",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nNgân sách niềm tin",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tháng 3/2023, Ủy ban Thương mại Liên bang Hoa Kỳ (FTC) hoàn tất lệnh buộc Epic Games hoàn trả 245 triệu USD cho người tiêu dùng, sau các cáo buộc về dark patterns và khoản mua trong game không mong muốn. Đến tháng 12/2024, FTC cho biết đã gửi hơn 72 triệu USD tiền hoàn lại. Đây không phải là số liệu về retention, LTV hay hiệu quả kinh doanh của Fortnite. Nó là một bằng chứng công khai về giá phải trả khi luồng thanh toán khiến người chơi không còn hiểu rõ mình vừa đồng ý điều gì.",
+    "runs": [
+      {
+        "text": "Tháng 3/2023, Ủy ban Thương mại Liên bang Hoa Kỳ (FTC) hoàn tất lệnh buộc Epic Games hoàn trả 245 triệu USD cho người tiêu dùng, sau các cáo buộc về dark patterns và khoản mua trong game không mong muốn. Đến tháng 12/2024, FTC cho biết đã gửi hơn 72 triệu USD tiền hoàn lại. Đây không phải là số liệu về retention, LTV hay hiệu quả kinh doanh của Fortnite. Nó là một bằng chứng công khai về giá phải trả khi luồng thanh toán khiến người chơi không còn hiểu rõ mình vừa đồng ý điều gì.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 100,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Case này không cho phép suy ra cách Epic thiết kế economy nội bộ, cũng không cho phép quy kết một màn hình cụ thể là nguyên nhân duy nhất. Tuy vậy, nó làm rõ một điểm quan trọng: Purchase flow không đứng ngoài trải nghiệm chơi. Nó là một phần của lời hứa mà game đưa ra với người chơi.",
+    "runs": [
+      {
+        "text": "Case này không cho phép suy ra cách Epic thiết kế economy nội bộ, cũng không cho phép quy kết một màn hình cụ thể là nguyên nhân duy nhất. Tuy vậy, nó làm rõ một điểm quan trọng: Purchase flow không đứng ngoài trải nghiệm chơi. Nó là một phần của lời hứa mà game đưa ra với người chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 101,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Vì vậy, thay vì hỏi một màn hình có chuyển đổi tốt không, hãy hỏi thêm: Người chơi có hiểu lựa chọn này không, có đủ thời gian để cân nhắc không, và liệu họ còn tin game sau khi giao dịch kết thúc không? Đó là điểm bắt đầu của trust budget.",
+    "runs": [
+      {
+        "text": "Vì vậy, thay vì hỏi một màn hình có chuyển đổi tốt không, hãy hỏi thêm: Người chơi có hiểu lựa chọn này không, có đủ thời gian để cân nhắc không, và liệu họ còn tin game sau khi giao dịch kết thúc không? Đó là điểm bắt đầu của trust budget.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 102,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Mỗi người chơi đến với một lượng niềm tin hữu hạn. Một creative hứa quá mức, thời gian tải dài, hướng dẫn giành quyền điều khiển hoặc nút đóng khó thấy đều làm lượng niềm tin đó giảm đi. Một level tạo cảm giác bất công rồi lập tức bán booster gây hại nhanh hơn, vì nó khiến người chơi nghi ngờ lý do thật của thất bại.",
+    "runs": [
+      {
+        "text": "Mỗi người chơi đến với một lượng niềm tin hữu hạn. Một creative hứa quá mức, thời gian tải dài, hướng dẫn giành quyền điều khiển hoặc nút đóng khó thấy đều làm lượng niềm tin đó giảm đi. Một level tạo cảm giác bất công rồi lập tức bán booster gây hại nhanh hơn, vì nó khiến người chơi nghi ngờ lý do thật của thất bại.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 103,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Niềm tin không đến từ một khoảnh khắc lớn. Nó được xây qua những chi tiết bình thường: Mục tiêu rõ, luật chơi dễ hiểu, thao tác đúng như lời hứa, reward được trao đúng lúc, giá bán minh bạch và hỗ trợ kịp thời khi giao dịch có lỗi.",
+    "runs": [
+      {
+        "text": "Niềm tin không đến từ một khoảnh khắc lớn. Nó được xây qua những chi tiết bình thường: Mục tiêu rõ, luật chơi dễ hiểu, thao tác đúng như lời hứa, reward được trao đúng lúc, giá bán minh bạch và hỗ trợ kịp thời khi giao dịch có lỗi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 104,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tổng hợp của các chi tiết ấy quyết định người chơi xem rewarded ad như một trao đổi công bằng hay xem in-game store như một nơi họ cần dè chừng. Framework dưới đây không đo niềm tin bằng một con số duy nhất. Nó giúp team nhìn ra những điểm đang nuôi dưỡng hoặc làm hao mòn niềm tin trong cả hành trình.",
+    "runs": [
+      {
+        "text": "Tổng hợp của các chi tiết ấy quyết định người chơi xem rewarded ad như một trao đổi công bằng hay xem in-game store như một nơi họ cần dè chừng. Framework dưới đây không đo niềm tin bằng một con số duy nhất. Nó giúp team nhìn ra những điểm đang nuôi dưỡng hoặc làm hao mòn niềm tin trong cả hành trình.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 105,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Đừng đọc một mức tăng doanh thu một mình. Thêm interstitial có thể làm ARPDAU tăng, nhưng cũng có thể khiến một cohort rời game sớm hơn, điểm đánh giá giảm và chi phí kéo người chơi quay lại cao hơn. ",
+    "runs": [
+      {
+        "text": "Đừng đọc một mức tăng doanh thu một mình. Thêm interstitial có thể làm ARPDAU tăng, nhưng cũng có thể khiến một cohort rời game sớm hơn, điểm đánh giá giảm và chi phí kéo người chơi quay lại cao hơn. ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 106,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tiền được thu sớm hơn chưa chắc đã là giá trị được tạo ra nhiều hơn.",
+    "runs": [
+      {
+        "text": "Tiền được thu sớm hơn chưa chắc đã là giá trị được tạo ra nhiều hơn.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 107,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 108,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 109,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 110,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 111,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 112,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 113,
+    "type": "table",
+    "rows": [
+      [
+        "Điều nuôi dưỡng niềm tin",
+        "Điều làm hao mòn niềm tin"
+      ],
+      [
+        "Mục tiêu rõ ràng, luật chơi dễ hiểu",
+        "Creative hứa một trải nghiệm khác"
+      ],
+      [
+        "Thua vẫn hiểu vì sao và còn nước đi tiếp theo",
+        "Can thiệp độ khó không được giải thích"
+      ],
+      [
+        "Rewarded ad là một trao đổi tự nguyện",
+        "Interstitial cắt ngang lúc người chơi đang tập trung"
+      ],
+      [
+        "Giá bán và thứ nhận được được nói rõ",
+        "Offer mơ hồ hoặc thao tác mua nhầm"
+      ],
+      [
+        "Khôi phục nhanh khi giao dịch có lỗi",
+        "Mất reward, khôi phục yếu, hỗ trợ chậm"
+      ]
+    ]
+  },
+  {
+    "index": 114,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 115,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi audit game, hãy chọn một điểm kiếm tiền cụ thể, chẳng hạn interstitial đầu tiên hoặc offer sau khi thua. Người chơi vừa nhận được giá trị gì? Họ có hiểu điều mình sắp đổi lấy không? Sau điểm đó, chỉ số nào sẽ cho biết niềm tin được giữ lại hay đã bị đánh đổi?",
+    "runs": [
+      {
+        "text": "Khi audit game, hãy chọn một điểm kiếm tiền cụ thể, chẳng hạn interstitial đầu tiên hoặc offer sau khi thua. Người chơi vừa nhận được giá trị gì? Họ có hiểu điều mình sắp đổi lấy không? Sau điểm đó, chỉ số nào sẽ cho biết niềm tin được giữ lại hay đã bị đánh đổi?",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 116,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "2. Healthy or borrowed revenue\nDoanh thu bền vững hay doanh thu đánh đổi tương lai",
+    "runs": [
+      {
+        "text": "2. Healthy or borrowed revenue",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nDoanh thu bền vững hay doanh thu đánh đổi tương lai",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 117,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy nghĩ về thay đổi gần nhất team đã đưa vào để tăng doanh thu: Thêm interstitial, đặt một offer sau khi thua, tăng giá một gói hay làm một level khó hơn. Chỉ số nào tăng ngay sau thay đổi đó? Và team đã mở những chỉ số nào để kiểm tra cái giá phải trả?",
+    "runs": [
+      {
+        "text": "Hãy nghĩ về thay đổi gần nhất team đã đưa vào để tăng doanh thu: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "T",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "hêm interstitial, đặt một offer sau khi thua, tăng giá một gói hay làm một level khó hơn. Chỉ số nào tăng ngay sau thay đổi đó? Và team đã mở những chỉ số nào để kiểm tra cái giá phải trả?",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 118,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nếu câu trả lời chỉ dừng ở doanh thu, tỷ lệ chuyển đổi hoặc lượt hiển thị quảng cáo, bức tranh vẫn chưa đủ. Một thay đổi có thể làm một chỉ số đẹp lên trong tuần này, đồng thời làm người chơi rời sớm hơn, đánh giá thấp hơn hoặc khiến chi phí nội dung tăng ở những tuần sau.",
+    "runs": [
+      {
+        "text": "Nếu câu trả lời chỉ dừng ở doanh thu, tỷ lệ chuyển đổi hoặc lượt hiển thị quảng cáo, bức tranh vẫn chưa đủ. Một thay đổi có thể làm một chỉ số đẹp lên trong tuần này, đồng thời làm người chơi rời sớm hơn, đánh giá thấp hơn hoặc khiến chi phí nội dung tăng ở những tuần sau.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 119,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Đó là ý nghĩa của doanh thu đánh đổi tương lai: Một thay đổi làm đẹp chỉ số ngắn hạn nhưng làm yếu điều kiện tạo doanh thu sau này. Interstitial quá sớm có thể tăng doanh thu quảng cáo nhưng kéo D1 xuống. Một bức tường độ khó có thể làm offer sau khi thua chuyển đổi tốt hơn, đồng thời khiến đánh giá của người chơi gọi game là bất công. Không có thay đổi nào tự động sai; điều quan trọng là team có đọc phần chi phí đi kèm hay không.",
+    "runs": [
+      {
+        "text": "Đó là ý nghĩa của doanh thu đánh đổi tương lai: Một thay đổi làm đẹp chỉ số ngắn hạn nhưng làm yếu điều kiện tạo doanh thu sau này. Interstitial quá sớm có thể tăng doanh thu quảng cáo nhưng kéo D1 xuống. Một bức tường độ khó có thể làm offer sau khi thua chuyển đổi tốt hơn, đồng thời khiến đánh giá của người chơi gọi game là bất công. Không có thay đổi nào tự động sai; điều quan trọng là team có đọc phần chi phí đi kèm hay không.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi review một thay đổi, đặt lợi ích tức thời bên cạnh phần chi phí có thể phát sinh. Lợi ích có thể là doanh thu, tỷ lệ chuyển đổi, lượt hiển thị quảng cáo hoặc CPI. Phần chi phí có thể nằm ở retention, tỷ lệ người trả tiền quay lại, đánh giá, hoàn tiền, khối lượng hỗ trợ và chi phí nội dung về sau. Đặt hai nhóm chỉ số cạnh nhau trước khi kết luận một thay đổi là thành công.",
+    "runs": [
+      {
+        "text": "Khi review một thay đổi, đặt lợi ích tức thời bên cạnh phần chi phí có thể phát sinh. Lợi ích có thể là doanh thu, tỷ lệ chuyển đổi, lượt hiển thị quảng cáo hoặc CPI. Phần chi phí có thể nằm ở retention, tỷ lệ người trả tiền quay lại, đánh giá, hoàn tiền, khối lượng hỗ trợ và chi phí nội dung về sau. Đặt hai nhóm chỉ số cạnh nhau trước khi kết luận một thay đổi là thành công.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 121,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "“Chúng tôi tăng ad load” chỉ mô tả điều team đã làm. “Chúng tôi cải thiện monetization” là kết luận cần bằng chứng. Tiếp theo, hãy cùng đi sâu vào điều kiện của bằng chứng đó: Một thiết kế tử tế phải cho người chơi hiểu luật chơi, lựa chọn và hệ quả của việc trả tiền.",
+    "runs": [
+      {
+        "text": "“Chúng tôi tăng ad load” chỉ mô tả điều team đã làm. “Chúng tôi cải thiện monetization” là kết luận cần bằng chứng. Tiếp theo, hãy cùng đi sâu vào điều kiện của bằng chứng đó: Một thiết kế tử tế phải cho người chơi hiểu luật chơi, lựa chọn và hệ quả của việc trả tiền.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 122,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "3. Bright design\nThiết kế tử tế bắt đầu từ sự minh bạch",
+    "runs": [
+      {
+        "text": "3. Bright design",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nThiết kế tử tế bắt đầu từ sự minh bạch",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 123,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy mở một level puzzle gần đây nhất của game. Sau khi người chơi thua, họ nhìn thấy gì trước: Nguyên nhân của thất bại, một nước đi khác, hay một offer? Nếu booster xuất hiện, người chơi có hiểu nó sẽ thay đổi tình huống nào không? Và nếu không mua, họ còn một cách hợp lý để tiếp tục hay không? Đây là self-audit, không phải một case thị trường: Câu trả lời phải đến từ chính build và dữ liệu của team.",
+    "runs": [
+      {
+        "text": "Hãy mở một level puzzle gần đây nhất của game. Sau khi người chơi thua, họ nhìn thấy gì trước: Nguyên nhân của thất bại, một nước đi khác, hay một offer? Nếu booster xuất hiện, người chơi có hiểu nó sẽ thay đổi tình huống nào không? Và nếu không mua, họ còn một cách hợp lý để tiếp tục hay không? Đây là self-audit, không phải một case thị trường: Câu trả lời phải đến từ chính build và dữ liệu của team.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Puzzle vẫn cần bất ngờ và rủi ro. Nếu mọi kết quả đều được báo trước, game chỉ còn là một chuỗi thao tác. Sự minh bạch không có nghĩa là loại bỏ thử thách; nó có nghĩa là người chơi có đủ thông tin để hiểu lựa chọn của mình, nhận ra vì sao mình thắng hoặc thua, và biết mình đang mua điều gì.",
+    "runs": [
+      {
+        "text": "Puzzle vẫn cần bất ngờ và rủi ro. Nếu mọi kết quả đều được báo trước, game chỉ còn là một chuỗi thao tác. Sự minh bạch không có nghĩa là loại bỏ thử thách; nó có nghĩa là người chơi có đủ thông tin để hiểu lựa chọn của mình, nhận ra vì sao mình thắng hoặc thua, và biết mình đang mua điều gì.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 125,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một thiết kế tử tế làm luật chơi, xác suất, giá bán và hệ quả của lựa chọn trở nên dễ đọc. Dark pattern làm điều ngược lại: Che luật, tạo nhầm lẫn, giấu lối thoát hoặc bán sự giải tỏa cho một vấn đề mà game cố ý tạo ra. Khác biệt này không nằm ở việc có payment hay không, mà nằm ở việc payment có phải là một lựa chọn có hiểu biết hay chỉ là con đường duy nhất còn dễ thấy.",
+    "runs": [
+      {
+        "text": "Một thiết kế tử tế làm luật chơi, xác suất, giá bán và hệ quả của lựa chọn trở nên dễ đọc. Dark pattern làm điều ngược lại: Che luật, tạo nhầm lẫn, giấu lối thoát hoặc bán sự giải tỏa cho một vấn đề mà game cố ý tạo ra. Khác biệt này không nằm ở việc có payment hay không, mà nằm ở việc payment có phải là một lựa chọn có hiểu biết hay chỉ là con đường duy nhất còn dễ thấy.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 126,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một lần suýt thắng có thể là thử thách tốt khi người chơi nhìn ra quyết định nào của mình có thể thay đổi kết quả. Nó trở thành trải nghiệm độc hại khi game che sự can thiệp, lặp lại thất bại, rồi đặt payment thành lựa chọn duy nhất còn dễ hiểu. Khi review một level, hãy hỏi: Sau lần thua này, người chơi có thể chỉ ra một nước đi khác, một công cụ miễn phí hoặc một lý do hợp lý để thử lại không?",
+    "runs": [
+      {
+        "text": "Một lần suýt thắng có thể là thử thách tốt khi người chơi nhìn ra quyết định nào của mình có thể thay đổi kết quả. Nó trở thành trải nghiệm độc hại khi game che sự can thiệp, lặp lại thất bại, rồi đặt payment thành lựa chọn duy nhất còn dễ hiểu. Khi review một level, hãy hỏi: Sau lần thua này, người chơi có thể chỉ ra một nước đi khác, một công cụ miễn phí hoặc một lý do hợp lý để thử lại không?",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 127,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Với mỗi purchase flow, hãy kiểm tra bốn điểm: Người chơi có hiểu giá và thứ nhận được không; có một bước xác nhận phù hợp không; có thể tìm thấy cách hủy hoặc hoàn tiền không; và có thể tiếp tục chơi mà không mua không? Đây không phải là một công thức cho mọi puzzle game. Đây là tiêu chuẩn tối thiểu để một lựa chọn trả tiền vẫn là lựa chọn có hiểu biết.",
+    "runs": [
+      {
+        "text": "Với mỗi purchase flow, hãy kiểm tra bốn điểm: Người chơi có hiểu giá và thứ nhận được không; có một bước xác nhận phù hợp không; có thể tìm thấy cách hủy hoặc hoàn tiền không; và có thể tiếp tục chơi mà không mua không? Đây không phải là một công thức cho mọi puzzle game. Đây là tiêu chuẩn tối thiểu để một lựa chọn trả tiền vẫn là lựa chọn có hiểu biết.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 128,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "4. The operating map\nBản đồ vận hành của một hệ thống kiếm tiền",
+    "runs": [
+      {
+        "text": "4. The operating map",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nBản đồ vận hành của một hệ thống kiếm tiền",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 129,
+    "type": "table",
+    "rows": [
+      [
+        "Thành phần",
+        "Câu hỏi cần trả lời",
+        "Lỗi thường gặp"
+      ],
+      [
+        "Lời hứa (Promise)",
+        "Vì sao người chơi muốn bắt đầu?",
+        "Creative và game hứa hẹn hai trải nghiệm khác nhau"
+      ],
+      [
+        "Tiến bộ (Progress)",
+        "Vì sao thêm một phút chơi còn đáng giá?",
+        "Reward không cho thấy người chơi đã đi xa hơn"
+      ],
+      [
+        "Áp lực (Pressure)",
+        "Vì sao cần hành động vào lúc này?",
+        "Ma sát tùy tiện hoặc hình phạt quá mức"
+      ],
+      [
+        "Sự cho phép (Permission)",
+        "Vì sao quảng cáo hoặc offer hợp lý ở thời điểm này?",
+        "Trao đổi làm gián đoạn thay vì hỗ trợ"
+      ],
+      [
+        "Thanh toán (Payment)",
+        "Tiền giải quyết vấn đề nào?",
+        "In-game store bán currency khi chưa có nhu cầu cụ thể"
+      ],
+      [
+        "Lý do quay lại (Persistence)",
+        "Vì sao người chơi quay lại ngày mai?",
+        "Nội dung và event không có mục đích rõ"
+      ]
+    ]
+  },
+  {
+    "index": 130,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 131,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tháng 7/2023, Sensor Tower ước tính Royal Match đạt khoảng 112 triệu USD doanh thu gộp và 14,6 triệu lượt tải; 61,5% lượt tải đến từ kênh trả phí. Bài viết của Sensor Tower còn ghi nhận tốc độ bổ sung khoảng 200 level mỗi tháng, cùng Royal Pass và mini-game Hidden Temple.",
+    "runs": [
+      {
+        "text": "Tháng 7/2023, Sensor Tower ước tính Royal Match đạt khoảng 112 triệu USD doanh thu gộp và 14,6 triệu lượt tải; 61,5% lượt tải đến từ kênh trả phí. Bài viết của Sensor Tower còn ghi nhận tốc độ bổ sung khoảng 200 level mỗi tháng, cùng Royal Pass và mini-game Hidden Temple.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 132,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Đây là bằng chứng về quy mô và một vài thành phần có thể quan sát, không phải bản thiết kế nội bộ của Royal Match. Nó không cho biết placement quảng cáo, funnel mua hàng hay economy của game được vận hành ra sao. Điều hữu ích hơn là dùng nó để đặt câu hỏi: Một game phải nối những phần nào với nhau để biến traffic, core loop và nội dung mới thành một vòng đời dài hơn?",
+    "runs": [
+      {
+        "text": "Đây là bằng chứng về quy mô và một vài thành phần có thể quan sát, không phải bản thiết kế nội bộ của Royal Match. Nó không cho biết placement quảng cáo, funnel mua hàng hay economy của game được vận hành ra sao. Điều hữu ích hơn là dùng nó để đặt câu hỏi: Một game phải nối những phần nào với nhau để biến traffic, core loop và nội dung mới thành một vòng đời dài hơn?",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 133,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Operating map dưới đây là một cách trả lời câu hỏi đó. Sáu phần không phải sáu feature độc lập. Chúng là sáu điều kiện liên tiếp: Người chơi hiểu lời hứa, thấy mình đang tiến bộ, gặp áp lực có thể giải thích, được mời trao đổi đúng lúc, biết tiền giải quyết vấn đề gì và có lý do để quay lại.",
+    "runs": [
+      {
+        "text": "Operating map dưới đây là một cách trả lời câu hỏi đó. Sáu phần không phải sáu feature độc lập. Chúng là sáu điều kiện liên tiếp: Người chơi hiểu lời hứa, thấy mình đang tiến bộ, gặp áp lực có thể giải thích, được mời trao đổi đúng lúc, biết tiền giải quyết vấn đề gì và có lý do để quay lại.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi một phần yếu, phần còn lại vẫn có thể tạo doanh thu trong một khoảng thời gian. Nhưng đội ngũ sẽ phải bù bằng nhiều traffic hơn, nhiều nội dung hơn hoặc nhiều áp lực hơn. Bản đồ này giúp nhận ra chỗ đang bị bù trừ trước khi một chỉ số ngắn hạn che khuất nó.",
+    "runs": [
+      {
+        "text": "Khi một phần yếu, phần còn lại vẫn có thể tạo doanh thu trong một khoảng thời gian. Nhưng đội ngũ sẽ phải bù bằng nhiều traffic hơn, nhiều nội dung hơn hoặc nhiều áp lực hơn. Bản đồ này giúp nhận ra chỗ đang bị bù trừ trước khi một chỉ số ngắn hạn che khuất nó.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 135,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy chọn một game của team và đi qua từng hàng trong bảng. Nếu không trả lời được một câu hỏi bằng hành vi người chơi, dữ liệu hoặc một màn hình cụ thể, đó là phần cần nghiên cứu trước khi thêm feature mới.",
+    "runs": [
+      {
+        "text": "Hãy chọn một game của team và đi qua từng hàng trong bảng. Nếu không trả lời được một câu hỏi bằng hành vi người chơi, dữ liệu hoặc một màn hình cụ thể, đó là phần cần nghiên cứu trước khi thêm feature mới.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Chương tiếp theo bắt đầu ở mắt xích đầu tiên của bản đồ: Creative. ",
+    "runs": [
+      {
+        "text": "Chương tiếp theo bắt đầu ở mắt xích đầu tiên của bản đồ: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "C",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "reative. ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 137,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Trước khi đánh giá level, reward hay in-game store, người chơi đã hình thành một kỳ vọng từ quảng cáo.",
+    "runs": [
+      {
+        "text": "Trước khi đánh giá level, reward hay in-game store, ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "người chơi ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "đã hình thành một kỳ vọng từ quảng cáo.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 138,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 139,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 140,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 141,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 142,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 143,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 144,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 145,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 146,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 147,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 148,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 149,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 150,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 151,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 152,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart I: Hệ thống phía sau monetization",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart I: Hệ thống phía sau monetization",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 153,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 154,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Vẽ hành trình từ mẫu quảng cáo (Creative) đến lần quay lại đầu tiên; đánh dấu mọi điểm chạm đòi hỏi sự chú ý, thời gian hoặc tiền bạc của người chơi.\n• Chọn một thay đổi doanh thu gần nhất và đo lường đồng thời: Doanh thu, tỷ lệ giữ chân D7, điểm đánh giá trên cửa hàng ứng dụng và tỷ lệ hoàn tiền.\n• Chạy một bài kiểm tra thiết kế sáng sủa: Người chơi có hiểu mình đang mua gì, có con đường từ chối rõ ràng và có nhận được đúng giá trị như lời hứa không?",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Tựa game đã tích lũy đủ ngân sách niềm tin trước khi đưa ra đề xuất mua hàng đầu tiên chưa?\n• Mức tăng trưởng này là doanh thu lành mạnh hay là doanh thu đang đi mượn từ tương lai?\n• Nếu người chơi từ chối trả tiền hoặc không xem quảng cáo, họ có còn một trải nghiệm chơi game trọn vẹn và công bằng không?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Việc kiếm tiền bắt đầu trước màn hình cửa hàng: Người chơi trả bằng sự chú ý và thời gian trước khi trả bằng tiền bạc.\n• Doanh thu tăng không đồng nghĩa với giá trị tạo ra nhiều hơn nếu tỷ lệ giữ chân đang âm thầm sụp đổ.\n• Thiết kế sáng sủa bảo vệ mối quan hệ lâu dài giữa người chơi và studio.",
+        "ĐƯA VÀO CUỘC HỌP (45 phút):\n• Thành phần: Founder / Product Lead, Game Designer, Monetization Designer, Data Analyst, UA Lead.\n• Tài liệu mang theo: Bản đồ hành trình người chơi, biểu đồ doanh thu ghép cặp cùng tỷ lệ giữ chân D7/D30.\n• Kết quả cần mong muốn: Nhận diện một điểm rò rỉ niềm tin cần khắc phục ngay và kế hoạch theo dõi các cặp chỉ số đối ứng."
+      ]
+    ]
+  },
+  {
+    "index": 155,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 156,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần II đi theo trọn vẹn hành trình trải nghiệm của người chơi: Từ khoảnh khắc tiếp cận mẫu quảng cáo (Creative) đầu tiên cho đến lần mở lại game sau đó — nơi người chơi bắt đầu tự kiểm chứng xem tựa game có thực sự giữ trọn lời hứa đã khiến họ nhấn nút cài đặt hay không.",
+    "runs": [
+      {
+        "text": "Phần II đi theo trọn vẹn hành trình trải nghiệm của người chơi: Từ khoảnh khắc tiếp cận mẫu quảng cáo (Creative) đầu tiên cho đến lần mở lại game sau đó — nơi người chơi bắt đầu tự kiểm chứng xem tựa game có thực sự giữ trọn lời hứa đã khiến họ nhấn nút cài đặt hay không.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  }
+]

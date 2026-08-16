@@ -1,0 +1,744 @@
+[
+  {
+    "index": 282,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part V: Signals, decisions, and experiments\nPhần V: Tín hiệu, quyết định và thử nghiệm",
+    "runs": [
+      {
+        "text": "Part V: Signals, decisions, and experiments",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần V: Tín hiệu, quyết định và thử nghiệm",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 283,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "21. Reading the dashboard\nBảng dữ liệu phải chỉ ra quyết định nào cần xem xét lại, không chỉ đơn thuần hiển thị kết quả",
+    "runs": [
+      {
+        "text": "21. Reading the dashboard",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nBảng dữ liệu phải chỉ ra quyết định nào cần xem xét lại, không chỉ đơn thuần hiển thị kết quả",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 284,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy tiếp cận bảng dữ liệu (Dashboard) bằng một câu hỏi cụ thể về sản phẩm, thay vì chỉ mở ra để nhìn ngắm các biểu đồ chỉ số. Câu hỏi đúng phải là: \"Lời hứa từ mẫu quảng cáo có đang được giữ trọn vẹn trong 10 màn chơi đầu không?\", \"Người chơi có đang gặp bế tắc bất thường tại vị trí đặt quảng cáo xen kẽ không?\", hay \"Gói ưu đãi mới tung ra đang tạo ra doanh thu bền vững hay đang làm suy giảm tỷ lệ giữ chân của nhóm người chơi mới?\"",
+    "runs": [
+      {
+        "text": "Hãy tiếp cận bảng dữ liệu (Dashboard) bằng một câu hỏi cụ thể về sản phẩm, thay vì chỉ mở ra để nhìn ngắm các biểu đồ chỉ số. Câu hỏi đúng phải là: \"Lời hứa từ mẫu quảng cáo có đang được giữ trọn vẹn trong 10 màn chơi đầu không?\", \"Người chơi có đang gặp bế tắc bất thường tại vị trí đặt quảng cáo xen kẽ không?\", hay \"Gói ưu đãi mới tung ra đang tạo ra doanh thu bền vững hay đang làm suy giảm tỷ lệ giữ chân của nhóm người chơi mới?\"",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 285,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 286,
+    "type": "table",
+    "rows": [
+      [
+        "Câu hỏi chẩn đoán",
+        "Chỉ số cần đọc song hành",
+        "Hành động kiểm chứng tiếp theo"
+      ],
+      [
+        "Lời hứa có được giữ trọn?",
+        "CTR, Tỷ lệ chuyển đổi Store, Tỷ lệ xong hướng dẫn, D1 theo mẫu quảng cáo",
+        "So sánh video quảng cáo, trang Store và bản ghi 3 phút đầu theo nhóm thuần tập."
+      ],
+      [
+        "Màn thua đầu có công bằng?",
+        "Tỷ lệ thua, Tỷ lệ thử lại, Tỷ lệ thoát game, Tần suất dùng booster, Ý kiến đánh giá",
+        "Xem lại bản ghi màn chơi; phân biệt rõ giữa thử thách hấp dẫn và sự ức chế do lỗi thiết kế."
+      ],
+      [
+        "Quảng cáo có mang lại giá trị?",
+        "Tỷ lệ chọn xem, Lượt xem trung bình, Tỷ lệ xem hết video, Tỷ lệ thoát sau xem, Tỷ lệ quay lại",
+        "Thử nghiệm A/B vị trí hoặc thời điểm hiển thị; giữ nguyên mức phần thưởng để đo lường."
+      ],
+      [
+        "Gói IAP có giải quyết đúng nhu cầu?",
+        "Lượt xem gói, Tỷ lệ mua, Hành vi của nhóm từ chối mua, Tỷ lệ hoàn tiền, Giữ chân người nạp",
+        "Rà soát tính minh bạch của gói bán, giá trị thực tế và trải nghiệm khi người chơi từ chối."
+      ]
+    ]
+  },
+  {
+    "index": 287,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 288,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một bảng dữ liệu hiển thị hàng trăm chỉ số nhưng không gắn liền với hành động cụ thể chỉ tạo ra sự nhiễu loạn thông tin. Dữ liệu chỉ thực sự có giá trị khi nó phản ánh rõ nét sức khỏe của mối quan hệ giữa người chơi và trò chơi, đồng thời định hướng chính xác nơi đội ngũ cần can thiệp để cải thiện chất lượng sản phẩm.",
+    "runs": [
+      {
+        "text": "Một bảng dữ liệu hiển thị hàng trăm chỉ số nhưng không gắn liền với hành động cụ thể chỉ tạo ra sự nhiễu loạn thông tin. Dữ liệu chỉ thực sự có giá trị khi nó phản ánh rõ nét sức khỏe của mối quan hệ giữa người chơi và trò chơi, đồng thời định hướng chính xác nơi đội ngũ cần can thiệp để cải thiện chất lượng sản phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 289,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 290,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 291,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 292,
+    "type": "table",
+    "rows": [
+      [
+        "Lĩnh vực chẩn đoán",
+        "Chỉ số trọng yếu",
+        "Câu hỏi quyết định chiến lược"
+      ],
+      [
+        "Thu hút (Acquisition)",
+        "CTR, IPM, CPI, Tỷ lệ chuyển đổi trang Store",
+        "Mẫu quảng cáo có tiếp cận đúng tệp người chơi tiềm năng không?"
+      ],
+      [
+        "Kích hoạt (Activation)",
+        "Tốc độ tải, Tỷ lệ crash, Hoàn thành FTUE, Tiến độ Màn 1-10",
+        "Trò chơi có chứng minh được lời hứa cốt lõi đủ nhanh không?"
+      ],
+      [
+        "Gắn kết (Engagement)",
+        "Số phiên chơi, Độ sâu phiên, Tỷ lệ thử lại, D1/D3/D7",
+        "Vòng lặp chơi có tạo ra lý do xứng đáng để người chơi quay lại không?"
+      ],
+      [
+        "Độ khó (Difficulty)",
+        "Tỷ lệ thua, Tỷ lệ thoát game, Tần suất tiêu thụ booster",
+        "Áp lực tạo ra là động lực học hỏi hay sự ức chế bế tắc?"
+      ],
+      [
+        "Quảng cáo (Ads)",
+        "Tỷ lệ người xem, Lượt hiển thị (IMPDAU), Tỷ lệ rời bỏ sau xem",
+        "Hình thức trao đổi quảng cáo có thực sự mang lại sự trợ giúp hữu ích?"
+      ],
+      [
+        "Giao dịch (IAP)",
+        "Lượt xem gói, Tỷ lệ mua, Tỷ lệ tái nạp, Tỷ lệ yêu cầu hoàn tiền",
+        "Sản phẩm có giữ được tính minh bạch và toàn vẹn kinh tế không?"
+      ],
+      [
+        "Niềm tin (Trust)",
+        "Điểm xếp hạng sao, Đánh giá trên Store, Khiếu nại hỗ trợ",
+        "Mối quan hệ lâu dài giữa người chơi và studio có đang bị suy yếu không?"
+      ]
+    ]
+  },
+  {
+    "index": 293,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 294,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Điểm tựa lý thuyết ở đây là nguyên lý suy luận nhân quả (Causal inference): Một con số quan sát được trên bề mặt không tự giải thích nguyên nhân gốc rễ; để hiểu bản chất, đội ngũ bắt buộc phải xây dựng một câu chuyện nhân quả hợp lý và kiểm chứng bằng dữ liệu phân tầng theo nhóm thuần tập (Cohort analysis).",
+    "runs": [
+      {
+        "text": "Điểm tựa lý thuyết ở đây là nguyên lý suy luận nhân quả (Causal inference): Một con số quan sát được trên bề mặt không tự giải thích nguyên nhân gốc rễ; để hiểu bản chất, đội ngũ bắt buộc phải xây dựng một câu chuyện nhân quả hợp lý và kiểm chứng bằng dữ liệu phân tầng theo nhóm thuần tập (Cohort analysis).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 295,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy xây dựng thói quen đọc dữ liệu có định hướng: Biến mỗi buổi duyệt chỉ số thành một buổi thảo luận về trải nghiệm của người chơi và đưa ra các quyết định điều chỉnh có thể đo lường được kết quả.",
+    "runs": [
+      {
+        "text": "Hãy xây dựng thói quen đọc dữ liệu có định hướng: Biến mỗi buổi duyệt chỉ số thành một buổi thảo luận về trải nghiệm của người chơi và đưa ra các quyết định điều chỉnh có thể đo lường được kết quả.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 296,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 297,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 298,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 299,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 300,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 301,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "22. Read metric pairs\nMột chỉ số chỉ trở nên hữu ích khi được đối chiếu cùng cái giá mà nó tạo ra",
+    "runs": [
+      {
+        "text": "22. Read metric pairs",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nMột chỉ số chỉ trở nên hữu ích khi được đối chiếu cùng cái giá mà nó tạo ra",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 302,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Không bao giờ được phép đọc một chỉ số tăng trưởng một cách cô lập. Mọi sự thay đổi trong game luôn tạo ra tác động kép: Một chỉ số đi lên thường đi kèm với nguy cơ một chỉ số khác bị tổn hại. Nếu chỉ nhìn vào một nửa bức tranh, đội ngũ sẽ rất dễ rơi vào ảo tưởng về sự thành công.",
+    "runs": [
+      {
+        "text": "Không bao giờ được phép đọc một chỉ số tăng trưởng một cách cô lập. Mọi sự thay đổi trong game luôn tạo ra tác động kép: Một chỉ số đi lên thường đi kèm với nguy cơ một chỉ số khác bị tổn hại. Nếu chỉ nhìn vào một nửa bức tranh, đội ngũ sẽ rất dễ rơi vào ảo tưởng về sự thành công.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 303,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 304,
+    "type": "table",
+    "rows": [
+      [
+        "Chỉ số tăng trưởng ngắn hạn",
+        "Chỉ số đối ứng bắt buộc phải đọc song hành",
+        "Câu hỏi chẩn đoán bản chất"
+      ],
+      [
+        "CTR (Tỷ lệ nhấp quảng cáo)",
+        "Tỷ lệ chuyển đổi trang Store, D1, Độ sâu phiên chơi",
+        "Mẫu quảng cáo đang thu hút đúng tệp người chơi tiềm năng hay chỉ câu lượt nhấp ảo?"
+      ],
+      [
+        "Doanh thu IAP ngắn hạn",
+        "Tỷ lệ giữ chân D7/D30, Điểm đánh giá Store, Tỷ lệ hoàn tiền",
+        "Gói bán mang lại giá trị thực sự hay chỉ bòn rút sự ức chế nhất thời của người chơi?"
+      ],
+      [
+        "IMPDAU (Lượt xem Ad trung bình)",
+        "Thời lượng phiên chơi, Tỷ lệ rời bỏ game (Churn)",
+        "Quảng cáo đang hỗ trợ trải nghiệm hay đang làm đứt gãy sự tập trung của người chơi?"
+      ],
+      [
+        "Tỷ lệ vượt màn chơi (Pass rate)",
+        "Tỷ lệ dùng booster, Tỷ lệ thử lại sau thất bại",
+        "Người chơi vượt qua bằng kỹ năng thực thụ hay buộc phải chi tiền để mua lối thoát?"
+      ],
+      [
+        "Doanh thu trong sự kiện",
+        "Tỷ lệ quay lại sau sự kiện, Số dư tiền tệ, Tỷ lệ rời bỏ",
+        "Sự kiện tạo ra giá trị mới hay chỉ đang vay mượn chi tiêu từ tương lai?"
+      ]
+    ]
+  },
+  {
+    "index": 305,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 306,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy luôn đọc dữ liệu theo các cặp chỉ số đối ứng (Metric pairs):",
+    "runs": [
+      {
+        "text": "Hãy luôn đọc dữ liệu theo các cặp chỉ số đối ứng (Metric pairs):",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 307,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Doanh thu trung bình trên mỗi người dùng (ARPDAU) phải đi cùng Tỷ lệ giữ chân Ngày 7 (D7 Retention).",
+    "runs": [
+      {
+        "text": "• Doanh thu trung bình trên mỗi người dùng (ARPDAU) phải đi cùng Tỷ lệ giữ chân Ngày 7 (D7 Retention).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 308,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Tỷ lệ chuyển đổi mua gói ưu đãi (Conversion Rate) phải đi cùng Điểm đánh giá (Store Ratings) và Tỷ lệ hoàn tiền (Refund Rate).",
+    "runs": [
+      {
+        "text": "• Tỷ lệ chuyển đổi mua gói ưu đãi (Conversion Rate) phải đi cùng Điểm đánh giá (Store Ratings) và Tỷ lệ hoàn tiền (Refund Rate).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 309,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Số lượt xem quảng cáo trung bình (IMPDAU) phải đi cùng Độ sâu phiên chơi (Session Length) và Tỷ lệ thoát game (Churn Rate).",
+    "runs": [
+      {
+        "text": "• Số lượt xem quảng cáo trung bình (IMPDAU) phải đi cùng Độ sâu phiên chơi (Session Length) và Tỷ lệ thoát game (Churn Rate).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 310,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "• Chi phí thu hút người dùng (CPI) phải đi cùng Tỷ lệ hoàn thành màn chơi đầu (FTUE Completion) và Doanh thu trọn đời thực tế (Realized LTV).",
+    "runs": [
+      {
+        "text": "• Chi phí thu hút người dùng (CPI) phải đi cùng Tỷ lệ hoàn thành màn chơi đầu (FTUE Completion) và Doanh thu trọn đời thực tế (Realized LTV).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 311,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "23. Decision trees\nCây quyết định ngăn đội ngũ nhảy vội từ một số liệu bề nổi sang một giải pháp quen tay",
+    "runs": [
+      {
+        "text": "23. Decision trees",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nCây quyết định ngăn đội ngũ nhảy vội từ một số liệu bề nổi sang một giải pháp quen tay",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 312,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi tỷ lệ giữ chân Ngày 1 (D1) sụt giảm, phản xạ quen thuộc của nhiều đội ngũ là vội vã hạ độ khó của màn chơi hoặc phát thêm tiền thưởng miễn phí. Tuy nhiên, nguyên nhân thực sự có thể nằm ở chỗ: Mẫu quảng cáo đang hứa hẹn sai thể loại game, hoặc màn hình yêu cầu cấp quyền xuất hiện quá sớm làm đứt mạch trải nghiệm.",
+    "runs": [
+      {
+        "text": "Khi tỷ lệ giữ chân Ngày 1 (D1) sụt giảm, phản xạ quen thuộc của nhiều đội ngũ là vội vã hạ độ khó của màn chơi hoặc phát thêm tiền thưởng miễn phí. Tuy nhiên, nguyên nhân thực sự có thể nằm ở chỗ: Mẫu quảng cáo đang hứa hẹn sai thể loại game, hoặc màn hình yêu cầu cấp quyền xuất hiện quá sớm làm đứt mạch trải nghiệm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 313,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nếu D1 ổn định nhưng D3 và D7 giảm mạnh, hãy kiểm tra lại lý do quay lại của người chơi, các điểm tắc nghẽn độ khó bất thường, tần suất hiển thị quảng cáo xen kẽ quá dày, hoặc sự đơn điệu của nội dung ở phiên chơi thứ hai. Cây quyết định (Decision tree) giúp đội ngũ phân tích vấn đề theo từng nhánh nguyên nhân logic thay vì đưa ra các quyết định cảm tính.",
+    "runs": [
+      {
+        "text": "Nếu D1 ổn định nhưng D3 và D7 giảm mạnh, hãy kiểm tra lại lý do quay lại của người chơi, các điểm tắc nghẽn độ khó bất thường, tần suất hiển thị quảng cáo xen kẽ quá dày, hoặc sự đơn điệu của nội dung ở phiên chơi thứ hai. Cây quyết định (Decision tree) giúp đội ngũ phân tích vấn đề theo từng nhánh nguyên nhân logic thay vì đưa ra các quyết định cảm tính.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 314,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy thiết lập các quy trình chẩn đoán chuẩn mực cho studio: ",
+    "runs": [
+      {
+        "text": "Hãy thiết lập các quy trình chẩn đoán chuẩn mực cho studio: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 315,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Xác định rõ triệu chứng ➔ Liệt kê các giả thuyết nguyên nhân ",
+    "runs": [
+      {
+        "text": "X",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ác định rõ triệu chứng ➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "L",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "iệt kê các giả thuyết nguyên nhân ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 316,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Kiểm tra dữ liệu đối chiếu ➔ Đưa ra giải pháp can thiệp thử nghiệm.",
+    "runs": [
+      {
+        "text": "➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "K",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "iểm tra dữ liệu đối chiếu ➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "Đ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ưa ra giải pháp can thiệp thử nghiệm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 317,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 318,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Đầu ra của một cây quyết định phải là một giả thuyết rõ ràng có thể bị bác bỏ, một người chịu trách nhiệm chính (Owner) và một thời hạn đo lường cụ thể. Khi dữ liệu chưa đủ bằng chứng để kết luận, việc dũng cảm thừa nhận \"chưa rõ\" và tiếp tục đào sâu quan sát luôn tốt hơn việc vội vã chi tiền mở rộng quy mô.",
+    "runs": [
+      {
+        "text": "Đầu ra của một cây quyết định phải là một giả thuyết rõ ràng có thể bị bác bỏ, một người chịu trách nhiệm chính (Owner) và một thời hạn đo lường cụ thể. Khi dữ liệu chưa đủ bằng chứng để kết luận, việc dũng cảm thừa nhận \"chưa rõ\" và tiếp tục đào sâu quan sát luôn tốt hơn việc vội vã chi tiền mở rộng quy mô.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 319,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "24. Experimentation\nThử nghiệm chỉ có giá trị khi nó giúp đội ngũ loại bỏ một điều bất định quan trọng",
+    "runs": [
+      {
+        "text": "24. Experimentation",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nThử nghiệm chỉ có giá trị khi nó giúp đội ngũ loại bỏ một điều bất định quan trọng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 320,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Thử nghiệm phân tách A/B (A/B testing) là công cụ khoa học tối thượng để tối ưu hóa sản phẩm. Tuy nhiên, thử nghiệm sẽ biến thành một trò diễn vô bổ nếu đội ngũ thay đổi cùng lúc quá nhiều biến số hoặc chạy thử nghiệm mà không có một giả thuyết cơ chế rõ ràng từ trước.",
+    "runs": [
+      {
+        "text": "Thử nghiệm phân tách A/B (A/B testing) là công cụ khoa học tối thượng để tối ưu hóa sản phẩm. Tuy nhiên, thử nghiệm sẽ biến thành một trò diễn vô bổ nếu đội ngũ thay đổi cùng lúc quá nhiều biến số hoặc chạy thử nghiệm mà không có một giả thuyết cơ chế rõ ràng từ trước.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 321,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 322,
+    "type": "table",
+    "rows": [
+      [
+        "Trước khi ship",
+        "Chỉ được đi tiếp khi"
+      ],
+      [
+        "Giả thuyết",
+        "Nêu được cơ chế và một thay đổi nhỏ nhất để kiểm tra."
+      ],
+      [
+        "Metric",
+        "Có primary metric, guardrail và cách đọc theo cohort."
+      ],
+      [
+        "Quyết định",
+        "Đã viết điều kiện giữ, sửa, rollback hoặc dừng trước khi xem kết quả."
+      ],
+      [
+        "Trí nhớ team",
+        "Có owner và nơi lưu context để test sau không lặp lại cùng sai lầm."
+      ]
+    ]
+  },
+  {
+    "index": 323,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 324,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 325,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một thử nghiệm đạt chuẩn cần đáp ứng 4 tiêu chí: Có giả thuyết nhân quả rõ ràng, có quy mô mẫu đủ lớn để đạt ý nghĩa thống kê, có các chỉ số cảnh báo rủi ro (Guardrail metrics) để bảo vệ trải nghiệm chung, và có kế hoạch hoàn tác nhanh chóng (Rollback plan) nếu kết quả thử nghiệm gây hại cho sản phẩm.",
+    "runs": [
+      {
+        "text": "Một thử nghiệm đạt chuẩn cần đáp ứng 4 tiêu chí: Có giả thuyết nhân quả rõ ràng, có quy mô mẫu đủ lớn để đạt ý nghĩa thống kê, có các chỉ số cảnh báo rủi ro (Guardrail metrics) để bảo vệ trải nghiệm chung, và có kế hoạch hoàn tác nhanh chóng (Rollback plan) nếu kết quả thử nghiệm gây hại cho sản phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 326,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy ghi lại toàn bộ nhật ký học tập từ các thử nghiệm: Bài học rút ra từ một thử nghiệm thất bại thường mang lại giá trị định hướng lâu dài lớn hơn nhiều so với một mức tăng trưởng số liệu ngắn hạn không rõ nguyên nhân.",
+    "runs": [
+      {
+        "text": "Hãy ghi lại toàn bộ nhật ký học tập từ các thử nghiệm: Bài học rút ra từ một thử nghiệm thất bại thường mang lại giá trị định hướng lâu dài lớn hơn nhiều so với một mức tăng trưởng số liệu ngắn hạn không rõ nguyên nhân.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 327,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hệ thống cấu hình từ xa (Remote config) là công cụ đắc lực hỗ trợ triển khai và thu hồi tính năng linh hoạt, nhưng nó không bao giờ thay thế được tư duy thiết kế thử nghiệm nghiêm túc của đội ngũ phát triển.",
+    "runs": [
+      {
+        "text": "Hệ thống cấu hình từ xa (Remote config) là công cụ đắc lực hỗ trợ triển khai và thu hồi tính năng linh hoạt, nhưng nó không bao giờ thay thế được tư duy thiết kế thử nghiệm nghiêm túc của đội ngũ phát triển.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 328,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart V: Tín hiệu, quyết định và thử nghiệm",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart V: Tín hiệu, quyết định và thử nghiệm",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 329,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 330,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Thiết lập bảng dữ liệu theo các cặp chỉ số đối ứng (ARPDAU song hành cùng D7 Retention; IMPDAU song hành cùng Churn Rate).\n• Xây dựng cây quyết định chẩn đoán nguyên nhân khi chỉ số giữ chân Ngày 1 hoặc Ngày 7 biến động bất thường.\n• Chuẩn hóa quy trình thử nghiệm A/B: Xác định rõ giả thuyết nhân quả, chỉ số cảnh báo rủi ro và kế hoạch hoàn tác.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Mức tăng trưởng số liệu ngắn hạn này có đang âm thầm làm tổn hại đến niềm tin và tỷ lệ giữ chân dài hạn không?\n• Đội ngũ đã có giả thuyết cơ chế nào để giải thích cho xu hướng hành vi này, và bằng chứng nào sẽ bác bỏ nó?\n• Thử nghiệm này có giúp loại bỏ một điều bất định quan trọng, hay chỉ là sự thay đổi ngẫu hứng?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Một chỉ số chỉ có ý nghĩa khi được đối chiếu cùng cái giá phải trả để đạt được nó.\n• Dữ liệu mô tả hiện tượng bề nổi; sự thấu cảm và tư duy nhân quả mới giải mã được bản chất vấn đề.\n• Dũng cảm thừa nhận \"chưa rõ\" luôn tốt hơn việc vội vã chi tiền mở rộng quy mô trên một nền tảng bấp bênh.",
+        "ĐƯA VÀO CUỘC HỌP (45 phút):\n• Thành phần: Head of Product, Data Lead, UA Lead, LiveOps Lead.\n• Tài liệu mang theo: Bảng dashboard các cặp chỉ số, báo cáo phân tích nhóm thuần tập và kết quả thử nghiệm A/B.\n• Kết quả cần chốt: Quyết định giữ lại, hoàn tác hoặc điều chỉnh các thử nghiệm dựa trên chỉ số cảnh báo rủi ro."
+      ]
+    ]
+  },
+  {
+    "index": 331,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 332,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần VI sẽ đi sâu vào một vấn đề mang tính chiến lược: Dữ liệu thị trường và trí tuệ nhân tạo có thể giúp đội ngũ đi nhanh hơn ở đâu, và đâu là những giới hạn mà dữ liệu vĩnh viễn không thể thay thế được năng lực phán đoán của con người.",
+    "runs": [
+      {
+        "text": "Phần VI sẽ đi sâu vào một vấn đề mang tính chiến lược: Dữ liệu thị trường và trí tuệ nhân tạo có thể giúp đội ngũ đi nhanh hơn ở đâu, và đâu là những giới hạn mà dữ liệu vĩnh viễn không thể thay thế được năng lực phán đoán của con người.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  }
+]

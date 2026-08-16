@@ -1,0 +1,37 @@
+[434] (Heading 1): Part VIII: Genre playbooks
+Phần VIII: Cẩm nang thiết kế theo thể loại
+[435] (Heading 2): 34. The emotional loop
+Bắt đầu từ cảm xúc mà người chơi mong muốn tìm kiếm, rồi mới lựa chọn giải pháp kiếm tiền phù hợp
+[436] TABLE: 5 rows x 5 cols
+  | Phân khúc thể loại | Cảm xúc cốt lõi tìm kiếm | Điểm chạm quảng cáo phù hợp khi | Điểm chạm IAP phù hợp khi | Rủi ro cần phòng tránh |
+  | Casual Puzzle | Sự mới lạ, giải tỏa nhanh chóng | Xuất hiện tại các điểm ngắt tự nhiên rõ ràng giữa các màn chơi. | Gói tiện lợi, gói gỡ quảng cáo vĩnh viễn (No-ads). | Tần suất quảng cáo quá dày làm mòn vòng lặp chơi vốn mỏng. |
+  | Hybrid-Casual | Vòng lặp nhanh kết hợp mục tiêu meta nhẹ | Mở rộng quyền tự chủ và nâng cấp tiến trình trong vòng lặp chính. | Vé tham gia sự kiện, gói gỡ quảng cáo, gói tăng tốc tiến trình. | Hệ thống meta quá hời hợt không tạo được động lực dài hạn. |
+  | Classic Puzzle | Làm chủ kỹ năng, lập lại trật tự | Hỗ trợ các quyết định chiến thuật minh bạch và có thể lý giải. | Công cụ gỡ nút thắt thế cờ công bằng, không tạo cảm giác gian lận. | Nhầm lẫn giữa áp lực thời gian với độ khó tư duy thực sự. |
+  | Hybrid-Puzzle | Cảm giác thành tựu sâu sắc & đầu tư dài hạn | Tích hợp nhịp nhàng vào các chuỗi sự kiện và tính năng xây dựng meta. | Gói tiến trình, bộ sưu tập độc quyền, vé sự kiện mùa (Battle pass). | Tốc độ sản xuất nội dung và kinh tế game vượt quá năng lực vận hành. |
+[437] (Normal): 
+[438] (Normal): Không tồn tại một "Chân dung người chơi game puzzle" chung chung cho tất cả các dự án, và do đó không thể có một công thức kiếm tiền mặc định áp dụng cho mọi thể loại. Mỗi dòng game đáp ứng một trạng thái tâm lý hoàn toàn khác biệt.
+[439] (Normal): 
+[440] (Normal): Hãy xây dựng bản đồ cơ chế kiếm tiền tương ứng với vòng lặp cảm xúc đặc thù:
+[441] (Normal): • Dòng game Sắp xếp (Sort Puzzle): Bán cảm giác giải tỏa thông qua sự trật tự. Các giải pháp phù hợp: Tính năng hoàn tác (Undo), mở thêm ô khay chứa đồ và gói gỡ quảng cáo (Remove ads) nhằm bảo vệ sự sáng suốt của kế hoạch sắp xếp.
+[442] (Normal): • Dòng game Giải tỏa tắc nghẽn (Jam Puzzle): Bán cảm giác hồi hộp có kiểm soát rồi vỡ òa giải tỏa. Phù hợp với các lời đề nghị tiếp tục chơi khi suýt hoàn thành (Continue after near-miss) đi kèm phương án giải quyết cụ thể.
+[443] (Normal): • Dòng game Vật lý (Physics Puzzle): Bán sự tò mò, thử nghiệm nhanh và yếu tố bất ngờ. Phù hợp với cơ chế thử lại nhanh hoặc quảng cáo đổi lấy công cụ hỗ trợ độc đáo mà không làm gián đoạn dòng chảy trải nghiệm.
+[444] (Normal): • Dòng game Nối 3 truyền thống (Match-3): Bán cảm giác làm chủ kỹ năng và tiến trình khám phá dài hạn. Phù hợp với hệ thống booster chiến thuật, mạng chơi (Lives) và các chuỗi sự kiện theo mùa.
+[445] (Normal): 
+[446] TABLE: 5 rows x 4 cols
+  | Thể loại / Cơ chế chơi | Cảm xúc cốt lõi của người chơi | Hình thức trao đổi giá trị cần kiểm chứng | Rủi ro cần phòng tránh |
+  | Sắp xếp (Sort Puzzle) | Giải tỏa thông qua sự trật tự, ngăn nắp | Tính năng hoàn tác (Undo), mở thêm ô chứa đồ sau kế hoạch tính toán rõ ràng. | Cố tình bóp nghẹt ô trống để ép người chơi mua công cụ. |
+  | Tắc nghẽn (Jam Puzzle) | Hồi hộp có kiểm soát rồi vỡ òa giải tỏa | Đề nghị tiếp tục chơi khi suýt hoàn thành đi kèm phương án giải quyết cụ thể. | Áp lực quá vô lý khiến người chơi không thể lý giải được thất bại. |
+  | Vật lý (Physics Puzzle) | Tò mò, thử nghiệm nhanh và bất ngờ thú vị | Cơ chế thử lại nhanh hoặc quảng cáo đổi công cụ độc đáo không ngắt dòng chảy. | Gói bán xuất hiện chậm chạp làm đứt gãy nhịp điệu hưng phấn khám phá. |
+  | Nối 3 (Match-3 Puzzle) | Làm chủ kỹ năng và tiến trình dài hạn | Booster chiến thuật, mạng chơi và chuỗi sự kiện phục vụ mục tiêu dài hạn. | Nhu cầu sản xuất nội dung vượt quá năng lực vận hành thực tế của studio. |
+[447] (Normal): 
+[448] (Normal): Khi các điểm chạm thương mại ăn khớp hoàn hảo với vòng lặp cảm xúc cốt lõi, người chơi sẽ đón nhận chúng như những phần thưởng tự nhiên thay vì cảm giác bị làm phiền.
+[449] (Heading 2): 35. Evidence, not blueprint
+Ví dụ thị trường chỉ giúp lựa chọn câu hỏi đúng; dữ liệu nhóm thuần tập của studio mới quyết định cấu hình sản phẩm
+[450] (Normal): Những tựa game thành công vang dội như Royal Match, Candy Crush Saga hay Merge Mansion đặt ra những bài học tham khảo vô cùng giá trị về nhịp độ sản xuất nội dung, cách tạo áp lực trên bàn cờ và nghệ thuật duy trì gắn kết cộng đồng. Tuy nhiên, chúng là những bằng chứng lịch sử để học hỏi tư duy, không phải bản thiết kế chi tiết để sao chép nguyên mẫu.
+[451] (Normal): Hãy sử dụng dữ liệu thị trường công khai để nắm bắt quy mô phân khúc, tốc độ chuyển dịch của thị trường và bối cảnh cạnh tranh chiến lược. Nhưng hãy luôn dùng chính dữ liệu nhóm thuần tập của tựa game bạn đang làm để tinh chỉnh độ khó từng màn chơi, thiết lập mức giá gói nạp và tối ưu hóa các điểm chạm quảng cáo.
+[452] (Heading 3): Memory note | Decision board
+Part VIII: Bản đồ cơ chế theo thể loại
+[453] TABLE: 2 rows x 2 cols
+  | LÀM NGAY: • Chọn một thể loại game đang phát triển và mô tả vòng lặp cảm xúc bằng ngôn ngữ của người chơi, không dùng danh sách tính năng. • Lựa chọn các điểm chạm thương mại ăn khớp hoàn hảo với vòng lặp cảm xúc đó và kiểm chứng trên bản mẫu nhỏ. • Nhận diện rõ các rủi ro về tính công bằng và dòng chảy trải nghiệm trước khi biến chúng thành các gói bán vật phẩm. | HỎI TRƯỚC KHI QUYẾT ĐỊNH: • Người chơi quay lại tựa game này để tìm kiếm trạng thái cảm xúc gì, và sản phẩm hiện tại có làm sâu sắc cảm xúc đó không? • Điểm chạm kiếm tiền này đang bảo vệ vòng lặp trải nghiệm hay đang làm gián đoạn khoảnh khắc kịch tính nhất? • Nhóm thuần tập nào cần được thử nghiệm trước để kiểm chứng tính xác thực của cơ chế thể loại? |
+  | CẦN GHI NHỚ: • Thể loại game được định nghĩa bằng cơ chế và cảm xúc, không phải danh mục tính năng cần sao chép. • Một vị trí kiếm tiền chỉ đạt chuẩn khi nó giúp người chơi dấn thân sâu hơn vào hành trình họ đang tìm kiếm. • Không có số liệu tham chiếu công khai nào thay thế được mối quan hệ nhân quả trong chính nhóm người chơi của bạn. | ĐƯA VÀO CUỘC HỌP (45 phút): • Thành phần: Lead Game Designer, Product Lead, Economy Designer, UA Creative Lead. • Tài liệu mang theo: Bản đồ cơ chế theo thể loại, dữ liệu phân tích đối thủ, bản ghi gameplay và kế hoạch thử nghiệm. • Kết quả cần chốt: Xác lập vòng lặp cảm xúc trọng tâm, điểm chạm thương mại cần thử nghiệm đầu tiên và điều kiện dừng. |
+[454] (Normal): Phần IX là bài kiểm tra toàn diện cuối cùng: Quy trình kiểm toán 30 phút giúp người làm game phát hiện chính xác các điểm rò rỉ niềm tin, thất thoát giá trị và xác lập tiêu chuẩn hoàn thành trước khi mở rộng quy mô.

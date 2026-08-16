@@ -1,0 +1,766 @@
+[
+  {
+    "index": 229,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 230,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part IV: Ads, IAP, and economy\nPhần IV: Quảng cáo, IAP và nền kinh tế trong game",
+    "runs": [
+      {
+        "text": "Part IV: Ads, IAP, and economy",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần IV: Quảng cáo, IAP và nền kinh tế trong game",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 231,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "15. Rewarded ads\nQuảng cáo đổi thưởng chỉ bền vững khi trao đổi đúng giá trị mà người chơi đang thực sự cần",
+    "runs": [
+      {
+        "text": "15. Rewarded ads",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nQuảng cáo đổi thưởng chỉ bền vững khi trao đổi đúng giá trị mà người chơi đang thực sự cần",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 232,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Quảng cáo đổi thưởng (Rewarded ads) là một hợp đồng trao đổi tự nguyện giữa người chơi và trò chơi: Người chơi đồng ý dành ra 30 giây chú ý để đổi lấy một tài nguyên hoặc cơ hội có ý nghĩa ngay tại thời điểm đó. Bản chất của rewarded ad không phải là một sự gián đoạn cưỡng bức, mà là một dịch vụ hỗ trợ đúng lúc.",
+    "runs": [
+      {
+        "text": "Quảng cáo đổi thưởng (Rewarded ads) là một hợp đồng trao đổi tự nguyện giữa người chơi và trò chơi: Người chơi đồng ý dành ra 30 giây chú ý để đổi lấy một tài nguyên hoặc cơ hội có ý nghĩa ngay tại thời điểm đó. Bản chất của rewarded ad không phải là một sự gián đoạn cưỡng bức, mà là một dịch vụ hỗ trợ đúng lúc.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 233,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy thiết kế vị trí đặt quảng cáo đổi thưởng (Placement) theo một cấu trúc trao đổi rõ ràng: \"Sau khi đối mặt với tình huống X, người chơi có thể chủ động chọn xem quảng cáo để nhận giá trị Y, và giá trị Y đó giúp họ giải quyết trực tiếp trở ngại trước mắt\". Nếu phần thưởng trao ra quá rẻ mạt hoặc không liên quan đến nhu cầu hiện tại, người chơi sẽ từ chối xem; nếu phần thưởng quá hào phóng làm phá vỡ toàn bộ nền kinh tế game, họ sẽ không còn động lực để tự mình vượt qua thử thách hay cân nhắc các gói nạp IAP.",
+    "runs": [
+      {
+        "text": "Hãy thiết kế vị trí đặt quảng cáo đổi thưởng (Placement) theo một cấu trúc trao đổi rõ ràng: \"Sau khi đối mặt với tình huống X, người chơi có thể chủ động chọn xem quảng cáo để nhận giá trị Y, và giá trị Y đó giúp họ giải quyết trực tiếp trở ngại trước mắt\". Nếu phần thưởng trao ra quá rẻ mạt hoặc không liên quan đến nhu cầu hiện tại, người chơi sẽ từ chối xem; nếu phần thưởng quá hào phóng làm phá vỡ toàn bộ nền kinh tế game, họ sẽ không còn động lực để tự mình vượt qua thử thách hay cân nhắc các gói nạp IAP.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 234,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 235,
+    "type": "table",
+    "rows": [
+      [
+        "Nhu cầu",
+        "Cách trao đổi",
+        "Điều kiện bảo vệ"
+      ],
+      [
+        "Tiếp tục lượt chơi",
+        "Thêm lượt đi hoặc hồi sinh",
+        "Không dùng để vá độ khó bị che giấu"
+      ],
+      [
+        "Giữ phần thưởng",
+        "Nhân phần thưởng",
+        "Phần thưởng gốc vẫn phải có ý nghĩa"
+      ],
+      [
+        "Thử công cụ",
+        "Dùng thử",
+        "Giải thích rõ điều gì xảy ra sau khi dùng thử"
+      ],
+      [
+        "Giảm thời gian chờ",
+        "Nạp lại một phần nhỏ",
+        "Không chặn toàn bộ việc chơi"
+      ]
+    ]
+  },
+  {
+    "index": 236,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 237,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Không có một con số tham chiếu chung nào về tỷ lệ chọn xem quảng cáo (Opt-in rate) áp dụng cho mọi tựa game. Hãy kiểm tra các vị trí đặt quảng cáo đổi thưởng dựa trên dữ liệu thực tế của chính dự án: Tỷ lệ người chơi chủ động chọn xem, số lượt xem trung bình trên mỗi người chơi hoạt động, tỷ lệ hoàn thành video quảng cáo, và quan trọng nhất là mức độ gắn kết sau khi nhận thưởng. Hãy đảm bảo phần thưởng luôn được trao chính xác, nhanh chóng và minh bạch.",
+    "runs": [
+      {
+        "text": "Không có một con số tham chiếu chung nào về tỷ lệ chọn xem quảng cáo (Opt-in rate) áp dụng cho mọi tựa game. Hãy kiểm tra các vị trí đặt quảng cáo đổi thưởng dựa trên dữ liệu thực tế của chính dự án: Tỷ lệ người chơi chủ động chọn xem, số lượt xem trung bình trên mỗi người chơi hoạt động, tỷ lệ hoàn thành video quảng cáo, và quan trọng nhất là mức độ gắn kết sau khi nhận thưởng. Hãy đảm bảo phần thưởng luôn được trao chính xác, nhanh chóng và minh bạch.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 238,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi quảng cáo đổi thưởng được thiết kế như một sự trợ giúp công bằng và kịp thời, nó không những không làm tổn hại đến tỷ lệ giữ chân mà còn gia tăng thiện cảm của người chơi đối với sản phẩm.",
+    "runs": [
+      {
+        "text": "Khi quảng cáo đổi thưởng được thiết kế như một sự trợ giúp công bằng và kịp thời, nó không những không làm tổn hại đến tỷ lệ giữ chân mà còn gia tăng thiện cảm của người chơi đối với sản phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 239,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "16. Interstitials\nQuảng cáo xen kẽ chỉ nên xuất hiện tại những điểm ngắt tự nhiên khi sự tập trung đã hoàn tất",
+    "runs": [
+      {
+        "text": "16. Interstitials",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nQuảng cáo xen kẽ chỉ nên xuất hiện tại những điểm ngắt tự nhiên khi sự tập trung đã hoàn tất",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 240,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Quảng cáo xen kẽ (Interstitial ads) là định dạng có độ xâm lấn cao nhất trong trải nghiệm game di động. Nếu xuất hiện đột ngột giữa lúc người chơi đang tập trung suy nghĩ hoặc ngay khi vừa thất bại trong trạng thái ức chế, interstitial sẽ lập tức kích hoạt phản ứng tiêu cực và thúc đẩy hành vi gỡ cài đặt ứng dụng. Điểm chạm kinh tế của interstitial đòi hỏi sự thận trọng tối đa: Doanh thu quảng cáo kiếm được từ một lượt hiển thị vô duyên vĩnh viễn không thể bù đắp được giá trị trọn đời (LTV) bị mất đi từ một người chơi rời bỏ game.",
+    "runs": [
+      {
+        "text": "Quảng cáo xen kẽ (Interstitial ads) là định dạng có độ xâm lấn cao nhất trong trải nghiệm game di động. Nếu xuất hiện đột ngột giữa lúc người chơi đang tập trung suy nghĩ hoặc ngay khi vừa thất bại trong trạng thái ức chế, interstitial sẽ lập tức kích hoạt phản ứng tiêu cực và thúc đẩy hành vi gỡ cài đặt ứng dụng. Điểm chạm kinh tế của interstitial đòi hỏi sự thận trọng tối đa: Doanh thu quảng cáo kiếm được từ một lượt hiển thị vô duyên vĩnh viễn không thể bù đắp được giá trị trọn đời (LTV) bị mất đi từ một người chơi rời bỏ game.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 241,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nghiên cứu của Stothart, Mitchum & Yehnert (2015) về sự phân tâm nhận thức chỉ ra rằng ngay cả những gián đoạn ngắn cũng phá vỡ hoàn toàn dòng chảy tư duy của con người. Vì vậy, vị trí duy nhất có thể chấp nhận để hiển thị quảng cáo xen kẽ là tại các điểm ngắt tự nhiên (Natural breakpoints) — chẳng hạn như sau khi người chơi vừa hoàn thành một màn chơi, nhận xong phần thưởng tổng kết và chuẩn bị chuyển sang một khu vực mới.",
+    "runs": [
+      {
+        "text": "Nghiên cứu của Stothart, Mitchum & Yehnert (2015) về sự phân tâm nhận thức chỉ ra rằng ngay cả những gián đoạn ngắn cũng phá vỡ hoàn toàn dòng chảy tư duy của con người. Vì vậy, vị trí duy nhất có thể chấp nhận để hiển thị quảng cáo xen kẽ là tại các điểm ngắt tự nhiên (Natural breakpoints) — chẳng hạn như sau khi người chơi vừa hoàn thành một màn chơi, nhận xong phần thưởng tổng kết và chuẩn bị chuyển sang một khu vực mới.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 242,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy thiết lập các quy tắc bảo vệ nghiêm ngặt: Giới hạn tần suất hiển thị (Frequency capping) hợp lý, không bao giờ hiển thị interstitial ở những màn chơi đầu tiên, tự động gỡ bỏ hoàn toàn interstitial đối với những người chơi đã thực hiện bất kỳ giao dịch nạp IAP nào, và luôn cung cấp nút đóng quảng cáo rõ ràng, dễ thao tác. Hãy theo dõi chỉ số lượt hiển thị trung bình (IMPDAU) song hành cùng tỷ lệ giữ chân D1/D7 để kịp thời phát hiện các dấu hiệu xói mòn niềm tin.",
+    "runs": [
+      {
+        "text": "Hãy thiết lập các quy tắc bảo vệ nghiêm ngặt: Giới hạn tần suất hiển thị (Frequency capping) hợp lý, không bao giờ hiển thị interstitial ở những màn chơi đầu tiên, tự động gỡ bỏ hoàn toàn interstitial đối với những người chơi đã thực hiện bất kỳ giao dịch nạp IAP nào, và luôn cung cấp nút đóng quảng cáo rõ ràng, dễ thao tác. Hãy theo dõi chỉ số lượt hiển thị trung bình (IMPDAU) song hành cùng tỷ lệ giữ chân D1/D7 để kịp thời phát hiện các dấu hiệu xói mòn niềm tin.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 243,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "17. Boosters\nVật phẩm bổ trợ phải mở ra một lựa chọn chiến thuật rõ ràng, không phải liều thuốc vá lỗi",
+    "runs": [
+      {
+        "text": "17. Boosters",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nVật phẩm bổ trợ phải mở ra một lựa chọn chiến thuật rõ ràng, không phải liều thuốc vá lỗi",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 244,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Vật phẩm bổ trợ (Booster) là công cụ trao cho người chơi quyền can thiệp vào bàn cờ để thay đổi cục diện chiến thuật — như xóa một chướng ngại vật cứng đầu, hoán đổi vị trí hay tạo thêm lượt đi. Một booster được thiết kế tốt khi người chơi hiểu chính xác tại sao mình sử dụng nó và cảm nhận được sự thông minh trong quyết định can thiệp của mình. Ngược lại, nếu một màn chơi được thiết kế quá bất công đến mức không thể vượt qua nếu không dùng booster, thì booster đó đã bị biến thành chiếc vé thông hành bắt buộc, tước đoạt toàn bộ niềm vui chiến thắng.",
+    "runs": [
+      {
+        "text": "Vật phẩm bổ trợ (Booster) là công cụ trao cho người chơi quyền can thiệp vào bàn cờ để thay đổi cục diện chiến thuật — như xóa một chướng ngại vật cứng đầu, hoán đổi vị trí hay tạo thêm lượt đi. Một booster được thiết kế tốt khi người chơi hiểu chính xác tại sao mình sử dụng nó và cảm nhận được sự thông minh trong quyết định can thiệp của mình. Ngược lại, nếu một màn chơi được thiết kế quá bất công đến mức không thể vượt qua nếu không dùng booster, thì booster đó đã bị biến thành chiếc vé thông hành bắt buộc, tước đoạt toàn bộ niềm vui chiến thắng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 245,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy phân tích dữ liệu sử dụng booster trên từng màn chơi cụ thể: Nếu một màn chơi có tỷ lệ sử dụng booster tăng đột biến bất thường đi kèm với tỷ lệ thoát game cao, đó là tín hiệu cho thấy màn chơi đang bị lỗi thiết kế chứ không phải người chơi đang hào hứng mua sắm. Việc lạm dụng độ khó để ép tiêu thụ booster sẽ nhanh chóng làm cạn kiệt lượng tài nguyên tích lũy của người chơi và đẩy họ vào tình thế bế tắc.",
+    "runs": [
+      {
+        "text": "Hãy phân tích dữ liệu sử dụng booster trên từng màn chơi cụ thể: Nếu một màn chơi có tỷ lệ sử dụng booster tăng đột biến bất thường đi kèm với tỷ lệ thoát game cao, đó là tín hiệu cho thấy màn chơi đang bị lỗi thiết kế chứ không phải người chơi đang hào hứng mua sắm. Việc lạm dụng độ khó để ép tiêu thụ booster sẽ nhanh chóng làm cạn kiệt lượng tài nguyên tích lũy của người chơi và đẩy họ vào tình thế bế tắc.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 246,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy định vị booster như một công cụ mở rộng quyền tự chủ và sáng tạo chiến thuật cho người chơi, đồng thời duy trì nguồn cung cấp booster vừa đủ thông qua các sự kiện và phần thưởng tiến trình để người chơi luôn có cơ hội trải nghiệm giá trị của chúng trước khi cân nhắc mua thêm trong cửa hàng.",
+    "runs": [
+      {
+        "text": "Hãy định vị booster như một công cụ mở rộng quyền tự chủ và sáng tạo chiến thuật cho người chơi, đồng thời duy trì nguồn cung cấp booster vừa đủ thông qua các sự kiện và phần thưởng tiến trình để người chơi luôn có cơ hội trải nghiệm giá trị của chúng trước khi cân nhắc mua thêm trong cửa hàng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 247,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "18. IAP and present need\nGiao dịch mua trong ứng dụng phải giải quyết một nhu cầu thực tế đang hiện diện và minh bạch về giá trị",
+    "runs": [
+      {
+        "text": "18. IAP and present need",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nGiao dịch mua trong ứng dụng phải giải quyết một nhu cầu thực tế đang hiện diện và minh bạch về giá trị",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 248,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Cửa hàng trong game (In-game store) là một danh mục sản phẩm tĩnh, trong khi một gói ưu đãi theo ngữ cảnh (Offer) là một lời đề nghị xuất hiện đúng lúc người chơi nảy sinh nhu cầu cấp thiết nhất. Người chơi không chi tiền vì cửa hàng có giao diện đẹp; họ chi tiền vì họ đang đứng trước một bài toán cụ thể và nhận thấy gói ưu đãi đưa ra một giải pháp thỏa đáng, minh bạch và có mức giá tương xứng.",
+    "runs": [
+      {
+        "text": "Cửa hàng trong game (In-game store) là một danh mục sản phẩm tĩnh, trong khi một gói ưu đãi theo ngữ cảnh (Offer) là một lời đề nghị xuất hiện đúng lúc người chơi nảy sinh nhu cầu cấp thiết nhất. Người chơi không chi tiền vì cửa hàng có giao diện đẹp; họ chi tiền vì họ đang đứng trước một bài toán cụ thể và nhận thấy gói ưu đãi đưa ra một giải pháp thỏa đáng, minh bạch và có mức giá tương xứng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 249,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Các gói tiền ảo chung chung, trừu tượng thường chỉ phù hợp với những người chơi kỳ cựu đã nắm rõ toàn bộ nền kinh tế game. Đối với phần lớn người chơi, những gói ưu đãi gắn liền trực tiếp với ngữ cảnh — ví dụ: Gói cứu trợ khi suýt vượt qua màn chơi khó, gói khởi đầu (Starter pack) đi kèm quyền lợi gỡ quảng cáo vĩnh viễn, hoặc gói vật phẩm phục vụ đúng sự kiện đang diễn ra — luôn mang lại tỷ lệ chuyển đổi cao hơn và sự hài lòng lớn hơn.",
+    "runs": [
+      {
+        "text": "Các gói tiền ảo chung chung, trừu tượng thường chỉ phù hợp với những người chơi kỳ cựu đã nắm rõ toàn bộ nền kinh tế game. Đối với phần lớn người chơi, những gói ưu đãi gắn liền trực tiếp với ngữ cảnh — ví dụ: Gói cứu trợ khi suýt vượt qua màn chơi khó, gói khởi đầu (Starter pack) đi kèm quyền lợi gỡ quảng cáo vĩnh viễn, hoặc gói vật phẩm phục vụ đúng sự kiện đang diễn ra — luôn mang lại tỷ lệ chuyển đổi cao hơn và sự hài lòng lớn hơn.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 250,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 251,
+    "type": "table",
+    "rows": [
+      [
+        "Sản phẩm",
+        "Công dụng hợp lý",
+        "Cách dùng sai"
+      ],
+      [
+        "Tắt quảng cáo",
+        "Bảo vệ trải nghiệm lặp lại",
+        "Phạm vi tắt quảng cáo mơ hồ"
+      ],
+      [
+        "Gói khởi đầu",
+        "Lợi thế đầu game dễ hiểu",
+        "Bán khi vòng chơi chưa có giá trị"
+      ],
+      [
+        "Heo đất",
+        "Biến tiến bộ tích lũy thành lựa chọn",
+        "Cố ý làm kinh tế cơ bản thiếu thốn"
+      ],
+      [
+        "Gói tiếp tục",
+        "Giữ một lượt chơi đáng giá",
+        "Xuất hiện sau một lần thua khó hiểu"
+      ],
+      [
+        "Pass",
+        "Thưởng cho sự gắn bó dài hạn",
+        "Nội dung không đủ nhịp để hỗ trợ"
+      ]
+    ]
+  },
+  {
+    "index": 252,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 253,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy đảm bảo rằng mỗi gói IAP đưa ra đều giải thích tường tận: Người chơi sẽ nhận được những gì, số tài nguyên đó giúp họ giải quyết vấn đề gì, và luôn cung cấp một con đường từ chối (Decline path) lịch thiệp, dễ dàng mà không tạo ra bất kỳ áp lực hay cảm giác tội lỗi nào.",
+    "runs": [
+      {
+        "text": "Hãy đảm bảo rằng mỗi gói IAP đưa ra đều giải thích tường tận: Người chơi sẽ nhận được những gì, số tài nguyên đó giúp họ giải quyết vấn đề gì, và luôn cung cấp một con đường từ chối (Decline path) lịch thiệp, dễ dàng mà không tạo ra bất kỳ áp lực hay cảm giác tội lỗi nào.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 254,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tính minh bạch và sự tôn trọng trong giao dịch chính là chìa khóa biến một người chơi miễn phí thành một khách hàng trung thành sẵn sàng tái chi trả trong suốt vòng đời sản phẩm.",
+    "runs": [
+      {
+        "text": "Tính minh bạch và sự tôn trọng trong giao dịch chính là chìa khóa biến một người chơi miễn phí thành một khách hàng trung thành sẵn sàng tái chi trả trong suốt vòng đời sản phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 255,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "19. Economy integrity\nNền kinh tế game chỉ đáng tin khi mỗi loại tiền tệ đều có đường vào, đường ra và mục đích rõ ràng",
+    "runs": [
+      {
+        "text": "19. Economy integrity",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nNền kinh tế game chỉ đáng tin khi mỗi loại tiền tệ đều có đường vào, đường ra và mục đích rõ ràng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 256,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nền kinh tế trong game (Game economy) là hệ thống huyết mạch điều phối dòng chảy của tài nguyên và tiền tệ (Currencies). Một nền kinh tế lành mạnh phải tuân thủ nguyên lý cân bằng dòng chảy (Stock-and-flow): Mỗi loại tiền tệ phải có nguồn tạo ra (Sources) được kiểm soát chặt chẽ, các điểm tiêu thụ (Sinks) có ý nghĩa thiết thực, và duy trì một mức số dư tích lũy hợp lý trong tay người chơi để họ luôn có động lực tiếp tục tham gia các hoạt động trong game.",
+    "runs": [
+      {
+        "text": "Nền kinh tế trong game (Game economy) là hệ thống huyết mạch điều phối dòng chảy của tài nguyên và tiền tệ (Currencies). Một nền kinh tế lành mạnh phải tuân thủ nguyên lý cân bằng dòng chảy (Stock-and-flow): Mỗi loại tiền tệ phải có nguồn tạo ra (Sources) được kiểm soát chặt chẽ, các điểm tiêu thụ (Sinks) có ý nghĩa thiết thực, và duy trì một mức số dư tích lũy hợp lý trong tay người chơi để họ luôn có động lực tiếp tục tham gia các hoạt động trong game.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 257,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Lạm phát tiền tệ là căn bệnh phổ biến nhất: Khi trò chơi phát thưởng quá ồ ạt mà thiếu các điểm tiêu thụ hấp dẫn, tiền tệ sẽ nhanh chóng mất giá, khiến các phần thưởng trong tương lai trở nên vô nghĩa và các gói IAP trong cửa hàng mất hoàn toàn sức hút. Ngược lại, nếu nền kinh tế quá thắt chặt khiến người chơi luôn rơi vào cảnh túng thiếu cùng cực, họ sẽ cảm thấy kiệt sức và từ bỏ cuộc chơi.",
+    "runs": [
+      {
+        "text": "Lạm phát tiền tệ là căn bệnh phổ biến nhất: Khi trò chơi phát thưởng quá ồ ạt mà thiếu các điểm tiêu thụ hấp dẫn, tiền tệ sẽ nhanh chóng mất giá, khiến các phần thưởng trong tương lai trở nên vô nghĩa và các gói IAP trong cửa hàng mất hoàn toàn sức hút. Ngược lại, nếu nền kinh tế quá thắt chặt khiến người chơi luôn rơi vào cảnh túng thiếu cùng cực, họ sẽ cảm thấy kiệt sức và từ bỏ cuộc chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 258,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy định kỳ rà soát các chỉ số kinh tế then chốt theo từng nhóm thuần tập: Số dư tiền tệ trung vị, tốc độ tích lũy, tốc độ tiêu thụ và tỷ lệ phân bổ chi tiêu vào các danh mục sản phẩm khác nhau. Hãy bảo vệ tính toàn vẹn của nền kinh tế như bảo vệ chính linh hồn của trò chơi.",
+    "runs": [
+      {
+        "text": "Hãy định kỳ rà soát các chỉ số kinh tế then chốt theo từng nhóm thuần tập: Số dư tiền tệ trung vị, tốc độ tích lũy, tốc độ tiêu thụ và tỷ lệ phân bổ chi tiêu vào các danh mục sản phẩm khác nhau. Hãy bảo vệ tính toàn vẹn của nền kinh tế như bảo vệ chính linh hồn của trò chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 259,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "20. Event economy\nSự kiện là một nền kinh tế thu nhỏ có thời hạn, không phải một chồng cửa sổ pop-up",
+    "runs": [
+      {
+        "text": "20. Event economy",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nSự kiện là một nền kinh tế thu nhỏ có thời hạn, không phải một chồng cửa sổ pop-up",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 260,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hệ thống sự kiện (Events) và thẻ mùa (Battle pass / event pass) được thiết kế nhằm làm mới nhịp điệu trải nghiệm, tạo ra mục tiêu ngắn hạn giàu năng lượng và thúc đẩy sự gắn kết cộng đồng. ",
+    "runs": [
+      {
+        "text": "Hệ thống sự kiện (Events) và thẻ mùa (Battle pass / event pass) được thiết kế nhằm làm mới nhịp điệu trải nghiệm, tạo ra mục tiêu ngắn hạn giàu năng lượng và thúc đẩy sự gắn kết cộng đồng. ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 261,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một sự kiện xuất sắc là một chuỗi vòng lặp khép kín: ",
+    "runs": [
+      {
+        "text": "Một sự kiện xuất sắc là một chuỗi vòng lặp khép kín: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 262,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tham gia hoạt động ➔ Tích lũy điểm thưởng ",
+    "runs": [
+      {
+        "text": "T",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ham gia hoạt động ➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "T",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ích lũy điểm thưởng ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 263,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Lựa chọn phần thưởng ➔ Tiến bộ trên bảng thành tích ",
+    "runs": [
+      {
+        "text": "➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "L",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ựa chọn phần thưởng ➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "T",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "iến bộ trên bảng thành tích ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 264,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "➔ Về đích và tận hưởng thành quả.",
+    "runs": [
+      {
+        "text": "➔ ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "V",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ề đích và tận hưởng thành quả.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 265,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 266,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Theo ước tính của Sensor Tower, Royal Match từng đạt mốc doanh thu hơn 100 triệu USD mỗi tháng nhờ vào việc vận hành nhịp nhàng chuỗi sự kiện luân phiên như Royal Pass hay Hidden Temple kết hợp cùng tốc độ cập nhật nội dung đều đặn. Dữ liệu này chứng minh sức mạnh của một hệ thống vận hành sự kiện chuyên nghiệp; tuy nhiên, điều đáng học hỏi không phải là việc sao chép nguyên xi lịch trình của đối thủ, mà là việc thấu hiểu cách họ phân tầng mục tiêu: Người chơi miễn phí luôn có một lộ trình hoàn thành rõ ràng, trong khi gói tăng tốc cao cấp mang lại giá trị gia tăng xứng đáng cho những ai muốn đầu tư thêm.",
+    "runs": [
+      {
+        "text": "Theo ước tính của Sensor Tower, Royal Match từng đạt mốc doanh thu hơn 100 triệu USD mỗi tháng nhờ vào việc vận hành nhịp nhàng chuỗi sự kiện luân phiên như Royal Pass hay Hidden Temple kết hợp cùng tốc độ cập nhật nội dung đều đặn. Dữ liệu này chứng minh sức mạnh của một hệ thống vận hành sự kiện chuyên nghiệp; tuy nhiên, điều đáng học hỏi không phải là việc sao chép nguyên xi lịch trình của đối thủ, mà là việc thấu hiểu cách họ phân tầng mục tiêu: Người chơi miễn phí luôn có một lộ trình hoàn thành rõ ràng, trong khi gói tăng tốc cao cấp mang lại giá trị gia tăng xứng đáng cho những ai muốn đầu tư thêm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 267,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Trong các buổi đánh giá sau sự kiện (Post-event review), hãy bóc tách doanh thu phát sinh trong sự kiện khỏi các tác động dài hạn: Tỷ lệ giữ chân D1/D7 của nhóm tham gia, số dư tiền tệ sau sự kiện, tỷ lệ quay lại vào tuần kế tiếp và điểm đánh giá của cộng đồng. Đảm bảo rằng sự kiện mang lại niềm vui thực sự chứ không chỉ là một đợt vét cạn tài nguyên và lòng kiên nhẫn của người chơi.",
+    "runs": [
+      {
+        "text": "Trong các buổi đánh giá sau sự kiện (Post-event review), hãy bóc tách doanh thu phát sinh trong sự kiện khỏi các tác động dài hạn: Tỷ lệ giữ chân D1/D7 của nhóm tham gia, số dư tiền tệ sau sự kiện, tỷ lệ quay lại vào tuần kế tiếp và điểm đánh giá của cộng đồng. Đảm bảo rằng sự kiện mang lại niềm vui thực sự chứ không chỉ là một đợt vét cạn tài nguyên và lòng kiên nhẫn của người chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 268,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 269,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 270,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 271,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 272,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 273,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 274,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart IV: Quảng cáo, IAP và nền kinh tế game",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart IV: Quảng cáo, IAP và nền kinh tế game",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 275,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 276,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Lập bản đồ vị trí quảng cáo đổi thưởng và xen kẽ: Xác định rõ thời điểm kích hoạt, phần thưởng, điểm ngắt tự nhiên và giới hạn tần suất.\n• Thiết lập quy tắc gỡ bỏ hoàn toàn quảng cáo xen kẽ đối với người chơi đã nạp bất kỳ gói IAP nào.\n• Lập bảng cân đối dòng chảy tiền tệ (Stock-and-flow): Theo dõi số dư trung vị và các điểm tiêu thụ theo từng nhóm thuần tập.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Vị trí quảng cáo này đang hỗ trợ trải nghiệm hay đang phá vỡ dòng chảy tập trung của người chơi?\n• Gói ưu đãi này giải quyết bài toán thực tế nào của người chơi, hay chỉ là nỗ lực chạy KPI doanh thu của studio?\n• Sau khi sự kiện kết thúc, nền kinh tế cốt lõi có bị lạm phát và người chơi có còn động lực gắn bó không?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Tỷ lệ xem hay chuyển đổi cao không tự chứng minh cho giá trị hữu ích hay sự gắn kết dài hạn.\n• Booster là công cụ mở rộng quyền tự chủ chiến thuật, không phải giải pháp vá lỗi thiết kế màn chơi.\n• Một sự kiện thành công phải để lại sự thỏa mãn và duy trì tỷ lệ giữ chân lâu dài.",
+        "ĐƯA VÀO CUỘC HỌP (60 phút):\n• Thành phần: Product Lead, Monetization Lead, Economy Designer, LiveOps Manager.\n• Tài liệu mang theo: Bảng hiệu suất vị trí quảng cáo, phễu chuyển đổi gói IAP, báo cáo lạm phát tiền tệ và lịch sự kiện.\n• Kết quả cần chốt: Điều chỉnh mức giá gói ưu đãi, tối ưu vị trí quảng cáo đổi thưởng và phương án cân bằng kinh tế sự kiện."
+      ]
+    ]
+  },
+  {
+    "index": 277,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 278,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần V sẽ chuyển trọng tâm từ khâu thiết kế sản phẩm sang hệ thống ra quyết định dựa trên dữ liệu: Cách đọc dashboard, phương pháp ghép cặp chỉ số đối ứng và quy trình thử nghiệm để không bị đánh lừa bởi những mức tăng trưởng bề nổi.",
+    "runs": [
+      {
+        "text": "Phần V sẽ chuyển trọng tâm từ khâu thiết kế sản phẩm sang hệ thống ra quyết định dựa trên dữ liệu: Cách đọc dashboard, phương pháp ghép cặp chỉ số đối ứng và quy trình thử nghiệm để không bị đánh lừa bởi những mức tăng trưởng bề nổi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 279,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 280,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 281,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  }
+]

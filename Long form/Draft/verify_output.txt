@@ -1,0 +1,39 @@
+Total paragraphs: 279
+Total tables: 10
+
+P[2] Title: THE ART OF MONETIZATION
+Nghệ thuật Thiết kế Kinh tế & Kiếm tiền trong Game
+P[3] Heading 1: Research Note | Ghi chú Nghiên cứu
+P[10] Heading 1: A Note to the Reader | Lời Nhắn Gửi Người Đọc
+P[15] Heading 1: Key Terms | Thuật Ngữ Cần Biết
+P[22] Heading 1: Contents | Mục Lục
+P[33] Heading 1: How to Read this Playbook | Cách Sử Dụng Cuốn Sách Này
+P[44] Heading 1: Monetization Starts Before the Store | Việc Kiếm Tiền Bắt Đầu Trước Màn Hình Cửa Hàng
+P[75] Heading 1: Example Case: Clear Garden | Ví Dụ Phân Tích: Clear Garden
+P[82] Part I (Untouched): Part I: The system behind the store
+Phần I: Hệ thống phía sau cửa hàng
+P[83] Part I text: 1. Trust budget
+Ngân sách niềm tin
+
+--- Table 0 (Key terms updated) ---
+['Thuật ngữ', 'Ý nghĩa trong tài liệu']
+['Monetization', 'Mô hình và chiến lược tạo doanh thu trong game thông qua quảng cáo, giao dịch in-app và các dịch vụ bổ trợ.']
+['UA (User Acquisition)', 'Hoạt động thu hút người chơi mới cài đặt game, chủ yếu thông qua các chiến dịch quảng cáo trả phí (paid ads).']
+['IAP (In-App Purchase)', 'Giao dịch mua hàng trong ứng dụng, bao gồm gói nạp đầu (starter packs), tiền tệ in-game, vật phẩm bổ trợ hoặc gói gỡ quảng cáo (no-ads).']
+['Retention', 'Tỷ lệ giữ chân người chơi sau một mốc thời gian xác định (ví dụ: D1 là tỷ lệ người chơi quay lại vào ngày đầu tiên sau cài đặt, D7, D30).']
+['Cohort', 'Nhóm thuần tập: Tập hợp người chơi có cùng thời điểm bắt đầu hoặc chung đặc tính (ví dụ: cài game cùng ngày, đến từ cùng một mẫu creative).']
+['Core Loop', 'Vòng lặp cốt lõi: Chuỗi hành động chính yếu mà người chơi liên tục thực hiện và lặp lại trong suốt vòng đời trải nghiệm game.']
+['Live Ops', 'Vận hành trực tiếp (Live Operations): Hoạt động duy trì và làm mới game sau khi ra mắt: tổ chức chuỗi sự kiện, tung gói ưu đãi, cập nhật nội dung, gửi push notification và tinh chỉnh cấu hình từ xa (remote config).']
+['Creative', 'Tư liệu quảng cáo: Các định dạng nội dung (video, hình ảnh, playable ad, thông điệp) được thiết kế nhằm thu hút sự chú ý và kích thích cài đặt.']
+['Offer', 'Gói ưu đãi theo ngữ cảnh: Đề xuất mua vật phẩm hoặc xem quảng cáo có thưởng được kích hoạt tại đúng thời điểm và trạng thái cảm xúc của người chơi.']
+['Funnel', 'Phễu chuyển đổi: Chuỗi các bước tuần tự người chơi trải qua: Thấy Creative ➔ Cài đặt ➔ FTUE ➔ Chơi tiếp ➔ Quay lại ➔ Chi trả.']
+['LTV và CPI', 'LTV (Lifetime Value): Doanh thu trọn đời kỳ vọng từ một người chơi.\nCPI (Cost Per Install): Chi phí bình quân để có được một lượt cài đặt mới.']
+['ARPDAU và IMPDAU', 'ARPDAU: Doanh thu trung bình trên mỗi người chơi hoạt động hàng ngày.\nIMPDAU: Số lượt hiển thị quảng cáo trung bình trên mỗi người chơi hoạt động hàng ngày.']
+
+--- Table 1 (Part I table untouched) ---
+['Điều nuôi dưỡng niềm tin', 'Điều làm hao mòn niềm tin']
+['Mục tiêu rõ ràng, luật chơi dễ hiểu', 'Creative hứa một trải nghiệm khác']
+['Thua vẫn hiểu vì sao và còn nước đi tiếp theo', 'Can thiệp độ khó không được giải thích']
+['Rewarded ad là một trao đổi tự nguyện', 'Interstitial cắt ngang lúc người chơi đang tập trung']
+['Giá bán và thứ nhận được được nói rõ', 'Offer mơ hồ hoặc thao tác mua nhầm']
+['Khôi phục nhanh khi giao dịch có lỗi', 'Mất reward, khôi phục yếu, hỗ trợ chậm']

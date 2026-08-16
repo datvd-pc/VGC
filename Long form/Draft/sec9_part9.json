@@ -1,0 +1,445 @@
+[
+  {
+    "index": 455,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part IX: The audit\nPhần IX: Quy trình kiểm toán và tiêu chuẩn hoàn thành",
+    "runs": [
+      {
+        "text": "Part IX: The audit",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần IX: Quy trình kiểm toán và tiêu chuẩn hoàn thành",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 456,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "36. The 30-minute audit\nKiểm toán hệ thống kiếm tiền trong 30 phút: Tìm ra một điểm rò rỉ niềm tin, một điểm thất thoát giá trị và một thử nghiệm có thể triển khai ngay",
+    "runs": [
+      {
+        "text": "36. The 30-minute audit",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nKiểm toán hệ thống kiếm tiền trong 30 phút: Tìm ra một điểm rò rỉ niềm tin, một điểm thất thoát giá trị và một thử nghiệm có thể triển khai ngay",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 457,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Đừng biến buổi kiểm toán thành một cuộc tranh luận cảm tính về gu thẩm mỹ cá nhân. Mục tiêu tối thượng của buổi kiểm toán 30 phút là thiết lập một chuỗi bằng chứng logic rõ ràng nối liền từ lời hứa quảng cáo ➔ trải nghiệm màn chơi đầu ➔ các điểm trao đổi thương mại ➔ đến dữ liệu phản hồi thực tế. Sau 30 phút, đội ngũ bắt buộc phải chỉ ra được: Một điểm đang làm xói mòn niềm tin (Trust leak), một điểm đang làm thất thoát giá trị (Value leak), và một kế hoạch thử nghiệm can thiệp rõ ràng có người chịu trách nhiệm và phương án hoàn tác an toàn.",
+    "runs": [
+      {
+        "text": "Đừng biến buổi kiểm toán thành một cuộc tranh luận cảm tính về gu thẩm mỹ cá nhân. Mục tiêu tối thượng của buổi kiểm toán 30 phút là thiết lập một chuỗi bằng chứng logic rõ ràng nối liền từ lời hứa quảng cáo ➔ trải nghiệm màn chơi đầu ➔ các điểm trao đổi thương mại ➔ đến dữ liệu phản hồi thực tế. Sau 30 phút, đội ngũ bắt buộc phải chỉ ra được: Một điểm đang làm xói mòn niềm tin (Trust leak), một điểm đang làm thất thoát giá trị (Value leak), và một kế hoạch thử nghiệm can thiệp rõ ràng có người chịu trách nhiệm và phương án hoàn tác an toàn.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 458,
+    "type": "table",
+    "rows": [
+      [
+        "Khung thời gian",
+        "Hành động kiểm toán thực tế",
+        "Kết quả đầu ra bắt buộc"
+      ],
+      [
+        "0 - 5 phút",
+        "Xem 3 mẫu creative hàng đầu và chơi phút đầu tiên của game.",
+        "Bản đồ lời hứa: Cảm xúc quảng cáo hứa hẹn và bằng chứng game mang lại."
+      ],
+      [
+        "5 - 10 phút",
+        "Tự tay chơi từ Màn 1 đến Màn 10; đánh dấu quyền kiểm soát, thất bại, lựa chọn, gián đoạn và booster.",
+        "Chỉ ra 1 màn thất bại có/không thể lý giải và phương án vượt qua không trả tiền còn lại."
+      ],
+      [
+        "10 - 15 phút",
+        "Tìm vị trí xuất hiện quảng cáo đổi thưởng và quảng cáo xen kẽ đầu tiên.",
+        "Bản đồ trao đổi giá trị: Người chơi nhận được gì, từ chối ra sao, điểm ngắt có tự nhiên không."
+      ],
+      [
+        "15 - 20 phút",
+        "Mở cửa hàng trong game sau khi nảy sinh nhu cầu tự nhiên; kiểm tra gói bán và loại tiền tệ.",
+        "Bản tóm tắt gói sản phẩm: Mục đích giải quyết, tính minh bạch, dòng vào/ra và gói gỡ quảng cáo."
+      ],
+      [
+        "20 - 25 phút",
+        "Tìm kiếm lý do thôi thúc quay lại và cấu trúc sự kiện đang diễn ra.",
+        "Vòng lặp sự kiện: Tích lũy ➔ Lựa chọn ➔ Tiêu thụ ➔ Tiến bộ ➔ Hoàn thành và Phục hồi."
+      ],
+      [
+        "25 - 30 phút",
+        "Đặt doanh thu cạnh tỷ lệ giữ chân, độ khó, tần suất hiển thị quảng cáo, đánh giá và hoàn tiền.",
+        "Chỉ ra 1 điểm rò rỉ niềm tin, 1 điểm thất thoát giá trị, 1 thử nghiệm can thiệp có người phụ trách và kế hoạch hoàn tác."
+      ]
+    ]
+  },
+  {
+    "index": 459,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "37. Definition of done\nKhi nào một hệ sinh thái sản phẩm đủ bằng chứng để mở rộng quy mô, thay vì chỉ vừa đủ tính năng để phát hành",
+    "runs": [
+      {
+        "text": "37. Definition of done",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nKhi nào một hệ sinh thái sản phẩm đủ bằng chứng để mở rộng quy mô, thay vì chỉ vừa đủ tính năng để phát hành",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 460,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một hệ thống chỉ thực sự sẵn sàng để mở rộng quy mô chi tiêu UA khi và chỉ khi 10 tiêu chuẩn kiểm định dưới đây được chứng minh vững chắc bằng dữ liệu nhóm thuần tập và có người chịu trách nhiệm vận hành cụ thể:",
+    "runs": [
+      {
+        "text": "Một hệ thống chỉ thực sự sẵn sàng để mở rộng quy mô chi tiêu UA khi và chỉ khi 10 tiêu chuẩn kiểm định dưới đây được chứng minh vững chắc bằng dữ liệu nhóm thuần tập và có người chịu trách nhiệm vận hành cụ thể:",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 461,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "1. Lời hứa từ mẫu quảng cáo (Creative promise) xuất hiện ngay trong trải nghiệm 3 phút đầu tiên và được kiểm chứng qua tỷ lệ hoàn thành hướng dẫn của nhóm thuần tập.",
+    "runs": [
+      {
+        "text": "1. Lời hứa từ mẫu quảng cáo (Creative promise) xuất hiện ngay trong trải nghiệm 3 phút đầu tiên và được kiểm chứng qua tỷ lệ hoàn thành hướng dẫn của nhóm thuần tập.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 462,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "2. Người chơi giải thích được chính xác lý do dẫn đến thất bại và luôn nhìn thấy một phương án vượt qua thử thách mà không bắt buộc phải chi tiền.",
+    "runs": [
+      {
+        "text": "2. Người chơi giải thích được chính xác lý do dẫn đến thất bại và luôn nhìn thấy một phương án vượt qua thử thách mà không bắt buộc phải chi tiền.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 463,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "3. Quảng cáo đổi thưởng (Rewarded ad) là sự trao đổi hoàn toàn tự nguyện, trao thưởng chính xác, tức thì và được theo dõi song hành cùng tỷ lệ giữ chân người chơi.",
+    "runs": [
+      {
+        "text": "3. Quảng cáo đổi thưởng (Rewarded ad) là sự trao đổi hoàn toàn tự nguyện, trao thưởng chính xác, tức thì và được theo dõi song hành cùng tỷ lệ giữ chân người chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 464,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "4. Quảng cáo xen kẽ (Interstitial) chỉ xuất hiện tại các điểm ngắt tự nhiên, có giới hạn tần suất nghiêm ngặt và tự động gỡ bỏ đối với người chơi đã nạp tiền.",
+    "runs": [
+      {
+        "text": "4. Quảng cáo xen kẽ (Interstitial) chỉ xuất hiện tại các điểm ngắt tự nhiên, có giới hạn tần suất nghiêm ngặt và tự động gỡ bỏ đối với người chơi đã nạp tiền.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 465,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "5. Mỗi gói ưu đãi (Offer) giải quyết một nhu cầu thực tế đang hiện diện, có sự đồng thuận minh bạch và cung cấp con đường từ chối lịch thiệp.",
+    "runs": [
+      {
+        "text": "5. Mỗi gói ưu đãi (Offer) giải quyết một nhu cầu thực tế đang hiện diện, có sự đồng thuận minh bạch và cung cấp con đường từ chối lịch thiệp.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 466,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "6. Nguồn tạo ra và điểm tiêu thụ của tiền tệ tạo ra các quyết định lựa chọn có ý nghĩa, không biến thành trạm thu phí cưỡng ép; số dư tiền tệ được theo dõi chặt chẽ.",
+    "runs": [
+      {
+        "text": "6. Nguồn tạo ra và điểm tiêu thụ của tiền tệ tạo ra các quyết định lựa chọn có ý nghĩa, không biến thành trạm thu phí cưỡng ép; số dư tiền tệ được theo dõi chặt chẽ.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 467,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "7. Doanh thu kiếm được luôn được đối chiếu cùng tỷ lệ giữ chân, điểm đánh giá của cộng đồng, tỷ lệ hoàn tiền và chi phí hỗ trợ khách hàng.",
+    "runs": [
+      {
+        "text": "7. Doanh thu kiếm được luôn được đối chiếu cùng tỷ lệ giữ chân, điểm đánh giá của cộng đồng, tỷ lệ hoàn tiền và chi phí hỗ trợ khách hàng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 468,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "8. Đội ngũ có năng lực triển khai thử nghiệm, hoàn tác nhanh chóng và lưu trữ bài học kinh nghiệm có cấu trúc trong hệ thống.",
+    "runs": [
+      {
+        "text": "8. Đội ngũ có năng lực triển khai thử nghiệm, hoàn tác nhanh chóng và lưu trữ bài học kinh nghiệm có cấu trúc trong hệ thống.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 469,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "9. Kế hoạch sản xuất nội dung và vận hành sự kiện đáp ứng kịp thời lời hứa đã truyền thông qua các chiến dịch UA và luôn có khoảng thời gian phục hồi hợp lý.",
+    "runs": [
+      {
+        "text": "9. Kế hoạch sản xuất nội dung và vận hành sự kiện đáp ứng kịp thời lời hứa đã truyền thông qua các chiến dịch UA và luôn có khoảng thời gian phục hồi hợp lý.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 470,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "10. Mô hình tài chính tính toán đầy đủ mọi chi phí để duy trì trò chơi khỏe mạnh, kiểm soát chặt chẽ thời gian hoàn vốn và bảo đảm an toàn dòng tiền.",
+    "runs": [
+      {
+        "text": "10. Mô hình tài chính tính toán đầy đủ mọi chi phí để duy trì trò chơi khỏe mạnh, kiểm soát chặt chẽ thời gian hoàn vốn và bảo đảm an toàn dòng tiền.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 471,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 472,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 473,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 474,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 475,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 476,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 477,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 478,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 479,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 480,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 481,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 482,
+    "type": "paragraph",
+    "style": "List Bullet",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 483,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart IX: Kiểm toán sản phẩm và tiêu chuẩn sẵn sàng mở rộng quy mô",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart IX: Kiểm toán sản phẩm và tiêu chuẩn sẵn sàng mở rộng quy mô",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 484,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 485,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Thực hiện quy trình kiểm toán 30 phút trên tựa game hiện tại; ghi nhận đầy đủ 3 kết quả đầu ra bắt buộc.\n• Chọn ra 1 điểm rò rỉ niềm tin và 1 điểm thất thoát giá trị ưu tiên; soạn thảo bản đề xuất thử nghiệm can thiệp.\n• Đối chiếu bộ tiêu chí \"Definition of Done\" với dữ liệu thực nghiệm trước khi tăng ngân sách thu hút người dùng.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Lời hứa quảng cáo, 10 màn chơi đầu, các điểm chạm kiếm tiền và lý do quay lại có tạo nên một chuỗi logic nhất quán không?\n• Điểm tắc nghẽn hiện tại là do niềm tin, giá trị, chất lượng kỹ thuật hay nền kinh tế; bằng chứng nào phân biệt chúng?\n• Hệ sinh thái sản phẩm đã thực sự đủ bằng chứng vững chắc để scale, hay chỉ vừa đủ tính năng để trông có vẻ hoàn tất?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Một buổi kiểm toán xuất sắc kết thúc bằng một quyết định có thể đo lường, không phải danh sách nhận xét cảm tính.\n• Tiêu chuẩn hoàn thành là ngưỡng bảo đảm để mở rộng quy mô có trách nhiệm, không phải lời hứa rủi ro đã biến mất.\n• Xử lý triệt để một điểm rò rỉ niềm tin mang lại giá trị lớn hơn việc nhồi nhét thêm hàng loạt tính năng chưa được kiểm chứng.",
+        "ĐƯA VÀO CUỘC HỌP (45 phút):\n• Thành phần: Product Owner, Lead Game Designer, Data Lead, Monetization Lead, QA Lead, Producer.\n• Tài liệu mang theo: Kết quả kiểm toán 30 phút, bản ghi màn chơi, dashboard nhóm thuần tập và bản đề xuất thử nghiệm.\n• Kết quả cần chốt: Một điểm rò rỉ ưu tiên xử lý ngay, một thử nghiệm có kế hoạch hoàn tác, người chịu trách nhiệm và thời hạn đánh giá."
+      ]
+    ]
+  },
+  {
+    "index": 486,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 487,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần kết không bổ sung thêm bất kỳ khung lý thuyết mới nào. Nó đưa chúng ta quay trở về với tiêu chuẩn đạo đức và nghề nghiệp xuyên suốt toàn bộ cuốn sách: Sau mỗi lần xem quảng cáo, sau mỗi gói ưu đãi hay mỗi giao dịch nạp tiền, người chơi có còn cảm thấy hào hứng và có một lý do rõ ràng để tiếp tục gắn bó với trò chơi hay không?",
+    "runs": [
+      {
+        "text": "Phần kết không bổ sung thêm bất kỳ khung lý thuyết mới nào. Nó đưa chúng ta quay trở về với tiêu chuẩn đạo đức và nghề nghiệp xuyên suốt toàn bộ cuốn sách: Sau mỗi lần xem quảng cáo, sau mỗi gói ưu đãi hay mỗi giao dịch nạp tiền, người chơi có còn cảm thấy hào hứng và có một lý do rõ ràng để tiếp tục gắn bó với trò chơi hay không?",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 488,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 489,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 490,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 491,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  }
+]

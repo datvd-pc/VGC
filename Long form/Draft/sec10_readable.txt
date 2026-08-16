@@ -1,0 +1,28 @@
+[492] (Heading 1): Closing: The player must want to continue
+Lời kết: Kiếm tiền chỉ thực sự bền vững khi người chơi vẫn muốn tiếp tục cuộc hành trình
+[493] (Normal): 
+[494] (Normal): Câu hỏi giá trị nhất trong làm game không phải là "Làm thế nào để ép người chơi nạp tiền?" Câu hỏi đúng đắn và sâu sắc hơn nhiều là: "Người chơi vừa nhận được giá trị gì, họ đang trải qua trạng thái cảm xúc nào, và lựa chọn nào họ sẽ cảm nhận là hoàn toàn công bằng?" Khi câu trả lời sáng tỏ, các tính năng thương mại sẽ tìm thấy vị trí tự nhiên và đắc địa nhất để phục vụ trải nghiệm. Khi câu trả lời còn mơ hồ, việc nhồi nhét thêm vị trí quảng cáo hay tung thêm gói nạp chỉ làm cho hệ thống thêm ồn ào và đẩy nhanh sự suy thoái của sản phẩm.
+[495] (Normal): Lợi nhuận bền vững là kết quả tất yếu của một hệ thống có năng lực giữ trọn lời hứa từ đầu đến cuối: Từ thông điệp trên mẫu quảng cáo, phiên chơi đầu tiên, từng màn giải đố được trau chuốt, cho đến vị trí quảng cáo tinh tế, gói nạp minh bạch, chuỗi sự kiện giàu cảm xúc, bảng dữ liệu trung thực và dịch vụ hỗ trợ tận tâm. Không một bảng điều khiển số liệu, một bản định hướng từ nhà phát hành hay một biểu đồ thị trường nào có thể thay thế được chuỗi công việc kỷ luật và đầy tâm huyết đó. Chúng chỉ đóng vai trò như chiếc la bàn giúp đội ngũ nhận biết nhanh hơn nơi cần đặt ra những câu hỏi sắc bén hơn.
+[496] (Normal): Nghệ thuật kiếm tiền chân chính luôn để lại cho người chơi một lý do vững chắc để tiếp tục cuộc chơi sau mỗi lần giao dịch. Trò chơi hoàn toàn có quyền thách thức kỹ năng, đòi hỏi thời gian và đề xuất chi phí xứng đáng. Mối quan hệ giữa người chơi và studio sẽ mãi mãi bền chặt khi người chơi nhìn thấy rõ giá trị, luật chơi minh bạch và sự tự do lựa chọn, trong khi đội ngũ phát triển có đủ sự điềm tĩnh và kỷ luật để lắng nghe những tín hiệu cảnh báo thay vì chỉ tự mãn với những con số tăng trưởng ngắn hạn.
+[497] (Normal): Đó chính là chuẩn mực chuyên nghiệp cao quý nhất mà một studio phát triển game đáng tự hào hướng tới: Không ảo tưởng rằng chỉ một ý tưởng đơn lẻ có thể làm nên sự nghiệp kinh doanh, không trốn tránh trách nhiệm phán đoán phía sau những con số vô hồn, và vĩnh viễn không bao giờ đánh đổi tương lai lâu dài của sản phẩm lấy một kết quả nhất thời chưa được kiểm chứng.
+[498] (Normal): 
+[499] (Normal): 
+[500] (Normal): 
+[501] (Normal): 
+[502] (Normal): 
+[503] (Heading 1): Research notes and public sources
+Nguồn tham khảo học thuật và dữ liệu thị trường công khai
+[504] (List Bullet): Sensor Tower: Báo cáo chuyên sâu về sự vươn lên của Royal Match và phân tích thị trường game casual toàn cầu.
+[505] (List Bullet): Sensor Tower: Báo cáo triển vọng thị trường game di động toàn cầu và xu hướng chi tiêu in-app.
+[506] (List Bullet): Sensor Tower: Báo cáo phân tích chuyên đề dòng game giải đố (Puzzle) tại thị trường Hoa Kỳ.
+[507] (List Bullet): AppMagic & GameDev Reports: Báo cáo thị trường Casual Game nửa đầu năm 2025.
+[508] (List Bullet): AppMagic: Nghiên cứu điển hình (Case study) về mô hình tăng trưởng của Epic Plane Evolution.
+[509] (List Bullet): AppMagic: Báo cáo chuyên đề về hoạt động vận hành trực tiếp (LiveOps Report) trong dòng game Casual.
+[510] (List Bullet): Unity Technologies: Báo cáo chiến lược Monetization; phân tích tác động tương hỗ giữa quảng cáo đổi thưởng, IAP và tỷ lệ giữ chân người chơi.
+[511] (List Bullet): Apple Inc.: Tài liệu hướng dẫn khung bảo mật App Tracking Transparency (ATT) và quyền riêng tư của người dùng.
+[512] (List Bullet): Ủy ban Thương mại Liên bang Hoa Kỳ (FTC): Thông cáo phán quyết hòa giải với Epic Games và cẩm nang hướng dẫn nhận diện các bẫy giao diện số (Dark patterns).
+[513] (List Bullet): GameRefinery: Nền tảng phân tích tính năng sản phẩm và dự báo hành vi phân khúc người chơi.
+[514] (List Bullet): GameAnalytics: Báo cáo chuẩn đối sánh (Benchmarking) và các chỉ số hiệu suất trọng yếu (KPIs) trong ngành game.
+[515] (List Bullet): Rovio Entertainment: Tài liệu nền tảng vận hành Beacon, phân tích hành vi người chơi và tối ưu hóa trải nghiệm người dùng mới (FTUE).
+[516] (List Bullet): King Digital Entertainment: Phương pháp luận khoa học dữ liệu, phân tích nhóm thuần tập và chiến lược sản phẩm.
+[517] (List Bullet): Supercell: "What We Have Learned from Failures" – Bài học kinh nghiệm và nguyên tắc khai tử dự án vì chuẩn mực chất lượng.

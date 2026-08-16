@@ -1,0 +1,665 @@
+[
+  {
+    "index": 183,
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Part III: Progress, pressure, and fairness\nPhần III: Tiến trình, áp lực và sự công bằng",
+    "runs": [
+      {
+        "text": "Part III: Progress, pressure, and fairness",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhần III: Tiến trình, áp lực và sự công bằng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 184,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "9. Player motivations\nNgười chơi chi tiền để thỏa mãn những nhu cầu khác nhau, không phải vì họ có cùng một hành trình",
+    "runs": [
+      {
+        "text": "9. Player motivations",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nNgười chơi chi tiền để thỏa mãn những nhu cầu khác nhau, không phải vì họ có cùng một hành trình",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 185,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Người chơi bước vào game với những động cơ tâm lý hoàn toàn khác biệt. Có người tìm kiếm cảm giác làm chủ kỹ năng (Mastery), có người tìm kiếm sự giải tỏa và trật tự (Relief through order), có người muốn tích lũy bộ sưu tập (Collection), và có người muốn tăng tốc tiến trình để khám phá nội dung mới. Thuyết Tự Quyết (Self-Determination Theory) của Ryan & Deci (2000) chỉ ra ba nhu cầu tâm lý cơ bản của con người: Năng lực (Competence - cảm giác làm chủ), Tự chủ (Autonomy - quyền tự quyết định) và Gắn kết (Relatedness). Một tựa game kiếm tiền bền vững khi các tính năng thương mại hỗ trợ và tôn trọng những nhu cầu tâm lý này, thay vì cưỡng ép hay tước đoạt chúng.",
+    "runs": [
+      {
+        "text": "Người chơi bước vào game với những động cơ tâm lý hoàn toàn khác biệt. Có người tìm kiếm cảm giác làm chủ kỹ năng (Mastery), có người tìm kiếm sự giải tỏa và trật tự (Relief through order), có người muốn tích lũy bộ sưu tập (Collection), và có người muốn tăng tốc tiến trình để khám phá nội dung mới. Thuyết Tự Quyết (Self-Determination Theory) của Ryan & Deci (2000) chỉ ra ba nhu cầu tâm lý cơ bản của con người: Năng lực (Competence - cảm giác làm chủ), Tự chủ (Autonomy - quyền tự quyết định) và Gắn kết (Relatedness). Một tựa game kiếm tiền bền vững khi các tính năng thương mại hỗ trợ và tôn trọng những nhu cầu tâm lý này, thay vì cưỡng ép hay tước đoạt chúng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 186,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 187,
+    "type": "table",
+    "rows": [
+      [
+        "Kiểu người chơi",
+        "Họ tìm",
+        "Họ ghét",
+        "Cách trao đổi có thể phù hợp"
+      ],
+      [
+        "Người tìm sự thư giãn",
+        "Bình tĩnh, rõ ràng",
+        "Bị ngắt quãng thô bạo",
+        "Tắt quảng cáo, gợi ý tùy chọn"
+      ],
+      [
+        "Người thích giải bài toán",
+        "Vấn đề có thể hiểu",
+        "Ngẫu nhiên che nguyên nhân",
+        "Hoàn tác, công cụ đúng mục tiêu"
+      ],
+      [
+        "Người thích sưu tập",
+        "Hoàn tất, sở hữu",
+        "Reward không có chỗ để tồn tại",
+        "Album, trang trí"
+      ],
+      [
+        "Người tối ưu",
+        "Hiệu quả, lập kế hoạch",
+        "Tiền tệ vô nghĩa",
+        "Pass, phần thưởng theo mốc"
+      ],
+      [
+        "Người đổi thời gian lấy giá trị",
+        "Đổi thời gian lấy giá trị rõ ràng",
+        "Quảng cáo bị ép xem",
+        "Chơi lại có thưởng, tiền tệ"
+      ],
+      [
+        "Người trả tiền vì tiện lợi",
+        "Ít bị ngắt quãng và chờ đợi",
+        "Chướng ngại nhỏ lặp lại",
+        "Tắt quảng cáo, gói khởi đầu, nạp lại"
+      ]
+    ]
+  },
+  {
+    "index": 188,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 189,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Điểm chạm kinh tế của động cơ người chơi nằm ở sự phân hóa nhu cầu: Cùng một màn chơi khó, người chơi theo đuổi kỹ năng sẽ muốn thử lại nhiều lần bằng chính tài năng của mình, trong khi người chơi tìm kiếm sự thư giãn sẽ sẵn lòng xem một quảng cáo đổi thưởng hoặc mua thêm lượt đi để giải phóng áp lực. Nếu hệ thống đối xử với mọi người chơi như nhau bằng cách ép mua booster thô bạo, trò chơi sẽ lập tức làm xói mòn nhu cầu tự chủ của nhóm yêu thích kỹ năng và đẩy họ rời bỏ sản phẩm.",
+    "runs": [
+      {
+        "text": "Điểm chạm kinh tế của động cơ người chơi nằm ở sự phân hóa nhu cầu: ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "C",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "ùng một màn chơi khó, người chơi theo đuổi kỹ năng sẽ muốn thử lại nhiều lần bằng chính tài năng của mình, trong khi người chơi tìm kiếm sự thư giãn sẽ sẵn lòng xem một quảng cáo đổi thưởng hoặc mua thêm lượt đi để giải phóng áp lực. Nếu hệ thống đối xử với mọi người chơi như nhau bằng cách ép mua booster thô bạo, trò chơi sẽ lập tức làm xói mòn nhu cầu tự chủ của nhóm yêu thích kỹ năng và đẩy họ rời bỏ sản phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 190,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy phân khúc dữ liệu hành vi của người chơi theo nhóm động cơ: Theo dõi tỷ lệ chọn xem quảng cáo đổi thưởng, tỷ lệ mua gói bổ trợ, tần suất thử lại màn chơi và độ sâu phiên chơi. Đừng xây dựng một gói ưu đãi chung chung cho toàn bộ tập người chơi. Hãy thiết kế các điểm chạm thương mại tương ứng với từng trạng thái tâm lý cụ thể.",
+    "runs": [
+      {
+        "text": "Hãy phân khúc dữ liệu hành vi của người chơi theo nhóm động cơ: Theo dõi tỷ lệ chọn xem quảng cáo đổi thưởng, tỷ lệ mua gói bổ trợ, tần suất thử lại màn chơi và độ sâu phiên chơi. Đừng xây dựng một gói ưu đãi chung chung cho toàn bộ tập người chơi. Hãy thiết kế các điểm chạm thương mại tương ứng với từng trạng thái tâm lý cụ thể.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 191,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Khi người chơi cảm thấy quyền tự chủ và năng lực của mình được tôn trọng, việc chi trả tiền bạc hay thời gian xem quảng cáo trở thành một hành động tự nguyện để gia tăng trải nghiệm, chứ không phải một khoản phí phạt bắt buộc để thoát khỏi sự ức chế.",
+    "runs": [
+      {
+        "text": "Khi người chơi cảm thấy quyền tự chủ và năng lực của mình được tôn trọng, việc chi trả tiền bạc hay thời gian xem quảng cáo trở thành một hành động tự nguyện để gia tăng trải nghiệm, chứ không phải một khoản phí phạt bắt buộc để thoát khỏi sự ức chế.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 192,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "10. Meaningful progress\nTiến trình chỉ thực sự có giá trị khi nó thay đổi rõ rệt tình thế mà người chơi đang quan tâm",
+    "runs": [
+      {
+        "text": "10. Meaningful progress",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nTiến trình chỉ thực sự có giá trị khi nó thay đổi rõ rệt tình thế mà người chơi đang quan tâm",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 193,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tăng một con số trên màn hình không đồng nghĩa với việc tạo ra tiến trình. Việc vượt qua từ Màn 10 sang Màn 11 chỉ mang lại cảm giác tiến bộ nếu Màn 11 mở ra một quy tắc mới, một không gian mới, hoặc đóng góp một bước đi rõ ràng vào bức tranh tổng thể mà người chơi đang dốc lòng xây dựng. Khi tiến trình bị biến thành một chuỗi cày cuốc vô hồn với các màn chơi lặp lại không có điểm nhấn, giá trị cảm nhận của người chơi sẽ suy giảm nhanh chóng.",
+    "runs": [
+      {
+        "text": "Tăng một con số trên màn hình không đồng nghĩa với việc tạo ra tiến trình. Việc vượt qua từ Màn 10 sang Màn 11 chỉ mang lại cảm giác tiến bộ nếu Màn 11 mở ra một quy tắc mới, một không gian mới, hoặc đóng góp một bước đi rõ ràng vào bức tranh tổng thể mà người chơi đang dốc lòng xây dựng. Khi tiến trình bị biến thành một chuỗi cày cuốc vô hồn với các màn chơi lặp lại không có điểm nhấn, giá trị cảm nhận của người chơi sẽ suy giảm nhanh chóng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 194,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Mối liên hệ giữa tiến trình và khả năng kiếm tiền rất rõ ràng: Người chơi chỉ sẵn lòng chi trả tiền bạc hoặc xem quảng cáo để bảo vệ hoặc đẩy nhanh một tiến trình mà họ thực sự coi trọng. Nếu vượt qua một màn chơi khó mà không nhận lại được bất kỳ sự công nhận hay thay đổi trực quan nào trong thế giới game, họ sẽ không có lý do gì để sử dụng booster hay mua thêm lượt trong những lần thất bại tiếp theo.",
+    "runs": [
+      {
+        "text": "Mối liên hệ giữa tiến trình và khả năng kiếm tiền rất rõ ràng: Người chơi chỉ sẵn lòng chi trả tiền bạc hoặc xem quảng cáo để bảo vệ hoặc đẩy nhanh một tiến trình mà họ thực sự coi trọng. Nếu vượt qua một màn chơi khó mà không nhận lại được bất kỳ sự công nhận hay thay đổi trực quan nào trong thế giới game, họ sẽ không có lý do gì để sử dụng booster hay mua thêm lượt trong những lần thất bại tiếp theo.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 195,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy rà soát lại toàn bộ cây tiến trình (Progression tree) của trò chơi: Đảm bảo rằng sau mỗi mốc thử thách lớn (Milestone), người chơi luôn nhận được một phần thưởng trực quan xứng đáng, mở khóa tính năng mới hoặc chứng kiến sự chuyển biến rõ rệt của không gian game. Tiến trình có ý nghĩa chính là mỏ neo giữ chân người chơi ở lại và tạo ra lý do chính đáng cho mọi giao dịch trong game.",
+    "runs": [
+      {
+        "text": "Hãy rà soát lại toàn bộ cây tiến trình (Progression tree) của trò chơi: Đảm bảo rằng sau mỗi mốc thử thách lớn (Milestone), người chơi luôn nhận được một phần thưởng trực quan xứng đáng, mở khóa tính năng mới hoặc chứng kiến sự chuyển biến rõ rệt của không gian game. Tiến trình có ý nghĩa chính là mỏ neo giữ chân người chơi ở lại và tạo ra lý do chính đáng cho mọi giao dịch trong game.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 196,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "11. Pressure creates a decision\nÁp lực chỉ có giá trị khi người chơi vẫn nhìn thấy một quyết định thực sự công bằng",
+    "runs": [
+      {
+        "text": "11. Pressure creates a decision",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nÁp lực chỉ có giá trị khi người chơi vẫn nhìn thấy một quyết định thực sự công bằng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 197,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Áp lực trong game — dù là giới hạn thời gian đếm ngược, số lượt đi hạn chế hay không gian chứa đồ bị thu hẹp — là công cụ tạo ra sự căng thẳng đầy kịch tính (Tension). Tuy nhiên, áp lực chỉ lành mạnh khi người chơi nhận thức rõ rằng: Nếu họ suy nghĩ thấu đáo hơn hoặc lựa chọn chiến thuật khác, họ hoàn toàn có thể vượt qua mà không bắt buộc phải trả tiền. Khi áp lực bị đẩy lên mức phi lý khiến kỹ năng trở nên vô nghĩa, áp lực đó biến thành sự ức chế và hành vi ép buộc.",
+    "runs": [
+      {
+        "text": "Áp lực trong game — dù là giới hạn thời gian đếm ngược, số lượt đi hạn chế hay không gian chứa đồ bị thu hẹp — là công cụ tạo ra sự căng thẳng đầy kịch tính (Tension). Tuy nhiên, áp lực chỉ lành mạnh khi người chơi nhận thức rõ rằng: Nếu họ suy nghĩ thấu đáo hơn hoặc lựa chọn chiến thuật khác, họ hoàn toàn có thể vượt qua mà không bắt buộc phải trả tiền. Khi áp lực bị đẩy lên mức phi lý khiến kỹ năng trở nên vô nghĩa, áp lực đó biến thành sự ức chế và hành vi ép buộc.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 198,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Điểm chạm kinh tế của áp lực nằm ở khoảnh khắc ra quyết định: Khi người chơi đối mặt với tình thế suýt thắng (Near-miss state) — chỉ còn thiếu một nước đi duy nhất để giải quyết cả bàn cờ — việc đề xuất một lượt đi thêm qua quảng cáo đổi thưởng hoặc một khoản phí nhỏ là hoàn toàn tự nhiên và công bằng. Nhưng nếu bàn cờ rơi vào thế tắc nghẽn ngay từ đầu do sắp xếp ngẫu nhiên ác ý, lời đề nghị mua hàng sẽ bị xem như một hành vi tống tiền.",
+    "runs": [
+      {
+        "text": "Điểm chạm kinh tế của áp lực nằm ở khoảnh khắc ra quyết định: Khi người chơi đối mặt với tình thế suýt thắng (Near-miss state) — chỉ còn thiếu một nước đi duy nhất để giải quyết cả bàn cờ — việc đề xuất một lượt đi thêm qua quảng cáo đổi thưởng hoặc một khoản phí nhỏ là hoàn toàn tự nhiên và công bằng. Nhưng nếu bàn cờ rơi vào thế tắc nghẽn ngay từ đầu do sắp xếp ngẫu nhiên ác ý, lời đề nghị mua hàng sẽ bị xem như một hành vi tống tiền.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 199,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy kiểm tra lại tất cả các điểm tạo áp lực trong game: Đảm bảo rằng người chơi luôn có thể học hỏi từ thất bại, hiểu rõ mình đã sai ở đâu, và luôn có ít nhất một con đường vượt qua thử thách dựa trên kỹ năng thuần túy trước khi các phương án hỗ trợ thương mại xuất hiện.",
+    "runs": [
+      {
+        "text": "Hãy kiểm tra lại tất cả các điểm tạo áp lực trong game: Đảm bảo rằng người chơi luôn có thể học hỏi từ thất bại, hiểu rõ mình đã sai ở đâu, và luôn có ít nhất một con đường vượt qua thử thách dựa trên kỹ năng thuần túy trước khi các phương án hỗ trợ thương mại xuất hiện.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 200,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "12. Dynamic difficulty\nĐộ khó động phải điều chỉnh thử thách, không được âm thầm định đoạt kết quả",
+    "runs": [
+      {
+        "text": "12. Dynamic difficulty",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nĐộ khó động phải điều chỉnh thử thách, không được âm thầm định đoạt kết quả",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 201,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hệ thống điều chỉnh độ khó động (Dynamic Difficulty Adjustment - DDA) sinh ra nhằm mục đích giữ người chơi trong trạng thái dòng chảy tâm lý (Flow state) — nơi thử thách luôn cân bằng hoàn hảo với kỹ năng. Tuy nhiên, ranh giới giữa việc hỗ trợ trải nghiệm và thao túng kết quả là vô cùng mong manh. Khi DDA âm thầm can thiệp để ép người chơi thua nhằm kích thích mua hàng, hoặc tự động cho thắng một cách lộ liễu, nó sẽ phá hủy hoàn toàn cảm giác thành tựu và niềm tin của người chơi vào tính trung thực của trò chơi.",
+    "runs": [
+      {
+        "text": "Hệ thống điều chỉnh độ khó động (Dynamic Difficulty Adjustment - DDA) sinh ra nhằm mục đích giữ người chơi trong trạng thái dòng chảy tâm lý (Flow state) — nơi thử thách luôn cân bằng hoàn hảo với kỹ năng. Tuy nhiên, ranh giới giữa việc hỗ trợ trải nghiệm và thao túng kết quả là vô cùng mong manh. Khi DDA âm thầm can thiệp để ép người chơi thua nhằm kích thích mua hàng, hoặc tự động cho thắng một cách lộ liễu, nó sẽ phá hủy hoàn toàn cảm giác thành tựu và niềm tin của người chơi vào tính trung thực của trò chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 202,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nếu người chơi nhận ra rằng chiến thắng hay thất bại không phụ thuộc vào nước đi của họ mà do thuật toán ngầm quyết định thời điểm ép nạp tiền, họ sẽ lập tức ngừng đầu tư cảm xúc và rời bỏ trò chơi. Doanh thu kiếm được từ những can thiệp thao túng như vậy chính là doanh thu đánh đổi tương lai (Borrowed revenue).",
+    "runs": [
+      {
+        "text": "Nếu người chơi nhận ra rằng chiến thắng hay thất bại không phụ thuộc vào nước đi của họ mà do thuật toán ngầm quyết định thời điểm ép nạp tiền, họ sẽ lập tức ngừng đầu tư cảm xúc và rời bỏ trò chơi. Doanh thu kiếm được từ những can thiệp thao túng như vậy chính là doanh thu đánh đổi tương lai (Borrowed revenue).",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 203,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 204,
+    "type": "table",
+    "rows": [
+      [
+        "Dấu hiệu",
+        "Cách đọc",
+        "Việc đầu tiên"
+      ],
+      [
+        "Thua nhiều, chơi lại nhiều",
+        "Thử thách có thể hấp dẫn",
+        "Kiểm tra người chơi có học và tiến bộ không"
+      ],
+      [
+        "Thua nhiều, chơi lại ít",
+        "Có thể khó hiểu hoặc bất công",
+        "Xem lại phiên chơi, kiểm tra luật có rõ không"
+      ],
+      [
+        "Ít thua, chơi nông",
+        "Quá dễ hoặc ít rủi ro",
+        "Thêm lựa chọn có ý nghĩa"
+      ],
+      [
+        "Dùng booster nhiều, ít sang level kế",
+        "Công cụ đang vá trải nghiệm xấu",
+        "Sửa level trước khi bán công cụ mạnh hơn"
+      ]
+    ]
+  },
+  {
+    "index": 205,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 206,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy đặt ra các nguyên tắc minh bạch cho hệ thống cân bằng độ khó: DDA chỉ nên đóng vai trò là chiếc phao cứu sinh hỗ trợ người chơi sau chuỗi thất bại kéo dài ngoài ý muốn, tuyệt đối không được sử dụng DDA như một chiếc bẫy tinh vi để cưỡng bức chuyển đổi mua vật phẩm.",
+    "runs": [
+      {
+        "text": "Hãy đặt ra các nguyên tắc minh bạch cho hệ thống cân bằng độ khó: DDA chỉ nên đóng vai trò là chiếc phao cứu sinh hỗ trợ người chơi sau chuỗi thất bại kéo dài ngoài ý muốn, tuyệt đối không được sử dụng DDA như một chiếc bẫy tinh vi để cưỡng bức chuyển đổi mua vật phẩm.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 207,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Một hệ thống kinh tế bền vững được xây dựng trên sự tôn trọng nỗ lực của người chơi, nơi chiến thắng luôn mang lại cảm giác xứng đáng và mỗi thất bại đều là một bài học có thể lý giải.",
+    "runs": [
+      {
+        "text": "Một hệ thống kinh tế bền vững được xây dựng trên sự tôn trọng nỗ lực của người chơi, nơi chiến thắng luôn mang lại cảm giác xứng đáng và mỗi thất bại đều là một bài học có thể lý giải.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 208,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "13. Randomness and skill\nTính ngẫu nhiên chỉ công bằng khi người chơi vẫn có thể học hỏi và phản ứng",
+    "runs": [
+      {
+        "text": "13. Randomness and skill",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nTính ngẫu nhiên chỉ công bằng khi người chơi vẫn có thể học hỏi và phản ứng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 209,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Tính ngẫu nhiên (RNG) là gia vị tạo nên sự bất ngờ, tính biến hóa và giá trị chơi lại cho game giải đố. Nhưng tính ngẫu nhiên chỉ được người chơi chấp nhận khi nó đóng vai trò tạo ra dữ kiện đầu vào (Input randomness) để họ tính toán chiến thuật, chứ không phải tính ngẫu nhiên quyết định kết quả đầu ra (Output randomness) phủ nhận toàn bộ tính toán trước đó.",
+    "runs": [
+      {
+        "text": "Tính ngẫu nhiên (RNG) là gia vị tạo nên sự bất ngờ, tính biến hóa và giá trị chơi lại cho game giải đố. Nhưng tính ngẫu nhiên chỉ được người chơi chấp nhận khi nó đóng vai trò tạo ra dữ kiện đầu vào (Input randomness) để họ tính toán chiến thuật, chứ không phải tính ngẫu nhiên quyết định kết quả đầu ra (Output randomness) phủ nhận toàn bộ tính toán trước đó.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 210,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy kiểm tra các bàn cờ thất bại với những chuỗi khởi tạo ngẫu nhiên khác nhau. Người chơi có thể nhìn lại và nhận ra một nước đi khác giúp họ lật ngược tình thế không, hay mọi bản xem lại đều dẫn đến kết luận cay đắng rằng họ chỉ có thể thắng nếu hệ thống may mắn thả rơi đúng một vật phẩm cụ thể? Khi tính ngẫu nhiên biến trò chơi thành một trò may rủi thuần túy, các gói bán vật phẩm bổ trợ sẽ bị coi là công cụ gian lận thay vì giải pháp chiến thuật.",
+    "runs": [
+      {
+        "text": "Hãy kiểm tra các bàn cờ thất bại với những chuỗi khởi tạo ngẫu nhiên khác nhau. Người chơi có thể nhìn lại và nhận ra một nước đi khác giúp họ lật ngược tình thế không, hay mọi bản xem lại đều dẫn đến kết ",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "luận cay đắng rằng họ chỉ có thể thắng nếu hệ thống may mắn thả rơi đúng một vật phẩm cụ thể? Khi tính ngẫu nhiên biến trò chơi thành một trò may rủi thuần túy, các gói bán vật phẩm bổ trợ sẽ bị coi là công cụ gian lận thay vì giải pháp chiến thuật.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 211,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hãy đánh giá tính ngẫu nhiên bằng cách xem lại các bản ghi màn chơi thực tế (Replay review), thay vì chỉ nhìn vào bảng tỷ lệ rơi đồ lý thuyết. Theo dõi sát sao tỷ lệ thử lại sau khi thua, tỷ lệ chọn dùng booster, tỷ lệ thoát game và mức độ sẵn sàng quay lại của từng nhóm người chơi để đảm bảo tính ngẫu nhiên luôn phục vụ niềm vui khám phá.",
+    "runs": [
+      {
+        "text": "Hãy đánh giá tính ngẫu nhiên bằng cách xem lại các bản ghi màn chơi thực tế (Replay review), thay vì chỉ nhìn vào bảng tỷ lệ rơi đồ lý thuyết. Theo dõi sát sao tỷ lệ thử lại sau khi thua, tỷ lệ chọn dùng booster, tỷ lệ thoát game và mức độ sẵn sàng quay lại của từng nhóm người chơi để đảm bảo tính ngẫu nhiên luôn phục vụ niềm vui khám phá.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 212,
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "14. Reward feedback\nPhản hồi âm thanh và hiệu ứng thị giác phải xác thực đúng giá trị của phần thưởng",
+    "runs": [
+      {
+        "text": "14. Reward feedback",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPhản hồi âm thanh và hiệu ứng thị giác phải xác thực đúng giá trị của phần thưởng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 213,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Mỗi phần thưởng trao cho người chơi cần được xác nhận bằng hiệu ứng thị giác, âm thanh và rung phản hồi (Haptics) tương xứng với nỗ lực mà họ đã bỏ ra. Một phần thưởng lớn đạt được sau chuỗi thử thách cam go nhưng chỉ hiển thị bằng một dòng chữ mờ nhạt sẽ làm suy giảm cảm giác thành tựu. Ngược lại, việc thổi phồng một phần thưởng vụn vặt bằng hiệu ứng quá đà sẽ tạo ra cảm giác giả tạo và làm người chơi nhanh chóng chai sạn cảm xúc.",
+    "runs": [
+      {
+        "text": "Mỗi phần thưởng trao cho người chơi cần được xác nhận bằng hiệu ứng thị giác, âm thanh và rung phản hồi (Haptics) tương xứng với nỗ lực mà họ đã bỏ ra. Một phần thưởng lớn đạt được sau chuỗi thử thách cam go nhưng chỉ hiển thị bằng một dòng chữ mờ nhạt sẽ làm suy giảm cảm giác thành tựu. Ngược lại, việc thổi phồng một phần thưởng vụn vặt bằng hiệu ứng quá đà sẽ tạo ra cảm giác giả tạo và làm người chơi nhanh chóng chai sạn cảm xúc.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 214,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phản hồi phần thưởng có liên hệ trực tiếp đến nhận thức về giá trị: Khi người chơi nhận được sự tán thưởng xứng đáng cho thành tích của mình, họ sẽ gắn kết sâu sắc hơn với thế giới trong game và trân trọng từng tài nguyên tích lũy được. Điều này tạo nền tảng vững chắc cho việc định giá các gói nạp và vật phẩm trong cửa hàng.",
+    "runs": [
+      {
+        "text": "Phản hồi phần thưởng có liên hệ trực tiếp đến nhận thức về giá trị: Khi người chơi nhận được sự tán thưởng xứng đáng cho thành tích của mình, họ sẽ gắn kết sâu sắc hơn với thế giới trong game và trân trọng từng tài nguyên tích lũy được. Điều này tạo nền tảng vững chắc cho việc định giá các gói nạp và vật phẩm trong cửa hàng.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 215,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Nguyên tắc thực hành cốt lõi: Phần thưởng nhỏ nhận phản hồi gọn gàng nhưng sắc nét; phần thưởng hiếm và quan trọng được đón nhận bằng khoảnh khắc vinh danh ấn tượng để đánh dấu bước chuyển biến trong hành trình của người chơi.",
+    "runs": [
+      {
+        "text": "Nguyên tắc thực hành cốt lõi: Phần thưởng nhỏ nhận phản hồi gọn gàng nhưng sắc nét; phần thưởng hiếm và quan trọng được đón nhận bằng khoảnh khắc vinh danh ấn tượng để đánh dấu bước chuyển biến trong hành trình của người chơi.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 216,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 217,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 218,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 219,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 220,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 221,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 222,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 223,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 224,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 225,
+    "type": "paragraph",
+    "style": "Heading 3",
+    "text": "Memory note | Decision board\nPart III: Tiến trình, áp lực và sự công bằng",
+    "runs": [
+      {
+        "text": "Memory note | Decision board",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      },
+      {
+        "text": "\nPart III: Tiến trình, áp lực và sự công bằng",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 226,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Phần IV sẽ chuyển hóa toàn bộ các nguyên lý tâm lý và thiết kế trên thành những cấu phần sản phẩm thương mại cụ thể: Quảng cáo đổi thưởng, quảng cáo xen kẽ, vật phẩm bổ trợ, giao dịch mua trong ứng dụng (IAP) và hệ thống kinh tế sự kiện.",
+    "runs": [
+      {
+        "text": "Phần IV sẽ chuyển hóa toàn bộ các nguyên lý tâm lý và thiết kế trên thành những cấu phần sản phẩm thương mại cụ thể: Quảng cáo đổi thưởng, quảng cáo xen kẽ, vật phẩm bổ trợ, giao dịch mua trong ứng dụng (IAP) và hệ thống kinh tế sự kiện.",
+        "bold": null,
+        "italic": null,
+        "underline": null
+      }
+    ]
+  },
+  {
+    "index": 227,
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "",
+    "runs": []
+  },
+  {
+    "index": 228,
+    "type": "table",
+    "rows": [
+      [
+        "LÀM NGAY:\n• Lập bản đồ nhu cầu theo nhóm thuần tập: Phân tích nhu cầu tâm lý, phương án vượt qua miễn phí, gói đề xuất và kết quả gắn kết sau đó.\n• Kiểm tra tính công bằng của các màn chơi có tỷ lệ thất bại cao: Đảm bảo luôn có ít nhất một nước đi chiến thuật giúp chiến thắng mà không cần mua booster.\n• Chuẩn hóa phản hồi phần thưởng: Hiệu ứng nhỏ cho thành tích thường ngày; khoảnh khắc tôn vinh lớn cho mốc tiến trình quan trọng.",
+        "HỎI TRƯỚC KHI QUYẾT ĐỊNH:\n• Áp lực thử thách đang tạo ra sự kịch tính hấp dẫn hay đang gây ức chế để ép người chơi mua đồ?\n• Người chơi có hiểu rõ lý do thất bại và cảm thấy chiến thắng là hoàn toàn xứng đáng không?\n• Tính ngẫu nhiên đang tạo ra dữ kiện để suy tính hay đang phủ nhận toàn bộ nỗ lực của người chơi?"
+      ],
+      [
+        "CẦN GHI NHỚ:\n• Tiến trình chỉ có ý nghĩa khi nó thay đổi rõ rệt tình thế mà người chơi đang quan tâm.\n• Thao túng độ khó để ép nạp tiền là hình thức vay mượn doanh thu từ tương lai.\n• Sự công bằng và tôn trọng quyền tự chủ là nền tảng sống còn của một nền kinh tế game bền vững.",
+        "ĐƯA VÀO CUỘC HỌP (45 phút):\n• Thành phần: Lead Game Designer, Level Designer, Economy Designer, Data Analyst.\n• Tài liệu mang theo: Biểu đồ độ khó theo màn, tỷ lệ thử lại (Retry rate), tỷ lệ dùng booster và phản hồi của người chơi.\n• Kết quả cần chốt: Danh sách các màn chơi cần cân bằng lại, quy tắc điều chỉnh độ khó và tiêu chí đánh giá tính công bằng."
+      ]
+    ]
+  }
+]
