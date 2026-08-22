@@ -1,5 +1,19 @@
 # The Art of Feeling — Research Workspace
 
+## Current Direction
+
+This workspace is being consolidated into a **publisher-brief handbook for US mobile puzzle games**. The final product is a lookup tool: a reader can enter through a publisher brief, player segment, mechanic/journey stage, or product problem and reach a theory card, visual, field memo, audit and decision rule.
+
+Read [11-prewriting-handbook-architecture.md](11-prewriting-handbook-architecture.md) before expanding research or starting manuscript prose. It defines the canonical menu, file disposition, evidence rules and pre-writing acceptance gate.
+
+## Workspace Map
+
+- `00`–`08`: research charter, evidence, source-reading and competitor-analysis layer.
+- `09`: prior master synthesis; mine its terminology/tools, but do not follow its old linear eight-chapter structure.
+- `10`: US market, segment and publisher-brief operating spine; claims must follow the evidence rules in `11`.
+- `11`: canonical pre-writing content architecture and required artefact pack.
+- `12`: pilot reader-facing unit for `Office micro-breaker x Sort puzzle x First 30 seconds`; use it to validate the handbook format before scaling content.
+
 Mục tiêu của workspace này là thu thập, kiểm chứng và tổng hợp tư liệu trước khi viết **The Art of Feeling**: một long-form về cách puzzle game tạo ra cảm giác cho người chơi qua từng thao tác, từng lần thử và từng lời giải.
 
 ## Câu hỏi trung tâm
